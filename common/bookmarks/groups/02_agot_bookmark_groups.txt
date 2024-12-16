@@ -1,0 +1,19 @@
+﻿agot_bm_group_8082 = { # Golden Age
+	default_start_date = 7832.1.1
+}
+
+agot_bm_group_8106 = { # The Rogue Prince
+	default_start_date = 8106.4.18
+}
+
+agot_bm_group_8259 = { # Ninepenny Kings
+	default_start_date = 8258.12.21
+}
+
+agot_bm_group_8282 = { # Robert's Rebellion
+	default_start_date = 8282.9.15
+}
+
+agot_bm_group_8284 = { # Crowned Stag
+	default_start_date = 8284.6.2
+}

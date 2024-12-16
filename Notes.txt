@@ -1,0 +1,13 @@
+Deleting Valyrian character history made 7887.1.1 work. 7087.1.1 still had issues.
+Actually it was Riverlander history. Wonder why.
+Launched in 7860.1.1 with no issues.
+7840 worked, 7830 crashed.
+7832 worked, 7831 crashed.
+7832 is when a couple counties in free cities are initialized. May be cause of issue.
+
+Something in riverlands ancestors between House Smallwood and House Sylvas is causing the issue.
+Crashed from Sylvas to Qoherys. So issue is between Smallwood and Qoherys.
+Smallwood/Whistler. Worked. So issue is inbetween them.
+Whistelr/Heddle. Worked, issue is in between them.
+Whistler/Deddings. Crashed so issue in between Deddings/Heddle.
+Ryger/Heddle.
