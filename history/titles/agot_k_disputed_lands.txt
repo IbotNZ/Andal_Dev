@@ -1,0 +1,834 @@
+﻿k_disputed_lands = {
+	8258.1.1 = {
+		liege = e_blackfyre_rebellion
+		holder = Blackfyre_14 #Maelys the Monstrous
+	}
+	8258.12.22 = {
+		holder = 0
+	}
+}
+
+d_the_shambles = {
+	8258.1.1 = {
+		liege = e_blackfyre_rebellion #Maelys
+		holder = Adarys_1 # Alequo Adarys
+	}
+	8258.12.22 = {
+		holder = 0
+		liege = 0
+	}
+}
+c_qorena = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = d_the_shambles
+		holder = Adarys_1
+	}
+	8258.12.22 = {
+		liege = 0
+	}
+	8266.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+}
+c_vysos_plains = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = d_the_shambles
+		holder = Adarys_1
+	}
+	8258.12.22 = {
+		liege = 0
+	}
+	8266.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+}
+c_pearridge = {
+	7800.1.1 = {
+		liege = k_tyrosh
+	}
+	7796.1.1 = {
+		holder = Jayn_21
+	}
+	7822.1.1 = {
+		holder = Jayn_54
+	}
+	7838.1.1 = {
+		holder = Jayn_57
+	}
+	7856.1.1 = {
+		holder = Jayn_59
+	}
+	7890.1.1 = {
+		holder = Jayn_61
+	}
+	7932.1.1 = {
+		holder = Jayn_62
+	}
+	7957.1.1 = {
+		holder = Jayn_63
+	}
+	7978.1.1 = {
+		holder = Jayn_68
+	}
+	7998.1.1 = {
+		holder = Jayn_73
+	}
+	8042.1.1 = {
+		holder = Jayn_75
+	}
+	8072.1.1 = {
+		holder = Jayn_77
+	}
+	8089.1.1 = {
+		holder = Jayn_83
+	}
+	8128.1.1 = {
+		holder = Jayn_86
+	}
+	8138.1.1 = {
+		holder = Jayn_90
+	}
+	8183.1.1 = {
+		holder = Jayn_4 # Aro
+	}
+	8224.1.1 = {
+		holder = Jayn_3 # Ollo
+	}
+	8253.1.1 = {
+		holder = Jayn_2 # Nisario
+	}
+	8279.1.1 = {
+		holder = Jayn_1 # Mardono
+	}
+}
+c_ysilios = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = d_the_shambles
+		holder = Adarys_1
+	}
+	8258.12.22 = {
+		liege = 0
+	}
+	8259.1.1 = {
+		holder = Gaembutys_1 # Ravelo
+	}
+}
+c_the_spar = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	# Myrish Term
+	8096.1.1 = {
+		holder = Mallar_82
+	}
+	# Tyroshi Term
+	8099.1.1 = {
+		holder = Tyraanis_95
+	}
+	# Lyseni Term
+	8102.1.1 = {
+		holder = Haen_92
+	}
+	# Myrish Term
+	8105.1.1 = {
+		holder = Mallar_82
+	}
+	# Tyroshi Term
+	8108.1.1 = {
+		holder = Tyraanis_95
+	}
+	# Lyseni Term
+	8111.1.1 = {
+		holder = Haen_92
+	}
+	# Myrish Term
+	8114.1.1 = {
+		holder = Mallar_93
+	}
+	8116.1.1 = {
+		holder = Unerelos_64
+	}
+	# Tyroshi Term
+	8117.1.1 = {
+		holder = Tyraanis_95
+	}
+	# Lyseni Term
+	8120.1.1 = {
+		holder = Haen_92
+	}
+	# Myrish Term
+	8123.1.1 = {
+		holder = Mallar_93
+	}
+	# Tyroshi Term
+	8126.1.1 = {
+		holder = Tyraanis_95
+	}
+	# Lyseni Term
+	8129.1.1 = {
+		holder = Haen_8
+	}
+	8132.1.1 = {
+		liege = 0
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8258.1.1 = {
+		liege = d_the_shambles
+		holder = Adarys_1
+	}
+	8258.12.22 = {
+		liege = 0
+	}
+	8266.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+}
+d_battle_hills = {
+	8258.1.1 = {
+		liege = e_blackfyre_rebellion #Maelys
+		holder = Fossoway_58 #Derrick the Bad Apple
+	}
+	8258.12.22 = {
+		holder = 0
+	}
+}
+c_kios = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = k_disputed_lands
+		holder = Fossoway_58 #Derrick the Bad Apple
+	}
+	8258.12.22 = {
+		holder = starter_plc_5
+		liege = 0
+	}
+}
+c_broken_lance = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = k_disputed_lands
+		holder = Fossoway_58 #Derrick the Bad Apple
+	}
+	8258.12.22 = {
+		holder = starter_plc_6
+		liege = 0
+	}
+}
+c_staherys = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = k_disputed_lands
+		holder = Fossoway_58 #Derrick the Bad Apple
+	}
+	8258.12.22 = {
+		holder = starter_plc_7
+		liege = 0
+	}
+}
+c_coin_hoard = {
+	7899.1.1 = {
+		government = free_city_government
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = k_disputed_lands
+		holder = Fossoway_58 #Derrick the Bad Apple
+	}
+	8258.12.22 = {
+		holder = starter_plc_8
+		liege = 0
+	}
+}
+c_sellswords_perch = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = k_disputed_lands
+		holder = Fossoway_58 #Derrick the Bad Apple
+	}
+	8258.12.22 = {
+		holder = starter_plc_9
+		liege = 0
+	}
+}
+d_hells_barrens = {
+	8258.1.1 = {
+		liege = k_disputed_lands
+		holder = Blackfyre_14 #Maelys the Monstrous
+	}
+	8258.12.22 = {
+		holder = 0
+	}
+}
+c_goldfuror = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	# History Fix
+	# 8258.1.1 = {
+	# 	holder = Blackfyre_14
+	# 	#Actually Maelys, but granted on game start to fix bug
+	# }
+	8258.12.21 = {
+		holder = starter_plc_10
+	}
+	8258.12.22 = {
+		holder = starter_plc_10
+	}
+	# End of History Fix
+	8260.10.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+}
+c_dyanosh = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		holder = Blackfyre_14 #Maelys the Monstrous
+	}
+	8258.12.22 = {
+		holder = starter_plc_11
+	}
+}
+c_lrolaembar = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		holder = Blackfyre_14 #Maelys the Monstrous
+	}
+	8258.12.22 = {
+		holder = starter_plc_12
+	}
+}
+c_ragged_hill = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		holder = Blackfyre_14 #Maelys the Monstrous
+	}
+	8258.12.22 = {
+		holder = starter_plc_13
+	}
+}
+c_rael_trunos = {
+	7800.1.1 = {
+		government = free_city_government
+	}
+	7809.1.1 = {
+		holder = Rhegan_20
+	}
+	7813.1.1 = {
+		holder = Rhegan_6
+	}
+	7829.1.1 = {
+		liege = k_myr
+	}
+	7870.1.1 = {
+		holder = Rhegan_10
+	}
+	7896.1.1 = {
+		holder = Rhegan_12
+	}
+	7911.1.1 = {
+		holder = Rhegan_13
+	}
+	7940.1.1 = {
+		holder = Rhegan_19
+	}
+	7953.1.1 = {
+		holder = Rhegan_47
+	}
+	7996.1.1 = {
+		holder = Rhegan_48
+	}
+	8008.1.1 = {
+		holder = Rhegan_50
+	}
+	8036.1.1 = {
+		holder = Rhegan_54
+	}
+	8071.1.1 = {
+		holder = Rhegan_56
+	}
+	8118.1.1 = {
+		holder = Rhegan_57
+	}
+	8144.1.1 = {
+		holder = Rhegan_58
+	}
+	8151.1.1 = {
+		holder = Rhegan_59
+	}
+	8191.1.1 = {
+		holder = Rhegan_5 # Ladono
+	}
+	8225.1.1 = {
+		holder = Rhegan_4 # Malo
+	}
+	8250.1.1 = {
+		holder = Rhegan_3 # Luro
+	}
+	8273.1.1 = {
+		holder = Rhegan_1 # Togosh
+	}
+}
+c_pendanne = {
+	7827.1.1 = {
+		government = free_city_government
+		liege = k_myr
+	}
+	7840.1.1 = {
+		holder = Sordios_22 # Ghirio
+	}
+	7846.1.1 = {
+		holder = Sordios_11
+	}
+	7874.1.1 = {
+		holder = Sordios_12
+	}
+	7892.1.1 = {
+		holder = Sordios_13
+	}
+	7905.1.1 = {
+		holder = Sordios_14
+	}
+	7930.1.1 = {
+		holder = Sordios_15
+	}
+	7944.1.1 = {
+		holder = Sordios_16
+	}
+	7997.1.1 = {
+		holder = Sordios_17
+	}
+	8036.1.1 = {
+		holder = Sordios_21
+	}
+	8043.1.1 = {
+		holder = Sordios_63
+	}
+	8056.1.1 = {
+		holder = Sordios_54
+	}
+	8066.1.1 = {
+		holder = Sordios_72
+	}
+	8117.1.1 = {
+		holder = Sordios_76
+	}
+	8145.1.1 = {
+		holder = Sordios_80
+	}
+	8166.1.1 = {
+		holder = Sordios_81
+	}
+	8181.1.1 = {
+		holder = Sordios_5 # Ghovan
+	}
+	8217.1.1 = {
+		holder = Sordios_4 # Benkano
+	}
+	8239.1.1 = {
+		holder = Sordios_3 # Rhesos
+	}
+	8268.1.1 = {
+		holder = Sordios_2 # Mollos
+	}
+	8277.1.1 = {
+		holder = Sordios_1 # Visario
+	}
+}
+
+d_aesomyr = {
+	8258.1.1 = {
+		holder = Blackfyre_14
+		liege = e_blackfyre_rebellion
+	}
+	8258.12.22 = {
+		holder = 0
+		liege = 0
+	}
+}
+c_qygaeryr = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = k_disputed_lands
+	}
+	8258.12.22 = {
+		liege = 0
+	}
+}
+c_restianys = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = k_disputed_lands
+	}
+	8258.12.22 = {
+		liege = 0
+	}
+}
+c_devosh = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = k_disputed_lands
+	}
+	8258.12.22 = {
+		liege = 0
+	}
+}
+c_erovosh = {
+	7800.1.1 = {
+		government = free_city_government
+	}
+	# Erosenes Family
+	7798.1.1 = {
+		holder = Erosenes_20
+	}
+	7801.1.1 = {
+		holder = Erosenes_10
+	}
+	7817.1.1 = {
+		liege = k_lys
+	}
+	7853.1.1 = {
+		holder = Erosenes_11
+	}
+	7883.1.1 = {
+		holder = Erosenes_12
+	}
+	7897.1.1 = {
+		holder = Erosenes_18
+	}
+	7933.1.1 = {
+		holder = Erosenes_19
+	}
+	7954.1.1 = {
+		holder = Erosenes_52
+	}
+	7967.1.1 = {
+		holder = Erosenes_56
+	}
+	8011.1.1 = {
+		holder = Erosenes_58
+	}
+	8037.1.1 = {
+		holder = Erosenes_63
+	}
+	8074.1.1 = {
+		holder = Erosenes_9
+	}
+	8095.1.1 = {
+		holder = Erosenes_8 # Valdane
+	}
+	8115.1.1 = {
+		holder = Erosenes_7 # Tigaro
+	}
+	8138.10.1 = {
+		holder = Erosenes_6 # Borso
+	}
+	8192.1.1 = {
+		holder = Erosenes_5 # Sambarro
+	}
+	8218.1.1 = {
+		holder = Erosenes_4 # Tybio
+	}
+	8238.1.1 = {
+		holder = Erosenes_3 # Dorseo
+	}
+	8254.1.1 = {
+		holder = Erosenes_2 # Lytheon
+	}
+	8276.1.1 = {
+		holder = Erosenes_1 # Harako
+	}
+}
+c_drelyia = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = k_disputed_lands
+	}
+	8258.12.22 = {
+		liege = 0
+	}
+}
+
+d_trade_cities = {
+	8258.1.1 = {
+		holder = Blackfyre_14
+		liege = e_blackfyre_rebellion
+	}
+	8258.12.22 = {
+		holder = 0
+		liege = 0
+	}
+}
+c_silkhead = {
+	7800.1.1 = {
+		government = free_city_government
+	}
+	7798.1.1 = {
+		holder = Erosenes_20
+	}
+	7801.1.1 = {
+		holder = Erosenes_10
+	}
+	7817.1.1 = {
+		liege = k_lys
+	}
+	7853.1.1 = {
+		holder = Erosenes_11
+	}
+	7883.1.1 = {
+		holder = Erosenes_12
+	}
+	7897.1.1 = {
+		holder = Erosenes_18
+	}
+	7933.1.1 = {
+		holder = Erosenes_19
+	}
+	7954.1.1 = {
+		holder = Erosenes_52
+	}
+	7967.1.1 = {
+		holder = Erosenes_56
+	}
+	8011.1.1 = {
+		holder = Erosenes_58
+	}
+	8037.1.1 = {
+		holder = Erosenes_63
+	}
+	8074.1.1 = {
+		holder = Erosenes_9
+	}
+	8095.1.1 = {
+		holder = Erosenes_8 # Valdane
+	}
+	8102.1.1 = {
+		holder = Lohar_8 # Sharako - C
+	}
+	8131.9.15 = {
+		holder = Bazanne_25 # Bambarro
+	}
+	8132.4.6 = {
+		holder = Rogare_2 # Lysandro - C
+	}
+	8135.4.1 = {
+		holder = Rogare_4 # Lysaro - C
+	}
+	8135.10.1 = {
+		holder = Moraqos_8 # Tigaro
+	}
+	8138.10.1 = {
+		holder = Rogare_9 # Moredo - C
+	}
+	8170.1.1 = {
+		holder = Rogare_20
+	}
+	8196.1.1 = {
+		holder = Rogare_124
+	}
+	8213.1.1 = {
+		holder = Rogare_129
+	}
+	8216.1.1 = {
+		holder = Rogare_132
+	}
+	8251.1.1 = {
+		holder = Rogare_35 # Morgoso
+	}
+}
+c_haehees = {
+	7899.1.1 = {
+		government = free_city_government
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = k_disputed_lands
+	}
+	8258.12.22 = {
+		liege = 0
+	}
+}
+c_timbercut = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = k_disputed_lands
+	}
+	8258.12.22 = {
+		liege = 0
+	}
+}
+c_unmecaeros = {
+	7899.1.1 = {
+		government = free_city_government
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = k_disputed_lands
+	}
+	8258.12.22 = {
+		liege = 0
+	}
+}
+c_triarchs_fall = {
+	7899.1.1 = {
+		holder = Local_Rulers_Disputed_Lands
+	}
+	8096.1.2 = {
+		liege = e_three_daughters
+	}
+	8130.1.1 = {
+		liege = 0
+	}
+	8258.1.1 = {
+		liege = k_disputed_lands
+	}
+	8258.12.22 = {
+		liege = 0
+	}
+}

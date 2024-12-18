@@ -1,0 +1,929 @@
+﻿############################           PLACEHOLDERS          ############################
+####################################################################################
+
+###### Essos
+############################
+Placeholder_Andalos = {
+	name = Aurio # a lord
+	#dynasty = dynn_Golathis
+
+	religion = rhllor
+	culture = andalosi
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Pentos = {
+	name = Aurio # a lord
+	#dynasty = dynn_Golathis
+
+	religion = rhllor
+	culture = pentoshi
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Myr = {
+	name = Aurio # a lord
+
+	religion = rhllor
+	culture = myrish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Tyrosh = {
+	name = Aurio # a lord
+
+	religion = rhllor
+	culture = tyroshi
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Lys = {
+	name = Aurio # a lord
+
+	religion = rhllor
+	culture = lyseni
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+###### Dorne
+############################
+Placeholder_Dorne = {
+	name = Dornman # a lord
+
+	religion = rhllor
+	culture = salt_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Yronwood = {
+	name = Dornman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Dayne = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Qorgyle = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_dryland = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Fowler = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Blackmont = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Allyrion = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+###### Stormlands
+############################
+Placeholder_Durrandon = {
+	name = Durran # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Tarth = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Massey = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_BarEmmont = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+###### Reach
+############################
+Placeholder_Gardener = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Hightower = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Redwyne = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Tarley = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Peake = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Fossoway = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Rowan = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Crane = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Oakheart = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Florent = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Beesbury = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Bulwer = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Ball = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+###### Westerlands
+############################
+Placeholder_Lannister = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Crakehall = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Broom = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Plumm = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Reyne = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Westerling = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Banefort = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Farman = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Foote = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Justman = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Mudd = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Blackwood = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Bracken = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Darklyn = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Arryn = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Corbray = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Royce = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Shett = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Grafton = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Redfort = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Hunter = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Belmore = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Upcliff = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Sunderland = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Stark = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Bolton = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Amber = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Locke = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Flint = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Reed = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Slate = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Ryder = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Fisher = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Greenwood = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Glover = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Warg = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Towers = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Frost = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Umber = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+Placeholder_Watcher = {
+	name = Dayneman # a lord
+
+	religion = rhllor
+	culture = stone_dornish
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
+
+6535.1.1 = {
+		holder = Placeholder_Allyrion
+	}

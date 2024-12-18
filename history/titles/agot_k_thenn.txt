@@ -1,0 +1,794 @@
+﻿k_thenn = {
+	7800.1.1 = {
+		succession_laws = { male_only_law confederate_partition_succession_law }
+	}
+	7872.1.1 = {
+		holder = Thenn_3
+	}
+	7892.1.1 = {
+		holder = Thenn_4
+	}
+	7916.1.1 = {
+		holder = Thenn_5
+	}
+	7927.1.1 = {
+		holder = Thenn_6
+	}
+	7955.1.1 = {
+		holder = Thenn_7
+	}
+	7979.1.1 = {
+		holder = Thenn_8
+	}
+	7999.1.1 = {
+		holder = Thenn_9
+	}
+	8009.1.1 = {
+		holder = Thenn_10
+	}
+	8037.1.1 = {
+		holder = Thenn_11
+	}
+	8052.1.1 = {
+		holder = Thenn_12
+	}
+	8086.1.1 = {
+		holder = Thenn_13
+	}
+	8107.1.1 = {
+		holder = Thenn_14
+	}
+	8141.1.1 = {
+		holder = Thenn_15
+	}
+	8162.1.1 = {
+		holder = Thenn_16
+	}
+	8168.1.1 = {
+		holder = Thenn_17
+	}
+	8208.1.1 = {
+		holder = Thenn_18
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8228.1.1 = {
+		holder = Thenn_19
+	}
+	8255.1.1 = {
+		holder = Thenn_20
+	}
+	8276.1.1 = {
+		holder = Thenn_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8299.12.18 = {
+		holder = Thenn_2
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+d_thenn = {
+	7800.1.1 = {
+		succession_laws = { male_only_law confederate_partition_succession_law }
+	}
+	7872.1.1 = {
+		holder = Thenn_3
+	}
+	7892.1.1 = {
+		holder = Thenn_4
+	}
+	7916.1.1 = {
+		holder = Thenn_5
+	}
+	7927.1.1 = {
+		holder = Thenn_6
+	}
+	7955.1.1 = {
+		holder = Thenn_7
+	}
+	7979.1.1 = {
+		holder = Thenn_8
+	}
+	7999.1.1 = {
+		holder = Thenn_9
+	}
+	8009.1.1 = {
+		holder = Thenn_10
+	}
+	8037.1.1 = {
+		holder = Thenn_11
+	}
+	8052.1.1 = {
+		holder = Thenn_12
+	}
+	8086.1.1 = {
+		holder = Thenn_13
+	}
+	8107.1.1 = {
+		holder = Thenn_14
+	}
+	8141.1.1 = {
+		holder = Thenn_15
+	}
+	8162.1.1 = {
+		holder = Thenn_16
+	}
+	8168.1.1 = {
+		holder = Thenn_17
+	}
+	8208.1.1 = {
+		holder = Thenn_18
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8228.1.1 = {
+		holder = Thenn_19
+	}
+	8255.1.1 = {
+		holder = Thenn_20
+	}
+	8276.1.1 = {
+		holder = Thenn_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8299.12.18 = {
+		holder = Thenn_2
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_krih = {
+	7800.1.1 = {
+		succession_laws = { male_only_law confederate_partition_succession_law }
+	}
+	7872.1.1 = {
+		holder = Thenn_3
+	}
+	7892.1.1 = {
+		holder = Thenn_4
+	}
+	7899.1.1 = {
+		change_development_level = 3
+	}
+	7916.1.1 = {
+		holder = Thenn_5
+	}
+	7927.1.1 = {
+		holder = Thenn_6
+	}
+	7955.1.1 = {
+		holder = Thenn_7
+	}
+	7979.1.1 = {
+		holder = Thenn_8
+	}
+	7999.1.1 = {
+		holder = Thenn_9
+	}
+	8009.1.1 = {
+		holder = Thenn_10
+	}
+	8037.1.1 = {
+		holder = Thenn_11
+	}
+	8052.1.1 = {
+		holder = Thenn_12
+	}
+	8086.1.1 = {
+		holder = Thenn_13
+	}
+	8107.1.1 = {
+		holder = Thenn_14
+	}
+	8141.1.1 = {
+		holder = Thenn_15
+	}
+	8162.1.1 = {
+		holder = Thenn_16
+	}
+	8168.1.1 = {
+		holder = Thenn_17
+	}
+	8208.1.1 = {
+		holder = Thenn_18
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8228.1.1 = {
+		holder = Thenn_19
+	}
+	8255.1.1 = {
+		holder = Thenn_20
+	}
+	8276.1.1 = {
+		holder = Thenn_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8299.12.18 = {
+		holder = Thenn_2
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_srunmued = {
+	7800.1.1 = {
+		succession_laws = { male_only_law confederate_partition_succession_law }
+	}
+	7872.1.1 = {
+		holder = Thenn_3
+	}
+	7892.1.1 = {
+		holder = Thenn_4
+	}
+	7899.1.1 = {
+		change_development_level = 3
+	}
+	7916.1.1 = {
+		holder = Thenn_5
+	}
+	7927.1.1 = {
+		holder = Thenn_6
+	}
+	7955.1.1 = {
+		holder = Thenn_7
+	}
+	7979.1.1 = {
+		holder = Thenn_8
+	}
+	7999.1.1 = {
+		holder = Thenn_9
+	}
+	8009.1.1 = {
+		holder = Thenn_10
+	}
+	8037.1.1 = {
+		holder = Thenn_11
+	}
+	8052.1.1 = {
+		holder = Thenn_12
+	}
+	8086.1.1 = {
+		holder = Thenn_13
+	}
+	8107.1.1 = {
+		holder = Thenn_14
+	}
+	8141.1.1 = {
+		holder = Thenn_15
+	}
+	8162.1.1 = {
+		holder = Thenn_16
+	}
+	8168.1.1 = {
+		holder = Thenn_17
+	}
+	8208.1.1 = {
+		holder = Thenn_18
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8228.1.1 = {
+		holder = Thenn_19
+	}
+	8255.1.1 = {
+		holder = Thenn_20
+	}
+	8276.1.1 = {
+		holder = Thenn_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8299.12.18 = {
+		holder = Thenn_2
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_thurmiiyk = {
+	7800.1.1 = {
+		succession_laws = { male_only_law confederate_partition_succession_law }
+	}
+	7872.1.1 = {
+		holder = Thenn_3
+	}
+	7892.1.1 = {
+		holder = Thenn_4
+	}
+	7899.1.1 = {
+		change_development_level = 3
+	}
+	7916.1.1 = {
+		holder = Thenn_5
+	}
+	7927.1.1 = {
+		holder = Thenn_6
+	}
+	7955.1.1 = {
+		holder = Thenn_7
+	}
+	7979.1.1 = {
+		holder = Thenn_8
+	}
+	7999.1.1 = {
+		holder = Thenn_9
+	}
+	8009.1.1 = {
+		holder = Thenn_10
+	}
+	8037.1.1 = {
+		holder = Thenn_11
+	}
+	8052.1.1 = {
+		holder = Thenn_12
+	}
+	8086.1.1 = {
+		holder = Thenn_13
+	}
+	8107.1.1 = {
+		holder = Thenn_14
+	}
+	8141.1.1 = {
+		holder = Thenn_15
+	}
+	8162.1.1 = {
+		holder = Thenn_16
+	}
+	8168.1.1 = {
+		holder = Thenn_17
+	}
+	8208.1.1 = {
+		holder = Thenn_18
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8228.1.1 = {
+		holder = Thenn_19
+	}
+	8255.1.1 = {
+		holder = Thenn_20
+	}
+	8276.1.1 = {
+		holder = Thenn_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8299.12.18 = {
+		holder = Thenn_2
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_tun_vunag = {
+	7800.1.1 = {
+		succession_laws = { male_only_law confederate_partition_succession_law }
+	}
+	7872.1.1 = {
+		holder = Thenn_3
+	}
+	7892.1.1 = {
+		holder = Thenn_4
+	}
+	7899.1.1 = {
+		change_development_level = 3
+	}
+	7916.1.1 = {
+		holder = Thenn_5
+	}
+	7927.1.1 = {
+		holder = Thenn_6
+	}
+	7955.1.1 = {
+		holder = Thenn_7
+	}
+	7979.1.1 = {
+		holder = Thenn_8
+	}
+	7999.1.1 = {
+		holder = Thenn_9
+	}
+	8009.1.1 = {
+		holder = Thenn_10
+	}
+	8037.1.1 = {
+		holder = Thenn_11
+	}
+	8052.1.1 = {
+		holder = Thenn_12
+	}
+	8086.1.1 = {
+		holder = Thenn_13
+	}
+	8107.1.1 = {
+		holder = Thenn_14
+	}
+	8141.1.1 = {
+		holder = Thenn_15
+	}
+	8162.1.1 = {
+		holder = Thenn_16
+	}
+	8168.1.1 = {
+		holder = Thenn_17
+	}
+	8208.1.1 = {
+		holder = Thenn_18
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8228.1.1 = {
+		holder = Thenn_19
+	}
+	8255.1.1 = {
+		holder = Thenn_20
+	}
+	8276.1.1 = {
+		holder = Thenn_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8299.12.18 = {
+		holder = Thenn_2
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_gludak = {
+	7800.1.1 = {
+		succession_laws = { male_only_law confederate_partition_succession_law }
+	}
+	7872.1.1 = {
+		holder = Thenn_3
+	}
+	7892.1.1 = {
+		holder = Thenn_4
+	}
+	7916.1.1 = {
+		holder = Thenn_5
+	}
+	7927.1.1 = {
+		holder = Thenn_6
+	}
+	7955.1.1 = {
+		holder = Thenn_7
+	}
+	7979.1.1 = {
+		holder = Thenn_8
+	}
+	7899.1.1 = {
+		change_development_level = 1
+	}
+	7999.1.1 = {
+		holder = Thenn_9
+	}
+	8009.1.1 = {
+		holder = Thenn_10
+	}
+	8037.1.1 = {
+		holder = Thenn_11
+	}
+	8052.1.1 = {
+		holder = Thenn_12
+	}
+	8086.1.1 = {
+		holder = Thenn_13
+	}
+	8107.1.1 = {
+		holder = Thenn_14
+	}
+	8141.1.1 = {
+		holder = Thenn_15
+	}
+	8162.1.1 = {
+		holder = Thenn_16
+	}
+	8168.1.1 = {
+		holder = Thenn_17
+	}
+	8208.1.1 = {
+		holder = Thenn_18
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8228.1.1 = {
+		holder = Thenn_19
+	}
+	8255.1.1 = {
+		holder = Thenn_20
+	}
+	8276.1.1 = {
+		holder = Thenn_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8299.12.18 = {
+		holder = Thenn_2
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_ndurmyt = {
+	7800.1.1 = {
+		succession_laws = { male_only_law confederate_partition_succession_law }
+	}
+	7872.1.1 = {
+		holder = Thenn_3
+	}
+	7892.1.1 = {
+		holder = Thenn_4
+	}
+	7899.1.1 = {
+		change_development_level = 2
+	}
+	7916.1.1 = {
+		holder = Thenn_5
+	}
+	7927.1.1 = {
+		holder = Thenn_6
+	}
+	7955.1.1 = {
+		holder = Thenn_7
+	}
+	7979.1.1 = {
+		holder = Thenn_8
+	}
+	7999.1.1 = {
+		holder = Thenn_9
+	}
+	8009.1.1 = {
+		holder = Thenn_10
+	}
+	8037.1.1 = {
+		holder = Thenn_11
+	}
+	8052.1.1 = {
+		holder = Thenn_12
+	}
+	8086.1.1 = {
+		holder = Thenn_13
+	}
+	8107.1.1 = {
+		holder = Thenn_14
+	}
+	8141.1.1 = {
+		holder = Thenn_15
+	}
+	8162.1.1 = {
+		holder = Thenn_16
+	}
+	8168.1.1 = {
+		holder = Thenn_17
+	}
+	8208.1.1 = {
+		holder = Thenn_18
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8228.1.1 = {
+		holder = Thenn_19
+	}
+	8255.1.1 = {
+		holder = Thenn_20
+	}
+	8276.1.1 = {
+		holder = Thenn_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8299.12.18 = {
+		holder = Thenn_2
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_vark = {
+	7800.1.1 = {
+		succession_laws = { male_only_law confederate_partition_succession_law }
+	}
+	7872.1.1 = {
+		holder = Thenn_3
+	}
+	7892.1.1 = {
+		holder = Thenn_4
+	}
+	7899.1.1 = {
+		change_development_level = 1
+	}
+	7916.1.1 = {
+		holder = Thenn_5
+	}
+	7927.1.1 = {
+		holder = Thenn_6
+	}
+	7955.1.1 = {
+		holder = Thenn_7
+	}
+	7979.1.1 = {
+		holder = Thenn_8
+	}
+	7999.1.1 = {
+		holder = Thenn_9
+	}
+	8009.1.1 = {
+		holder = Thenn_10
+	}
+	8037.1.1 = {
+		holder = Thenn_11
+	}
+	8052.1.1 = {
+		holder = Thenn_12
+	}
+	8086.1.1 = {
+		holder = Thenn_13
+	}
+	8107.1.1 = {
+		holder = Thenn_14
+	}
+	8141.1.1 = {
+		holder = Thenn_15
+	}
+	8162.1.1 = {
+		holder = Thenn_16
+	}
+	8168.1.1 = {
+		holder = Thenn_17
+	}
+	8208.1.1 = {
+		holder = Thenn_18
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8228.1.1 = {
+		holder = Thenn_19
+	}
+	8255.1.1 = {
+		holder = Thenn_20
+	}
+	8276.1.1 = {
+		holder = Thenn_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8299.12.18 = {
+		holder = Thenn_2
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_voss_voln = {
+	7800.1.1 = {
+		succession_laws = { male_only_law confederate_partition_succession_law }
+	}
+	7872.1.1 = {
+		holder = Thenn_3
+	}
+	7892.1.1 = {
+		holder = Thenn_4
+	}
+	7899.1.1 = {
+		change_development_level = 2
+	}
+	7916.1.1 = {
+		holder = Thenn_5
+	}
+	7927.1.1 = {
+		holder = Thenn_6
+	}
+	7955.1.1 = {
+		holder = Thenn_7
+	}
+	7979.1.1 = {
+		holder = Thenn_8
+	}
+	7999.1.1 = {
+		holder = Thenn_9
+	}
+	8009.1.1 = {
+		holder = Thenn_10
+	}
+	8037.1.1 = {
+		holder = Thenn_11
+	}
+	8052.1.1 = {
+		holder = Thenn_12
+	}
+	8086.1.1 = {
+		holder = Thenn_13
+	}
+	8107.1.1 = {
+		holder = Thenn_14
+	}
+	8141.1.1 = {
+		holder = Thenn_15
+	}
+	8162.1.1 = {
+		holder = Thenn_16
+	}
+	8168.1.1 = {
+		holder = Thenn_17
+	}
+	8208.1.1 = {
+		holder = Thenn_18
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8228.1.1 = {
+		holder = Thenn_19
+	}
+	8255.1.1 = {
+		holder = Thenn_20
+	}
+	8276.1.1 = {
+		holder = Thenn_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8299.12.18 = {
+		holder = Thenn_2
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}

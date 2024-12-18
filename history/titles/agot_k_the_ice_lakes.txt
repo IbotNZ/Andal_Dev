@@ -1,0 +1,365 @@
+﻿k_the_ice_lakes = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+}
+d_ghost_lakes = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+}
+c_bloodbend = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8282.1.1 = {
+		holder = Shieldbreaker_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_hoarmarrow = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8282.1.1 = {
+		holder = Shieldbreaker_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_idle_barrens = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8282.1.1 = {
+		holder = Shieldbreaker_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_the_frigid_rise = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8282.1.1 = {
+		holder = Shieldbreaker_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_wights_well = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8282.1.1 = {
+		holder = Shieldbreaker_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+d_shivering_shore = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+}
+c_axe_camp = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8282.1.1 = {
+		holder = Shieldbreaker_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_clear_ice_lake = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8282.1.1 = {
+		holder = Shieldbreaker_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_gerras_dryn = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8282.1.1 = {
+		holder = Shieldbreaker_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_hail_coast = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8282.1.1 = {
+		holder = Shieldbreaker_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_lhark_vakar = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8282.1.1 = {
+		holder = Shieldbreaker_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_torch_river = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8282.1.1 = {
+		holder = Shieldbreaker_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+d_tor_rag_dur = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+}
+c_vurk_ryg = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8243.1.1 = {
+		holder = Boarhell_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_basordryn = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8286.1.1 = {
+		holder = 34560345
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_ask_vith = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8243.1.1 = {
+		holder = Boarhell_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}
+c_roveggs_spine = {
+	2.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+	}
+	7899.1.1 = {
+		holder = Local_Rulers_BTW
+	}
+	8213.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8226.9.9 = {
+		liege = 0
+	}
+	8243.1.1 = {
+		holder = Boarhell_1
+	}
+	8298.1.1 = {
+		liege = e_beyond_the_wall
+	}
+	8300.1.29 = {
+		holder = Great_Other
+	}
+}

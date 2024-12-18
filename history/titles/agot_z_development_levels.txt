@@ -1,0 +1,5947 @@
+﻿# Kingdom : Dorne (k_dorne)
+# Duchy   : Sunspear (d_sunspear)
+# County  : Sunspear (c_sunspear)
+c_sunspear = {
+	7899.1.1 = {
+		change_development_level = 14
+	}
+}
+# County  : Plankytown (c_plankytown)
+c_plankytown = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Husk Flats (c_husk_flats)
+c_husk_flats = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Stinkwater (c_stinkwater)
+c_stinkwater = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# Duchy   : Lemonwood (d_lemonwood)
+# County  : Lemonwood (c_lemonwood)
+c_lemonwood = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Sweetwater (c_sweetwater)
+c_sweetwater = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Sourmarket (c_sourmarket)
+c_sourmarket = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Drillwater Islands (c_drillwater_islands)
+c_drillwater_islands = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Salt Shore (d_salt_shore)
+# County  : Salt Shore (c_salt_shore)
+c_salt_shore = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Brackish (c_brackish)
+c_brackish = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : White Stones (c_white_stones)
+c_white_stones = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Saltstone (c_saltstone)
+c_saltstone = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Duchy   : Godsgrace (d_godsgrace)
+# County  : Godsgrace (c_godsgrace)
+c_godsgrace = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Goldpeppers (c_goldpeppers)
+c_goldpeppers = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Orangewood (c_orangewood)
+c_orangewood = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Nerandyn (c_nerandyn)
+c_nerandyn = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Sevensdunes (c_sevensdunes)
+c_sevensdunes = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Latebloom (c_latebloom)
+c_latebloom = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : Broken Arm (d_broken_arm)
+# County  : Spottswood (c_spottswood)
+c_spottswood = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Torchwood (c_torchwood)
+c_torchwood = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Rockwell (c_rockwell)
+c_rockwell = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Duchy   : Ghost Hills (d_ghost_hills)
+# County  : Ghost Hills (c_ghost_hills)
+c_ghost_hills = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Nymercairn (c_nymercairn)
+c_nymercairn = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : The Faint (c_the_faint)
+c_the_faint = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : The Tor (d_the_tor)
+# County  : The Tor (c_the_tor)
+c_the_tor = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Tallor Islands (c_tallor_islands)
+c_tallor_islands = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Murrandy (c_murrandy)
+c_murrandy = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Dream Dunes (c_dream_dunes)
+c_dream_dunes = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Barberry (c_barberry)
+c_barberry = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Scourgehead (d_scourgehead)
+# County  : The Bramble (c_the_bramble)
+c_the_bramble = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Stedding (c_stedding)
+c_stedding = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Flatwater (c_flatwater)
+c_flatwater = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : The Scourge (c_the_scourge)
+c_the_scourge = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Ghaston Grey (c_ghaston_grey)
+c_ghaston_grey = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# Duchy   : Red Dunes (d_red_dunes)
+# County  : Vaith (c_vaith)
+c_vaith = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Killburne (c_killburne)
+c_killburne = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Brittlebush (c_brittlebush)
+c_brittlebush = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Red Waste (c_red_waste)
+c_red_waste = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : The Scablands (c_the_scablands)
+c_the_scablands = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : The Barrens (c_the_barrens)
+c_the_barrens = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Duchy   : Brimstone (d_brimstone)
+# County  : Hellholt (c_hellholt)
+c_hellholt = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Sulphur Flats (c_sulphur_flats)
+c_sulphur_flats = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Jackalrun (c_jackalrun)
+c_jackalrun = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Brimstone (c_brimstone)
+c_brimstone = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Steamfall (c_steamfall)
+c_steamfall = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Burning Dunes (c_burning_dunes)
+c_burning_dunes = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Bloodbridge (c_bloodbridge)
+c_bloodbridge = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Willburn (c_willburn)
+c_willburn = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Oldwell (d_oldwell)
+# County  : First Well (c_first_well)
+c_first_well = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Pronghorn (c_pronghorn)
+c_pronghorn = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Drywell (c_drywell)
+c_drywell = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : The Dustbowl (c_the_dustbowl)
+c_the_dustbowl = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Shady Sands (c_shady_sands)
+c_shady_sands = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Sandstone (d_sandstone)
+# County  : Sandstone (c_sandstone)
+c_sandstone = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Stained Sands (c_stained_sands)
+c_stained_sands = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : White Dunes (c_white_dunes)
+c_white_dunes = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Stinging Sands (c_stinging_sands)
+c_stinging_sands = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Dreadsands (c_dreadsands)
+c_dreadsands = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Barbmane (c_barbmane)
+c_barbmane = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Sandhorn (c_sandhorn)
+c_sandhorn = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Arnight (c_arnight)
+c_arnight = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Duchy   : Torrentine (d_torrentine)
+# County  : Starfall (c_starfall)
+c_starfall = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : High Hermitage (c_high_hermitage)
+c_high_hermitage = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : The Elbow (c_the_elbow)
+c_the_elbow = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Radiant Cliffs (c_radiant_cliffs)
+c_radiant_cliffs = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Dawnbrink (c_dawnbrink)
+c_dawnbrink = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Shining Sands (c_shining_sands)
+c_shining_sands = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Fields of Glass (c_fields_of_glass)
+c_fields_of_glass = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Astermine (c_astermine)
+c_astermine = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : Yronwood (d_yronwood)
+# County  : Yronwood (c_yronwood)
+c_yronwood = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Greenbelt (c_greenbelt)
+c_greenbelt = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Great Dunes (c_great_dunes)
+c_great_dunes = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Royalmarch (c_royalmarch)
+c_royalmarch = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Wayguard (c_wayguard)
+c_wayguard = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Blood Gulch (c_blood_gulch)
+c_blood_gulch = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : The Prince's Pass (d_the_princes_pass)
+# County  : Skyreach (c_skyreach)
+c_skyreach = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Wide Way (c_wide_way)
+c_wide_way = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Cadgemont (c_cadgemont)
+c_cadgemont = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Hoodridge (c_hoodridge)
+c_hoodridge = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Thorntree (c_thorntree)
+c_thorntree = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Princemarch (c_princemarch)
+c_princemarch = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Duchy   : Blackmont (d_blackmont)
+# County  : Blackmont (c_blackmont)
+c_blackmont = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Baldcrest (c_baldcrest)
+c_baldcrest = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : The Crawl (c_the_crawl)
+c_the_crawl = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Carrion Heights (c_carrion_heights)
+c_carrion_heights = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Westroost (c_westroost)
+c_westroost = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : Redmarch (d_redmarch)
+# County  : Kingsgrave (c_kingsgrave)
+c_kingsgrave = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Redstone Heights (c_redstone_heights)
+c_redstone_heights = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Mortberry (c_mortberry)
+c_mortberry = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Strongwine (c_strongwine)
+c_strongwine = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Rustbarren (c_rustbarren)
+c_rustbarren = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : The Stoneway (d_the_stoneway)
+# County  : Wyl (c_wyl)
+c_wyl = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Fangside (c_fangside)
+c_fangside = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Brinkburn (c_brinkburn)
+c_brinkburn = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Highgrave (c_highgrave)
+c_highgrave = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Denmont (c_denmont)
+c_denmont = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Blackvein (c_blackvein)
+c_blackvein = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Kingdom : The Iron Islands (k_the_iron_islands)
+# Duchy   : Pyke (d_pyke)
+# County  : Pyke (c_pyke)
+c_pyke = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Lordsport (c_lordsport)
+c_lordsport = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Iron Holt (c_iron_holt)
+c_iron_holt = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Seagrave (c_seagrave)
+c_seagrave = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : Saltcliffe (d_saltcliffe)
+# County  : Bloatstone (c_bloatstone)
+c_bloatstone = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Saltcliffe (c_saltcliffe)
+c_saltcliffe = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : East Wyk (d_east_wyk)
+# County  : Pebbleton (c_pebbleton)
+c_pebbleton = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Blackblood (c_blackblood)
+c_blackblood = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Axfirth (c_axfirth)
+c_axfirth = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Fishbourne (c_fishbourne)
+c_fishbourne = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Tiller (c_tiller)
+c_tiller = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Duchy   : Hardstone Hills (d_hardstone_hills)
+# County  : Hammerhorn (c_hammerhorn)
+c_hammerhorn = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Downdelving (c_downdelving)
+c_downdelving = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Cradlewatch (c_cradlewatch)
+c_cradlewatch = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Corpse Lake (c_corpse_lake)
+c_corpse_lake = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Deadlock (c_deadlock)
+c_deadlock = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Crow Spike (c_crow_spike)
+c_crow_spike = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Sealskin Point (c_sealskin_point)
+c_sealskin_point = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Seastone Isles (c_seastone_isles)
+c_seastone_isles = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Scatterchain (c_scatterchain)
+c_scatterchain = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : Old Wyk (d_old_wyk)
+# County  : Bleachbone (c_bleachbone)
+c_bleachbone = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Shatterstone (c_shatterstone)
+c_shatterstone = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Stonehouse (c_stonehouse)
+c_stonehouse = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Orkmont (d_orkmont)
+# County  : Nettlemont (c_nettlemont)
+c_nettlemont = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Orkwood (c_orkwood)
+c_orkwood = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Greygrave (c_greygrave)
+c_greygrave = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Trawling (c_trawling)
+c_trawling = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Blacktyde (d_blacktyde)
+# County  : Blacktyde (c_blacktyde)
+c_blacktyde = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Needlefin (c_needlefin)
+c_needlefin = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : Harlaw (d_harlaw)
+# County  : Ten Towers (c_ten_towers)
+c_ten_towers = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Ternehandle (c_ternehandle)
+c_ternehandle = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : The Flenches (c_the_flenches)
+c_the_flenches = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Volmark (c_volmark)
+c_volmark = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Dulewood (c_dulewood)
+c_dulewood = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Glimmering Shore (c_glimmering_shore)
+c_glimmering_shore = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Grey Garden (c_grey_garden)
+c_grey_garden = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Harridan Hills (c_harridan_hills)
+c_harridan_hills = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# Duchy   : Lonely Light (d_lonely_light)
+# County  : Lonely Light (c_lonely_light)
+c_lonely_light = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Kingdom : The Crownlands (k_the_crownlands)
+# Duchy   : King's Landing (d_kings_landing)
+# County  : King's Landing (c_kings_landing)
+c_kings_landing = {
+	7899.1.1 = {
+		change_development_level = 20
+	}
+}
+# County  : Bramsfort (c_bramsfort)
+c_bramsfort = {
+	7899.1.1 = {
+		change_development_level = 14
+	}
+}
+# County  : Shinebridge (c_shinebridge)
+c_shinebridge = {
+	7899.1.1 = {
+		change_development_level = 14
+	}
+}
+# County  : Wing's Pass (c_wings_pass)
+c_wings_pass = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Blackstripe (c_blackstripe)
+c_blackstripe = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Briarcrest (c_briarcrest)
+c_briarcrest = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Riverline (c_riverline)
+c_riverline = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# Duchy   : Hayford (d_hayford)
+# County  : Hayford (c_hayford)
+c_hayford = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Sow's Horn (c_sows_horn)
+c_sows_horn = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Proudwell (c_proudwell)
+c_proudwell = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Old Yore (c_old_yore)
+c_old_yore = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# Duchy   : Rosby (d_rosby)
+# County  : Rosby (c_rosby)
+c_rosby = {
+	7899.1.1 = {
+		change_development_level = 17
+	}
+}
+# County  : Strongmead (c_strongmead)
+c_strongmead = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Greensward (c_greensward)
+c_greensward = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Edgerton (c_edgerton)
+c_edgerton = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Whiteplate (c_whiteplate)
+c_whiteplate = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Redbend (c_redbend)
+c_redbend = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Stokeworth (d_stokeworth)
+# County  : Stokeworth (c_stokeworth)
+c_stokeworth = {
+	7899.1.1 = {
+		change_development_level = 15
+	}
+}
+# County  : Grainside (c_grainside)
+c_grainside = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Silverhead (c_silverhead)
+c_silverhead = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Cantondale (c_cantondale)
+c_cantondale = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Bentbranch (c_bentbranch)
+c_bentbranch = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Nessing (c_nessing)
+c_nessing = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# Duchy   : Duskendale (d_duskendale)
+# County  : Duskendale (c_duskendale)
+c_duskendale = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Darkwood's Mull (c_darkwoods_mull)
+c_darkwoods_mull = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Crownback (c_crownback)
+c_crownback = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Bluntmark (c_bluntmark)
+c_bluntmark = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Shadowshield (c_shadowshield)
+c_shadowshield = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Spinney (c_spinney)
+c_spinney = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Yellowstars (c_yellowstars)
+c_yellowstars = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# Duchy   : Rook's Rest (d_rooks_rest)
+# County  : Rook's Rest (c_rooks_rest)
+c_rooks_rest = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Stellarstake (c_stellarstake)
+c_stellarstake = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Pepperwood (c_pepperwood)
+c_pepperwood = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Risegrave (c_risegrave)
+c_risegrave = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Crackclaw Point (d_crackclaw_point)
+# County  : Dyre Den (c_dyre_den)
+c_dyre_den = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Strongcliffs (c_strongcliffs)
+c_strongcliffs = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Pointside (c_pointside)
+c_pointside = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Strongbox (c_strongbox)
+c_strongbox = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Brownhollow (c_brownhollow)
+c_brownhollow = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Hazewood (c_hazewood)
+c_hazewood = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Bronzeholm (c_bronzeholm)
+c_bronzeholm = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Needlewater (c_needlewater)
+c_needlewater = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Deerfield (d_deerfield)
+# County  : Antlers (c_antlers)
+c_antlers = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Vair's Head (c_vairs_head)
+c_vairs_head = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Brackworth (c_brackworth)
+c_brackworth = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Tuskford (c_tuskford)
+c_tuskford = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Point Square (c_point_square)
+c_point_square = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : The Blackwater Rush (d_the_blackwater_rush)
+# County  : Rollingford (c_rollingford)
+c_rollingford = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Great Fork (c_great_fork)
+c_great_fork = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Middleton (c_middleton)
+c_middleton = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Pikemouth (c_pikemouth)
+c_pikemouth = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Longgrass (c_longgrass)
+c_longgrass = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# Duchy   : The Baywater Woods (d_the_baywater_woods)
+# County  : The Gauntlet (c_the_gauntlet)
+c_the_gauntlet = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Bywater (c_bywater)
+c_bywater = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Greyhelm (c_greyhelm)
+c_greyhelm = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Brushmill (c_brushmill)
+c_brushmill = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Duchy   : Wendwater Forest (d_wendwater_forest)
+# County  : Farring Cross (c_farring_cross)
+c_farring_cross = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Wendwater Fork (c_wendwater_fork)
+c_wendwater_fork = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Stripeharbor (c_stripeharbor)
+c_stripeharbor = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Darkgroves (c_darkgroves)
+c_darkgroves = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Noblewood (c_noblewood)
+c_noblewood = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Massey's Hook (d_masseys_hook)
+# County  : Stonedance (c_stonedance)
+c_stonedance = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Sweetmont (c_sweetmont)
+c_sweetmont = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Chancedoor (c_chancedoor)
+c_chancedoor = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Seedskull (c_seedskull)
+c_seedskull = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Wisewood (c_wisewood)
+c_wisewood = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Glasswater (c_glasswater)
+c_glasswater = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Winded Glade (c_winded_glade)
+c_winded_glade = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Dragonstone (d_dragonstone)
+# County  : Dragonstone (c_dragonstone)
+c_dragonstone = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Driftmark (c_driftmark)
+c_driftmark = {
+	7899.1.1 = {
+		change_development_level = 15
+	}
+}
+# County  : High Tide (c_high_tide)
+c_high_tide = {
+	7899.1.1 = {
+		change_development_level = 14
+	}
+}
+# County  : Blackmark (c_blackmark)
+c_blackmark = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Sharp Point (c_sharp_point)
+c_sharp_point = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Longbar (c_longbar)
+c_longbar = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Gullet Isle (c_gullet_isle)
+c_gullet_isle = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Sweetport Sound (c_sweetport_sound)
+c_sweetport_sound = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : The Scales (c_the_scales)
+c_the_scales = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Claw Isle (c_claw_isle)
+c_claw_isle = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# Kingdom : The North (k_the_north)
+# Duchy   : Winterfell (d_winterfell)
+# County  : Winterfell (c_winterfell)
+c_winterfell = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Dawnforest (c_dawnforest)
+c_dawnforest = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Wolf Branch (c_wolf_branch)
+c_wolf_branch = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Coldstream (c_coldstream)
+c_coldstream = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : The Pitch (c_the_pitch)
+c_the_pitch = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Cedar Peaks (c_cedar_peaks)
+c_cedar_peaks = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Bran's Wood (c_brans_wood)
+c_brans_wood = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Last Lands (d_last_lands)
+# County  : Last Hearth (c_last_hearth)
+c_last_hearth = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Woodhaven (c_woodhaven)
+c_woodhaven = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Blackmantle (c_blackmantle)
+c_blackmantle = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Sullen Hills (c_sullen_hills)
+c_sullen_hills = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Whitemore (c_whitemore)
+c_whitemore = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Seal Shore (c_seal_shore)
+c_seal_shore = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : Frostfields (d_frostfields)
+# County  : Frostguard (c_frostguard)
+c_frostguard = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Long Lake (c_long_lake)
+c_long_lake = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Longstreams (c_longstreams)
+c_longstreams = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Lonely Hills (c_lonely_hills)
+c_lonely_hills = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Last River (c_last_river)
+c_last_river = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Coldenside (c_coldenside)
+c_coldenside = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : Karhold (d_karhold)
+# County  : Karhold (c_karhold)
+c_karhold = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Groundpress (c_groundpress)
+c_groundpress = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Dorridge (c_dorridge)
+c_dorridge = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Eastmelt (c_eastmelt)
+c_eastmelt = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Sleetwood (c_sleetwood)
+c_sleetwood = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Everwood (c_everwood)
+c_everwood = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : The Grey Cliffs (c_the_grey_cliffs)
+c_the_grey_cliffs = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Grey Cliff Point (c_grey_cliff_point)
+c_grey_cliff_point = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : The Dreadfort (d_the_dreadfort)
+# County  : The Dreadfort (c_the_dreadfort)
+c_the_dreadfort = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Overton (c_overton)
+c_overton = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Rightwell (c_rightwell)
+c_rightwell = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Grimm Lake (c_grimm_lake)
+c_grimm_lake = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : The Weep (c_the_weep)
+c_the_weep = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Wraithfeld (c_wraithfeld)
+c_wraithfeld = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Ethering (c_ethering)
+c_ethering = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Matchwood (c_matchwood)
+c_matchwood = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : The Pale (c_the_pale)
+c_the_pale = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : White Harbor (d_white_harbor)
+# County  : White Harbor (c_white_harbor)
+c_white_harbor = {
+	7899.1.1 = {
+		change_development_level = 16
+	}
+}
+# County  : Silverfield (c_silverfield)
+c_silverfield = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Whetmarsh (c_whetmarsh)
+c_whetmarsh = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : White Knife (c_white_knife)
+c_white_knife = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Whitford (c_whitford)
+c_whitford = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Woodward (c_woodward)
+c_woodward = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : The Gap (c_the_gap)
+c_the_gap = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : Keystone (d_keystone)
+# County  : Oldcastle (c_oldcastle)
+c_oldcastle = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Greysward (c_greysward)
+c_greysward = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Bite's Edge (c_bites_edge)
+c_bites_edge = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Beam Cross (c_beam_cross)
+c_beam_cross = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Keyguard (c_keyguard)
+c_keyguard = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : Everstead (d_everstead)
+# County  : Ramsgate (c_ramsgate)
+c_ramsgate = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Haverstock (c_haverstock)
+c_haverstock = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Reamwright (c_reamwright)
+c_reamwright = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Sheepshead Hills (c_sheepshead_hills)
+c_sheepshead_hills = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Branch Head (c_branch_head)
+c_branch_head = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Hornwood (d_hornwood)
+# County  : Hornwood (c_hornwood)
+c_hornwood = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : The Cinders (c_the_cinders)
+c_the_cinders = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Calfton (c_calfton)
+c_calfton = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Velvet Grove (c_velvet_grove)
+c_velvet_grove = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Crestview (d_crestview)
+# County  : Widow's Watch (c_widows_watch)
+c_widows_watch = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : The Broken Branch (c_the_broken_branch)
+c_the_broken_branch = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Branchside (c_branchside)
+c_branchside = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Tawney Bay (c_tawney_bay)
+c_tawney_bay = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Broadmend (c_broadmend)
+c_broadmend = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : The Rills (d_the_rills)
+# County  : Grailheart (c_grailheart)
+c_grailheart = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Tackfeld (c_tackfeld)
+c_tackfeld = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Greyforge Hills (c_greyforge_hills)
+c_greyforge_hills = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Rillwater Crossing (c_rillwater_crossing)
+c_rillwater_crossing = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Witheredheath (c_witheredheath)
+c_witheredheath = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Soddenburn (c_soddenburn)
+c_soddenburn = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Bottom Run (c_bottom_run)
+c_bottom_run = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Atwater (c_atwater)
+c_atwater = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Two Rivers (c_two_rivers)
+c_two_rivers = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Smallrill (c_smallrill)
+c_smallrill = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : Stony Shore (d_stony_shore)
+# County  : Whitecaster (c_whitecaster)
+c_whitecaster = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Hillcrest (c_hillcrest)
+c_hillcrest = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Batestone (c_batestone)
+c_batestone = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Ridgewater (c_ridgewater)
+c_ridgewater = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Far Stone (c_far_stone)
+c_far_stone = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Washbrook (c_washbrook)
+c_washbrook = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Steelwater (c_steelwater)
+c_steelwater = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Blue Hills (c_blue_hills)
+c_blue_hills = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Grey Downs (d_grey_downs)
+# County  : Blackpool (c_blackpool)
+c_blackpool = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Stonebrand (c_stonebrand)
+c_stonebrand = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : The Welts (c_the_welts)
+c_the_welts = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : First Hollow (c_first_hollow)
+c_first_hollow = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Slowburn (c_slowburn)
+c_slowburn = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Gravelridge (c_gravelridge)
+c_gravelridge = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : Edgewood (d_edgewood)
+# County  : Torrhen's Square (c_torrhens_square)
+c_torrhens_square = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Silverglade (c_silverglade)
+c_silverglade = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Timberwatch (c_timberwatch)
+c_timberwatch = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Denwood (c_denwood)
+c_denwood = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Amber Lake (c_amber_lake)
+c_amber_lake = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Edgewood Hills (c_edgewood_hills)
+c_edgewood_hills = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : The Wolfswood (d_the_wolfswood)
+# County  : Deepwood (c_deepwood)
+c_deepwood = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Greenwood (c_greenwood)
+c_greenwood = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Mullroot (c_mullroot)
+c_mullroot = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Acorn Grove (c_acorn_grove)
+c_acorn_grove = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Cloudforest (c_cloudforest)
+c_cloudforest = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Howell (c_howell)
+c_howell = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : The Blackpines (d_the_blackpines)
+# County  : Ironrath (c_ironrath)
+c_ironrath = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Highpoint (c_highpoint)
+c_highpoint = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Darsett (c_darsett)
+c_darsett = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Moorwood (c_moorwood)
+c_moorwood = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Allpine (c_allpine)
+c_allpine = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : Sea Dragon Point (d_sea_dragon_point)
+# County  : Sea Dragon Point (c_sea_dragon_point)
+c_sea_dragon_point = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Stillport (c_stillport)
+c_stillport = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Flatmire (c_flatmire)
+c_flatmire = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : King's Course (d_kings_course)
+# County  : Trenchwood (c_trenchwood)
+c_trenchwood = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Eagle Cross (c_eagle_cross)
+c_eagle_cross = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Wynmend (c_wynmend)
+c_wynmend = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Thorpe (c_thorpe)
+c_thorpe = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Sharpwater (c_sharpwater)
+c_sharpwater = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : The Barrowlands (d_the_barrowlands)
+# County  : Barrowton (c_barrowton)
+c_barrowton = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Goldgrass (c_goldgrass)
+c_goldgrass = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Roastfields (c_roastfields)
+c_roastfields = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Oldbarrow (c_oldbarrow)
+c_oldbarrow = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Spearmouth (c_spearmouth)
+c_spearmouth = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Mundpress (c_mundpress)
+c_mundpress = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Barlow (c_barlow)
+c_barlow = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Draywinds (c_draywinds)
+c_draywinds = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Heapsdown (c_heapsdown)
+c_heapsdown = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Drumlynn (c_drumlynn)
+c_drumlynn = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : The Northern Mountains (d_the_northern_mountains)
+# County  : Holdwater (c_holdwater)
+c_holdwater = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Breakstone Hill (c_breakstone_hill)
+c_breakstone_hill = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Arrendell (c_arrendell)
+c_arrendell = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Braidmont (c_braidmont)
+c_braidmont = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Carvestone (c_carvestone)
+c_carvestone = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Pinesend (c_pinesend)
+c_pinesend = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Stoutfast (c_stoutfast)
+c_stoutfast = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Trenchstone (c_trenchstone)
+c_trenchstone = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Scar Mountain (c_scar_mountain)
+c_scar_mountain = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : The Neck (d_the_neck)
+# County  : Greywater Watch (c_greywater_watch)
+c_greywater_watch = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Cray (c_cray)
+c_cray = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : The Mire (c_the_mire)
+c_the_mire = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Borremose (c_borremose)
+c_borremose = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Cypressbottom (c_cypressbottom)
+c_cypressbottom = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Dewlock (c_dewlock)
+c_dewlock = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Slewness (c_slewness)
+c_slewness = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Duchy   : Silvereed (d_silvereed)
+# County  : Churwell (c_churwell)
+c_churwell = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Drenchmire (c_drenchmire)
+c_drenchmire = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : The Seastrands (c_the_seastrands)
+c_the_seastrands = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Fennwell (c_fennwell)
+c_fennwell = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Crannbrook (c_crannbrook)
+c_crannbrook = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Fever (d_fever)
+# County  : Greycrann (c_greycrann)
+c_greycrann = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Peatlands (c_peatlands)
+c_peatlands = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Shallowseek (c_shallowseek)
+c_shallowseek = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Fever (c_fever)
+c_fever = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Duchy   : Flint's Finger (d_flints_finger)
+# County  : Flint's Finger (c_flints_finger)
+c_flints_finger = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Blazewater Bay (c_blazewater_bay)
+c_blazewater_bay = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Cape Kraken (c_cape_kraken)
+c_cape_kraken = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Beastyrn (c_beastyrn)
+c_beastyrn = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : The Flint Cliffs (c_the_flint_cliffs)
+c_the_flint_cliffs = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Cannmill (c_cannmill)
+c_cannmill = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Wristerley (c_wristerley)
+c_wristerley = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Arnscarre (c_arnscarre)
+c_arnscarre = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Lakelands (d_lakelands)
+# County  : Waterstone (c_waterstone)
+c_waterstone = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Spears Sound (c_spears_sound)
+c_spears_sound = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Morrenland (c_morrenland)
+c_morrenland = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Cypress Rising (c_cypress_rising)
+c_cypress_rising = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Murkwood (c_murkwood)
+c_murkwood = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : Skagos (d_skagos)
+# County  : Drihisesk (c_drihisesk)
+c_drihisesk = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Sudyktig (c_sudyktig)
+c_sudyktig = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Molksyr (c_molksyr)
+c_molksyr = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Dreggan Arer (c_dreggan_arer)
+c_dreggan_arer = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Veksdaenk (c_veksdaenk)
+c_veksdaenk = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Rom Pursk (c_rom_pursk)
+c_rom_pursk = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Skane (c_skane)
+c_skane = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Riis Du (c_riis_du)
+c_riis_du = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : Bear Island (d_bear_island)
+# County  : Mormont (c_mormont)
+c_mormont = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Bearstone (c_bearstone)
+c_bearstone = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : Moat Cailin (d_moat_cailin)
+# County  : Moat Cailin (c_moat_cailin)
+c_moat_cailin = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Kingdom : The Reach (k_the_reach)
+# Duchy   : Highgarden (d_highgarden)
+# County  : Highgarden (c_highgarden)
+c_highgarden = {
+	7899.1.1 = {
+		change_development_level = 18
+	}
+}
+# County  : Gardenbounds (c_gardenbounds)
+c_gardenbounds = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Greenwall (c_greenwall)
+c_greenwall = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Aldenley (c_aldenley)
+c_aldenley = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Manderside (c_manderside)
+c_manderside = {
+	7899.1.1 = {
+		change_development_level = 14
+	}
+}
+# County  : Vinewarren (c_vinewarren)
+c_vinewarren = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# Duchy   : Orchard Way (d_orchard_way)
+# County  : Cider Crossing (c_cider_crossing)
+c_cider_crossing = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : New Barrel (c_new_barrel)
+c_new_barrel = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Appleton (c_appleton)
+c_appleton = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Sugarbush (c_sugarbush)
+c_sugarbush = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Whitegrove (c_whitegrove)
+c_whitegrove = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# Duchy   : Cockleswhent (d_cockleswhent)
+# County  : Ashford (c_ashford)
+c_ashford = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Cockscombe (c_cockscombe)
+c_cockscombe = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Holyhall (c_holyhall)
+c_holyhall = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Banbury (c_banbury)
+c_banbury = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Endrick (c_endrick)
+c_endrick = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Palemarch (d_palemarch)
+# County  : Starpike (c_starpike)
+c_starpike = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Torrentpeak (c_torrentpeak)
+c_torrentpeak = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Estryck (c_estryck)
+c_estryck = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Bendtilling (c_bendtilling)
+c_bendtilling = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Grandmercy (c_grandmercy)
+c_grandmercy = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Burkley (c_burkley)
+c_burkley = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# Duchy   : The Westmarch (d_the_westmarch)
+# County  : Horn Hill (c_horn_hill)
+c_horn_hill = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Cornerstone (c_cornerstone)
+c_cornerstone = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Russeting (c_russeting)
+c_russeting = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Cresthaven (c_cresthaven)
+c_cresthaven = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Grave Ridge (c_grave_ridge)
+c_grave_ridge = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Sunwatch (c_sunwatch)
+c_sunwatch = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : Ridgeview (d_ridgeview)
+# County  : Uplands (c_uplands)
+c_uplands = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Echo Hills (c_echo_hills)
+c_echo_hills = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Millendale (c_millendale)
+c_millendale = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Lavenderne (c_lavenderne)
+c_lavenderne = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Strong Spirits (c_strong_spirits)
+c_strong_spirits = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Turrellis (c_turrellis)
+c_turrellis = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Trueguard (c_trueguard)
+c_trueguard = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# Duchy   : Oldhills (d_oldhills)
+# County  : The Ring (c_the_ring)
+c_the_ring = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Evenmorn (c_evenmorn)
+c_evenmorn = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Dunnsbridge (c_dunnsbridge)
+c_dunnsbridge = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Freeridge (c_freeridge)
+c_freeridge = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Dersling (c_dersling)
+c_dersling = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : The Rolls (c_the_rolls)
+c_the_rolls = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Duchy   : Garden Coast (d_garden_coast)
+# County  : Whisper Point (c_whisper_point)
+c_whisper_point = {
+	7899.1.1 = {
+		change_development_level = 14
+	}
+}
+# County  : Sunhouse (c_sunhouse)
+c_sunhouse = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Beachcastle (c_beachcastle)
+c_beachcastle = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Meadowport (c_meadowport)
+c_meadowport = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Orchard Shore (c_orchard_shore)
+c_orchard_shore = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Meadowsmeet (c_meadowsmeet)
+c_meadowsmeet = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Richglade (c_richglade)
+c_richglade = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# Duchy   : Oldtown (d_oldtown)
+# County  : Oldtown (c_oldtown)
+c_oldtown = {
+	7899.1.1 = {
+		change_development_level = 20
+	}
+}
+# County  : Brightbrock (c_brightbrock)
+c_brightbrock = {
+	7899.1.1 = {
+		change_development_level = 14
+	}
+}
+# County  : Rhodalea (c_rhodalea)
+c_rhodalea = {
+	7899.1.1 = {
+		change_development_level = 15
+	}
+}
+# County  : Greylock Hills (c_greylock_hills)
+c_greylock_hills = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Honeywine (c_honeywine)
+c_honeywine = {
+	7899.1.1 = {
+		change_development_level = 14
+	}
+}
+# County  : Ashborne (c_ashborne)
+c_ashborne = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Daresbury (c_daresbury)
+c_daresbury = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# Duchy   : Black Sound (d_black_sound)
+# County  : Blackcrown (c_blackcrown)
+c_blackcrown = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Bandallon (c_bandallon)
+c_bandallon = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Pruttand (c_pruttand)
+c_pruttand = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Walnut Bank (c_walnut_bank)
+c_walnut_bank = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Ashridge (c_ashridge)
+c_ashridge = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# Duchy   : Brightwater (d_brightwater)
+# County  : Brightwater (c_brightwater)
+c_brightwater = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Denflower (c_denflower)
+c_denflower = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Whitewater Watch (c_whitewater_watch)
+c_whitewater_watch = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Islandview (c_islandview)
+c_islandview = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Bloomfield Hills (c_bloomfield_hills)
+c_bloomfield_hills = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Festune (c_festune)
+c_festune = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Laurelridge (c_laurelridge)
+c_laurelridge = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# Duchy   : Honeylands (d_honeylands)
+# County  : Honeyholt (c_honeyholt)
+c_honeyholt = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Perrygate (c_perrygate)
+c_perrygate = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Goode Glen (c_goode_glen)
+c_goode_glen = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Wakefield (c_wakefield)
+c_wakefield = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Greenaway (c_greenaway)
+c_greenaway = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# Duchy   : The Northmarch (d_the_northmarch)
+# County  : Coldmoat (c_coldmoat)
+c_coldmoat = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Standfast (c_standfast)
+c_standfast = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Cobble Cove (c_cobble_cove)
+c_cobble_cove = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Derring Downs (c_derring_downs)
+c_derring_downs = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Brandybottom (c_brandybottom)
+c_brandybottom = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Leafy Lake (c_leafy_lake)
+c_leafy_lake = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Red Front (d_red_front)
+# County  : Red Lake (c_red_lake)
+c_red_lake = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Wallow Dell (c_wallow_dell)
+c_wallow_dell = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Nunny (c_nunny)
+c_nunny = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Harvestbury (c_harvestbury)
+c_harvestbury = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Iron Hedge (c_iron_hedge)
+c_iron_hedge = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Rilldene (c_rilldene)
+c_rilldene = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : Goldengrove (d_goldengrove)
+# County  : Goldengrove (c_goldengrove)
+c_goldengrove = {
+	7899.1.1 = {
+		change_development_level = 15
+	}
+}
+# County  : Smithyton (c_smithyton)
+c_smithyton = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Inchfield (c_inchfield)
+c_inchfield = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Wethermere (c_wethermere)
+c_wethermere = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Westbrook (c_westbrook)
+c_westbrook = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Roundtree (c_roundtree)
+c_roundtree = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Longtress (c_longtress)
+c_longtress = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Apple Hills (c_apple_hills)
+c_apple_hills = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# Duchy   : The Ocean Road (d_the_ocean_road)
+# County  : Oakheart (c_oakheart)
+c_oakheart = {
+	7899.1.1 = {
+		change_development_level = 15
+	}
+}
+# County  : Summer Cove (c_summer_cove)
+c_summer_cove = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : New Grace (c_new_grace)
+c_new_grace = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Beechshore (c_beechshore)
+c_beechshore = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Clickingmoor (c_clickingmoor)
+c_clickingmoor = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Pippengrow (c_pippengrow)
+c_pippengrow = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Lace River (c_lace_river)
+c_lace_river = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Darstone (d_darstone)
+# County  : Hayholt (c_hayholt)
+c_hayholt = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Warnstand (c_warnstand)
+c_warnstand = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Stennard (c_stennard)
+c_stennard = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Runchester (c_runchester)
+c_runchester = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Oldheart Forest (c_oldheart_forest)
+c_oldheart_forest = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Darkdell (d_darkdell)
+# County  : Darkdell (c_darkdell)
+c_darkdell = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Harborvyne (c_harborvyne)
+c_harborvyne = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Wellerwhent (c_wellerwhent)
+c_wellerwhent = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Windworth (c_windworth)
+c_windworth = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Strathby (c_strathby)
+c_strathby = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Heatherholt (c_heatherholt)
+c_heatherholt = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# Duchy   : The Roseroad (d_the_roseroad)
+# County  : Sagecrown (c_sagecrown)
+c_sagecrown = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Dunstonbury (c_dunstonbury)
+c_dunstonbury = {
+	7899.1.1 = {
+		change_development_level = 14
+	}
+}
+# County  : Grandseed (c_grandseed)
+c_grandseed = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Averdyre (c_averdyre)
+c_averdyre = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Rosewood (c_rosewood)
+c_rosewood = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Heartsmere (c_heartsmere)
+c_heartsmere = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Florynn (c_florynn)
+c_florynn = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Manderfields (d_manderfields)
+# County  : Risley Glade (c_risley_glade)
+c_risley_glade = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Oaken Rills (c_oaken_rills)
+c_oaken_rills = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Mandervale (c_mandervale)
+c_mandervale = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Windflower (c_windflower)
+c_windflower = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Daisyfield (c_daisyfield)
+c_daisyfield = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# Duchy   : Sunnyvale (d_sunnyvale)
+# County  : Woodbine (c_woodbine)
+c_woodbine = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Olinger (c_olinger)
+c_olinger = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Blandford (c_blandford)
+c_blandford = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Sommelfield (c_sommelfield)
+c_sommelfield = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Greenridge (c_greenridge)
+c_greenridge = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Goldenfields (d_goldenfields)
+# County  : Norcross (c_norcross)
+c_norcross = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Wysedale (c_wysedale)
+c_wysedale = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Battram (c_battram)
+c_battram = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Wysteria (c_wysteria)
+c_wysteria = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Brennwater (c_brennwater)
+c_brennwater = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Heartland Heights (d_heartland_heights)
+# County  : Wesselvare (c_wesselvare)
+c_wesselvare = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Hastwyck (c_hastwyck)
+c_hastwyck = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Harmony (c_harmony)
+c_harmony = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Heckenridge (c_heckenridge)
+c_heckenridge = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Kildale (c_kildale)
+c_kildale = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Goodgate (c_goodgate)
+c_goodgate = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# Duchy   : Tumbleton (d_tumbleton)
+# County  : Tumbleton (c_tumbleton)
+c_tumbleton = {
+	7899.1.1 = {
+		change_development_level = 14
+	}
+}
+# County  : Catsclaw (c_catsclaw)
+c_catsclaw = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Tread Hills (c_tread_hills)
+c_tread_hills = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Wheatcombe (c_wheatcombe)
+c_wheatcombe = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Estaring (c_estaring)
+c_estaring = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Ridgeland (c_ridgeland)
+c_ridgeland = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Mandale (c_mandale)
+c_mandale = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# Duchy   : Bitterbridge (d_bitterbridge)
+# County  : Bitterbridge (c_bitterbridge)
+c_bitterbridge = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Runnelweald (c_runnelweald)
+c_runnelweald = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Hammerhal (c_hammerhal)
+c_hammerhal = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Melneyness (c_melneyness)
+c_melneyness = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Bawnbrook (c_bawnbrook)
+c_bawnbrook = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Cherlysh (c_cherlysh)
+c_cherlysh = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Summerfell (c_summerfell)
+c_summerfell = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# Duchy   : Blueburn (d_blueburn)
+# County  : Grassy Vale (c_grassy_vale)
+c_grassy_vale = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Harp's Head (c_harps_head)
+c_harps_head = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Hatchbury (c_hatchbury)
+c_hatchbury = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Stafford (c_stafford)
+c_stafford = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Roseford (c_roseford)
+c_roseford = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Wantington (c_wantington)
+c_wantington = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Fullharvest (d_fullharvest)
+# County  : Longtable (c_longtable)
+c_longtable = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Esterrace (c_esterrace)
+c_esterrace = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Merrilene (c_merrilene)
+c_merrilene = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Harvestyne (c_harvestyne)
+c_harvestyne = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Stalkvale (c_stalkvale)
+c_stalkvale = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Cobblestone (c_cobblestone)
+c_cobblestone = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# Duchy   : Shield Islands (d_shield_islands)
+# County  : Oakenshield (c_oakenshield)
+c_oakenshield = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Greyshield (c_greyshield)
+c_greyshield = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Greenshield (c_greenshield)
+c_greenshield = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Small Shields (c_small_shields)
+c_small_shields = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Southshield (c_southshield)
+c_southshield = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : The Arbor (d_the_arbor)
+# County  : Wynegarde (c_wynegarde)
+c_wynegarde = {
+	7899.1.1 = {
+		change_development_level = 15
+	}
+}
+# County  : Starfish Harbor (c_starfish_harbor)
+c_starfish_harbor = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Vinetown (c_vinetown)
+c_vinetown = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Peachtree (c_peachtree)
+c_peachtree = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Stonecrab Cape (c_stonecrab_cape)
+c_stonecrab_cape = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Mermaid Rocks (c_mermaid_rocks)
+c_mermaid_rocks = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Kingdom : The Riverlands (k_the_riverlands)
+# Duchy   : Riverrun (d_riverrun)
+# County  : Riverrun (c_riverrun)
+c_riverrun = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Turnbridge (c_turnbridge)
+c_turnbridge = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Martlet Bend (c_martlet_bend)
+c_martlet_bend = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Burnout (c_burnout)
+c_burnout = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Star's Ban (c_stars_ban)
+c_stars_ban = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Heathersage (c_heathersage)
+c_heathersage = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Illfield (c_illfield)
+c_illfield = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# Duchy   : Blackwood Vale (d_blackwood_vale)
+# County  : Raventree (c_raventree)
+c_raventree = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Mudgrave (c_mudgrave)
+c_mudgrave = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Rutting (c_rutting)
+c_rutting = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Flockshade (c_flockshade)
+c_flockshade = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Maidstone (c_maidstone)
+c_maidstone = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Ravensmarch (c_ravensmarch)
+c_ravensmarch = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Waspwood (c_waspwood)
+c_waspwood = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : The Ravishment (c_the_ravishment)
+c_the_ravishment = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Honeytree (c_honeytree)
+c_honeytree = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# Duchy   : Cape of Eagles (d_cape_of_eagles)
+# County  : Seagard (c_seagard)
+c_seagard = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Hammerford (c_hammerford)
+c_hammerford = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Hook Bay (c_hook_bay)
+c_hook_bay = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Rushmoor (c_rushmoor)
+c_rushmoor = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Seagate (c_seasorrow)
+c_seasorrow = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Mistcore (c_mistcore)
+c_mistcore = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Eagleside (c_eagleside)
+c_eagleside = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : The Crossing (d_the_crossing)
+# County  : The Twins (c_the_twins)
+c_the_twins = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Arganbrook (c_arganbrook)
+c_arganbrook = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Leechpool (c_leechpool)
+c_leechpool = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Mistlewood (c_mistlewood)
+c_mistlewood = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Erenford (c_erenford)
+c_erenford = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Blackpitch (c_blackpitch)
+c_blackpitch = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Helney (c_helney)
+c_helney = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Ironwater (c_ironwater)
+c_ironwater = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Woodrush (c_woodrush)
+c_woodrush = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Lakeleaf Highlands (d_lakeleaf_highlands)
+# County  : Stillfen (c_stillfen)
+c_stillfen = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Wernell (c_wernell)
+c_wernell = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Grimwind (c_grimwind)
+c_grimwind = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Greenlily (c_greenlily)
+c_greenlily = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Wayleroot (c_wayleroot)
+c_wayleroot = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Stonyhead (c_stonyhead)
+c_stonyhead = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Duchy   : Willow Wood (d_willow_wood)
+# County  : Willow Wood (c_willow_wood)
+c_willow_wood = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Sweetwillow (c_sweetwillow)
+c_sweetwillow = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Elmbridge (c_elmbridge)
+c_elmbridge = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Longleaf (c_longleaf)
+c_longleaf = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Morey (c_morey)
+c_morey = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : Trident's Mouth (d_tridents_mouth)
+# County  : Darry (c_darry)
+c_darry = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Riverbend (c_riverbend)
+c_riverbend = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Saltpans (c_saltpans)
+c_saltpans = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Saltpans Rise (c_saltpans_rise)
+c_saltpans_rise = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Marstone (c_marstone)
+c_marstone = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Stillside (c_stillside)
+c_stillside = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Spiderwood (c_spiderwood)
+c_spiderwood = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : Maidenpool (d_maidenpool)
+# County  : Maidenpool (c_maidenpool)
+c_maidenpool = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Oldhonor (c_oldhonor)
+c_oldhonor = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Lolliston (c_lolliston)
+c_lolliston = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Honeymaiden (c_honeymaiden)
+c_honeymaiden = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Werthport (c_werthport)
+c_werthport = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# Duchy   : Harrenhal (d_harrenhal)
+# County  : Harrenhal (c_harrenhal)
+c_harrenhal = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Ferrybridge (c_ferrybridge)
+c_ferrybridge = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Harroway (c_harroway)
+c_harroway = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Milkstone (c_milkstone)
+c_milkstone = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Shorehedge (c_shorehedge)
+c_shorehedge = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Briarwhite (c_briarwhite)
+c_briarwhite = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Rippledown Rill (c_rippledown_rill)
+c_rippledown_rill = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Horsehead (c_horsehead)
+c_horsehead = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# Duchy   : Lakehaven (d_lakehaven)
+# County  : Lakehaven (c_lakehaven)
+c_lakehaven = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Elmcastle (c_elmcastle)
+c_elmcastle = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Castlewood (c_castlewood)
+c_castlewood = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Tanglewood (c_tanglewood)
+c_tanglewood = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Darkmoor (c_darkmoor)
+c_darkmoor = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Rushdown (c_rushdown)
+c_rushdown = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Atranta (d_atranta)
+# County  : Atranta (c_atranta)
+c_atranta = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Armistead's Wood (c_armisteads_wood)
+c_armisteads_wood = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Blackrush (c_blackrush)
+c_blackrush = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Hagedorn (c_hagedorn)
+c_hagedorn = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Bringrunn (c_bringrunn)
+c_bringrunn = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Rushinground (c_rushinground)
+c_rushinground = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Knellstone (d_knellstone)
+# County  : Stoney Sept (c_stoney_sept)
+c_stoney_sept = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Fieldstone (c_fieldstone)
+c_fieldstone = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Tumbler's Falls (c_tumblers_falls)
+c_tumblers_falls = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Mainstream (c_mainstream)
+c_mainstream = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Bechester (c_bechester)
+c_bechester = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : Southstone (d_southstone)
+# County  : Stone Hedge (c_stone_hedge)
+c_stone_hedge = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Sallydance (c_sallydance)
+c_sallydance = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : High Heart (c_high_heart)
+c_high_heart = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Deadsteady (c_deadsteady)
+c_deadsteady = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Medway (c_medway)
+c_medway = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : The Willows (c_the_willows)
+c_the_willows = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Crossing Ponds (c_crossing_ponds)
+c_crossing_ponds = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Oldwithe (c_oldwithe)
+c_oldwithe = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : Pinkmaiden (d_pinkmaiden)
+# County  : Pinkmaiden (c_pinkmaiden)
+c_pinkmaiden = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Wallwood (c_wallwood)
+c_wallwood = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Whitebricks (c_whitebricks)
+c_whitebricks = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Dawngate (c_dawngate)
+c_dawngate = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Wishere (c_wishere)
+c_wishere = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Float River (c_float_river)
+c_float_river = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Puresprings (c_puresprings)
+c_puresprings = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Wayfarer's Rest (d_wayfarers_rest)
+# County  : Wayfarer's Rest (c_wayfarers_rest)
+c_wayfarers_rest = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Ruby Shoals (c_ruby_shoals)
+c_ruby_shoals = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Coldstone (c_coldstone)
+c_coldstone = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Runvane (c_runvane)
+c_runvane = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Donnelwood (c_donnelwood)
+c_donnelwood = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Acorn's Ridge (c_acorns_ridge)
+c_acorns_ridge = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Banbeck Vale (c_banbeck_vale)
+c_banbeck_vale = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Morningswake (c_morningswake)
+c_morningswake = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Fairmarket (d_fairmarket)
+# County  : Ramsford (c_ramsford)
+c_ramsford = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Fairmarket (c_fairmarket)
+c_fairmarket = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Runnymudd (c_runnymudd)
+c_runnymudd = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Whiskermoor (c_whiskermoor)
+c_whiskermoor = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Three Forks (d_three_forks)
+# County  : Lancewood (c_lancewood)
+c_lancewood = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Gaines (c_gaines)
+c_gaines = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Branstone (c_branstone)
+c_branstone = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Speckleplum (c_speckleplum)
+c_speckleplum = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : The Moonbrooks (d_the_moonbrooks)
+# County  : Oldferns (c_oldferns)
+c_oldferns = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : White Wood (c_white_wood)
+c_white_wood = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Helmesmont (c_helmesmont)
+c_helmesmont = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Kingdom : The Stormlands (k_the_stormlands)
+# Duchy   : Shipbreaker Bay (d_shipbreaker_bay)
+# County  : Storm's End (c_storms_end)
+c_storms_end = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Bronzegate (c_bronzegate)
+c_bronzegate = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Horncross Sound (c_horncross_sound)
+c_horncross_sound = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Shearfield (c_shearfield)
+c_shearfield = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : The Grief (c_the_grief)
+c_the_grief = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# Duchy   : Nestridge (d_nestridge)
+# County  : Griffin's Roost (c_griffins_roost)
+c_griffins_roost = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Redwind (c_redwind)
+c_redwind = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Pennon (c_pennon)
+c_pennon = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Highwind (c_highwind)
+c_highwind = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# Duchy   : The Slayne (d_the_slayne)
+# County  : Crow's Nest (c_crows_nest)
+c_crows_nest = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Doorlan (c_doorlan)
+c_doorlan = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Slayne's Break (c_slaynes_break)
+c_slaynes_break = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Redpool (c_redpool)
+c_redpool = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Grandview (d_grandview)
+# County  : Grandview (c_grandview)
+c_grandview = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Scale Valley (c_scale_valley)
+c_scale_valley = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Muchyre (c_muchyre)
+c_muchyre = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Summerfield (c_summerfield)
+c_summerfield = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Leddan (c_leddan)
+c_leddan = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Dark Harrow (d_dark_harrow)
+# County  : Gallowsgrey (c_gallowsgrey)
+c_gallowsgrey = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Blackheart (c_blackheart)
+c_blackheart = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Wellwend (c_wellwend)
+c_wellwend = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Harrowfield (c_harrowfield)
+c_harrowfield = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Darcroft (c_darcroft)
+c_darcroft = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : The Drench (d_the_drench)
+# County  : Rainshore (c_rainshore)
+c_rainshore = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Greenpools (c_greenpools)
+c_greenpools = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Grinsdale (c_grinsdale)
+c_grinsdale = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Griffin River (c_griffin_river)
+c_griffin_river = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Duchy   : Cape Wrath (d_cape_wrath)
+# County  : Mistfall (c_mistfall)
+c_mistfall = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Weeping Town (c_weeping_town)
+c_weeping_town = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Wrathfield (c_wrathfield)
+c_wrathfield = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Wrathrock (c_wrathrock)
+c_wrathrock = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Bronzeaxe (c_bronzeaxe)
+c_bronzeaxe = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Armigan (c_armigan)
+c_armigan = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : The Rainwood (d_the_rainwood)
+# County  : Whirlyng (c_whirlyng)
+c_whirlyng = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Bluegrove (c_bluegrove)
+c_bluegrove = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Amberly (c_amberly)
+c_amberly = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Paintwood (c_paintwood)
+c_paintwood = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Rain's Neck (c_rains_neck)
+c_rains_neck = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Estermont Isles (d_estermont_isles)
+# County  : Estermont (c_estermont)
+c_estermont = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Tudbury Island (c_tudbury_island)
+c_tudbury_island = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Pikerock (c_pikerock)
+c_pikerock = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Lestermarks (c_lestermarks)
+c_lestermarks = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Red Watch (d_red_watch)
+# County  : Stonehelm (c_stonehelm)
+c_stonehelm = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Choicemarch (c_choicemarch)
+c_choicemarch = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Riskmarch (c_riskmarch)
+c_riskmarch = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Swellcrest (c_swellcrest)
+c_swellcrest = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Corningstone (c_corningstone)
+c_corningstone = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Severisles (c_severisles)
+c_severisles = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : Blackhaven (d_blackhaven)
+# County  : Blackhaven (c_blackhaven)
+c_blackhaven = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Highscar (c_highscar)
+c_highscar = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Deadmere (c_deadmere)
+c_deadmere = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Greyhawk (c_greyhawk)
+c_greyhawk = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Evernight (c_evernight)
+c_evernight = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# Duchy   : Marchfields (d_marchfields)
+# County  : Harvest Hall (c_harvest_hall)
+c_harvest_hall = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Death's Head (c_deaths_head)
+c_deaths_head = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : The Stalks (c_the_stalks)
+c_the_stalks = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Fielderidge (c_fielderidge)
+c_fielderidge = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Nightsong (d_nightsong)
+# County  : Nightsong (c_nightsong)
+c_nightsong = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Laughing Hills (c_laughing_hills)
+c_laughing_hills = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Nailstone (c_nailstone)
+c_nailstone = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Thrushing (c_thrushing)
+c_thrushing = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Dead Rise (c_dead_rise)
+c_dead_rise = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Whentway (d_whentway)
+# County  : Fawnton (c_fawnton)
+c_fawnton = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Goodwreath (c_goodwreath)
+c_goodwreath = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Buttonweed (c_buttonweed)
+c_buttonweed = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Nubbock (c_nubbock)
+c_nubbock = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Harthwood (c_harthwood)
+c_harthwood = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Valor Meadows (d_valor_meadows)
+# County  : Broad Arch (c_broad_arch)
+c_broad_arch = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Cloveridge (c_cloveridge)
+c_cloveridge = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Trenchester (c_trenchester)
+c_trenchester = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Dew Hills (c_dew_hills)
+c_dew_hills = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Greatstock (d_greatstock)
+# County  : Poddingfield (c_poddingfield)
+c_poddingfield = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Hennery (c_hennery)
+c_hennery = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Goodtilth (c_goodtilth)
+c_goodtilth = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Blythedurn (c_blythedurn)
+c_blythedurn = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Wetherstruck (c_wetherstruck)
+c_wetherstruck = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Oldfield (c_oldfield)
+c_oldfield = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : Kingswood (d_kingswood)
+# County  : Felwood (c_felwood)
+c_felwood = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Murdren (c_murdren)
+c_murdren = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Wormwood (c_wormwood)
+c_wormwood = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Rootvyne (c_rootvyne)
+c_rootvyne = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Wendover (c_wendover)
+c_wendover = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Timberlyn (c_timberlyn)
+c_timberlyn = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : The Hollows (c_the_hollows)
+c_the_hollows = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Blackmill (c_blackmill)
+c_blackmill = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Stackfield (d_stackfield)
+# County  : The Haystacks (c_the_haystacks)
+c_the_haystacks = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Hadlow Fields (c_hadlow_fields)
+c_hadlow_fields = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Castletyne (c_castletyne)
+c_castletyne = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Strawbury (c_strawbury)
+c_strawbury = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Vellum Coast (d_vellum_coast)
+# County  : Parchments (c_parchments)
+c_parchments = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Pelltruth (c_pelltruth)
+c_pelltruth = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Nevermore (c_nevermore)
+c_nevermore = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Morlescent (c_morlescent)
+c_morlescent = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Tarth (d_tarth)
+# County  : Evenfall (c_evenfall)
+c_evenfall = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Brightmoor (c_brightmoor)
+c_brightmoor = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Sundown (c_sundown)
+c_sundown = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Mightpoint (c_mightpoint)
+c_mightpoint = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Morningside (c_morningside)
+c_morningside = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Kingdom : The Vale (k_the_vale)
+# Duchy   : The Giant's Lance (d_the_giants_lance)
+# County  : The Eyrie (c_the_eyrie)
+c_the_eyrie = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Moongates (c_moongates)
+c_moongates = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : High Road (c_godsroost)
+c_godsroost = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : The Bloody Gate (c_the_bloody_gate)
+c_the_bloody_gate = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Donnersdown (c_donnersdown)
+c_donnersdown = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Giant's Scar (c_giants_scar)
+c_giants_scar = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Strongstone (d_strongstone)
+# County  : The Redfort (c_the_redfort)
+c_the_redfort = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Breckland (c_breckland)
+c_breckland = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Brume (c_brume)
+c_brume = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Tangled Shore (c_tangled_shore)
+c_tangled_shore = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Mullbry (c_mullbry)
+c_mullbry = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Wickenden (d_wickenden)
+# County  : Wickenden (c_wickenden)
+c_wickenden = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Crab's Shore (c_crabs_shore)
+c_crabs_shore = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Marbletoft (c_marbletoft)
+c_marbletoft = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : Ninestars (d_ninestars)
+# County  : Ninestars (c_ninestars)
+c_ninestars = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Kipress (c_kipress)
+c_kipress = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Stoutstone (c_stoutstone)
+c_stoutstone = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Newberry (c_newberry)
+c_newberry = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# Duchy   : Ironoaks (d_ironoaks)
+# County  : Ironoaks (c_ironoaks)
+c_ironoaks = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Hardvale (c_hardvale)
+c_hardvale = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : The Banners (c_the_banners)
+c_the_banners = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Hazen (c_hazen)
+c_hazen = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Ryefeld (c_ryefeld)
+c_ryefeld = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# Duchy   : Old Anchor (d_old_anchor)
+# County  : Old Anchor (c_old_anchor)
+c_old_anchor = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Rustpointe (c_rustpointe)
+c_rustpointe = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Wycliffe (c_wycliffe)
+c_wycliffe = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Tetchmere (c_tetchmere)
+c_tetchmere = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : Eastweald (d_eastweald)
+# County  : Longbow Hills (c_longbow_hills)
+c_longbow_hills = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Ruthermont (c_ruthermont)
+c_ruthermont = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Sedgemore (c_sedgemore)
+c_sedgemore = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Lyme (c_lyme)
+c_lyme = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Brackenbrick Point (c_brackenbrick_point)
+c_brackenbrick_point = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Bowlyn (c_bowlyn)
+c_bowlyn = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : The Stills (c_the_stills)
+c_the_stills = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Gulltown (d_gulltown)
+# County  : Gulltown (c_gulltown)
+c_gulltown = {
+	7899.1.1 = {
+		change_development_level = 15
+	}
+}
+# County  : Osgoodswell (c_osgoodswell)
+c_osgoodswell = {
+	7899.1.1 = {
+		change_development_level = 14
+	}
+}
+# County  : Port of Arryn (c_port_of_arryn)
+c_port_of_arryn = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Etterbill (c_etterbill)
+c_etterbill = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Kear (c_kear)
+c_kear = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# Duchy   : Runestone (d_runestone)
+# County  : Runestone (c_runestone)
+c_runestone = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Bronzeguard (c_bronzeguard)
+c_bronzeguard = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Gullview (c_gullview)
+c_gullview = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : The Etchings (c_the_etchings)
+c_the_etchings = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Witch Isle (c_witch_isle)
+c_witch_isle = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : The Drainlands (d_the_drainlands)
+# County  : Coldwater Burn (c_coldwater_burn)
+c_coldwater_burn = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Grey Glen (c_grey_glen)
+c_grey_glen = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Longmoor (c_longmoor)
+c_longmoor = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Pinkstrath (c_pinkstrath)
+c_pinkstrath = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Tammerlan (c_tammerlan)
+c_tammerlan = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Crowncrests (d_crowncrests)
+# County  : Crown Crescent (c_crown_crescent)
+c_crown_crescent = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Morency (c_morency)
+c_morency = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Crestfall (c_crestfall)
+c_crestfall = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Purling (c_purling)
+c_purling = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : Heart's Home (d_hearts_home)
+# County  : Heart's Home (c_hearts_home)
+c_hearts_home = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Bronzespear (c_bronzespear)
+c_bronzespear = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Stonefall (c_stonefall)
+c_stonefall = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Rathmore (c_rathmore)
+c_rathmore = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Standish (c_standish)
+c_standish = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy   : Strongsong (d_strongsong)
+# County  : Strongsong (c_strongsong)
+c_strongsong = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Vearnon (c_vearnon)
+c_vearnon = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Timber's Wedge (c_timbers_wedge)
+c_timbers_wedge = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Clammath (c_clammath)
+c_clammath = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Topperpoole (c_topperpoole)
+c_topperpoole = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Waldlake (c_waldlake)
+c_waldlake = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Bluewater (c_bluewater)
+c_bluewater = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : Snakewood Forest (d_snakewood_forest)
+# County  : Snakewood (c_snakewood)
+c_snakewood = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Sunkenwood (c_sunkenwood)
+c_sunkenwood = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Hungerford (c_hungerford)
+c_hungerford = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Harrowpool (c_harrowpool)
+c_harrowpool = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Willowspire (c_willowspire)
+c_willowspire = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Correll (c_correll)
+c_correll = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Misty Moor (c_misty_moor)
+c_misty_moor = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : Grimholm (d_grimholm)
+# County  : The Paps (c_the_paps)
+c_the_paps = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Midlor Point (c_midlor_point)
+c_midlor_point = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Midlor (c_midlor)
+c_midlor = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Brownden (c_brownden)
+c_brownden = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Bommenstone (c_bommenstone)
+c_bommenstone = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : Northbreach (d_northbreach)
+# County  : Hersy (c_hersy)
+c_hersy = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Pebble (c_pebble)
+c_pebble = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Eventide (c_eventide)
+c_eventide = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Portmouth (c_portmouth)
+c_portmouth = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Reckshaw (c_reckshaw)
+c_reckshaw = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Scorched Vale (c_scorched_vale)
+c_scorched_vale = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Forgotten Shore (c_forgotten_shore)
+c_forgotten_shore = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : Strikeguard (c_strikeguard)
+c_strikeguard = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : The Cut (d_the_cut)
+# County  : Sunrise Bite (c_sunrise_bite)
+c_sunrise_bite = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Rockle (c_rockle)
+c_rockle = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Bludden (c_bludden)
+c_bludden = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Crow's Barrens (c_crows_barrens)
+c_crows_barrens = {
+	7899.1.1 = {
+		change_development_level = 1
+	}
+}
+# County  : Moonbloom (c_moonbloom)
+c_moonbloom = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy   : The Sisters (d_the_sisters)
+# County  : Sunderland (c_sunderland)
+c_sunderland = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : West Longsister (c_west_longsister)
+c_west_longsister = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Sweetsister (c_sweetsister)
+c_sweetsister = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Littlesister (c_littlesister)
+c_littlesister = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# Kingdom : The Westerlands (k_the_westerlands)
+# Duchy   : Casterly Rock (d_casterly_rock)
+# County  : Casterly Rock (c_casterly_rock)
+c_casterly_rock = {
+	7899.1.1 = {
+		change_development_level = 16
+	}
+}
+# County  : Lannisport (c_lannisport)
+c_lannisport = {
+	7899.1.1 = {
+		change_development_level = 18
+	}
+}
+# County  : Fang Hill (c_fang_hill)
+c_fang_hill = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Hetherfield (c_hetherfield)
+c_hetherfield = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Hadersly (c_hadersly)
+c_hadersly = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Lonmont (c_lonmont)
+c_lonmont = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Motley Hills (c_motley_hills)
+c_motley_hills = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : Crakehall (d_crakehall)
+# County  : Crakehall (c_crakehall)
+c_crakehall = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Greenrust (c_greenrust)
+c_greenrust = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Forthane (c_forthane)
+c_forthane = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Biltmore (c_biltmore)
+c_biltmore = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Broughton (c_broughton)
+c_broughton = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# Duchy   : The Fieldlands (d_the_fieldlands)
+# County  : Cornfield (c_cornfield)
+c_cornfield = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Greenfield (c_greenfield)
+c_greenfield = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Foote Hills (c_foote_hills)
+c_foote_hills = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Toll Pass (c_toll_pass)
+c_toll_pass = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Wellsmere (c_wellsmere)
+c_wellsmere = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : Rundridge (d_rundridge)
+# County  : Roundtowers (c_roundtowers)
+c_roundtowers = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Stilwood (c_stilwood)
+c_stilwood = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Stingrock (c_stingrock)
+c_stingrock = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Pleasant Hills (c_pleasant_hills)
+c_pleasant_hills = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# Duchy   : Sterling (d_sterling)
+# County  : Silverhill (c_silverhill)
+c_silverhill = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Featherhorn (c_featherhorn)
+c_featherhorn = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Redbramble (c_redbramble)
+c_redbramble = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Longbolt (c_longbolt)
+c_longbolt = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Lansdale (c_lansdale)
+c_lansdale = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Stonecliffe (c_stonecliffe)
+c_stonecliffe = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Whiteridge (c_whiteridge)
+c_whiteridge = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Louth (c_louth)
+c_louth = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# Duchy   : Denslane (d_denslane)
+# County  : Deep Den (c_deep_den)
+c_deep_den = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Star's Ridge (c_stars_ridge)
+c_stars_ridge = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Raddle (c_raddle)
+c_raddle = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Long Rock (c_long_rock)
+c_long_rock = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Greybrocks (c_greybrocks)
+c_greybrocks = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# Duchy   : The Gold Road (d_the_gold_road)
+# County  : Worthmark (c_worthmark)
+c_worthmark = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Riverspring (c_riverspring)
+c_riverspring = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Rutland (c_rutland)
+c_rutland = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Brixworth (c_brixworth)
+c_brixworth = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# Duchy   : Hornvale (d_hornvale)
+# County  : Hornvale (c_hornvale)
+c_hornvale = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Alderedge (c_alderedge)
+c_alderedge = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Deadwater (c_deadwater)
+c_deadwater = {
+	7899.1.1 = {
+		change_development_level = 7
+	}
+}
+# County  : Bymore (c_bymore)
+c_bymore = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : The Golden Tooth (d_the_golden_tooth)
+# County  : The Golden Tooth (c_the_golden_tooth)
+c_the_golden_tooth = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Oxcross (c_oxcross)
+c_oxcross = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Broadhollow (c_broadhollow)
+c_broadhollow = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Bellantine (c_bellantine)
+c_bellantine = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# Duchy   : Ashemark (d_ashemark)
+# County  : Ashemark (c_ashemark)
+c_ashemark = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Ruffell (c_ruffell)
+c_ruffell = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Rivermont (c_rivermont)
+c_rivermont = {
+	7899.1.1 = {
+		change_development_level = 2
+	}
+}
+# County  : Nunn's Deep (c_nunns_deep)
+c_nunns_deep = {
+	7899.1.1 = {
+		change_development_level = 3
+	}
+}
+# County  : The Drop (c_the_drop)
+c_the_drop = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : Goldmarch (d_goldmarch)
+# County  : Provence (c_provence)
+c_provence = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Golden Hills (c_golden_hills)
+c_golden_hills = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# County  : Darrows (c_darrows)
+c_darrows = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : Withermoore (d_withermoore)
+# County  : Banefort (c_banefort)
+c_banefort = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Wyndemere (c_wyndemere)
+c_wyndemere = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Fearby (c_fearby)
+c_fearby = {
+	7899.1.1 = {
+		change_development_level = 5
+	}
+}
+# County  : Old Ridge (c_old_ridge)
+c_old_ridge = {
+	7899.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy   : The Crag (d_the_crag)
+# County  : The Crag (c_the_crag)
+c_the_crag = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Eldress (c_eldress)
+c_eldress = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Highview (c_highview)
+c_highview = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# County  : Vellon (c_vellon)
+c_vellon = {
+	7899.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy   : Castamere (d_castamere)
+# County  : Castamere (c_castamere)
+c_castamere = {
+	7899.1.1 = {
+		change_development_level = 13
+	}
+}
+# County  : Sarsfield (c_sarsfield)
+c_sarsfield = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Lowell (c_lowell)
+c_lowell = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Pendric Hills (c_pendric_hills)
+c_pendric_hills = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Borrowmore (c_borrowmore)
+c_borrowmore = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# Duchy   : Tarrich (d_tarrich)
+# County  : Seven Points (c_seven_points)
+c_seven_points = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Borrenline (c_borrenline)
+c_borrenline = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# County  : Trembley (c_trembley)
+c_trembley = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Midvale (c_midvale)
+c_midvale = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# Duchy   : Lann's Point (d_lanns_point)
+# County  : Feastfires (c_feastfires)
+c_feastfires = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Kayce (c_kayce)
+c_kayce = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Kynlands (c_kynlands)
+c_kynlands = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+# County  : Clever Cove (c_clever_cove)
+c_clever_cove = {
+	7899.1.1 = {
+		change_development_level = 10
+	}
+}
+# Duchy   : Fair Isle (d_fair_isle)
+# County  : Faircastle (c_faircastle)
+c_faircastle = {
+	7899.1.1 = {
+		change_development_level = 12
+	}
+}
+# County  : Clifton (c_clifton)
+c_clifton = {
+	7899.1.1 = {
+		change_development_level = 9
+	}
+}
+# County  : Madgerich (c_madgerich)
+c_madgerich = {
+	7899.1.1 = {
+		change_development_level = 8
+	}
+}
+
+# Kingdom: Tyrosh (k_tyorsh)
+k_tyrosh = {
+	7800.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy: Tyrosh (d_tyrosh)
+d_tyrosh = {
+	7800.1.1 = {
+		change_development_level = 14
+	}
+}
+# Kingdom: Lys (k_lys)
+k_lys = {
+	7800.1.1 = {
+		change_development_level = 6
+	}
+}
+# Duchy: Lys (d_lys)
+d_lys = {
+	7800.1.1 = {
+		change_development_level = 14
+	}
+}
+# Kingdom: Myr (k_myr)
+k_myr = {
+	7800.1.1 = {
+		change_development_level = 7
+	}
+}
+# County: Myr (c_myr)
+c_myr = {
+	7800.1.1 = {
+		change_development_level = 14
+	}
+}
+# County: Myrish Docks (c_myrish_docks)
+c_myrish_docks = {
+	7800.1.1 = {
+		change_development_level = 14
+	}
+}
+# County: Imeimyr (c_imeimyr)
+c_imeimyr = {
+	7800.1.1 = {
+		change_development_level = 14
+	}
+}
+# Kingdom: Disputed Lands (k_dispouted_lands)
+# Duchy: Trade Cities (d_trade_cities)
+d_trade_cities = {
+	7800.1.1 = {
+		change_development_level = 4
+	}
+}
+# Duchy: Aesomyr (d_aesomyr)
+d_aesomyr = {
+	7800.1.1 = {
+		change_development_level = 2
+	}
+}
+# Duchy: Battle Hills (d_battle_hills)
+d_battle_hills = {
+	7800.1.1 = {
+		change_development_level = 3
+	}
+}
+# Duchy: Hell's Barrens (d_hells_barrens)
+d_hells_barrens = {
+	7800.1.1 = {
+		change_development_level = 5
+	}
+}
+# Duchy: The Shambles (d_the_shambles)
+d_the_shambles = {
+	7800.1.1 = {
+		change_development_level = 4
+	}
+}
+# Kingdom: Pentos (k_pentos)
+k_pentos = {
+	7800.1.1 = {
+		change_development_level = 8
+	}
+}
+# County: Prince's Quarter (c_princes_quarter)
+c_princes_quarter = {
+	7800.1.1 = {
+		change_development_level = 14
+	}
+}
+# County: Pentos (c_pentos)
+c_pentos = {
+	7800.1.1 = {
+		change_development_level = 14
+	}
+}
+# County: Artisanal Way (c_artisanal_way)
+c_artisanal_way = {
+	7800.1.1 = {
+		change_development_level = 14
+	}
+}
+# Kingdom: Andalos (k_andalos)
+k_andalos = {
+	7800.1.1 = {
+		change_development_level = 4
+	}
+}
+# Kingdom: Stepstones (k_the_stepstones)
+k_the_stepstones = {
+	7800.1.1 = {
+		change_development_level = 1
+	}
+}

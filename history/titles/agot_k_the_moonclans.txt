@@ -1,0 +1,454 @@
+﻿#Moonclans yeet
+# c_tan_annag = {
+# 	2.1.1 = {
+#		succession_laws = { male_only_law confederate_partition_succession_law }
+# 	}
+# 	7950.1.2 = {
+# 		holder = Tan_Annag_1
+# 	}
+# 	8019.9.6 = {
+# 		holder = Tan_Annag_3
+# 	}
+# 	8048.5.10 = {
+# 		holder = Tan_Annag_5
+# 	}
+# 	8093.1.15 = {
+# 		holder = Tan_Annag_7
+# 	}
+# 	8118.12.25 = {
+# 		holder = Tan_Annag_9
+# 	}
+# 	8158.4.17 = {
+# 		holder = Tan_Annag_11
+# 	}
+# 	8178.11.26 = {
+# 		holder = Tan_Annag_13
+# 	}
+# 	8196.3.26 = {
+# 		holder = Tan_Annag_15
+# 	}
+# 	8256.6.24 = {
+# 		holder = Tan_Annag_17
+# 	}
+# 	8275.6.22 = {
+# 		holder = Tan_Annag_19
+# 	}
+# 	8286.10.28 = {
+# 		holder = Tan_Annag_22
+# 	}
+# 	8354.7.17 = {
+# 		holder = Tan_Annag_24
+# 	}
+# }
+# c_kirdumyt = {
+# 	2.1.1 = {
+#		succession_laws = { male_only_law confederate_partition_succession_law }
+# 	}
+# 	7950.5.6 = {
+# 		holder = Kirdumyt_1
+# 	}
+# 	8028.6.12 = {
+# 		holder = Kirdumyt_3
+# 	}
+# 	8042.7.3 = {
+# 		holder = Kirdumyt_5
+# 	}
+# 	8078.6.11 = {
+# 		holder = Kirdumyt_7
+# 	}
+# 	8101.4.3 = {
+# 		holder = Kirdumyt_9
+# 	}
+# 	8115.7.3 = {
+# 		holder = Kirdumyt_11
+# 	}
+# 	8183.4.28 = {
+# 		holder = Kirdumyt_13
+# 	}
+# 	8230.7.24 = {
+# 		holder = Kirdumyt_15
+# 	}
+# 	8246.3.5 = {
+# 		holder = Kirdumyt_17
+# 	}
+# 	8281.7.4 = {
+# 		holder = Kirdumyt_19
+# 	}
+# 	8314.3.17 = {
+# 		holder = Kirdumyt_21
+# 	}
+# }
+# c_vros_arekludak = {
+# 	2.1.1 = {
+#		succession_laws = { male_only_law confederate_partition_succession_law }
+# 	}
+# 	7950.11.12 = {
+# 		holder = Vros_Arekludak_1
+# 	}
+# 	8026.6.13 = {
+# 		holder = Vros_Arekludak_3
+# 	}
+# 	8054.12.4 = {
+# 		holder = Vros_Arekludak_5
+# 	}
+# 	8072.6.5 = {
+# 		holder = Vros_Arekludak_7
+# 	}
+# 	8139.7.5 = {
+# 		holder = Vros_Arekludak_9
+# 	}
+# 	8167.12.11 = {
+# 		holder = Vros_Arekludak_11
+# 	}
+# 	8200.2.14 = {
+# 		holder = Vros_Arekludak_13
+# 	}
+# 	8231.5.16 = {
+# 		holder = Vros_Arekludak_15
+# 	}
+# 	8253.11.5 = {
+# 		holder = Vros_Arekludak_17
+# 	}
+# 	8278.5.16 = {
+# 		holder = Vros_Arekludak_20
+# 	}
+# 	8294.2.7 = {
+# 		holder = Vros_Arekludak_22
+# 	}
+# }
+# c_dhirmyik = {
+# 	2.1.1 = {
+#		succession_laws = { male_only_law confederate_partition_succession_law }
+# 	}
+# 	7950.2.17 = {
+# 		holder = Dhirmyik_1
+# 	}
+# 	8013.2.9 = {
+# 		holder = Dhirmyik_3
+# 	}
+# 	8063.8.19 = {
+# 		holder = Dhirmyik_5
+# 	}
+# 	8082.12.1 = {
+# 		holder = Dhirmyik_7
+# 	}
+# 	8110.5.20 = {
+# 		holder = Dhirmyik_9
+# 	}
+# 	8138.1.6 = {
+# 		holder = Dhirmyik_11
+# 	}
+# 	8183.7.26 = {
+# 		holder = Dhirmyik_13
+# 	}
+# 	8198.10.22 = {
+# 		holder = Dhirmyik_15
+# 	}
+# 	8202.12.8 = {
+# 		holder = Dhirmyik_17
+# 	}
+# 	8255.10.16 = {
+# 		holder = Dhirmyik_19
+# 	}
+# 	8279.10.9 = {
+# 		holder = Dhirmyik_24
+# 	}
+# 	8304.11.1 = {
+# 		holder = Dhirmyik_26
+# 	}
+# }
+# c_rkaih = {
+# 	2.1.1 = {
+#		succession_laws = { male_only_law confederate_partition_succession_law }
+# 	}
+# 	7950.2.13 = {
+# 		holder = Rkaith_1
+# 	}
+# 	8033.6.21 = {
+# 		holder = Rkaith_3
+# 	}
+# 	8053.6.26 = {
+# 		holder = Rkaith_5
+# 	}
+# 	8097.5.3 = {
+# 		holder = Rkaith_7
+# 	}
+# 	8139.12.5 = {
+# 		holder = Rkaith_9
+# 	}
+# 	8144.6.10 = {
+# 		holder = Rkaith_11
+# 	}
+# 	8203.6.21 = {
+# 		holder = Rkaith_13
+# 	}
+# 	8206.8.13 = {
+# 		holder = Rkaith_15
+# 	}
+# 	8264.11.14 = {
+# 		holder = Rkaith_18
+# 	}
+# 	8281.11.20 = {
+# 		holder = Rkaith_21
+# 	}
+# 	8312.12.9 = {
+# 		holder = Rkaith_23
+# 	}
+# 	8357.8.22 = {
+# 		holder = Rkaith_25
+# 	}
+# }
+# c_nrayt = {
+# 	2.1.1 = {
+#		succession_laws = { male_only_law confederate_partition_succession_law }
+# 	}
+# 	7950.11.22 = {
+# 		holder = Nrayt_1
+# 	}
+# 	8019.10.6 = {
+# 		holder = Nrayt_3
+# 	}
+# 	8039.12.21 = {
+# 		holder = Nrayt_5
+# 	}
+# 	8097.8.27 = {
+# 		holder = Nrayt_7
+# 	}
+# 	8113.12.11 = {
+# 		holder = Nrayt_9
+# 	}
+# 	8151.10.22 = {
+# 		holder = Nrayt_11
+# 	}
+# 	8186.7.23 = {
+# 		holder = Nrayt_13
+# 	}
+# 	8229.5.12 = {
+# 		holder = Nrayt_16
+# 	}
+# 	8253.6.15 = {
+# 		holder = Nrayt_19
+# 	}
+# 	8285.7.12 = {
+# 		holder = Nrayt_23
+# 	}
+# }
+# c_aktrih = {
+# 	2.1.1 = {
+#		succession_laws = { male_only_law confederate_partition_succession_law }
+# 	}
+# 	7950.9.13 = {
+# 		holder = Aktrih_1
+# 	}
+# 	8014.7.18 = {
+# 		holder = Aktrih_3
+# 	}
+# 	8020.12.26 = {
+# 		holder = Aktrih_5
+# 	}
+# 	8102.1.23 = {
+# 		holder = Aktrih_7
+# 	}
+# 	8119.8.25 = {
+# 		holder = Aktrih_9
+# 	}
+# 	8153.1.19 = {
+# 		holder = Aktrih_11
+# 	}
+# 	8197.5.25 = {
+# 		holder = Aktrih_13
+# 	}
+# 	8227.10.20 = {
+# 		holder = Aktrih_17
+# 	}
+# 	8251.7.14 = {
+# 		holder = Aktrih_19
+# 	}
+# 	8275.11.5 = {
+# 		holder = Aktrih_21
+# 	}
+# 	8286.1.1 = {
+# 		holder = Aktrih_23
+# 	}
+# }
+# c_rihmued = {
+# 	2.1.1 = {
+#		succession_laws = { male_only_law confederate_partition_succession_law }
+# 	}
+# 	7950.9.15 = {
+# 		holder = Rihmued_1
+# 	}
+# 	8028.1.14 = {
+# 		holder = Rihmued_3
+# 	}
+# 	8042.2.21 = {
+# 		holder = Rihmued_5
+# 	}
+# 	8082.10.27 = {
+# 		holder = Rihmued_7
+# 	}
+# 	8093.4.14 = {
+# 		holder = Rihmued_9
+# 	}
+# 	8135.4.27 = {
+# 		holder = Rihmued_11
+# 	}
+# 	8180.10.20 = {
+# 		holder = Rihmued_13
+# 	}
+# 	8210.7.25 = {
+# 		holder = Rihmued_16
+# 	}
+# 	8223.4.1 = {
+# 		holder = Rihmued_18
+# 	}
+# 	8272.8.13 = {
+# 		holder = Rihmued_20
+# 	}
+# 	8323.10.22 = {
+# 		holder = Rihmued_22
+# 	}
+# }
+# c_vros_tiknnag_kreih = {
+# 	2.1.1 = {
+#		succession_laws = { male_only_law confederate_partition_succession_law }
+# 	}
+# 	7950.6.21 = {
+# 		holder = Vros_Tiknnag_Kreih_1
+# 	}
+# 	8017.1.1 = {
+# 		holder = Vros_Tiknnag_Kreih_3
+# 	}
+# 	8074.11.28 = {
+# 		holder = Vros_Tiknnag_Kreih_5
+# 	}
+# 	8104.5.4 = {
+# 		holder = Vros_Tiknnag_Kreih_7
+# 	}
+# 	8137.12.4 = {
+# 		holder = Vros_Tiknnag_Kreih_9
+# 	}
+# 	8170.11.23 = {
+# 		holder = Vros_Tiknnag_Kreih_11
+# 	}
+# 	8195.7.7 = {
+# 		holder = Vros_Tiknnag_Kreih_13
+# 	}
+# 	8237.12.12 = {
+# 		holder = Vros_Tiknnag_Kreih_15
+# 	}
+# 	8252.4.12 = {
+# 		holder = Vros_Tiknnag_Kreih_17
+# 	}
+# 	8276.7.1 = {
+# 		holder = Vros_Tiknnag_Kreih_19
+# 	}
+# }
+# c_khriyiik = {
+# 	2.1.1 = {
+#		succession_laws = { male_only_law confederate_partition_succession_law }
+# 	}
+# 	7950.8.13 = {
+# 		holder = Khriyiik_1
+# 	}
+# 	8019.4.6 = {
+# 		holder = Khriyiik_3
+# 	}
+# 	8079.1.27 = {
+# 		holder = Khriyiik_5
+# 	}
+# 	8096.10.17 = {
+# 		holder = Khriyiik_7
+# 	}
+# 	8118.9.12 = {
+# 		holder = Khriyiik_9
+# 	}
+# 	8126.11.20 = {
+# 		holder = Khriyiik_11
+# 	}
+# 	8198.7.11 = {
+# 		holder = Khriyiik_13
+# 	}
+# 	8210.2.3 = {
+# 		holder = Khriyiik_15
+# 	}
+# 	8243.11.27 = {
+# 		holder = Khriyiik_17
+# 	}
+# 	8277.11.14 = {
+# 		holder = Khriyiik_19
+# 	}
+# }
+# c_nrih_iseck = {
+# 	2.1.1 = {
+#		succession_laws = { male_only_law confederate_partition_succession_law }
+# 	}
+# 	7950.2.14 = {
+# 		holder = Nrih_Iseck_1
+# 	}
+# 	8035.10.15 = {
+# 		holder = Nrih_Iseck_3
+# 	}
+# 	8065.2.10 = {
+# 		holder = Nrih_Iseck_5
+# 	}
+# 	8086.1.16 = {
+# 		holder = Nrih_Iseck_7
+# 	}
+# 	8117.12.6 = {
+# 		holder = Nrih_Iseck_9
+# 	}
+# 	8168.10.17 = {
+# 		holder = Nrih_Iseck_11
+# 	}
+# 	8191.3.16 = {
+# 		holder = Nrih_Iseck_13
+# 	}
+# 	8202.6.24 = {
+# 		holder = Nrih_Iseck_15
+# 	}
+# 	8258.2.13 = {
+# 		holder = Nrih_Iseck_20
+# 	}
+# 	8297.5.10 = {
+# 		holder = Nrih_Iseck_22
+# 	}
+# }
+# c_vros_karyit = {
+# 	2.1.1 = {
+#		succession_laws = { male_only_law confederate_partition_succession_law }
+# 	}
+# 	7950.10.6 = {
+# 		holder = Vros_Karyit_1
+# 	}
+# 	8001.5.27 = {
+# 		holder = Vros_Karyit_3
+# 	}
+# 	8055.3.6 = {
+# 		holder = Vros_Karyit_5
+# 	}
+# 	8055.8.10 = {
+# 		holder = Vros_Karyit_7
+# 	}
+# 	8112.4.22 = {
+# 		holder = Vros_Karyit_9
+# 	}
+# 	8147.1.2 = {
+# 		holder = Vros_Karyit_11
+# 	}
+# 	8183.9.13 = {
+# 		holder = Vros_Karyit_13
+# 	}
+# 	8219.6.5 = {
+# 		holder = Vros_Karyit_15
+# 	}
+# 	8250.12.12 = {
+# 		holder = Vros_Karyit_18
+# 	}
+# 	8259.7.6 = {
+# 		holder = Vros_Karyit_21
+# 	}
+# 	8280.7.8 = {
+# 		holder = Vros_Karyit_26
+# 	}
+# }
