@@ -63,6 +63,11 @@
 		liege = e_the_iron_throne
 	}
 }
+d_the_moonbrooks = {
+	6535.1.1 = {
+		holder = Placeholder_Justman
+	}
+}
 d_riverrun = {
 	3306.1.1 = {
 		liege = e_the_riverlands

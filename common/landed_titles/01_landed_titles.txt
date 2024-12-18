@@ -6766,677 +6766,6 @@ e_the_iron_throne = {
 				NOT = { exists = title:e_blackwater_bay.holder }
 			}
 		}
-		d_kings_landing = {
-			color = { 152 60 127 }
-			capital = c_kings_landing
-			can_create = {
-				trigger_if = {
-					limit = { 
-						OR = {
-							primary_title.tier >= tier_kingdom
-							AND = {
-								primary_title.tier = tier_duchy
-								is_independent_ruler = no
-							}
-						}
-					}
-					has_title = title:d_kings_landing.title_capital_county
-				}
-				custom_tooltip = {
-					text = agot_can_create_duchy
-					agot_can_create_duchy_title = yes
-				}
-			}
-			c_kings_landing = {
-				color = { 140 34 86 }
-				b_the_red_keep = {
-					province = 4151
-					color = { 81 50 112 }
-					definite_form = yes
-				}
-				b_rhaenyss_hill = {
-					province = 4152
-					color = { 85 46 90 }
-				}
-				b_visenyas_hill = {
-					province = 4153
-					color = { 97 51 104 }
-				}
-				b_hookmarket = {
-					province = 4154
-					color = { 72 50 99 }
-				}
-				b_goldguard_heights = {
-					province = 4155
-					color = { 98 54 102 }
-					no_automatic_claims = yes
-					always_follows_primary_heir = no
-				}
-				b_landingfield = {
-					province = 4156
-					color = { 58 50 107 }
-				}
-			}
-			c_bramsfort = {
-				color = { 206 99 69 }
-				b_bramsfort = {
-					province = 4157
-					color = { 74 57 111 }
-				}
-				b_rush_haven = {
-					province = 4158
-					color = { 72 54 113 }
-				}
-				b_boldferry = {
-					province = 4159
-					color = { 86 49 111 }
-				}
-				b_castle_rushbank = {
-					province = 4160
-					color = { 67 50 99 }
-				}
-			}
-			c_shinebridge = {
-				color = { 215 54 170 }
-				b_shinebridge_hall = {
-					province = 4161
-					color = { 85 49 107 }
-				}
-				b_threshdown = {
-					province = 4162
-					color = { 75 43 101 }
-				}
-				b_carden = {
-					province = 4163
-					color = { 96 56 110 }
-				}
-				b_rustford = {
-					province = 4164
-					color = { 90 48 109 }
-				}
-			}
-			c_wings_pass = {
-				color = { 129 93 196 }
-				b_wings_pass = {
-					province = 4165
-					color = { 82 49 103 }
-				}
-				b_fishdirt = {
-					province = 4166
-					color = { 77 49 103 }
-				}
-				b_turnmouth = {
-					province = 4167
-					color = { 97 50 103 }
-				}
-				b_merdost = {
-					province = 4168
-					color = { 93 50 107 }
-				}
-			}
-			c_blackstripe = {
-				color = { 86 104 132 }
-				b_blackstripe_keep = {
-					province = 4169
-					color = { 82 49 104 }
-				}
-				b_freelock = {
-					province = 4170
-					color = { 55 56 106 }
-				}
-				b_clearwinch = {
-					province = 4171
-					color = { 103 54 103 }
-				}
-			}
-			c_briarcrest = {
-				color = { 160 0 72 }
-				b_briarcrest = {
-					province = 4172
-					color = { 76 49 80 }
-				}
-				b_ashcross = {
-					province = 4173
-					color = { 81 47 113 }
-				}
-			}
-			c_riverline = {
-				color = { 107 25 178 }
-				b_riverline = {
-					province = 4174
-					color = { 84 57 102 }
-				}
-				b_linefield = {
-					province = 4175
-					color = { 105 50 113 }
-				}
-				b_sevenmoor = {
-					province = 4176
-					color = { 92 55 112 }
-				}
-			}
-		}
-		d_hayford = {
-			color = { 170 70 111 }
-			capital = c_hayford
-			can_create = {
-				trigger_if = {
-					limit = { 
-						OR = {
-							primary_title.tier >= tier_kingdom
-							AND = {
-								primary_title.tier = tier_duchy
-								is_independent_ruler = no
-							}
-						}
-					}
-					has_title = title:d_hayford.title_capital_county
-				}
-				custom_tooltip = {
-					text = agot_can_create_duchy
-					agot_can_create_duchy_title = yes
-				}
-			}
-			c_hayford = {
-				color = { 138 16 97 }
-				b_hayford = {
-					province = 4177
-					color = { 158 71 214 }
-				}
-				b_brickdale = {
-					province = 4178
-					color = { 161 77 206 }
-				}
-				b_moorwyn = {
-					province = 4179
-					color = { 136 101 203 }
-				}
-				b_summer_meadow = {
-					province = 4180
-					color = { 158 101 214 }
-				}
-				b_wavy_rune = {
-					province = 4181
-					color = { 180 83 214 }
-				}
-				b_awrey = {
-					province = 4182
-					color = { 181 99 212 }
-				}
-			}
-			c_sows_horn = {
-				color = { 181 72 71 }
-				b_sows_horn = {
-					province = 4183
-					color = { 179 64 208 }
-				}
-				b_dorrill = {
-					province = 4184
-					color = { 91 67 200 }
-				}
-				b_fullmeadow = {
-					province = 4185
-					color = { 56 68 207 }
-				}
-				b_gormey = {
-					province = 4186
-					color = { 85 74 202 }
-				}
-			}
-			c_proudwell = {
-				color = { 154 135 181 }
-				b_coinbridge = {
-					province = 4187
-					color = { 141 62 202 }
-				}
-				b_spottspool = {
-					province = 4188
-					color = { 136 55 208 }
-				}
-				b_brindlewood = {
-					province = 4189
-					color = { 143 66 209 }
-				}
-				b_glassley = {
-					province = 4190
-					color = { 153 89 198 }
-				}
-				b_hanberry = {
-					province = 4191
-					color = { 131 46 203 }
-				}
-			}
-			c_old_yore = {
-				color = { 207 73 99 }
-				b_wicked_wood = {
-					province = 4192
-					color = { 152 77 209 }
-				}
-				b_yore = {
-					province = 4193
-					color = { 140 85 200 }
-				}
-				b_losers_creek = {
-					province = 4194
-					color = { 179 65 216 }
-				}
-				b_groveside = {
-					province = 4195
-					color = { 84 85 208 }
-				}
-				b_standmail = {
-					province = 4196
-					color = { 95 76 208 }
-				}
-			}
-		}
-		d_rosby = {
-			color = { 219 112 155 }
-			capital = c_rosby
-			can_create = {
-				trigger_if = {
-					limit = { 
-						OR = {
-							primary_title.tier >= tier_kingdom
-							AND = {
-								primary_title.tier = tier_duchy
-								is_independent_ruler = no
-							}
-						}
-					}
-					has_title = title:d_rosby.title_capital_county
-				}
-				custom_tooltip = {
-					text = agot_can_create_duchy
-					agot_can_create_duchy_title = yes
-				}
-			}
-			c_rosby = {
-				color = { 235 128 157 }
-				b_rosby = {
-					province = 4197
-					color = { 145 38 83 }
-				}
-				b_hesperplate = {
-					province = 4198
-					color = { 140 45 77 }
-				}
-				b_redpeak_field = {
-					province = 4199
-					color = { 138 39 68 }
-				}
-				b_farmwell = {
-					province = 4200
-					color = { 162 58 97 }
-				}
-				b_grainstead = {
-					province = 4201
-					color = { 163 49 89 }
-				}
-			}
-			c_strongmead = {
-				color = { 177 93 122 }
-				b_strongmead = {
-					province = 4202
-					color = { 127 63 103 }
-				}
-				b_fillmore = {
-					province = 4203
-					color = { 181 45 88 }
-				}
-				b_golden_goose = {
-					province = 4204
-					color = { 164 64 104 }
-				}
-			}
-			c_greensward = {
-				color = { 255 84 117 }
-				b_greensward = {
-					province = 4205
-					color = { 127 27 82 }
-				}
-				b_hedgemeadow = {
-					province = 4206
-					color = { 121 24 65 }
-				}
-				b_needlefield = {
-					province = 4207
-					color = { 150 18 87 }
-				}
-			}
-			c_edgerton = {
-				color = { 212 100 217 }
-				b_edgers_hold = {
-					province = 4208
-					color = { 142 54 94 }
-				}
-				b_burnwheel = {
-					province = 4210
-					color = { 138 33 82 }
-				}
-				b_archester = {
-					province = 4211
-					color = { 143 52 85 }
-				}
-				b_edgerton = {
-					province = 4209
-					color = { 201 62 104 }
-				}
-			}
-			c_whiteplate = {
-				color = { 192 150 134 }
-				b_whiteplate = {
-					province = 4212
-					color = { 200 60 93 }
-				}
-				b_farfield = {
-					province = 4213
-					color = { 144 44 98 }
-				}
-				b_whitfield = {
-					province = 4214
-					color = { 214 40 82 }
-				}
-			}
-			c_redbend = {
-				color = { 236 100 167 }
-				b_redbend = {
-					province = 4215
-					color = { 153 13 70 }
-				}
-				b_dimpool = {
-					province = 4216
-					color = { 191 28 103 }
-				}
-			}
-		}
-		d_stokeworth = {
-			color = { 157 78 151 }
-			capital = c_stokeworth
-			can_create = {
-				trigger_if = {
-					limit = { 
-						OR = {
-							primary_title.tier >= tier_kingdom
-							AND = {
-								primary_title.tier = tier_duchy
-								is_independent_ruler = no
-							}
-						}
-					}
-					has_title = title:d_stokeworth.title_capital_county
-				}
-				custom_tooltip = {
-					text = agot_can_create_duchy
-					agot_can_create_duchy_title = yes
-				}
-			}
-			c_stokeworth = {
-				color = { 121 19 97 }
-				b_castle_stokeworth = {
-					province = 4217
-					color = { 172 103 60 }
-				}
-				b_faithfield = {
-					province = 4218
-					color = { 226 133 74 }
-				}
-				b_lambs_hold = {
-					province = 4219
-					color = { 158 99 56 }
-				}
-				b_woolstock = {
-					province = 4220
-					color = { 207 118 67 }
-				}
-				b_worthbridge = {
-					province = 4221
-					color = { 213 110 73 }
-				}
-				b_ornpasture = {
-					province = 4222
-					color = { 200 104 60 }
-				}
-			}
-			c_grainside = {
-				color = { 220 89 145 }
-				b_grainkeep = {
-					province = 4223
-					color = { 167 100 36 }
-				}
-				b_gravelton = {
-					province = 4224
-					color = { 196 110 51 }
-				}
-				b_wheatmaiden = {
-					province = 4225
-					color = { 186 118 81 }
-				}
-				b_fieldmaiden = {
-					province = 4226
-					color = { 187 75 29 }
-				}
-			}
-			c_silverhead = {
-				color = { 221 74 172 }
-				b_byrch_hall = {
-					province = 4227
-					color = { 172 103 50 }
-				}
-				b_vonnfield = {
-					province = 4228
-					color = { 165 113 63 }
-				}
-				b_estwing = {
-					province = 4229
-					color = { 162 125 66 }
-				}
-				b_silverhead = {
-					province = 4230
-					color = { 184 111 65 }
-				}
-			}
-			c_cantondale = {
-				color = { 132 116 142 }
-				b_brancastle = {
-					province = 4231
-					color = { 231 113 84 }
-				}
-				b_winfield = {
-					province = 4232
-					color = { 193 112 78 }
-				}
-				b_loyalwood = {
-					province = 4233
-					color = { 171 108 77 }
-				}
-			}
-			c_bentbranch = {
-				color = { 75 83 184 }
-				b_bentbranch_keep = {
-					province = 4234
-					color = { 187 110 64 }
-				}
-				b_shady_bush = {
-					province = 4235
-					color = { 147 81 56 }
-				}
-				b_chasefield = {
-					province = 4236
-					color = { 219 124 84 }
-				}
-				b_farmingbend = {
-					province = 4237
-					color = { 152 82 35 }
-				}
-			}
-			c_nessing = {
-				color = { 215 148 212 }
-				b_nessingkeep = {
-					province = 4238
-					color = { 203 85 25 }
-				}
-				b_septons_sound = {
-					province = 4239
-					color = { 201 129 77 }
-				}
-				b_nessfield = {
-					province = 4240
-					color = { 200 105 67 }
-				}
-			}
-		}
-		d_duskendale = {
-			color = { 111 51 93 }
-			capital = c_duskendale
-			can_create = {
-				trigger_if = {
-					limit = { 
-						OR = {
-							primary_title.tier >= tier_kingdom
-							AND = {
-								primary_title.tier = tier_duchy
-								is_independent_ruler = no
-							}
-						}
-					}
-					has_title = title:d_duskendale.title_capital_county
-				}
-				custom_tooltip = {
-					text = agot_can_create_duchy
-					agot_can_create_duchy_title = yes
-				}
-			}
-			c_duskendale = {
-				color = { 84 22 46 }
-				b_dun_fort = {
-					province = 4241
-					color = { 171 85 134 }
-				}
-				b_duskendale = {
-					province = 4242
-					color = { 153 79 136 }
-				}
-				b_highley = {
-					province = 4243
-					color = { 172 57 135 }
-				}
-				b_brickelburn = {
-					province = 4244
-					color = { 147 77 141 }
-				}
-				b_darkhurst = {
-					province = 4245
-					color = { 150 71 136 }
-				}
-				b_pick_hall = {
-					province = 4246
-					color = { 160 88 135 }
-				}
-			}
-			c_darkwoods_mull = {
-				color = { 114 5 62 }
-				b_mullcastle = {
-					province = 4247
-					color = { 166 67 135 }
-				}
-				b_darkwood = {
-					province = 4248
-					color = { 194 54 134 }
-				}
-				b_duskmull = {
-					province = 4249
-					color = { 120 107 133 }
-				}
-			}
-			c_crownback = {
-				color = { 104 64 150 }
-				b_castle_hollard = {
-					province = 4250
-					color = { 148 70 135 }
-				}
-				b_seamill = {
-					province = 4251
-					color = { 133 89 135 }
-				}
-				b_threecrowns = {
-					province = 4252
-					color = { 178 77 136 }
-				}
-				b_blackchief = {
-					province = 4253
-					color = { 149 95 133 }
-				}
-			}
-			c_bluntmark = {
-				color = { 103 86 93 }
-				b_hammerhold = {
-					province = 4254
-					color = { 162 72 136 }
-				}
-				b_smallhammer = {
-					province = 4255
-					color = { 174 83 141 }
-				}
-				b_firsthammer = {
-					province = 4256
-					color = { 110 85 133 }
-				}
-				b_sevenhill = {
-					province = 4257
-					color = { 182 82 134 }
-				}
-			}
-			c_shadowshield = {
-				color = { 107 85 136 }
-				b_shadowshield = {
-					province = 4258
-					color = { 166 93 136 }
-				}
-				b_woodhollow = {
-					province = 4259
-					color = { 134 86 136 }
-				}
-				b_hardmarsh = {
-					province = 4260
-					color = { 132 82 141 }
-				}
-			}
-			c_spinney = {
-				color = { 155 41 87 }
-				b_spinney = {
-					province = 4261
-					color = { 134 98 135 }
-				}
-				b_broadleaf = {
-					province = 4262
-					color = { 178 76 133 }
-				}
-				b_wretchfield = {
-					province = 4263
-					color = { 110 108 133 }
-				}
-				b_leeklan = {
-					province = 4264
-					color = { 120 75 135 }
-				}
-			}
-			c_yellowstars = {
-				color = { 130 102 130 }
-				b_yellowstar_towers = {
-					province = 4265
-					color = { 95 103 139 }
-				}
-				b_mistfall = {
-					province = 4266
-					color = { 149 81 136 }
-				}
-				b_windhaven = {
-					province = 4267
-					color = { 129 102 134 }
-				}
-			}
-		}
 		d_rooks_rest = {
 			color = { 193 97 153 }
 			capital = c_rooks_rest
@@ -7706,225 +7035,6 @@ e_the_iron_throne = {
 				b_grenpoint_bay = {
 					province = 4317
 					color = { 70 60 83 }
-				}
-			}
-		}
-		d_deerfield = {
-			color = { 158 106 141 }
-			capital = c_antlers
-			can_create = {
-				trigger_if = {
-					limit = { 
-						OR = {
-							primary_title.tier >= tier_kingdom
-							AND = {
-								primary_title.tier = tier_duchy
-								is_independent_ruler = no
-							}
-						}
-					}
-					has_title = title:d_deerfield.title_capital_county
-				}
-				custom_tooltip = {
-					text = agot_can_create_duchy
-					agot_can_create_duchy_title = yes
-				}
-			}
-			c_antlers = {
-				color = { 139 59 131 }
-				b_antlers = {
-					province = 4318
-					color = { 129 87 88 }
-				}
-				b_mull_hole = {
-					province = 4319
-					color = { 100 68 88 }
-				}
-				b_barb_town = {
-					province = 4320
-					color = { 141 90 110 }
-				}
-				b_proudrack = {
-					province = 4321
-					color = { 127 90 108 }
-				}
-			}
-			c_vairs_head = {
-				color = { 216 161 191 }
-				b_vairs_head = {
-					province = 4322
-					color = { 112 82 91 }
-				}
-				b_rellhalt = {
-					province = 4323
-					color = { 110 84 98 }
-				}
-				b_fallowpoint = {
-					province = 4324
-					color = { 118 82 96 }
-				}
-				b_maldell = {
-					province = 4325
-					color = { 136 90 108 }
-				}
-			}
-			c_brackworth = {
-				color = { 166 121 153 }
-				b_castle_brackworth = {
-					province = 4326
-					color = { 121 79 95 }
-				}
-				b_bucks_call = {
-					province = 4327
-					color = { 90 66 78 }
-				}
-				b_gruntfield = {
-					province = 4328
-					color = { 93 57 82 }
-				}
-				b_bonebranch = {
-					province = 4329
-					color = { 93 57 71 }
-				}
-			}
-			c_tuskford = {
-				color = { 134 116 127 }
-				b_tusk_keep = {
-					province = 4330
-					color = { 99 89 83 }
-				}
-				b_tuskford = {
-					province = 4331
-					color = { 65 40 57 }
-				}
-				b_stags_rut = {
-					province = 4332
-					color = { 83 54 65 }
-				}
-			}
-			c_point_square = {
-				color = { 135 69 98 }
-				b_point_square = {
-					province = 4333
-					color = { 133 107 114 }
-				}
-				b_woodenglenn = {
-					province = 4334
-					color = { 138 102 104 }
-				}
-			}
-		}
-		d_the_blackwater_rush = {
-			color = { 173 92 167 }
-			capital = c_rollingford
-			can_create = {
-				trigger_if = {
-					limit = { 
-						OR = {
-							primary_title.tier >= tier_kingdom
-							AND = {
-								primary_title.tier = tier_duchy
-								is_independent_ruler = no
-							}
-						}
-					}
-					has_title = title:d_the_blackwater_rush.title_capital_county
-				}
-				custom_tooltip = {
-					text = agot_can_create_duchy
-					agot_can_create_duchy_title = yes
-				}
-			}
-			definite_form = yes
-			c_rollingford = {
-				color = { 226 100 169 }
-				b_rollingford = {
-					province = 4335
-					color = { 190 84 110 }
-				}
-				b_roundspout = {
-					province = 4336
-					color = { 195 53 105 }
-				}
-				b_stoneroll = {
-					province = 4337
-					color = { 206 114 105 }
-				}
-				b_fountainhead = {
-					province = 4338
-					color = { 250 70 109 }
-				}
-			}
-			c_great_fork = {
-				color = { 131 107 201 }
-				b_mergewater = {
-					province = 4339
-					color = { 194 96 114 }
-				}
-				b_harps_tune = {
-					province = 4340
-					color = { 203 44 105 }
-				}
-				b_bevy_town = {
-					province = 4341
-					color = { 188 82 110 }
-				}
-				b_droven = {
-					province = 4342
-					color = { 166 105 115 }
-				}
-			}
-			c_middleton = {
-				color = { 147 32 105 }
-				b_middlefort = {
-					province = 4343
-					color = { 191 52 105 }
-				}
-				b_middleton = {
-					province = 4344
-					color = { 202 74 109 }
-				}
-				b_sorewick = {
-					province = 4345
-					color = { 185 115 111 }
-				}
-			}
-			c_pikemouth = {
-				color = { 137 74 167 }
-				b_pikemouth = {
-					province = 4346
-					color = { 253 89 110 }
-				}
-				b_sickburn = {
-					province = 4347
-					color = { 246 97 108 }
-				}
-				b_fort_neigh = {
-					province = 4348
-					color = { 182 74 109 }
-				}
-				b_tarnscale = {
-					province = 4349
-					color = { 187 117 135 }
-				}
-			}
-			c_longgrass = {
-				color = { 226 141 186 }
-				b_darkwater_keep = {
-					province = 4350
-					color = { 191 53 113 }
-				}
-				b_redgrass_field = {
-					province = 4351
-					color = { 177 101 105 }
-				}
-				b_weeping_ridge = {
-					province = 4352
-					color = { 171 84 113 }
-				}
-				b_rushbend = {
-					province = 4353
-					color = { 245 105 113 }
 				}
 			}
 		}
@@ -8478,6 +7588,82 @@ e_the_north = {
 				custom_tooltip = {
 					text = agot_can_create_duchy
 					agot_can_create_duchy_title = yes
+				}
+			}
+			c_whitecross = {
+				color = { 45 45 50 }
+				b_whitecross = {
+					province = 57
+					color = { 45 45 50 }
+				}
+				no_automatic_claims = yes
+				b_ash_hollow = {
+					province = 59
+					color = { 68 68 68 }
+				}
+				b_wildlings_rest = {
+					province = 60
+					color = { 79 79 79 }
+				}
+				b_chain_lake = {
+					province = 76
+					color = { 71 71 71 }
+				}
+				b_grims_grave = {
+					province = 70
+					color = { 114 115 117 }
+				}
+				b_knightsrange = {
+					province = 67
+					color = { 56 56 56 }
+				}
+				b_thistledown = {
+					province = 62
+					color = { 51 51 51 }
+				}
+				b_old_hedge = {
+					province = 64
+					color = { 82 80 83 }
+				}
+				b_new_bunk = {
+					province = 65
+					color = { 64 64 64 }
+				}
+			}
+			c_giantsbeard = {
+				color = { 112 116 112 }
+				b_north_town = {
+					province = 66
+					color = { 112 116 112 }
+				}
+				no_automatic_claims = yes
+				b_wildelanding = {
+					province = 75
+					color = { 45 45 44 }
+				}
+				b_thistleweald = {
+					province = 74
+					color = { 78 79 79 }
+				}
+				b_stonestead = {
+					province = 73
+					color = { 45 44 45 }
+				}
+				b_old_reeds = {
+					province = 71
+					color = { 85 85 84 }
+				}
+				b_starkstones = {
+					province = 72
+					color = { 79 84 79 }
+				}
+				b_giantsbeard = {
+					province = 68
+					color = { 33 33 33 }
+				}
+				b_wightspear = {
+					province = 69
+					color = { 63 63 63 }
 				}
 			}
 			c_last_hearth = {
@@ -13584,6 +12770,72 @@ e_the_north = {
 				custom_tooltip = {
 					text = agot_can_create_duchy
 					agot_can_create_duchy_title = yes
+				}
+			}
+			c_boreharrow = {
+				color = { 73 73 73 }
+				b_the_heath = {
+					province = 54
+					color = { 73 73 73 }
+					definite_form = yes
+				}
+				no_automatic_claims = yes
+				b_boreharrow = {
+					province = 55
+					color = { 86 90 86 }
+				}
+				b_batscave = {
+					province = 56
+					color = { 94 94 94 }
+				}
+				b_antlerfell = {
+					province = 61
+					color = { 79 77 79 }
+				}
+				b_pikesrush = {
+					province = 63
+					color = { 76 76 76 }
+				}
+				b_the_deadcopse = {
+					province = 58
+					color = { 112 112 112 }
+					definite_form = yes
+				}
+				b_mouse_rock = {
+					province = 7266
+					color = { 86 89 90 }
+				}
+			}
+			c_norlinton = {
+				color = { 53 53 53 }
+				b_norlinton = {
+					province = 47
+					color = { 53 53 53 }
+				}
+				no_automatic_claims = yes
+				b_stoneblood = {
+					province = 48
+					color = { 99 97 100 }
+				}
+				b_glenhaven = {
+					province = 49
+					color = { 27 26 26 }
+				}
+				b_waysrest = {
+					province = 53
+					color = { 109 105 109 }
+				}
+				b_stone_spears = {
+					province = 50
+					color = { 94 93 94 }
+				}
+				b_witchlight = {
+					province = 52
+					color = { 79 78 79 }
+				}
+				b_otherstand = {
+					province = 51
+					color = { 96 96 96 }
 				}
 			}
 			c_holdwater = {
@@ -20530,6 +19782,896 @@ e_the_riverlands = {
 			custom_tooltip = {
 				text = agot_cannot_create_equivalent
 				NOT = { exists = title:e_the_riverlands.holder }
+			}
+		}
+		d_kings_landing = {
+			color = { 152 60 127 }
+			capital = c_kings_landing
+			can_create = {
+				trigger_if = {
+					limit = { 
+						OR = {
+							primary_title.tier >= tier_kingdom
+							AND = {
+								primary_title.tier = tier_duchy
+								is_independent_ruler = no
+							}
+						}
+					}
+					has_title = title:d_kings_landing.title_capital_county
+				}
+				custom_tooltip = {
+					text = agot_can_create_duchy
+					agot_can_create_duchy_title = yes
+				}
+			}
+			c_kings_landing = {
+				color = { 140 34 86 }
+				b_the_red_keep = {
+					province = 4151
+					color = { 81 50 112 }
+					definite_form = yes
+				}
+				b_rhaenyss_hill = {
+					province = 4152
+					color = { 85 46 90 }
+				}
+				b_visenyas_hill = {
+					province = 4153
+					color = { 97 51 104 }
+				}
+				b_hookmarket = {
+					province = 4154
+					color = { 72 50 99 }
+				}
+				b_goldguard_heights = {
+					province = 4155
+					color = { 98 54 102 }
+					no_automatic_claims = yes
+					always_follows_primary_heir = no
+				}
+				b_landingfield = {
+					province = 4156
+					color = { 58 50 107 }
+				}
+			}
+			c_bramsfort = {
+				color = { 206 99 69 }
+				b_bramsfort = {
+					province = 4157
+					color = { 74 57 111 }
+				}
+				b_rush_haven = {
+					province = 4158
+					color = { 72 54 113 }
+				}
+				b_boldferry = {
+					province = 4159
+					color = { 86 49 111 }
+				}
+				b_castle_rushbank = {
+					province = 4160
+					color = { 67 50 99 }
+				}
+			}
+			c_shinebridge = {
+				color = { 215 54 170 }
+				b_shinebridge_hall = {
+					province = 4161
+					color = { 85 49 107 }
+				}
+				b_threshdown = {
+					province = 4162
+					color = { 75 43 101 }
+				}
+				b_carden = {
+					province = 4163
+					color = { 96 56 110 }
+				}
+				b_rustford = {
+					province = 4164
+					color = { 90 48 109 }
+				}
+			}
+			c_wings_pass = {
+				color = { 129 93 196 }
+				b_wings_pass = {
+					province = 4165
+					color = { 82 49 103 }
+				}
+				b_fishdirt = {
+					province = 4166
+					color = { 77 49 103 }
+				}
+				b_turnmouth = {
+					province = 4167
+					color = { 97 50 103 }
+				}
+				b_merdost = {
+					province = 4168
+					color = { 93 50 107 }
+				}
+			}
+			c_blackstripe = {
+				color = { 86 104 132 }
+				b_blackstripe_keep = {
+					province = 4169
+					color = { 82 49 104 }
+				}
+				b_freelock = {
+					province = 4170
+					color = { 55 56 106 }
+				}
+				b_clearwinch = {
+					province = 4171
+					color = { 103 54 103 }
+				}
+			}
+			c_briarcrest = {
+				color = { 160 0 72 }
+				b_briarcrest = {
+					province = 4172
+					color = { 76 49 80 }
+				}
+				b_ashcross = {
+					province = 4173
+					color = { 81 47 113 }
+				}
+			}
+			c_riverline = {
+				color = { 107 25 178 }
+				b_riverline = {
+					province = 4174
+					color = { 84 57 102 }
+				}
+				b_linefield = {
+					province = 4175
+					color = { 105 50 113 }
+				}
+				b_sevenmoor = {
+					province = 4176
+					color = { 92 55 112 }
+				}
+			}
+		}
+		d_hayford = {
+			color = { 170 70 111 }
+			capital = c_hayford
+			can_create = {
+				trigger_if = {
+					limit = { 
+						OR = {
+							primary_title.tier >= tier_kingdom
+							AND = {
+								primary_title.tier = tier_duchy
+								is_independent_ruler = no
+							}
+						}
+					}
+					has_title = title:d_hayford.title_capital_county
+				}
+				custom_tooltip = {
+					text = agot_can_create_duchy
+					agot_can_create_duchy_title = yes
+				}
+			}
+			c_hayford = {
+				color = { 138 16 97 }
+				b_hayford = {
+					province = 4177
+					color = { 158 71 214 }
+				}
+				b_brickdale = {
+					province = 4178
+					color = { 161 77 206 }
+				}
+				b_moorwyn = {
+					province = 4179
+					color = { 136 101 203 }
+				}
+				b_summer_meadow = {
+					province = 4180
+					color = { 158 101 214 }
+				}
+				b_wavy_rune = {
+					province = 4181
+					color = { 180 83 214 }
+				}
+				b_awrey = {
+					province = 4182
+					color = { 181 99 212 }
+				}
+			}
+			c_sows_horn = {
+				color = { 181 72 71 }
+				b_sows_horn = {
+					province = 4183
+					color = { 179 64 208 }
+				}
+				b_dorrill = {
+					province = 4184
+					color = { 91 67 200 }
+				}
+				b_fullmeadow = {
+					province = 4185
+					color = { 56 68 207 }
+				}
+				b_gormey = {
+					province = 4186
+					color = { 85 74 202 }
+				}
+			}
+			c_proudwell = {
+				color = { 154 135 181 }
+				b_coinbridge = {
+					province = 4187
+					color = { 141 62 202 }
+				}
+				b_spottspool = {
+					province = 4188
+					color = { 136 55 208 }
+				}
+				b_brindlewood = {
+					province = 4189
+					color = { 143 66 209 }
+				}
+				b_glassley = {
+					province = 4190
+					color = { 153 89 198 }
+				}
+				b_hanberry = {
+					province = 4191
+					color = { 131 46 203 }
+				}
+			}
+			c_old_yore = {
+				color = { 207 73 99 }
+				b_wicked_wood = {
+					province = 4192
+					color = { 152 77 209 }
+				}
+				b_yore = {
+					province = 4193
+					color = { 140 85 200 }
+				}
+				b_losers_creek = {
+					province = 4194
+					color = { 179 65 216 }
+				}
+				b_groveside = {
+					province = 4195
+					color = { 84 85 208 }
+				}
+				b_standmail = {
+					province = 4196
+					color = { 95 76 208 }
+				}
+			}
+		}
+		d_rosby = {
+			color = { 219 112 155 }
+			capital = c_rosby
+			can_create = {
+				trigger_if = {
+					limit = { 
+						OR = {
+							primary_title.tier >= tier_kingdom
+							AND = {
+								primary_title.tier = tier_duchy
+								is_independent_ruler = no
+							}
+						}
+					}
+					has_title = title:d_rosby.title_capital_county
+				}
+				custom_tooltip = {
+					text = agot_can_create_duchy
+					agot_can_create_duchy_title = yes
+				}
+			}
+			c_rosby = {
+				color = { 235 128 157 }
+				b_rosby = {
+					province = 4197
+					color = { 145 38 83 }
+				}
+				b_hesperplate = {
+					province = 4198
+					color = { 140 45 77 }
+				}
+				b_redpeak_field = {
+					province = 4199
+					color = { 138 39 68 }
+				}
+				b_farmwell = {
+					province = 4200
+					color = { 162 58 97 }
+				}
+				b_grainstead = {
+					province = 4201
+					color = { 163 49 89 }
+				}
+			}
+			c_strongmead = {
+				color = { 177 93 122 }
+				b_strongmead = {
+					province = 4202
+					color = { 127 63 103 }
+				}
+				b_fillmore = {
+					province = 4203
+					color = { 181 45 88 }
+				}
+				b_golden_goose = {
+					province = 4204
+					color = { 164 64 104 }
+				}
+			}
+			c_greensward = {
+				color = { 255 84 117 }
+				b_greensward = {
+					province = 4205
+					color = { 127 27 82 }
+				}
+				b_hedgemeadow = {
+					province = 4206
+					color = { 121 24 65 }
+				}
+				b_needlefield = {
+					province = 4207
+					color = { 150 18 87 }
+				}
+			}
+			c_edgerton = {
+				color = { 212 100 217 }
+				b_edgers_hold = {
+					province = 4208
+					color = { 142 54 94 }
+				}
+				b_burnwheel = {
+					province = 4210
+					color = { 138 33 82 }
+				}
+				b_archester = {
+					province = 4211
+					color = { 143 52 85 }
+				}
+				b_edgerton = {
+					province = 4209
+					color = { 201 62 104 }
+				}
+			}
+			c_whiteplate = {
+				color = { 192 150 134 }
+				b_whiteplate = {
+					province = 4212
+					color = { 200 60 93 }
+				}
+				b_farfield = {
+					province = 4213
+					color = { 144 44 98 }
+				}
+				b_whitfield = {
+					province = 4214
+					color = { 214 40 82 }
+				}
+			}
+			c_redbend = {
+				color = { 236 100 167 }
+				b_redbend = {
+					province = 4215
+					color = { 153 13 70 }
+				}
+				b_dimpool = {
+					province = 4216
+					color = { 191 28 103 }
+				}
+			}
+		}
+		d_stokeworth = {
+			color = { 157 78 151 }
+			capital = c_stokeworth
+			can_create = {
+				trigger_if = {
+					limit = { 
+						OR = {
+							primary_title.tier >= tier_kingdom
+							AND = {
+								primary_title.tier = tier_duchy
+								is_independent_ruler = no
+							}
+						}
+					}
+					has_title = title:d_stokeworth.title_capital_county
+				}
+				custom_tooltip = {
+					text = agot_can_create_duchy
+					agot_can_create_duchy_title = yes
+				}
+			}
+			c_stokeworth = {
+				color = { 121 19 97 }
+				b_castle_stokeworth = {
+					province = 4217
+					color = { 172 103 60 }
+				}
+				b_faithfield = {
+					province = 4218
+					color = { 226 133 74 }
+				}
+				b_lambs_hold = {
+					province = 4219
+					color = { 158 99 56 }
+				}
+				b_woolstock = {
+					province = 4220
+					color = { 207 118 67 }
+				}
+				b_worthbridge = {
+					province = 4221
+					color = { 213 110 73 }
+				}
+				b_ornpasture = {
+					province = 4222
+					color = { 200 104 60 }
+				}
+			}
+			c_grainside = {
+				color = { 220 89 145 }
+				b_grainkeep = {
+					province = 4223
+					color = { 167 100 36 }
+				}
+				b_gravelton = {
+					province = 4224
+					color = { 196 110 51 }
+				}
+				b_wheatmaiden = {
+					province = 4225
+					color = { 186 118 81 }
+				}
+				b_fieldmaiden = {
+					province = 4226
+					color = { 187 75 29 }
+				}
+			}
+			c_silverhead = {
+				color = { 221 74 172 }
+				b_byrch_hall = {
+					province = 4227
+					color = { 172 103 50 }
+				}
+				b_vonnfield = {
+					province = 4228
+					color = { 165 113 63 }
+				}
+				b_estwing = {
+					province = 4229
+					color = { 162 125 66 }
+				}
+				b_silverhead = {
+					province = 4230
+					color = { 184 111 65 }
+				}
+			}
+			c_cantondale = {
+				color = { 132 116 142 }
+				b_brancastle = {
+					province = 4231
+					color = { 231 113 84 }
+				}
+				b_winfield = {
+					province = 4232
+					color = { 193 112 78 }
+				}
+				b_loyalwood = {
+					province = 4233
+					color = { 171 108 77 }
+				}
+			}
+			c_bentbranch = {
+				color = { 75 83 184 }
+				b_bentbranch_keep = {
+					province = 4234
+					color = { 187 110 64 }
+				}
+				b_shady_bush = {
+					province = 4235
+					color = { 147 81 56 }
+				}
+				b_chasefield = {
+					province = 4236
+					color = { 219 124 84 }
+				}
+				b_farmingbend = {
+					province = 4237
+					color = { 152 82 35 }
+				}
+			}
+			c_nessing = {
+				color = { 215 148 212 }
+				b_nessingkeep = {
+					province = 4238
+					color = { 203 85 25 }
+				}
+				b_septons_sound = {
+					province = 4239
+					color = { 201 129 77 }
+				}
+				b_nessfield = {
+					province = 4240
+					color = { 200 105 67 }
+				}
+			}
+		}
+		d_duskendale = {
+			color = { 111 51 93 }
+			capital = c_duskendale
+			can_create = {
+				trigger_if = {
+					limit = { 
+						OR = {
+							primary_title.tier >= tier_kingdom
+							AND = {
+								primary_title.tier = tier_duchy
+								is_independent_ruler = no
+							}
+						}
+					}
+					has_title = title:d_duskendale.title_capital_county
+				}
+				custom_tooltip = {
+					text = agot_can_create_duchy
+					agot_can_create_duchy_title = yes
+				}
+			}
+			c_duskendale = {
+				color = { 84 22 46 }
+				b_dun_fort = {
+					province = 4241
+					color = { 171 85 134 }
+				}
+				b_duskendale = {
+					province = 4242
+					color = { 153 79 136 }
+				}
+				b_highley = {
+					province = 4243
+					color = { 172 57 135 }
+				}
+				b_brickelburn = {
+					province = 4244
+					color = { 147 77 141 }
+				}
+				b_darkhurst = {
+					province = 4245
+					color = { 150 71 136 }
+				}
+				b_pick_hall = {
+					province = 4246
+					color = { 160 88 135 }
+				}
+			}
+			c_darkwoods_mull = {
+				color = { 114 5 62 }
+				b_mullcastle = {
+					province = 4247
+					color = { 166 67 135 }
+				}
+				b_darkwood = {
+					province = 4248
+					color = { 194 54 134 }
+				}
+				b_duskmull = {
+					province = 4249
+					color = { 120 107 133 }
+				}
+			}
+			c_crownback = {
+				color = { 104 64 150 }
+				b_castle_hollard = {
+					province = 4250
+					color = { 148 70 135 }
+				}
+				b_seamill = {
+					province = 4251
+					color = { 133 89 135 }
+				}
+				b_threecrowns = {
+					province = 4252
+					color = { 178 77 136 }
+				}
+				b_blackchief = {
+					province = 4253
+					color = { 149 95 133 }
+				}
+			}
+			c_bluntmark = {
+				color = { 103 86 93 }
+				b_hammerhold = {
+					province = 4254
+					color = { 162 72 136 }
+				}
+				b_smallhammer = {
+					province = 4255
+					color = { 174 83 141 }
+				}
+				b_firsthammer = {
+					province = 4256
+					color = { 110 85 133 }
+				}
+				b_sevenhill = {
+					province = 4257
+					color = { 182 82 134 }
+				}
+			}
+			c_shadowshield = {
+				color = { 107 85 136 }
+				b_shadowshield = {
+					province = 4258
+					color = { 166 93 136 }
+				}
+				b_woodhollow = {
+					province = 4259
+					color = { 134 86 136 }
+				}
+				b_hardmarsh = {
+					province = 4260
+					color = { 132 82 141 }
+				}
+			}
+			c_spinney = {
+				color = { 155 41 87 }
+				b_spinney = {
+					province = 4261
+					color = { 134 98 135 }
+				}
+				b_broadleaf = {
+					province = 4262
+					color = { 178 76 133 }
+				}
+				b_wretchfield = {
+					province = 4263
+					color = { 110 108 133 }
+				}
+				b_leeklan = {
+					province = 4264
+					color = { 120 75 135 }
+				}
+			}
+			c_yellowstars = {
+				color = { 130 102 130 }
+				b_yellowstar_towers = {
+					province = 4265
+					color = { 95 103 139 }
+				}
+				b_mistfall = {
+					province = 4266
+					color = { 149 81 136 }
+				}
+				b_windhaven = {
+					province = 4267
+					color = { 129 102 134 }
+				}
+			}
+		}
+		d_deerfield = {
+			color = { 158 106 141 }
+			capital = c_antlers
+			can_create = {
+				trigger_if = {
+					limit = { 
+						OR = {
+							primary_title.tier >= tier_kingdom
+							AND = {
+								primary_title.tier = tier_duchy
+								is_independent_ruler = no
+							}
+						}
+					}
+					has_title = title:d_deerfield.title_capital_county
+				}
+				custom_tooltip = {
+					text = agot_can_create_duchy
+					agot_can_create_duchy_title = yes
+				}
+			}
+			c_antlers = {
+				color = { 139 59 131 }
+				b_antlers = {
+					province = 4318
+					color = { 129 87 88 }
+				}
+				b_mull_hole = {
+					province = 4319
+					color = { 100 68 88 }
+				}
+				b_barb_town = {
+					province = 4320
+					color = { 141 90 110 }
+				}
+				b_proudrack = {
+					province = 4321
+					color = { 127 90 108 }
+				}
+			}
+			c_vairs_head = {
+				color = { 216 161 191 }
+				b_vairs_head = {
+					province = 4322
+					color = { 112 82 91 }
+				}
+				b_rellhalt = {
+					province = 4323
+					color = { 110 84 98 }
+				}
+				b_fallowpoint = {
+					province = 4324
+					color = { 118 82 96 }
+				}
+				b_maldell = {
+					province = 4325
+					color = { 136 90 108 }
+				}
+			}
+			c_brackworth = {
+				color = { 166 121 153 }
+				b_castle_brackworth = {
+					province = 4326
+					color = { 121 79 95 }
+				}
+				b_bucks_call = {
+					province = 4327
+					color = { 90 66 78 }
+				}
+				b_gruntfield = {
+					province = 4328
+					color = { 93 57 82 }
+				}
+				b_bonebranch = {
+					province = 4329
+					color = { 93 57 71 }
+				}
+			}
+			c_tuskford = {
+				color = { 134 116 127 }
+				b_tusk_keep = {
+					province = 4330
+					color = { 99 89 83 }
+				}
+				b_tuskford = {
+					province = 4331
+					color = { 65 40 57 }
+				}
+				b_stags_rut = {
+					province = 4332
+					color = { 83 54 65 }
+				}
+			}
+			c_point_square = {
+				color = { 135 69 98 }
+				b_point_square = {
+					province = 4333
+					color = { 133 107 114 }
+				}
+				b_woodenglenn = {
+					province = 4334
+					color = { 138 102 104 }
+				}
+			}
+		}
+		d_the_blackwater_rush = {
+			color = { 173 92 167 }
+			capital = c_rollingford
+			can_create = {
+				trigger_if = {
+					limit = { 
+						OR = {
+							primary_title.tier >= tier_kingdom
+							AND = {
+								primary_title.tier = tier_duchy
+								is_independent_ruler = no
+							}
+						}
+					}
+					has_title = title:d_the_blackwater_rush.title_capital_county
+				}
+				custom_tooltip = {
+					text = agot_can_create_duchy
+					agot_can_create_duchy_title = yes
+				}
+			}
+			definite_form = yes
+			c_rollingford = {
+				color = { 226 100 169 }
+				b_rollingford = {
+					province = 4335
+					color = { 190 84 110 }
+				}
+				b_roundspout = {
+					province = 4336
+					color = { 195 53 105 }
+				}
+				b_stoneroll = {
+					province = 4337
+					color = { 206 114 105 }
+				}
+				b_fountainhead = {
+					province = 4338
+					color = { 250 70 109 }
+				}
+			}
+			c_great_fork = {
+				color = { 131 107 201 }
+				b_mergewater = {
+					province = 4339
+					color = { 194 96 114 }
+				}
+				b_harps_tune = {
+					province = 4340
+					color = { 203 44 105 }
+				}
+				b_bevy_town = {
+					province = 4341
+					color = { 188 82 110 }
+				}
+				b_droven = {
+					province = 4342
+					color = { 166 105 115 }
+				}
+			}
+			c_middleton = {
+				color = { 147 32 105 }
+				b_middlefort = {
+					province = 4343
+					color = { 191 52 105 }
+				}
+				b_middleton = {
+					province = 4344
+					color = { 202 74 109 }
+				}
+				b_sorewick = {
+					province = 4345
+					color = { 185 115 111 }
+				}
+			}
+			c_pikemouth = {
+				color = { 137 74 167 }
+				b_pikemouth = {
+					province = 4346
+					color = { 253 89 110 }
+				}
+				b_sickburn = {
+					province = 4347
+					color = { 246 97 108 }
+				}
+				b_fort_neigh = {
+					province = 4348
+					color = { 182 74 109 }
+				}
+				b_tarnscale = {
+					province = 4349
+					color = { 187 117 135 }
+				}
+			}
+			c_longgrass = {
+				color = { 226 141 186 }
+				b_darkwater_keep = {
+					province = 4350
+					color = { 191 53 113 }
+				}
+				b_redgrass_field = {
+					province = 4351
+					color = { 177 101 105 }
+				}
+				b_weeping_ridge = {
+					province = 4352
+					color = { 171 84 113 }
+				}
+				b_rushbend = {
+					province = 4353
+					color = { 245 105 113 }
+				}
 			}
 		}
 		d_riverrun = {
@@ -29568,160 +29710,18 @@ e_the_wall = {
 				}
 			}
 		}
-		d_new_gift = {
-			color = { 50 50 50 }
-			capital = c_norlinton
-			can_create = {
-				custom_tooltip = {
-					text = agot_can_create_duchy
-					agot_can_create_duchy_title = yes
-				}
-				has_title = title:d_new_gift.title_capital_county
-			}
-			no_automatic_claims = yes
-			c_boreharrow = {
-				color = { 73 73 73 }
-				b_the_heath = {
-					province = 54
-					color = { 73 73 73 }
-					definite_form = yes
-				}
-				no_automatic_claims = yes
-				b_boreharrow = {
-					province = 55
-					color = { 86 90 86 }
-				}
-				b_batscave = {
-					province = 56
-					color = { 94 94 94 }
-				}
-				b_antlerfell = {
-					province = 61
-					color = { 79 77 79 }
-				}
-				b_pikesrush = {
-					province = 63
-					color = { 76 76 76 }
-				}
-				b_the_deadcopse = {
-					province = 58
-					color = { 112 112 112 }
-					definite_form = yes
-				}
-				b_mouse_rock = {
-					province = 7266
-					color = { 86 89 90 }
-				}
-			}
-			c_whitecross = {
-				color = { 45 45 50 }
-				b_whitecross = {
-					province = 57
-					color = { 45 45 50 }
-				}
-				no_automatic_claims = yes
-				b_ash_hollow = {
-					province = 59
-					color = { 68 68 68 }
-				}
-				b_wildlings_rest = {
-					province = 60
-					color = { 79 79 79 }
-				}
-				b_chain_lake = {
-					province = 76
-					color = { 71 71 71 }
-				}
-				b_grims_grave = {
-					province = 70
-					color = { 114 115 117 }
-				}
-				b_knightsrange = {
-					province = 67
-					color = { 56 56 56 }
-				}
-				b_thistledown = {
-					province = 62
-					color = { 51 51 51 }
-				}
-				b_old_hedge = {
-					province = 64
-					color = { 82 80 83 }
-				}
-				b_new_bunk = {
-					province = 65
-					color = { 64 64 64 }
-				}
-			}
-			c_giantsbeard = {
-				color = { 112 116 112 }
-				b_north_town = {
-					province = 66
-					color = { 112 116 112 }
-				}
-				no_automatic_claims = yes
-				b_wildelanding = {
-					province = 75
-					color = { 45 45 44 }
-				}
-				b_thistleweald = {
-					province = 74
-					color = { 78 79 79 }
-				}
-				b_stonestead = {
-					province = 73
-					color = { 45 44 45 }
-				}
-				b_old_reeds = {
-					province = 71
-					color = { 85 85 84 }
-				}
-				b_starkstones = {
-					province = 72
-					color = { 79 84 79 }
-				}
-				b_giantsbeard = {
-					province = 68
-					color = { 33 33 33 }
-				}
-				b_wightspear = {
-					province = 69
-					color = { 63 63 63 }
-				}
-			}
-			c_norlinton = {
-				color = { 53 53 53 }
-				b_norlinton = {
-					province = 47
-					color = { 53 53 53 }
-				}
-				no_automatic_claims = yes
-				b_stoneblood = {
-					province = 48
-					color = { 99 97 100 }
-				}
-				b_glenhaven = {
-					province = 49
-					color = { 27 26 26 }
-				}
-				b_waysrest = {
-					province = 53
-					color = { 109 105 109 }
-				}
-				b_stone_spears = {
-					province = 50
-					color = { 94 93 94 }
-				}
-				b_witchlight = {
-					province = 52
-					color = { 79 78 79 }
-				}
-				b_otherstand = {
-					province = 51
-					color = { 96 96 96 }
-				}
-			}
-		}
+		#d_new_gift = {
+		#	color = { 50 50 50 }
+		#	capital = c_norlinton
+		#	can_create = {
+		#		custom_tooltip = {
+		#			text = agot_can_create_duchy
+		#			agot_can_create_duchy_title = yes
+		#		}
+		#		has_title = title:d_new_gift.title_capital_county
+		#	}
+		#	no_automatic_claims = yes
+		#}
 	}
 }
 e_the_westerlands = {
@@ -32488,146 +32488,6 @@ e_three_daughters = {
 				}
 			}
 		}
-		d_quhyrys = {
-			color = { 148 41 70 }
-			capital = c_uhyrosh_coast
-			can_create = {
-				trigger_if = {
-					limit = { 
-						OR = {
-							primary_title.tier >= tier_kingdom
-							AND = {
-								primary_title.tier = tier_duchy
-								is_independent_ruler = no
-							}
-						}
-					}
-					has_title = title:d_quhyrys.title_capital_county
-				}
-				custom_tooltip = {
-					text = agot_can_create_duchy
-					agot_can_create_duchy_title = yes
-				}
-			}
-			c_uhyrosh_coast = {
-				color = { 176 43 127 }
-				b_little_tyrosh = {
-					province = 7363
-					color = { 176 43 127 }
-				}
-				b_droplet_hold = {
-					province = 7364
-					color = { 147 42 115 }
-				}
-				b_riroorys = {
-					province = 7365
-					color = { 176 31 119 }
-				}
-				b_tean = {
-					province = 7366
-					color = { 175 17 130 }
-				}
-				b_taris = {
-					province = 7367
-					color = { 101 3 63 }
-				}
-				b_tin_field = {
-					province = 7368
-					color = { 191 34 147 }
-				}
-			}
-			c_tandaynish = {
-				color = { 176 76 147 }
-				b_tandaynish = {
-					province = 7369
-					color = { 176 76 147 }
-				}
-				b_tanners_wood = {
-					province = 7370
-					color = { 183 17 130 }
-				}
-				b_stramanosh = {
-					province = 7371
-					color = { 141 11 96 }
-				}
-				b_straw_tower = {
-					province = 7372
-					color = { 153 12 108 }
-				}
-			}
-			c_kylos = {
-				color = { 165 15 121 }
-				b_kylos = {
-					province = 7373
-					color = { 165 15 121 }
-				}
-				b_kycastle = {
-					province = 7374
-					color = { 156 13 117 }
-				}
-				b_old_kyland = {
-					province = 7375
-					color = { 190 32 141 }
-				}
-				b_adoorys = {
-					province = 7376
-					color = { 112 9 83 }
-				}
-				b_doorwood = {
-					province = 7377
-					color = { 195 54 161 }
-				}
-			}
-			c_adaron = {
-				color = { 141 6 95 }
-				b_adaron_gates = {
-					province = 7378
-					color = { 141 6 95 }
-				}
-				b_kymersh = {
-					province = 7379
-					color = { 114 10 84 }
-				}
-				b_brandarosh = {
-					province = 7380
-					color = { 198 6 119 }
-				}
-				b_brand_grains = {
-					province = 7381
-					color = { 178 19 126 }
-				}
-			}
-			c_vilibosh = {
-				color = { 108 10 80 }
-				b_vilibosh = {
-					province = 7382
-					color = { 108 10 80 }
-				}
-				b_villains_gate = {
-					province = 7383
-					color = { 94 1 59 }
-				}
-				b_quirron = {
-					province = 7384
-					color = { 168 14 125 }
-				}
-				b_the_vilibosh_meadows = {
-					province = 7385
-					color = { 101 7 69 }
-				}
-			}
-			c_cape_basibosh = {
-				color = { 125 10 89 }
-				b_the_step = {
-					province = 7386
-					color = { 125 10 89 }
-				}
-				b_rutish = {
-					province = 7387
-					color = { 148 5 94 }
-				}
-			}
-		}
 	}
 	k_lys = {
 		color = { 192 159 201 }
@@ -32722,6 +32582,450 @@ e_three_daughters = {
 				b_temple_of_trade = {
 					province = 7401
 					color = { 167 161 166 }
+				}
+			}
+		}
+	}
+	k_disputed_lands = {
+		color = { 139 126 22 }
+		capital = c_broken_lance
+		can_create = {
+			custom_tooltip = {
+				text = agot_title_create_via_decision
+				always = no
+			}
+		}
+		d_the_baked_lands = {
+			color = { 158 198 197 }
+			capital = c_zadientor
+			c_zadientor = {
+				color = { 158 198 197 }
+				b_kastajikagon = {
+					province = 7831
+					color = { 158 198 197 }
+				}
+				b_tistonkion = {
+					province = 7832
+					color = { 47 116 114 }
+				}
+				b_tistalion = {
+					province = 7833
+					color = { 125 210 207 }
+				}
+				b_tistahinon = {
+					province = 7834
+					color = { 101 173 171 }
+				}
+				b_guese_dorenka = {
+					province = 7835
+					color = { 23 127 124 }
+				}
+			}
+			c_blipys = {
+				color = { 27 82 81 }
+				b_samdoro = {
+					province = 7836
+					color = { 27 82 81 }
+				}
+				b_onhinion = {
+					province = 7837
+					color = { 7 65 63 }
+				}
+				b_riolys = {
+					province = 7838
+					color = { 47 133 130 }
+				}
+				b_logroz = {
+					province = 7839
+					color = { 114 221 217 }
+				}
+			}
+			c_ejipvos = {
+				color = { 73 207 201 }
+				b_kastombion = {
+					province = 7840
+					color = { 73 207 201 }
+				}
+				b_griapos = {
+					province = 7841
+					color = { 44 198 192 }
+				}
+				b_levitsos = {
+					province = 7842
+					color = { 137 164 163 }
+				}
+			}
+			c_dying_woods = {
+				color = { 38 157 153 }
+				b_rizmon_blinun = {
+					province = 7843
+					color = { 38 157 153 }
+				}
+				b_vezonun = {
+					province = 7844
+					color = { 78 210 209 }
+				}
+				b_vizgues = {
+					province = 7845
+					color = { 78 142 140 }
+				}
+				b_eninkion = {
+					province = 7846
+					color = { 23 91 89 }
+				}
+				b_hivez = {
+					province = 7847
+					color = { 34 181 177 }
+				}
+			}
+			c_jalarios = {
+				color = { 77 193 190 }
+				b_morgues = {
+					province = 7848
+					color = { 77 193 190 }
+				}
+				b_tastavililion = {
+					province = 7849
+					color = { 65 221 216 }
+				}
+				b_norgues = {
+					province = 7850
+					color = { 12 82 80 }
+				}
+				b_glaesagyes = {
+					province = 7851
+					color = { 23 178 178 }
+				}
+				b_endigues = {
+					province = 7852
+					color = { 58 215 213 }
+				}
+				b_jelinun = {
+					province = 7853
+					color = { 26 122 120 }
+				}
+			}
+		}
+		d_konian_coast = {
+			color = { 39 136 133 }
+			capital = c_ar_kon
+			c_amenai_ridge = {
+				color = { 18 136 131 }
+				b_ameanjel = {
+					province = 7732
+					color = { 18 136 131 }
+				}
+				b_rhinkaviln = {
+					province = 7733
+					color = { 76 204 199 }
+				}
+				b_misihin = {
+					province = 7734
+					color = { 87 164 161 }
+				}
+				b_amenankion = {
+					province = 7735
+					color = { 111 229 226 }
+				}
+				b_naqelbar = {
+					province = 7738
+					color = { 20 85 83 }
+				}
+			}
+			c_ar_kon = {
+				color = { 39 136 133 }
+				b_ar_kon = {
+					province = 7854
+					color = { 39 136 133 }
+				}
+				b_konoktion = {
+					province = 7855
+					color = { 58 207 203 }
+				}
+				b_aranogrion = {
+					province = 7856
+					color = { 86 176 173 }
+				}
+				b_nagues = {
+					province = 7857
+					color = { 26 212 207 }
+				}
+				b_arinun = {
+					province = 7858
+					color = { 68 229 225 }
+				}
+				b_konigues = {
+					province = 7859
+					color = { 73 212 210 }
+				}
+				b_arios = {
+					province = 7860
+					color = { 88 167 166 }
+				}
+			}
+			c_ringolion = {
+				color = { 100 221 217 }
+				b_qelbor_vilinion = {
+					province = 7861
+					color = { 100 221 217 }
+				}
+				b_ringolion = {
+					province = 7862
+					color = { 25 156 152 }
+				}
+				b_hinorijiblion = {
+					province = 7863
+					color = { 29 133 130 }
+				}
+				b_konqelbor = {
+					province = 7864
+					color = { 10 122 119 }
+				}
+			}
+			c_amenos = {
+				color = { 30 198 193 }
+				b_amenos = {
+					province = 7865
+					color = { 30 198 193 }
+				}
+				b_amenogues = {
+					province = 7866
+					color = { 38 127 124 }
+				}
+				b_menun = {
+					province = 7867
+					color = { 59 119 117 }
+				}
+				b_hinikagon = {
+					province = 7868
+					color = { 84 147 145 }
+				}
+				b_riolatus = {
+					province = 7869
+					color = { 95 153 151 }
+				}
+			}
+			c_vejonegroz = {
+				color = { 36 119 117 }
+				b_vejonedoror = {
+					province = 7870
+					color = { 36 119 117 }
+				}
+				b_vejonkion = {
+					province = 7871
+					color = { 110 229 228 }
+				}
+				b_dorenka_doros = {
+					province = 7872
+					color = { 84 204 201 }
+				}
+				b_endiebinon = {
+					province = 7873
+					color = { 49 122 120 }
+				}
+				b_jurnerys = {
+					province = 7874
+					color = { 98 207 204 }
+				}
+				b_ozurne = {
+					province = 7875
+					color = { 51 88 87 }
+				}
+			}
+			c_nyalla = {
+				color = { 69 215 211 }
+				b_nyalla = {
+					province = 7876
+					color = { 69 215 211 }
+				}
+				b_dagrozior = {
+					province = 7877
+					color = { 114 181 179 }
+				}
+				b_hopihanin = {
+					province = 7878
+					color = { 21 105 102 }
+				}
+				b_gaguesiers = {
+					province = 7879
+					color = { 115 235 230 }
+				}
+			}
+		}
+		d_nontelos = {
+			color = { 71 174 171 }
+			capital = c_nontelos
+			c_nontelos = {
+				color = { 71 174 171 }
+				b_nonombion = {
+					province = 7880
+					color = { 71 174 171 }
+				}
+				b_nontelos = {
+					province = 7881
+					color = { 25 127 123 }
+				}
+				b_riostelos = {
+					province = 7882
+					color = { 78 181 177 }
+				}
+				b_nonbaes = {
+					province = 7883
+					color = { 32 116 113 }
+				}
+				b_dorios = {
+					province = 7884
+					color = { 31 156 152 }
+				}
+				b_nonajon = {
+					province = 7885
+					color = { 26 179 174 }
+				}
+			}
+			c_viigashos = {
+				color = { 68 164 161 }
+				b_viigashos = {
+					province = 7886
+					color = { 68 164 161 }
+				}
+				b_dhaen = {
+					province = 7887
+					color = { 60 143 140 }
+				}
+				b_vedoros = {
+					province = 7888
+					color = { 23 135 131 }
+				}
+			}
+			c_gyrakos = {
+				color = { 32 96 94 }
+				b_qelrios = {
+					province = 7889
+					color = { 32 96 94 }
+				}
+				b_rhinarios = {
+					province = 7890
+					color = { 43 201 198 }
+				}
+				b_vejogrion = {
+					province = 7891
+					color = { 76 144 143 }
+				}
+				b_jelmor_vejguesin = {
+					province = 7892
+					color = { 23 190 185 }
+				}
+				b_vezor_vejguesin = {
+					province = 7893
+					color = { 40 176 171 }
+				}
+			}
+			c_myllenios = {
+				color = { 23 204 198 }
+				b_guesidoror = {
+					province = 7894
+					color = { 23 204 198 }
+				}
+				b_mylenos = {
+					province = 7895
+					color = { 83 159 156 }
+				}
+				b_mylerios = {
+					province = 7896
+					color = { 55 125 122 }
+				}
+				b_lenyrios = {
+					province = 7897
+					color = { 43 212 206 }
+				}
+				b_manaqelbor = {
+					province = 7898
+					color = { 133 212 210 }
+				}
+				b_naejitsos = {
+					province = 7899
+					color = { 116 170 168 }
+				}
+			}
+			c_kastaraen = {
+				color = { 78 130 128 }
+				b_costoba = {
+					province = 7900
+					color = { 78 130 128 }
+				}
+				b_kastaraen = {
+					province = 7901
+					color = { 24 119 116 }
+				}
+				b_urnekas = {
+					province = 7902
+					color = { 39 167 163 }
+				}
+				b_jelurne = {
+					province = 7903
+					color = { 17 110 106 }
+				}
+				b_jurnemyr = {
+					province = 7904
+					color = { 57 142 138 }
+				}
+			}
+			c_samaalis = {
+				color = { 18 170 165 }
+				b_samal = {
+					province = 7905
+					color = { 18 170 165 }
+				}
+				b_samagues = {
+					province = 7906
+					color = { 68 210 205 }
+				}
+				b_guesejurne = {
+					province = 7907
+					color = { 89 235 230 }
+				}
+				b_endamire = {
+					province = 7908
+					color = { 41 130 128 }
+				}
+				b_hinomire = {
+					province = 7909
+					color = { 97 178 177 }
+				}
+				b_naqamire = {
+					province = 7910
+					color = { 102 167 165 }
+				}
+				b_samahinon = {
+					province = 7911
+					color = { 76 161 159 }
+				}
+			}
+			c_nonguesin = {
+				color = { 31 212 207 }
+				b_bosarios = {
+					province = 7912
+					color = { 31 212 207 }
+				}
+				b_nonrios = {
+					province = 7913
+					color = { 122 204 201 }
+				}
+				b_bosaguesin = {
+					province = 7914
+					color = { 8 105 103 }
+				}
+				b_naqaguesin = {
+					province = 7915
+					color = { 125 164 163 }
+				}
+				b_higuesin = {
+					province = 7916
+					color = { 12 113 110 }
+				}
+				b_drammagon = {
+					province = 7917
+					color = { 41 93 92 }
 				}
 			}
 		}
@@ -32866,14 +33170,144 @@ e_three_daughters = {
 				}
 			}
 		}
-	}
-	k_disputed_lands = {
-		color = { 139 126 22 }
-		capital = c_broken_lance
-		can_create = {
-			custom_tooltip = {
-				text = agot_title_create_via_decision
-				always = no
+		d_quhyrys = {
+			color = { 148 41 70 }
+			capital = c_uhyrosh_coast
+			can_create = {
+				trigger_if = {
+					limit = { 
+						OR = {
+							primary_title.tier >= tier_kingdom
+							AND = {
+								primary_title.tier = tier_duchy
+								is_independent_ruler = no
+							}
+						}
+					}
+					has_title = title:d_quhyrys.title_capital_county
+				}
+				custom_tooltip = {
+					text = agot_can_create_duchy
+					agot_can_create_duchy_title = yes
+				}
+			}
+			c_uhyrosh_coast = {
+				color = { 176 43 127 }
+				b_little_tyrosh = {
+					province = 7363
+					color = { 176 43 127 }
+				}
+				b_droplet_hold = {
+					province = 7364
+					color = { 147 42 115 }
+				}
+				b_riroorys = {
+					province = 7365
+					color = { 176 31 119 }
+				}
+				b_tean = {
+					province = 7366
+					color = { 175 17 130 }
+				}
+				b_taris = {
+					province = 7367
+					color = { 101 3 63 }
+				}
+				b_tin_field = {
+					province = 7368
+					color = { 191 34 147 }
+				}
+			}
+			c_tandaynish = {
+				color = { 176 76 147 }
+				b_tandaynish = {
+					province = 7369
+					color = { 176 76 147 }
+				}
+				b_tanners_wood = {
+					province = 7370
+					color = { 183 17 130 }
+				}
+				b_stramanosh = {
+					province = 7371
+					color = { 141 11 96 }
+				}
+				b_straw_tower = {
+					province = 7372
+					color = { 153 12 108 }
+				}
+			}
+			c_kylos = {
+				color = { 165 15 121 }
+				b_kylos = {
+					province = 7373
+					color = { 165 15 121 }
+				}
+				b_kycastle = {
+					province = 7374
+					color = { 156 13 117 }
+				}
+				b_old_kyland = {
+					province = 7375
+					color = { 190 32 141 }
+				}
+				b_adoorys = {
+					province = 7376
+					color = { 112 9 83 }
+				}
+				b_doorwood = {
+					province = 7377
+					color = { 195 54 161 }
+				}
+			}
+			c_adaron = {
+				color = { 141 6 95 }
+				b_adaron_gates = {
+					province = 7378
+					color = { 141 6 95 }
+				}
+				b_kymersh = {
+					province = 7379
+					color = { 114 10 84 }
+				}
+				b_brandarosh = {
+					province = 7380
+					color = { 198 6 119 }
+				}
+				b_brand_grains = {
+					province = 7381
+					color = { 178 19 126 }
+				}
+			}
+			c_vilibosh = {
+				color = { 108 10 80 }
+				b_vilibosh = {
+					province = 7382
+					color = { 108 10 80 }
+				}
+				b_villains_gate = {
+					province = 7383
+					color = { 94 1 59 }
+				}
+				b_quirron = {
+					province = 7384
+					color = { 168 14 125 }
+				}
+				b_the_vilibosh_meadows = {
+					province = 7385
+					color = { 101 7 69 }
+				}
+			}
+			c_cape_basibosh = {
+				color = { 125 10 89 }
+				b_the_step = {
+					province = 7386
+					color = { 125 10 89 }
+				}
+				b_rutish = {
+					province = 7387
+					color = { 148 5 94 }
+				}
 			}
 		}
 		d_battle_hills = {
@@ -33483,98 +33917,6 @@ e_three_daughters = {
 				b_dryhaesh = {
 					province = 7555
 					color = { 143 112 26 }
-				}
-			}
-		}
-	}
-	k_myr = {
-		color = { 41 153 73 }
-		capital = c_myr
-		d_myr = {
-			color = { 41 153 73 }
-			capital = c_myr
-			c_myr = {
-				color = { 11 142 48 }
-				b_myr = {
-					province = 7559
-					color = { 11 142 48 }
-				}
-				b_croryo = {
-					province = 7560
-					color = { 34 162 70 }
-				}
-				b_sorela = {
-					province = 7561
-					color = { 35 179 76 }
-				}
-			}
-			c_myrish_docks = {
-				color = { 41 153 73 }
-				b_southern_market = {
-					province = 7556
-					color = { 41 153 73 }
-				}
-				b_lysayn = {
-					province = 7557
-					color = { 17 180 63 }
-				}
-				b_antyne = {
-					province = 7558
-					color = { 7 127 41 }
-				}
-			}
-		
-			c_imeimyr = {
-				color = { 16 154 55 }
-				b_dyher = {
-					province = 7562
-					color = { 16 154 55 }
-				}
-				b_thaesh = {
-					province = 7563
-					color = { 22 128 52 }
-				}
-			}
-			c_baherion = {
-				color = { 100 214 132 }
-				b_foranar = {
-					province = 7564
-					color = { 100 214 132 }
-				}
-				b_ennah = {
-					province = 7565
-					color = { 13 94 35 }
-				}
-				b_essoris = {
-					province = 7566
-					color = { 18 137 52 }
-				}
-				b_foraenor = {
-					province = 7567
-					color = { 27 124 54 }
-				}
-				b_dynaris = {
-					province = 7568
-					color = { 28 151 63 }
-				}
-			}
-			c_aberfields = {
-				color = { 98 199 127 }
-				b_paenelion = {
-					province = 7569
-					color = { 98 199 127 }
-				}
-				b_marel = {
-					province = 7570
-					color = { 16 101 40 }
-				}
-				b_brenyl = {
-					province = 7571
-					color = { 32 132 60 }
-				}
-				b_maeginar = {
-					province = 7572
-					color = { 26 109 50 }
 				}
 			}
 		}
@@ -34211,10 +34553,102 @@ e_three_daughters = {
 			}
 		}
 	}
+	k_myr = {
+		color = { 41 153 73 }
+		capital = c_myr
+		d_myr = {
+			color = { 41 153 73 }
+			capital = c_myr
+			c_myr = {
+				color = { 11 142 48 }
+				b_myr = {
+					province = 7559
+					color = { 11 142 48 }
+				}
+				b_croryo = {
+					province = 7560
+					color = { 34 162 70 }
+				}
+				b_sorela = {
+					province = 7561
+					color = { 35 179 76 }
+				}
+			}
+			c_myrish_docks = {
+				color = { 41 153 73 }
+				b_southern_market = {
+					province = 7556
+					color = { 41 153 73 }
+				}
+				b_lysayn = {
+					province = 7557
+					color = { 17 180 63 }
+				}
+				b_antyne = {
+					province = 7558
+					color = { 7 127 41 }
+				}
+			}
+		
+			c_imeimyr = {
+				color = { 16 154 55 }
+				b_dyher = {
+					province = 7562
+					color = { 16 154 55 }
+				}
+				b_thaesh = {
+					province = 7563
+					color = { 22 128 52 }
+				}
+			}
+			c_baherion = {
+				color = { 100 214 132 }
+				b_foranar = {
+					province = 7564
+					color = { 100 214 132 }
+				}
+				b_ennah = {
+					province = 7565
+					color = { 13 94 35 }
+				}
+				b_essoris = {
+					province = 7566
+					color = { 18 137 52 }
+				}
+				b_foraenor = {
+					province = 7567
+					color = { 27 124 54 }
+				}
+				b_dynaris = {
+					province = 7568
+					color = { 28 151 63 }
+				}
+			}
+			c_aberfields = {
+				color = { 98 199 127 }
+				b_paenelion = {
+					province = 7569
+					color = { 98 199 127 }
+				}
+				b_marel = {
+					province = 7570
+					color = { 16 101 40 }
+				}
+				b_brenyl = {
+					province = 7571
+					color = { 32 132 60 }
+				}
+				b_maeginar = {
+					province = 7572
+					color = { 26 109 50 }
+				}
+			}
+		}
+	}
 }
 e_pentos = {
 	color = { 76 162 137 }
-	capital = c_pentos
+	capital = c_coronyll
 	k_pentos = {
 		color = { 76 162 137 }
 		capital = c_princes_quarter
@@ -34316,6 +34750,17 @@ e_pentos = {
 				}
 			}
 		}
+	}
+	k_andalos = {
+		color = { 27 59 193 }
+		capital = c_coronyll
+		can_create = {
+			religion = religion:faith_of_the_seven_religion
+			custom_description = {
+				text = not_primary_title_kingdom_trigger
+				NOT = { primary_title.tier = tier_kingdom }
+			}
+		}
 		d_the_flatlands = {
 			color = { 71 157 132 }
 			capital = c_sunrise_road
@@ -34344,29 +34789,6 @@ e_pentos = {
 				b_qelbartos = {
 					province = 7721
 					color = { 3 68 66 }
-				}
-			}
-			c_amenai_ridge = {
-				color = { 18 136 131 }
-				b_ameanjel = {
-					province = 7732
-					color = { 18 136 131 }
-				}
-				b_rhinkaviln = {
-					province = 7733
-					color = { 76 204 199 }
-				}
-				b_misihin = {
-					province = 7734
-					color = { 87 164 161 }
-				}
-				b_amenankion = {
-					province = 7735
-					color = { 111 229 226 }
-				}
-				b_naqelbar = {
-					province = 7738
-					color = { 20 85 83 }
 				}
 			}
 			c_valdrizes_hinon = {
@@ -34806,428 +35228,6 @@ e_pentos = {
 					province = 7824
 					color = { 97 184 182 }
 				}
-			}
-		}
-		d_the_baked_lands = {
-			color = { 158 198 197 }
-			capital = c_zadientor
-			c_zadientor = {
-				color = { 158 198 197 }
-				b_kastajikagon = {
-					province = 7831
-					color = { 158 198 197 }
-				}
-				b_tistonkion = {
-					province = 7832
-					color = { 47 116 114 }
-				}
-				b_tistalion = {
-					province = 7833
-					color = { 125 210 207 }
-				}
-				b_tistahinon = {
-					province = 7834
-					color = { 101 173 171 }
-				}
-				b_guese_dorenka = {
-					province = 7835
-					color = { 23 127 124 }
-				}
-			}
-			c_blipys = {
-				color = { 27 82 81 }
-				b_samdoro = {
-					province = 7836
-					color = { 27 82 81 }
-				}
-				b_onhinion = {
-					province = 7837
-					color = { 7 65 63 }
-				}
-				b_riolys = {
-					province = 7838
-					color = { 47 133 130 }
-				}
-				b_logroz = {
-					province = 7839
-					color = { 114 221 217 }
-				}
-			}
-			c_ejipvos = {
-				color = { 73 207 201 }
-				b_kastombion = {
-					province = 7840
-					color = { 73 207 201 }
-				}
-				b_griapos = {
-					province = 7841
-					color = { 44 198 192 }
-				}
-				b_levitsos = {
-					province = 7842
-					color = { 137 164 163 }
-				}
-			}
-			c_dying_woods = {
-				color = { 38 157 153 }
-				b_rizmon_blinun = {
-					province = 7843
-					color = { 38 157 153 }
-				}
-				b_vezonun = {
-					province = 7844
-					color = { 78 210 209 }
-				}
-				b_vizgues = {
-					province = 7845
-					color = { 78 142 140 }
-				}
-				b_eninkion = {
-					province = 7846
-					color = { 23 91 89 }
-				}
-				b_hivez = {
-					province = 7847
-					color = { 34 181 177 }
-				}
-			}
-			c_jalarios = {
-				color = { 77 193 190 }
-				b_morgues = {
-					province = 7848
-					color = { 77 193 190 }
-				}
-				b_tastavililion = {
-					province = 7849
-					color = { 65 221 216 }
-				}
-				b_norgues = {
-					province = 7850
-					color = { 12 82 80 }
-				}
-				b_glaesagyes = {
-					province = 7851
-					color = { 23 178 178 }
-				}
-				b_endigues = {
-					province = 7852
-					color = { 58 215 213 }
-				}
-				b_jelinun = {
-					province = 7853
-					color = { 26 122 120 }
-				}
-			}
-		}
-		d_konian_coast = {
-			color = { 39 136 133 }
-			capital = c_ar_kon
-			c_ar_kon = {
-				color = { 39 136 133 }
-				b_ar_kon = {
-					province = 7854
-					color = { 39 136 133 }
-				}
-				b_konoktion = {
-					province = 7855
-					color = { 58 207 203 }
-				}
-				b_aranogrion = {
-					province = 7856
-					color = { 86 176 173 }
-				}
-				b_nagues = {
-					province = 7857
-					color = { 26 212 207 }
-				}
-				b_arinun = {
-					province = 7858
-					color = { 68 229 225 }
-				}
-				b_konigues = {
-					province = 7859
-					color = { 73 212 210 }
-				}
-				b_arios = {
-					province = 7860
-					color = { 88 167 166 }
-				}
-			}
-			c_ringolion = {
-				color = { 100 221 217 }
-				b_qelbor_vilinion = {
-					province = 7861
-					color = { 100 221 217 }
-				}
-				b_ringolion = {
-					province = 7862
-					color = { 25 156 152 }
-				}
-				b_hinorijiblion = {
-					province = 7863
-					color = { 29 133 130 }
-				}
-				b_konqelbor = {
-					province = 7864
-					color = { 10 122 119 }
-				}
-			}
-			c_amenos = {
-				color = { 30 198 193 }
-				b_amenos = {
-					province = 7865
-					color = { 30 198 193 }
-				}
-				b_amenogues = {
-					province = 7866
-					color = { 38 127 124 }
-				}
-				b_menun = {
-					province = 7867
-					color = { 59 119 117 }
-				}
-				b_hinikagon = {
-					province = 7868
-					color = { 84 147 145 }
-				}
-				b_riolatus = {
-					province = 7869
-					color = { 95 153 151 }
-				}
-			}
-			c_vejonegroz = {
-				color = { 36 119 117 }
-				b_vejonedoror = {
-					province = 7870
-					color = { 36 119 117 }
-				}
-				b_vejonkion = {
-					province = 7871
-					color = { 110 229 228 }
-				}
-				b_dorenka_doros = {
-					province = 7872
-					color = { 84 204 201 }
-				}
-				b_endiebinon = {
-					province = 7873
-					color = { 49 122 120 }
-				}
-				b_jurnerys = {
-					province = 7874
-					color = { 98 207 204 }
-				}
-				b_ozurne = {
-					province = 7875
-					color = { 51 88 87 }
-				}
-			}
-			c_nyalla = {
-				color = { 69 215 211 }
-				b_nyalla = {
-					province = 7876
-					color = { 69 215 211 }
-				}
-				b_dagrozior = {
-					province = 7877
-					color = { 114 181 179 }
-				}
-				b_hopihanin = {
-					province = 7878
-					color = { 21 105 102 }
-				}
-				b_gaguesiers = {
-					province = 7879
-					color = { 115 235 230 }
-				}
-			}
-		}
-		d_nontelos = {
-			color = { 71 174 171 }
-			capital = c_nontelos
-			c_nontelos = {
-				color = { 71 174 171 }
-				b_nonombion = {
-					province = 7880
-					color = { 71 174 171 }
-				}
-				b_nontelos = {
-					province = 7881
-					color = { 25 127 123 }
-				}
-				b_riostelos = {
-					province = 7882
-					color = { 78 181 177 }
-				}
-				b_nonbaes = {
-					province = 7883
-					color = { 32 116 113 }
-				}
-				b_dorios = {
-					province = 7884
-					color = { 31 156 152 }
-				}
-				b_nonajon = {
-					province = 7885
-					color = { 26 179 174 }
-				}
-			}
-			c_viigashos = {
-				color = { 68 164 161 }
-				b_viigashos = {
-					province = 7886
-					color = { 68 164 161 }
-				}
-				b_dhaen = {
-					province = 7887
-					color = { 60 143 140 }
-				}
-				b_vedoros = {
-					province = 7888
-					color = { 23 135 131 }
-				}
-			}
-			c_gyrakos = {
-				color = { 32 96 94 }
-				b_qelrios = {
-					province = 7889
-					color = { 32 96 94 }
-				}
-				b_rhinarios = {
-					province = 7890
-					color = { 43 201 198 }
-				}
-				b_vejogrion = {
-					province = 7891
-					color = { 76 144 143 }
-				}
-				b_jelmor_vejguesin = {
-					province = 7892
-					color = { 23 190 185 }
-				}
-				b_vezor_vejguesin = {
-					province = 7893
-					color = { 40 176 171 }
-				}
-			}
-			c_myllenios = {
-				color = { 23 204 198 }
-				b_guesidoror = {
-					province = 7894
-					color = { 23 204 198 }
-				}
-				b_mylenos = {
-					province = 7895
-					color = { 83 159 156 }
-				}
-				b_mylerios = {
-					province = 7896
-					color = { 55 125 122 }
-				}
-				b_lenyrios = {
-					province = 7897
-					color = { 43 212 206 }
-				}
-				b_manaqelbor = {
-					province = 7898
-					color = { 133 212 210 }
-				}
-				b_naejitsos = {
-					province = 7899
-					color = { 116 170 168 }
-				}
-			}
-			c_kastaraen = {
-				color = { 78 130 128 }
-				b_costoba = {
-					province = 7900
-					color = { 78 130 128 }
-				}
-				b_kastaraen = {
-					province = 7901
-					color = { 24 119 116 }
-				}
-				b_urnekas = {
-					province = 7902
-					color = { 39 167 163 }
-				}
-				b_jelurne = {
-					province = 7903
-					color = { 17 110 106 }
-				}
-				b_jurnemyr = {
-					province = 7904
-					color = { 57 142 138 }
-				}
-			}
-			c_samaalis = {
-				color = { 18 170 165 }
-				b_samal = {
-					province = 7905
-					color = { 18 170 165 }
-				}
-				b_samagues = {
-					province = 7906
-					color = { 68 210 205 }
-				}
-				b_guesejurne = {
-					province = 7907
-					color = { 89 235 230 }
-				}
-				b_endamire = {
-					province = 7908
-					color = { 41 130 128 }
-				}
-				b_hinomire = {
-					province = 7909
-					color = { 97 178 177 }
-				}
-				b_naqamire = {
-					province = 7910
-					color = { 102 167 165 }
-				}
-				b_samahinon = {
-					province = 7911
-					color = { 76 161 159 }
-				}
-			}
-			c_nonguesin = {
-				color = { 31 212 207 }
-				b_bosarios = {
-					province = 7912
-					color = { 31 212 207 }
-				}
-				b_nonrios = {
-					province = 7913
-					color = { 122 204 201 }
-				}
-				b_bosaguesin = {
-					province = 7914
-					color = { 8 105 103 }
-				}
-				b_naqaguesin = {
-					province = 7915
-					color = { 125 164 163 }
-				}
-				b_higuesin = {
-					province = 7916
-					color = { 12 113 110 }
-				}
-				b_drammagon = {
-					province = 7917
-					color = { 41 93 92 }
-				}
-			}
-		}
-	}
-	k_andalos = {
-		color = { 27 59 193 }
-		capital = c_coronyll
-		can_create = {
-			religion = religion:faith_of_the_seven_religion
-			custom_description = {
-				text = not_primary_title_kingdom_trigger
-				NOT = { primary_title.tier = tier_kingdom }
 			}
 		}
 		d_andalimark = {
