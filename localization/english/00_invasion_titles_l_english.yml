@@ -9,22 +9,22 @@
  e_lys_adj:0 "Lyseni"
 
  k_winterfell:0 "Winterfell"
- k_winterfell_adj:0 "Northern"
+ k_winterfell_adj:0 "Winterfell"
 
  k_dreadfort:0 "Dreadfort"
- k_dreadfort_adj:0 "Northern"
+ k_dreadfort_adj:0 "Dreadfort"
 
  k_wolfswood:0 "Wolfswood"
- k_wolfswood_adj:0 "Northern"
+ k_wolfswood_adj:0 "Wolfswood"
 
  k_stony_shore:0 "Stone Shore"
- k_stony_shore_adj:0 "Northern"
+ k_stony_shore_adj:0 "Stone Shore"
 
  k_crannogland:0 "Crannogland"
- k_crannogland_adj:0 "Northern"
+ k_crannogland_adj:0 "Crannogland"
 
  k_crestview:0 "Crestview"
- k_crestview_adj:0 "Northern"
+ k_crestview_adj:0 "Crestview"
 
  k_blackwater_bay:0 "Blackwater Bay"
  k_blackwater_bay_adj:0 "Bay"
@@ -33,10 +33,70 @@
  k_maidenpool_adj:0 "Maidenpool"
 
  k_rivervale:0 "Rivervale"
- k_rivervale_adj:0 "Riverman"
+ k_rivervale_adj:0 "Rivervale"
 
  k_cracklaw:0 "Cracklaw"
- k_cracklaw_adj:0 "Claw"
+ k_cracklaw_adj:0 "Cracklaw"
 
  e_disputed_lands:0 "Disputed Lands"
- e_disputed_lands_adj:0 "Disputed"
+ e_disputed_lands_adj:0 "Disputed Land"
+
+ k_duskendale_2:0 "Duskendale"
+ k_duskendale_2_adj:0 "Duskendale"
+
+ k_starfall:0 "Starfall"
+ k_starfall_adj:0 "Starfall"
+
+ k_the_stone_way:0 "Stone Way"
+ k_the_stone_way_adj:0 "Stone Way"
+
+ k_the_dunes:0 "The Dunes"
+ k_the_dunes_adj:0 "Dune"
+
+ k_storms_end:0 "Storm's End"
+ k_storms_end_adj:0 "Storm"
+
+ k_the_hook_2:0 "The Hook"
+ k_the_hook_2_adj:0 "Hook"
+
+ k_tarth_2:0 "Tarth"
+ k_tarth_2adj:0 "Tarth"
+
+ k_the_stonemarch:0 "The Stonemarch"
+ k_the_stonemarch_adj:0 "Stonemarch"
+
+ k_runestone_2:0 "Runestone"
+ k_runestone_2_adj:0 "Runestone"
+
+ k_mountain_vale:0 "The Mountain and Vale"
+ k_mountain_vale_adj:0 "Vale"
+
+ k_strongsong_2:0 "Strongsong"
+ k_k_strongsong_2_adj:0 "Strongsong"
+
+ k_the_fingers_2:0 "The Fingers"
+ k_the_fingers_2_adj:0 "Fingers"
+
+ k_casterly_rock:0 "Casterly Rock"
+ k_casterly_rock_adj:0 "Casterly Rock"
+
+ k_castamere_2:0 "Castamere"
+ k_castamere_2_adj:0 "Castamere"
+
+ k_crakehall:0 "Crakehall"
+ k_crakehalladj:0 "Crakehall"
+
+ k_the_westmarch:0 "The Westmarch"
+ k_the_westmarch_adj:0 "Westmarch"
+
+ k_goldengrove_2:0 "Goldengrove"
+ k_goldengrove_2_adj:0 "Goldengrove"
+
+ k_oldtown_2:0 "Oldtown"
+ k_oldtown_2_adj:0 "Oldtown"
+
+ k_the_arbor:0 "The Arbor"
+ k_the_arbor_adj:0 "Arbor"
+
+ k_tumbleton_2:0 "Tumblton"
+ k_tumbleton_2_adj:0 "Tumblton"
