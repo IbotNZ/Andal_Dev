@@ -1,0 +1,21 @@
+﻿##################### b_ruins #####################
+################ c_ruins - d_ruins ################
+7291 = {
+	culture = children
+	religion = old_gods_btw
+	holding = ruin_holding
+}
+################### b_more_ruin ###################
+################ c_ruins - d_ruins ################
+7292 = {
+	culture = children
+	religion = old_gods_btw
+	holding = none
+}
+################# b_the_most_ruin #################
+################ c_ruins - d_ruins ################
+7293 = {
+	culture = children
+	religion = old_gods_btw
+	holding = none
+}

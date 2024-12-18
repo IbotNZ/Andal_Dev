@@ -1,0 +1,375 @@
+﻿################# b_mag_narkannih #################
+############ c_vurk_ryg - d_tor_rag_dur ###########
+5814 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################## b_mags_stream ##################
+############ c_vurk_ryg - d_tor_rag_dur ###########
+5815 = {
+	holding = none
+}
+################## b_mag_nariylk ##################
+############ c_vurk_ryg - d_tor_rag_dur ###########
+5816 = {
+	holding = none
+}
+################## b_giants_slope #################
+############ c_vurk_ryg - d_tor_rag_dur ###########
+5817 = {
+	holding = none
+}
+#################### b_cov_voss ###################
+############ c_vurk_ryg - d_tor_rag_dur ###########
+5818 = {
+	holding = none
+}
+#################### b_wunshal ####################
+############ c_vurk_ryg - d_tor_rag_dur ###########
+5819 = {
+	holding = none
+}
+################# b_on_tun_degvoss ################
+########### c_basordryn - d_tor_rag_dur ###########
+5826 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################### b_basorflats ##################
+########### c_basordryn - d_tor_rag_dur ###########
+5827 = {
+	holding = none
+}
+################### b_last_wood ###################
+########### c_basordryn - d_tor_rag_dur ###########
+5828 = {
+	holding = none
+}
+#################### b_treesend ###################
+########### c_basordryn - d_tor_rag_dur ###########
+5829 = {
+	holding = none
+}
+#################### b_tunvoss ####################
+########### c_basordryn - d_tor_rag_dur ###########
+5830 = {
+	holding = none
+}
+################### b_snowsheet ###################
+########### c_basordryn - d_tor_rag_dur ###########
+5831 = {
+	holding = none
+}
+################### b_lastwater ###################
+########### c_basordryn - d_tor_rag_dur ###########
+5832 = {
+	holding = none
+}
+#################### b_wud_monm ###################
+############ c_ask_vith - d_tor_rag_dur ###########
+5833 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################## b_littleridge ##################
+############ c_ask_vith - d_tor_rag_dur ###########
+5834 = {
+	holding = none
+}
+################### b_wuns_head ###################
+############ c_ask_vith - d_tor_rag_dur ###########
+5835 = {
+	holding = none
+}
+#################### b_roveggih ###################
+######### c_roveggs_spine - d_tor_rag_dur #########
+5820 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################## b_winters_wall #################
+######### c_roveggs_spine - d_tor_rag_dur #########
+5821 = {
+	holding = none
+}
+################# b_roveggs_canal #################
+######### c_roveggs_spine - d_tor_rag_dur #########
+5822 = {
+	holding = none
+}
+################# b_furthest_melt #################
+######### c_roveggs_spine - d_tor_rag_dur #########
+5823 = {
+	holding = none
+}
+################### b_bone_ridge ##################
+######### c_roveggs_spine - d_tor_rag_dur #########
+5824 = {
+	holding = none
+}
+################# b_blizards_swell ################
+######### c_roveggs_spine - d_tor_rag_dur #########
+5825 = {
+	holding = none
+}
+################### b_wightwell ###################
+########## c_wights_well - d_ghost_lakes ##########
+5836 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################### b_winterbite ##################
+########## c_wights_well - d_ghost_lakes ##########
+5837 = {
+	holding = none
+}
+###################### b_arek #####################
+########## c_wights_well - d_ghost_lakes ##########
+5838 = {
+	holding = none
+}
+################### b_deadbrook ###################
+########## c_wights_well - d_ghost_lakes ##########
+5839 = {
+	holding = none
+}
+################## b_sruhmonm_veg #################
+########## c_idle_barrens - d_ghost_lakes #########
+5840 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+#################### b_coldmont ###################
+########## c_idle_barrens - d_ghost_lakes #########
+5841 = {
+	holding = none
+}
+################### b_sheerlark ###################
+########## c_idle_barrens - d_ghost_lakes #########
+5842 = {
+	holding = none
+}
+################### b_snowcliff ###################
+########## c_idle_barrens - d_ghost_lakes #########
+5843 = {
+	holding = none
+}
+################## b_ice_stretch ##################
+########## c_idle_barrens - d_ghost_lakes #########
+5844 = {
+	holding = none
+}
+################# b_blizard_ridge #################
+########## c_idle_barrens - d_ghost_lakes #########
+5845 = {
+	holding = none
+}
+################## b_elsas_cliff ##################
+########## c_idle_barrens - d_ghost_lakes #########
+5846 = {
+	holding = none
+}
+##################### b_anmrud ####################
+######## c_the_frigid_rise - d_ghost_lakes ########
+5847 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################ b_others_approach ################
+######## c_the_frigid_rise - d_ghost_lakes ########
+5848 = {
+	holding = none
+}
+##################### b_falan #####################
+######## c_the_frigid_rise - d_ghost_lakes ########
+5849 = {
+	holding = none
+}
+################## b_shatterbell ##################
+######## c_the_frigid_rise - d_ghost_lakes ########
+5850 = {
+	holding = none
+}
+#################### b_hoarmot ####################
+########### c_hoarmarrow - d_ghost_lakes ##########
+5851 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+#################### b_ain_haih ###################
+########### c_hoarmarrow - d_ghost_lakes ##########
+5852 = {
+	holding = none
+}
+#################### b_weshoar ####################
+########### c_hoarmarrow - d_ghost_lakes ##########
+5853 = {
+	holding = none
+}
+################### b_frostblud ###################
+########### c_hoarmarrow - d_ghost_lakes ##########
+5854 = {
+	holding = none
+}
+#################### b_iceblud ####################
+########### c_bloodbend - d_ghost_lakes ###########
+5855 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+#################### b_bludhed ####################
+########### c_bloodbend - d_ghost_lakes ###########
+5856 = {
+	holding = none
+}
+################### b_kryn_prek ###################
+########### c_bloodbend - d_ghost_lakes ###########
+5857 = {
+	holding = none
+}
+################## b_shatterflats #################
+########### c_bloodbend - d_ghost_lakes ###########
+5858 = {
+	holding = none
+}
+#################### b_icepoint ###################
+########## c_axe_camp - d_shivering_shore #########
+5859 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################### b_miahinyih ###################
+########## c_axe_camp - d_shivering_shore #########
+5860 = {
+	holding = none
+}
+################# b_voss_lysk_anag ################
+####### c_clear_ice_lake - d_shivering_shore ######
+5861 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################### b_icemirror ###################
+####### c_clear_ice_lake - d_shivering_shore ######
+5862 = {
+	holding = none
+}
+##################### b_lyskeg ####################
+####### c_clear_ice_lake - d_shivering_shore ######
+5863 = {
+	holding = none
+}
+################### b_black_ice ###################
+####### c_clear_ice_lake - d_shivering_shore ######
+5864 = {
+	holding = none
+}
+################### b_ain_oslhak ##################
+######## c_lhark_vakar - d_shivering_shore ########
+5865 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################ b_the_frozen_three ###############
+######## c_lhark_vakar - d_shivering_shore ########
+5866 = {
+	holding = none
+}
+#################### b_vakaresk ###################
+######## c_lhark_vakar - d_shivering_shore ########
+5867 = {
+	holding = none
+}
+##################### b_norvak ####################
+######## c_lhark_vakar - d_shivering_shore ########
+5868 = {
+	holding = none
+}
+#################### b_trasdryn ###################
+######## c_gerras_dryn - d_shivering_shore ########
+5869 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+#################### b_drynclyf ###################
+######## c_gerras_dryn - d_shivering_shore ########
+5870 = {
+	holding = none
+}
+#################### b_gerlhark ###################
+######## c_gerras_dryn - d_shivering_shore ########
+5871 = {
+	holding = none
+}
+################### b_shiverclyf ##################
+######## c_gerras_dryn - d_shivering_shore ########
+5872 = {
+	holding = none
+}
+#################### b_blue_ice ###################
+######### c_hail_coast - d_shivering_shore ########
+5873 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################### b_the_white ###################
+######### c_hail_coast - d_shivering_shore ########
+5874 = {
+	holding = none
+}
+#################### b_wiltmeat ###################
+######### c_hail_coast - d_shivering_shore ########
+5875 = {
+	holding = none
+}
+################### b_nkman_pin ###################
+######### c_hail_coast - d_shivering_shore ########
+5876 = {
+	holding = none
+}
+################### b_ain_dornk ###################
+######### c_hail_coast - d_shivering_shore ########
+5877 = {
+	holding = none
+}
+#################### b_noreast ####################
+######### c_hail_coast - d_shivering_shore ########
+5878 = {
+	holding = none
+}
+#################### b_gluhmyag ###################
+######## c_torch_river - d_shivering_shore ########
+5879 = {
+	culture = lakeman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################## b_frost_torch ##################
+######## c_torch_river - d_shivering_shore ########
+5880 = {
+	holding = none
+}
+################# b_icy_peak_coast ################
+######## c_torch_river - d_shivering_shore ########
+5881 = {
+	holding = none
+}
+################# b_blizzardflats #################
+######## c_torch_river - d_shivering_shore ########
+5882 = {
+	holding = none
+}

@@ -1,0 +1,1054 @@
+﻿###################### b_southern_market ######################
+################## c_myrish_docks - d_myr ##################
+7556 = {
+	culture = myrish
+	religion = rhllor
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_05
+			guild_halls_07
+			agot_slave_camps_06
+		}
+	}
+}
+##################### b_lysayn ####################
+################## c_myrish_docks - d_myr ##################
+7557 = {
+	holding = castle_holding
+	special_building = agot_great_wheel_01
+	7824.1.1 = {
+		buildings = {
+			castle_04
+			guild_halls_04
+		}
+	}
+}
+##################### b_antyne ####################
+################## c_myrish_docks - d_myr ##################
+7558 = {
+	special_building = agot_myr_cliffs_01
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_04
+			guild_halls_04
+		}
+	}
+}
+##################### b_myr #####################
+################# c_myr - d_myr #################
+7559 = {
+	culture = myrish
+	religion = rhllor
+	holding = castle_holding
+	special_building = agot_myr_01
+	duchy_capital_building = agot_myr_walls_01
+	7824.1.1 = {
+		buildings = {
+			castle_05
+			curtain_walls_03
+			agot_slave_camps_06
+		}
+	}
+}
+##################### b_croryo ####################
+################# c_myr - d_myr #################
+7560 = {
+	holding = church_holding
+	special_building = agot_grand_temple_of_gelenei_01
+	7824.1.1 = {
+		buildings = {
+			temple_03
+			monastic_schools_03
+		}
+	}
+}
+##################### b_sorela ####################
+################# c_myr - d_myr #################
+7561 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_05
+		}
+	}
+}
+##################### b_dyher #####################
+################# c_imeimyr - d_myr #################
+7562 = {
+	culture = myrish
+	religion = trios
+	special_building = agot_statue_of_trios_01
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_04
+			agot_slave_camps_06
+			guild_halls_06
+		}
+	}
+}
+##################### b_thaesh ####################
+################# c_imeimyr - d_myr #################
+7563 = {
+	holding = church_holding
+	special_building = agot_red_temple_myr_01
+	7824.1.1 = {
+		buildings = {
+			temple_03
+			curtain_walls_03
+		}
+	}
+}
+#################### b_foranar ####################
+################ c_baherion - d_myr ###############
+7564 = {
+	culture = myrish
+	religion = rhllor
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_02
+			hill_forts_02
+			military_camps_03
+		}
+	}
+}
+##################### b_ennah #####################
+################ c_baherion - d_myr ###############
+7565 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			curtain_walls_01
+		}
+	}
+}
+#################### b_essoris ####################
+################ c_baherion - d_myr ###############
+7566 = {
+	holding = church_holding
+	7824.1.1 = {
+		buildings = {
+			temple_04
+			monastic_schools_03
+		}
+	}
+}
+#################### b_foraenor ###################
+################ c_baherion - d_myr ###############
+7567 = {
+	holding = none
+}
+#################### b_dynaris ####################
+################ c_baherion - d_myr ###############
+7568 = {
+	holding = none
+}
+################### b_paenelion ###################
+############## c_aberfields - d_myr #############
+7569 = {
+	culture = myrish
+	religion = trios
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_04
+			curtain_walls_06
+			agot_slave_camps_05
+		}
+	}
+}
+##################### b_marel #####################
+############## c_aberfields - d_myr #############
+7570 = {
+	holding = none
+}
+##################### b_brenyl ####################
+############## c_aberfields - d_myr #############
+7571 = {
+	holding = none
+}
+#################### b_maeginar ###################
+############## c_aberfields - d_myr #############
+7572 = {
+	holding = none
+}
+#################### b_paenolis ###################
+############### c_drennelion - d_myr ##############
+7573 = {
+	culture = myrish
+	religion = trios
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_02
+			hill_forts_02
+			agot_slave_camps_03
+		}
+	}
+}
+##################### b_anerah ####################
+############### c_drennelion - d_myr ##############
+7574 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_04
+		}
+	}
+}
+##################### b_ennys #####################
+############### c_drennelion - d_myr ##############
+7575 = {
+	holding = none
+}
+#################### b_vollanar ###################
+############### c_drennelion - d_myr ##############
+7576 = {
+	holding = none
+}
+#################### b_nahoris ####################
+############### c_drennelion - d_myr ##############
+7577 = {
+	holding = none
+}
+#################### b_vynoran ####################
+############### c_drennelion - d_myr ##############
+7578 = {
+	holding = none
+}
+#################### b_paenaar ####################
+################# c_rynlos - d_myr ################
+7579 = {
+	culture = myrish
+	religion = trios
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+#################### b_sanelar ####################
+################# c_rynlos - d_myr ################
+7580 = {
+	holding = none
+}
+#################### b_ennerion ###################
+################# c_rynlos - d_myr ################
+7581 = {
+	holding = none
+}
+##################### b_aaraan ####################
+################# c_rynlos - d_myr ################
+7582 = {
+	holding = none
+}
+#################### b_hestiros ###################
+################# c_rynlos - d_myr ################
+7583 = {
+	holding = none
+}
+##################### b_irnel #####################
+################# c_rynlos - d_myr ################
+7584 = {
+	holding = none
+}
+################### b_hesterion ###################
+############## c_naqes_embar - d_myr ##############
+7585 = {
+	culture = myrish
+	religion = trios
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_03
+			curtain_walls_03
+			agot_slave_camps_04
+		}
+	}
+}
+##################### b_foraan ####################
+############## c_naqes_embar - d_myr ##############
+7586 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_04
+			guild_halls_06
+		}
+	}
+}
+#################### b_nahaenor ###################
+############## c_naqes_embar - d_myr ##############
+7587 = {
+	holding = none
+}
+##################### b_marion ####################
+############## c_naqes_embar - d_myr ##############
+7588 = {
+	holding = none
+}
+#################### b_irratis ####################
+############## c_naqes_embar - d_myr ##############
+7589 = {
+	holding = none
+}
+##################### b_ahrios ####################
+############## c_naqes_embar - d_myr ##############
+7590 = {
+	holding = none
+}
+##################### b_aneren ####################
+################# c_jaeren - d_myr ################
+7591 = {
+	culture = myrish
+	religion = rhllor
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			hill_forts_01
+			agot_slave_camps_04
+		}
+	}
+}
+################### b_eranerion ###################
+################# c_jaeren - d_myr ################
+7592 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_03
+		}
+	}
+}
+################### b_tregillos ###################
+################# c_jaeren - d_myr ################
+7593 = {
+	holding = none
+}
+#################### b_dyaesar ####################
+################# c_jaeren - d_myr ################
+7594 = {
+	holding = none
+}
+#################### b_vyrario ####################
+################# c_jaeren - d_myr ################
+7595 = {
+	holding = none
+}
+#################### b_barynis ####################
+################# c_jaeren - d_myr ################
+7596 = {
+	holding = none
+}
+#################### b_drasagha ###################
+############# c_draembyr - d_croraera #############
+7597 = {
+	culture = rhoynish
+	religion = rhllor
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+###################### b_tyso #####################
+############# c_draembyr - d_croraera #############
+7598 = {
+	holding = none
+}
+################### b_thymbagho ###################
+############# c_draembyr - d_croraera #############
+7599 = {
+	holding = none
+}
+##################### b_taelas ####################
+############# c_draembyr - d_croraera #############
+7600 = {
+	holding = none
+}
+################# b_tallgrass #################
+############# c_draembyr - d_croraera #############
+7601 = {
+	holding = none
+}
+###################### b_trar #####################
+############# c_draembyr - d_croraera #############
+7602 = {
+	holding = none
+}
+###################### b_qyr ######################
+############# c_draembyr - d_croraera #############
+7603 = {
+	holding = none
+}
+###################### b_mosa #####################
+############ c_draemvale - d_croraera ############
+7604 = {
+	culture = hartalari
+	religion = trios
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+#################### b_ostelion ###################
+############ c_draemvale - d_croraera ############
+7605 = {
+	holding = none
+}
+###################### b_qysh #####################
+############ c_draemvale - d_croraera ############
+7606 = {
+	holding = none
+}
+################## b_draemrios ##################
+############ c_draemvale - d_croraera ############
+7607 = {
+	holding = none
+}
+############### b_tolnazar ###############
+############ c_draemvale - d_croraera ############
+7608 = {
+	holding = none
+}
+##################### b_frosh #####################
+############ c_draemvale - d_croraera ############
+7609 = {
+	holding = none
+}
+#################### b_saeloho ####################
+############ c_draemvale - d_croraera ############
+7610 = {
+	holding = none
+}
+################### b_crasaemba ###################
+############## c_latnyr - d_croraera ##############
+7611 = {
+	culture = hartalari
+	religion = rhllor
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+##################### b_sygho #####################
+############## c_latnyr - d_croraera ##############
+7612 = {
+	holding = none
+}
+###################### b_qas ######################
+############## c_latnyr - d_croraera ##############
+7613 = {
+	holding = none
+}
+###################### b_qyso #####################
+############## c_latnyr - d_croraera ##############
+7614 = {
+	holding = none
+}
+###################### b_thos #####################
+############## c_latnyr - d_croraera ##############
+7615 = {
+	holding = none
+}
+##################### b_taeha #####################
+############# c_myrwater - d_croraera #############
+7616 = {
+	culture = hartalari
+	religion = weeping_lady
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+#################### b_qaeghas ####################
+############# c_myrwater - d_croraera #############
+7617 = {
+	holding = none
+}
+#################### b_moghaer ####################
+############# c_myrwater - d_croraera #############
+7618 = {
+	holding = none
+}
+#################### b_saeghosh ###################
+############# c_myrwater - d_croraera #############
+7619 = {
+	holding = none
+}
+##################### b_thaeso ####################
+############# c_myrwater - d_croraera #############
+7620 = {
+	holding = none
+}
+################### b_flaeraenor ##################
+########## c_erintys - d_brenassar #########
+7621 = {
+	culture = myrish
+	religion = rhllor
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+#################### b_tychonno ###################
+########## c_erintys - d_brenassar #########
+7625 = {
+	holding = none
+}
+#################### b_ennonis ####################
+########## c_erintys - d_brenassar #########
+7623 = {
+	holding = none
+}
+#################### b_hestirah ###################
+########## c_erintys - d_brenassar #########
+7624 = {
+	holding = none
+}
+#################### b_paenoris ###################
+########### c_aror_drennah - d_brenassar ##########
+7626 = {
+	culture = myrish
+	religion = weeping_lady
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+#################### b_irrirah ####################
+########### c_aror_drennah - d_brenassar ##########
+7627 = {
+	holding = none
+}
+##################### b_faenos ####################
+########### c_aror_drennah - d_brenassar ##########
+7628 = {
+	holding = none
+}
+##################### b_anerel ####################
+########### c_aror_drennah - d_brenassar ##########
+7629 = {
+	holding = none
+}
+################### b_iranonnis ###################
+########### c_aror_drennah - d_brenassar ##########
+7622 = {
+	holding = none
+}
+#################### b_sanoran ####################
+########### c_aror_drennah - d_brenassar ##########
+7630 = {
+	holding = none
+}
+##################### b_vogio #####################
+############## c_qolash - d_brenassar #############
+7631 = {
+	culture = rhoynish
+	religion = trios
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+##################### b_sirala ####################
+############## c_qolash - d_brenassar #############
+7632 = {
+	holding = none
+}
+#################### b_onalynea ###################
+############## c_qolash - d_brenassar #############
+7633 = {
+	holding = none
+}
+#################### b_ahrosha ####################
+############## c_qolash - d_brenassar #############
+7634 = {
+	holding = none
+}
+#################### b_vynerion ###################
+############## c_qolash - d_brenassar #############
+7635 = {
+	holding = none
+}
+#################### b_phiranah ###################
+############## c_qolash - d_brenassar #############
+7636 = {
+	holding = none
+}
+#################### b_hotaris ####################
+############## c_byloth - d_brenassar #############
+7637 = {
+	culture = myrish
+	religion = weeping_lady
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+#################### b_taenaria ###################
+############## c_byloth - d_brenassar #############
+7638 = {
+	holding = none
+}
+#################### b_arenissa ###################
+############## c_byloth - d_brenassar #############
+7639 = {
+	holding = none
+}
+#################### b_aneriros ###################
+############## c_byloth - d_brenassar #############
+7640 = {
+	holding = none
+}
+##################### b_sanaar ####################
+############## c_byloth - d_brenassar #############
+7641 = {
+	holding = none
+}
+#################### b_naeranar ###################
+############# c_vymolys - d_brenassar #############
+7642 = {
+	culture = hartalari
+	religion = rhllor
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+#################### b_faenatis ###################
+############# c_vymolys - d_brenassar #############
+7643 = {
+	holding = none
+}
+##################### b_forah #####################
+############# c_vymolys - d_brenassar #############
+7644 = {
+	holding = none
+}
+################# b_tolgrevious #################
+############# c_vymolys - d_brenassar #############
+7645 = {
+	holding = none
+}
+################# b_tolrios #################
+############# c_vymolys - d_brenassar #############
+7646 = {
+	holding = none
+}
+##################### b_innar #####################
+############# c_vymolys - d_brenassar #############
+7647 = {
+	holding = none
+}
+#################### b_arenosha ###################
+############# c_molranno - d_brenassar ############
+7648 = {
+	culture = myrish
+	religion = rhllor
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+################### b_stassyrion ##################
+############# c_molranno - d_brenassar ############
+7649 = {
+	holding = none
+}
+#################### b_molymbo ####################
+############# c_molranno - d_brenassar ############
+7650 = {
+	holding = none
+}
+##################### b_nakaro ####################
+############# c_molranno - d_brenassar ############
+7651 = {
+	holding = none
+}
+#################### b_wenanea ####################
+############# c_molranno - d_brenassar ############
+7652 = {
+	holding = none
+}
+#################### b_waereya ####################
+############## c_eranah - d_brenassar #############
+7653 = {
+	culture = myrish
+	religion = rhllor
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+#################### b_laenerah ###################
+############## c_eranah - d_brenassar #############
+7654 = {
+	holding = none
+}
+#################### b_wenysha ####################
+############## c_eranah - d_brenassar #############
+7655 = {
+	holding = none
+}
+#################### b_iraniris ###################
+############## c_eranah - d_brenassar #############
+7656 = {
+	holding = none
+}
+#################### b_nestaan ####################
+############## c_eranah - d_brenassar #############
+7657 = {
+	holding = none
+}
+#################### b_sambaro ####################
+############## c_lotyr_bay - d_qehes ##############
+7658 = {
+	culture = myrish
+	religion = trios
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_02
+			curtain_walls_04
+			agot_slave_camps_02
+		}
+	}
+}
+#################### b_trahaes ####################
+############## c_lotyr_bay - d_qehes ##############
+7659 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_01
+			guild_halls_01
+		}
+	}
+}
+##################### b_croha #####################
+############## c_lotyr_bay - d_qehes ##############
+7660 = {
+	holding = none
+}
+#################### b_maelaero ###################
+############## c_lotyr_bay - d_qehes ##############
+7661 = {
+	holding = none
+}
+#################### b_tysaero ####################
+############## c_lotyr_bay - d_qehes ##############
+7662 = {
+	holding = none
+}
+#################### b_thaeros ####################
+############## c_lotyr_bay - d_qehes ##############
+7663 = {
+	holding = none
+}
+##################### b_drosh #####################
+############## c_lotyr_bay - d_qehes ##############
+7664 = {
+	holding = none
+}
+#################### b_noronos ####################
+################ c_mogho - d_qehes ################
+7665 = {
+	culture = myrish
+	religion = weeping_lady
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+################### b_fyllassar ###################
+################ c_mogho - d_qehes ################
+7666 = {
+	holding = none
+}
+#################### b_brenatis ###################
+################ c_mogho - d_qehes ################
+7667 = {
+	holding = none
+}
+#################### b_marenno ####################
+################ c_mogho - d_qehes ################
+7668 = {
+	holding = none
+}
+################### b_maegassar ###################
+################ c_mogho - d_qehes ################
+7669 = {
+	holding = none
+}
+##################### b_vaera #####################
+################ c_mogho - d_qehes ################
+7670 = {
+	holding = none
+}
+##################### b_dilora ####################
+############## c_ergos - d_qehes ##############
+7671 = {
+	culture = myrish
+	religion = rhllor
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+##################### b_norys #####################
+############## c_ergos - d_qehes ##############
+7672 = {
+	holding = none
+}
+#################### b_vyrodos ####################
+############## c_ergos - d_qehes ##############
+7673 = {
+	holding = none
+}
+################### b_paenerion ###################
+############## c_ergos - d_qehes ##############
+7674 = {
+	holding = none
+}
+################### b_maegaenor ###################
+############### c_lerysha - d_qehes ###############
+7675 = {
+	culture = myrish
+	religion = rhllor
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+#################### b_naeratis ###################
+############### c_lerysha - d_qehes ###############
+7676 = {
+	holding = none
+}
+#################### b_feranea ####################
+############### c_lerysha - d_qehes ###############
+7677 = {
+	holding = none
+}
+################### b_brenerion ###################
+############### c_lerysha - d_qehes ###############
+7678 = {
+	holding = none
+}
+#################### b_sanyris ####################
+############### c_lerysha - d_qehes ###############
+7679 = {
+	holding = none
+}
+###################### b_mor ######################
+############### c_lerysha - d_qehes ###############
+7680 = {
+	holding = none
+}
+##################### b_naeros ####################
+############### c_drasaho - d_qehes ###############
+7681 = {
+	culture = myrish
+	religion = rhllor
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+#################### b_nyessaro ###################
+############### c_drasaho - d_qehes ###############
+7682 = {
+	holding = none
+}
+#################### b_gylliros ###################
+############### c_drasaho - d_qehes ###############
+7683 = {
+	holding = none
+}
+##################### b_aenah #####################
+############### c_drasaho - d_qehes ###############
+7684 = {
+	holding = none
+}
+##################### b_dynos #####################
+############### c_drasaho - d_qehes ###############
+7685 = {
+	holding = none
+}
+#################### b_ostoyor ####################
+############### c_drasaho - d_qehes ###############
+7686 = {
+	holding = none
+}
+#################### b_aerenhor ###################
+############# c_greenlace - d_daarano #############
+7687 = {
+	culture = rhoynish
+	religion = weeping_lady
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+#################### b_adaresso ###################
+############# c_greenlace - d_daarano #############
+7688 = {
+	holding = none
+}
+##################### b_essen #####################
+############# c_greenlace - d_daarano #############
+7689 = {
+	holding = none
+}
+#################### b_dilanea ####################
+############# c_greenlace - d_daarano #############
+7690 = {
+	holding = none
+}
+#################### b_sallonos ###################
+############# c_greenlace - d_daarano #############
+7691 = {
+	holding = none
+}
+##################### b_arodos ####################
+############# c_greenlace - d_daarano #############
+7692 = {
+	holding = none
+}
+################### b_brenerris ###################
+############ c_qapys - d_daarano ############
+7693 = {
+	culture = rhoynish
+	religion = mother_rhoyne
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+#################### b_daenissa ###################
+############ c_qapys - d_daarano ############
+7694 = {
+	holding = none
+}
+#################### b_vellesa ####################
+############ c_qapys - d_daarano ############
+7695 = {
+	holding = none
+}
+#################### b_ahryrion ###################
+############ c_qapys - d_daarano ############
+7696 = {
+	holding = none
+}
+#################### b_ennelion ###################
+############## c_illiros - d_daarano ##############
+7697 = {
+	culture = myrish
+	religion = rhllor
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+################### b_stallenhor ##################
+############## c_illiros - d_daarano ##############
+7698 = {
+	holding = none
+}
+#################### b_dynonnis ###################
+############## c_illiros - d_daarano ##############
+7699 = {
+	holding = none
+}
+#################### b_vaerynea ###################
+############## c_illiros - d_daarano ##############
+7700 = {
+	holding = none
+}
+#################### b_phirona ####################
+############## c_illiros - d_daarano ##############
+7701 = {
+	holding = none
+}
+##################### b_bahar #####################
+############## c_illiros - d_daarano ##############
+7702 = {
+	holding = none
+}
+#################### b_faeniros ###################
+############## c_aenoris - d_daarano ##############
+7703 = {
+	culture = rhoynish
+	religion = rhllor
+	holding = castle_holding
+	7658.1.1 = {
+		buildings = {
+			castle_01
+		}
+	}
+}
+#################### b_ormoris ####################
+############## c_aenoris - d_daarano ##############
+7704 = {
+	holding = none
+}
+################### b_anerassar ###################
+############## c_aenoris - d_daarano ##############
+7705 = {
+	holding = none
+}
+#################### b_helanah ####################
+############## c_aenoris - d_daarano ##############
+7706 = {
+	holding = none
+}
+#################### b_eranerah ###################
+############## c_aenoris - d_daarano ##############
+7707 = {
+	holding = none
+}

@@ -1,0 +1,626 @@
+﻿################# b_mountains_end #################
+######### c_chained_maw - d_pale_mountains ########
+5510 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################ b_snowblind_ledge ################
+######### c_chained_maw - d_pale_mountains ########
+5511 = {
+	holding = none
+}
+################ b_sheltered_grotto ###############
+######### c_chained_maw - d_pale_mountains ########
+5512 = {
+	holding = none
+}
+##################### b_dakmyr ####################
+######### c_chained_maw - d_pale_mountains ########
+5513 = {
+	holding = none
+}
+################### b_lungcatch ###################
+######### c_chained_maw - d_pale_mountains ########
+5514 = {
+	holding = none
+}
+################### b_neargulch ###################
+######### c_chained_maw - d_pale_mountains ########
+5515 = {
+	holding = none
+}
+################ b_travelers_lodge ################
+####### c_wanderers_ridge - d_pale_mountains ######
+5516 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+#################### b_pooldown ###################
+####### c_wanderers_ridge - d_pale_mountains ######
+5517 = {
+	holding = none
+}
+################### b_greybanks ###################
+####### c_wanderers_ridge - d_pale_mountains ######
+5518 = {
+	holding = none
+}
+##################### b_faroff ####################
+####### c_wanderers_ridge - d_pale_mountains ######
+5519 = {
+	holding = none
+}
+################## b_cragg_peaks ##################
+####### c_wanderers_ridge - d_pale_mountains ######
+5520 = {
+	holding = none
+}
+################### b_bendburrow ##################
+######### c_frost_caves - d_pale_mountains ########
+5521 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################## b_hollow_rise ##################
+######### c_frost_caves - d_pale_mountains ########
+5522 = {
+	holding = none
+}
+################### b_ramsledge ###################
+######### c_frost_caves - d_pale_mountains ########
+5523 = {
+	holding = none
+}
+################## b_keening_pass #################
+######### c_frost_caves - d_pale_mountains ########
+5524 = {
+	holding = none
+}
+#################### b_off_flow ###################
+######### c_frost_caves - d_pale_mountains ########
+5525 = {
+	holding = none
+}
+################ b_whistled_grooves ###############
+######### c_frost_caves - d_pale_mountains ########
+5526 = {
+	holding = none
+}
+################# b_rock_and_stone ################
+########## c_ironskin - d_pale_mountains ##########
+5527 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+#################### b_fukkarl ####################
+########## c_ironskin - d_pale_mountains ##########
+5528 = {
+	holding = none
+}
+#################### b_weirrik ####################
+########## c_ironskin - d_pale_mountains ##########
+5529 = {
+	holding = none
+}
+################## b_horskes_fior #################
+########## c_ironskin - d_pale_mountains ##########
+5530 = {
+	holding = none
+}
+#################### b_radsygga ###################
+########## c_ironskin - d_pale_mountains ##########
+5531 = {
+	holding = none
+}
+################## b_glacierscar ##################
+###### c_owl_mountain_path - d_pale_mountains #####
+5532 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################## b_long_cavern ##################
+###### c_owl_mountain_path - d_pale_mountains #####
+5533 = {
+	holding = none
+}
+################# b_talons_bluffs #################
+###### c_owl_mountain_path - d_pale_mountains #####
+5534 = {
+	holding = none
+}
+################# b_icebeaks_ridge ################
+###### c_owl_mountain_path - d_pale_mountains #####
+5535 = {
+	holding = none
+}
+################ b_glaciers_gateway ###############
+###### c_owl_mountain_path - d_pale_mountains #####
+5536 = {
+	holding = none
+}
+################ b_feathered_crest ################
+###### c_owl_mountain_path - d_pale_mountains #####
+5537 = {
+	holding = none
+}
+################### b_owlet_fall ##################
+###### c_owl_mountain_path - d_pale_mountains #####
+5538 = {
+	holding = none
+}
+################# b_eagle_heights #################
+######## c_the_doorstep - d_pale_mountains ########
+5539 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################ b_crossed_streams ################
+######## c_the_doorstep - d_pale_mountains ########
+5540 = {
+	holding = none
+}
+################ b_rockside_freeze ################
+######## c_the_doorstep - d_pale_mountains ########
+5541 = {
+	holding = none
+}
+################## b_shaggy_home ##################
+######## c_giants_stair - d_pale_mountains ########
+5542 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################# b_withered_rock #################
+######## c_giants_stair - d_pale_mountains ########
+5543 = {
+	holding = none
+}
+################## b_mammoth_lows #################
+######## c_giants_stair - d_pale_mountains ########
+5544 = {
+	holding = none
+}
+################## b_giants_grave #################
+######## c_giants_stair - d_pale_mountains ########
+5545 = {
+	holding = none
+}
+################ b_thicktree_grove ################
+######## c_giants_stair - d_pale_mountains ########
+5546 = {
+	holding = none
+}
+#################### b_clubwood ###################
+######## c_giants_stair - d_pale_mountains ########
+5547 = {
+	holding = none
+}
+################## b_boulderfall ##################
+######## c_giants_stair - d_pale_mountains ########
+5548 = {
+	holding = none
+}
+#################### b_axelodge ###################
+######## c_skirling_pass - d_keening_ridges #######
+5549 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################ b_flooded_thicket ################
+######## c_skirling_pass - d_keening_ridges #######
+5550 = {
+	holding = none
+}
+################# b_windswept_peak ################
+######## c_skirling_pass - d_keening_ridges #######
+5551 = {
+	holding = none
+}
+################### b_lone_mound ##################
+######## c_skirling_pass - d_keening_ridges #######
+5552 = {
+	holding = none
+}
+#################### b_skirling ###################
+######## c_skirling_pass - d_keening_ridges #######
+5553 = {
+	holding = none
+}
+################### b_bladerest ###################
+########## c_dirkviss - d_keening_ridges ##########
+5554 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################# b_snowmelt_peak #################
+########## c_dirkviss - d_keening_ridges ##########
+5555 = {
+	holding = none
+}
+############### b_rockfall_riverside ##############
+########## c_dirkviss - d_keening_ridges ##########
+5556 = {
+	holding = none
+}
+################# b_desolate_rocks ################
+########## c_dirkviss - d_keening_ridges ##########
+5557 = {
+	holding = none
+}
+################### b_eaglefall ###################
+########## c_dirkviss - d_keening_ridges ##########
+5558 = {
+	holding = none
+}
+################### b_seer_peak ###################
+######### c_wurns_head - d_keening_ridges #########
+5559 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################## b_frozen_slope #################
+######### c_wurns_head - d_keening_ridges #########
+5560 = {
+	holding = none
+}
+################### b_vals_peak ###################
+######### c_wurns_head - d_keening_ridges #########
+5561 = {
+	holding = none
+}
+################## b_grim_valley ##################
+######### c_wurns_head - d_keening_ridges #########
+5562 = {
+	holding = none
+}
+################## b_frozen_path ##################
+######### c_wurns_head - d_keening_ridges #########
+5563 = {
+	holding = none
+}
+################# b_exile_heights #################
+######### c_wurns_head - d_keening_ridges #########
+5564 = {
+	holding = none
+}
+################### b_tuskcairn ###################
+####### c_mammoth_cairns - d_keening_ridges #######
+5565 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################# b_mammoth_grave #################
+####### c_mammoth_cairns - d_keening_ridges #######
+5566 = {
+	holding = none
+}
+################## b_wooly_rocks ##################
+####### c_mammoth_cairns - d_keening_ridges #######
+5567 = {
+	holding = none
+}
+################### b_tuskgrove ###################
+####### c_mammoth_cairns - d_keening_ridges #######
+5568 = {
+	holding = none
+}
+################## b_hairy_mound ##################
+####### c_mammoth_cairns - d_keening_ridges #######
+5569 = {
+	holding = none
+}
+################### b_calf_vale ###################
+####### c_mammoth_cairns - d_keening_ridges #######
+5570 = {
+	holding = none
+}
+################## b_rotten_lodge #################
+######## c_rotten_valley - d_keening_ridges #######
+5571 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################# b_carcass_grove #################
+######## c_rotten_valley - d_keening_ridges #######
+5572 = {
+	holding = none
+}
+################### b_corpsewood ##################
+######## c_rotten_valley - d_keening_ridges #######
+5573 = {
+	holding = none
+}
+################### b_end_trail ###################
+######## c_rotten_valley - d_keening_ridges #######
+5574 = {
+	holding = none
+}
+################### b_stankwood ###################
+######## c_rotten_valley - d_keening_ridges #######
+5575 = {
+	holding = none
+}
+#################### b_tripflow ###################
+############ c_fangspear - d_milkwater ############
+5576 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+#################### b_heelmont ###################
+############ c_fangspear - d_milkwater ############
+5577 = {
+	holding = none
+}
+################### b_darkglass ###################
+############ c_fangspear - d_milkwater ############
+5578 = {
+	holding = none
+}
+################### b_haftgrove ###################
+############ c_fangspear - d_milkwater ############
+5579 = {
+	holding = none
+}
+################## b_south_prong ##################
+############# c_forktop - d_milkwater #############
+5580 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+#################### b_watcher ####################
+############# c_forktop - d_milkwater #############
+5581 = {
+	holding = none
+}
+################## b_great_prong ##################
+############# c_forktop - d_milkwater #############
+5582 = {
+	holding = none
+}
+################## b_tine_valley ##################
+############# c_forktop - d_milkwater #############
+5583 = {
+	holding = none
+}
+################ b_shadowskin_lodge ###############
+########### c_hunters_fall - d_milkwater ##########
+5584 = {
+	culture = forestman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################## b_antler_ridge #################
+########### c_hunters_fall - d_milkwater ##########
+5585 = {
+	holding = none
+}
+#################### b_forkside ###################
+########### c_hunters_fall - d_milkwater ##########
+5586 = {
+	holding = none
+}
+#################### b_topside ####################
+########### c_hunters_fall - d_milkwater ##########
+5587 = {
+	holding = none
+}
+################### b_swill_rock ##################
+############ c_swill_rock - d_milkwater ###########
+5588 = {
+	culture = forestman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################### b_drunkwood ###################
+############ c_swill_rock - d_milkwater ###########
+5589 = {
+	holding = none
+}
+#################### b_milkgulp ###################
+############ c_swill_rock - d_milkwater ###########
+5590 = {
+	holding = none
+}
+################# b_shattered_jaw #################
+########### c_skull_peaks - d_milkwater ###########
+5591 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################ b_stained_mountain ###############
+########### c_skull_peaks - d_milkwater ###########
+5592 = {
+	holding = none
+}
+################# b_fracture_pass #################
+########### c_skull_peaks - d_milkwater ###########
+5593 = {
+	holding = none
+}
+################## b_blindstream ##################
+########### c_skull_peaks - d_milkwater ###########
+5594 = {
+	holding = none
+}
+################## b_gnarled_rock #################
+############ c_the_gorge - d_milkwater ############
+5595 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+#################### b_deadroot ###################
+############ c_the_gorge - d_milkwater ############
+5596 = {
+	holding = none
+}
+#################### b_tornleg ####################
+############ c_the_gorge - d_milkwater ############
+5597 = {
+	holding = none
+}
+################# b_climbers_path #################
+############ c_the_gorge - d_milkwater ############
+5598 = {
+	holding = none
+}
+################## b_giants_step ##################
+########### c_cape_walrus - d_walrus_bay ##########
+5614 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################### b_tusk_spear ##################
+########### c_cape_walrus - d_walrus_bay ##########
+5615 = {
+	holding = none
+}
+################### b_brokebones ##################
+########### c_cape_walrus - d_walrus_bay ##########
+5616 = {
+	holding = none
+}
+################# b_giants_pasture ################
+########### c_cape_walrus - d_walrus_bay ##########
+5617 = {
+	holding = none
+}
+################# b_blubber_point #################
+########### c_cape_walrus - d_walrus_bay ##########
+5618 = {
+	holding = none
+}
+################### b_whitewood ###################
+########### c_cape_walrus - d_walrus_bay ##########
+5619 = {
+	holding = none
+}
+################## b_shaggy_mound #################
+########### c_cape_walrus - d_walrus_bay ##########
+5620 = {
+	holding = none
+}
+################### b_ruddy_hall ##################
+############ c_taldrsek - d_walrus_bay ############
+5599 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################### b_frostridge ##################
+############ c_taldrsek - d_walrus_bay ############
+5600 = {
+	holding = none
+}
+################## b_mount_taldr ##################
+############ c_taldrsek - d_walrus_bay ############
+5601 = {
+	holding = none
+}
+################## b_taldr_ledge ##################
+############ c_taldrsek - d_walrus_bay ############
+5602 = {
+	holding = none
+}
+################## b_ruddy_cliffs #################
+############ c_taldrsek - d_walrus_bay ############
+5603 = {
+	holding = none
+}
+#################### b_banewood ###################
+############ c_taldrsek - d_walrus_bay ############
+5604 = {
+	holding = none
+}
+################# b_napping_hills #################
+############ c_taldrsek - d_walrus_bay ############
+5605 = {
+	holding = none
+}
+################### b_the_plunge ##################
+############ c_duskremr - d_walrus_bay ############
+5606 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################## b_thunder_pass #################
+############ c_duskremr - d_walrus_bay ############
+5607 = {
+	holding = none
+}
+################### b_duskrpeak ###################
+############ c_duskremr - d_walrus_bay ############
+5608 = {
+	holding = none
+}
+################### b_wealdholm ###################
+########### c_wealdstone - d_walrus_bay ###########
+5609 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+#################### b_lowridge ###################
+########### c_wealdstone - d_walrus_bay ###########
+5610 = {
+	holding = none
+}
+#################### b_calengap ###################
+########### c_wealdstone - d_walrus_bay ###########
+5611 = {
+	holding = none
+}
+################### b_wily_tree ###################
+########### c_wealdstone - d_walrus_bay ###########
+5612 = {
+	holding = none
+}
+################### b_highridge ###################
+########### c_wealdstone - d_walrus_bay ###########
+5613 = {
+	holding = none
+}
+#################### b_tuskhal ####################
+########### c_white_tusk - d_walrus_bay ###########
+5621 = {
+	culture = fangman
+	religion = old_gods_btw
+	holding = tribal_holding
+}
+################## b_flipperwood ##################
+########### c_white_tusk - d_walrus_bay ###########
+5622 = {
+	holding = none
+}
+#################### b_permalin ###################
+########### c_white_tusk - d_walrus_bay ###########
+5623 = {
+	holding = none
+}
+################### b_tuskclyff ###################
+########### c_white_tusk - d_walrus_bay ###########
+5624 = {
+	holding = none
+}
+#################### b_capewood ###################
+########### c_white_tusk - d_walrus_bay ###########
+5625 = {
+	holding = none
+}

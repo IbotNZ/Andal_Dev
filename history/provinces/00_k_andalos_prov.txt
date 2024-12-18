@@ -1,0 +1,916 @@
+﻿################ b_hugors_hill ###############
+############# c_coronyll - d_andalimark #############
+7918 = {
+	culture = andalosi
+	religion = princely_arbiter
+	holding = castle_holding
+	special_building = agot_hugor_hill_01
+	7824.1.1 = {
+		buildings = { castle_01 }
+	}
+}
+################ b_coronagues ###############
+############# c_coronyll - d_andalimark #############
+7919 = {
+	holding = none
+}
+################ b_qelford ###############
+############# c_coronyll - d_andalimark #############
+7920 = {
+	holding = none
+}
+################ b_hyligues ###############
+############# c_coronyll - d_andalimark #############
+7921 = {
+	holding = church_holding
+	7824.1.1 = {
+		buildings = {
+			temple_01
+			monastic_schools_01
+		}
+	}
+}
+################ b_corohold ###############
+############# c_coronyll - d_andalimark #############
+7922 = {
+	culture = andalosi
+	religion = princely_arbiter
+	holding = castle_holding
+	4100.1.1 = {
+		buildings = {
+			castle_01
+			curtain_walls_01
+		}
+	}
+}
+################ b_coronkion ###############
+############# c_coronyll - d_andalimark #############
+7923 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_01
+			guild_halls_01
+		}
+	}
+}
+################ b_ridgues ###############
+############# c_coronyll - d_andalimark #############
+7924 = {
+	holding = none
+}
+################ b_hukodale ###############
+############# c_crone_moors - d_andalimark #############
+7925 = {
+	culture = rhoynish
+	religion = rhllor
+}
+################ b_norofer ###############
+############# c_crone_moors - d_andalimark #############
+7926 = {
+	holding = none
+}
+############### b_wesahyls ###############
+############# c_crone_moors - d_andalimark #############
+7927 = {
+	holding = none
+}
+############### b_emtigale ###############
+############# c_crone_moors - d_andalimark #############
+7928 = {
+	holding = none
+}
+############### b_hylaus ###############
+############# c_crone_moors - d_andalimark #############
+7929 = {
+	holding = none
+}
+############### b_sufhyl ###############
+############# c_crone_moors - d_andalimark #############
+7930 = {
+	holding = none
+}
+############### b_sufofer ###############
+############# c_gonford - d_andalimark #############
+7931 = {
+	culture = rhoynish
+	religion = rhllor
+}
+############### b_chirchylle ###############
+############# c_gonford - d_andalimark #############
+7932 = {
+	holding = none
+}
+############### b_lowrycg ###############
+############# c_gonford - d_andalimark #############
+7933 = {
+	holding = none
+}
+############### b_hrycgold ###############
+############# c_gonford - d_andalimark #############
+7934 = {
+	holding = none
+}
+############### b_eahyll ###############
+############# c_ishys - d_andalimark #############
+7935 = {
+	culture = pentoshi
+	religion = princely_arbiter
+}
+############### b_ausfold ###############
+############# c_ishys - d_andalimark #############
+7936 = {
+	holding = none
+}
+############### b_sofold ###############
+############# c_ishys - d_andalimark #############
+7937 = {
+	holding = none
+}
+############### b_medhyl ###############
+############# c_ishys - d_andalimark #############
+7938 = {
+	holding = none
+}
+############### b_onkin ###############
+############# c_ishys - d_andalimark #############
+7939 = {
+	holding = none
+}
+############### b_weshold ###############
+############# c_tableland - d_andalimark #############
+7940 = {
+	culture = pentoshi
+	religion = princely_arbiter
+}
+############### b_vesfeld ###############
+############# c_tableland - d_andalimark #############
+7941 = {
+	holding = none
+}
+############### b_norfeld ###############
+############# c_tableland - d_andalimark #############
+7942 = {
+	holding = none
+}
+############### b_sunnan ###############
+############# c_tableland - d_andalimark #############
+7943 = {
+	holding = none
+}
+############### b_fenn_cepan ###############
+############# c_armirridge - d_andalimark #############
+7944 = {
+	culture = andalosi
+	religion = servants_of_the_star
+}
+############### b_fentun ###############
+############# c_armirridge - d_andalimark #############
+7945 = {
+	holding = none
+}
+############### b_moorwud ###############
+############# c_armirridge - d_andalimark #############
+7946 = {
+	holding = none
+}
+############### b_warwud ###############
+############# c_armirridge - d_andalimark #############
+7947 = {
+	holding = none
+}
+############### b_crontoor ###############
+############# c_hukorvale - d_andalimark #############
+7948 = {
+	culture = andalosi
+	religion = rhllor
+}
+############### b_hrycone ###############
+############# c_hukorvale - d_andalimark #############
+7949 = {
+	holding = none
+}
+############### b_nofwud ###############
+############# c_hukorvale - d_andalimark #############
+7950 = {
+	holding = none
+}
+############### b_feninwud ###############
+############# c_hukorvale - d_andalimark #############
+7951 = {
+	holding = none
+}
+############### b_deawud ###############
+############# c_hukorvale - d_andalimark #############
+7952 = {
+	holding = none
+}
+############### b_crontun ###############
+############# c_hukorvale - d_andalimark #############
+7953 = {
+	holding = none
+}
+################# b_andiwor #################
+########## c_andal_coast - d_sojourners_coast ##########
+7954 = {
+	culture = andal
+	religion = servants_of_the_star
+	6400.1.1 = {
+		holding = castle_holding
+		buildings = {
+			castle_01
+		}
+	}
+	6450.1.1 = {
+		culture = andalosi
+	}
+	8209.1.1 = {
+		culture = braavosi
+		religion = rhllor
+	}
+	8225.1.1 = {
+		buildings = {
+			curtain_walls_01
+		}
+	}
+	8250.1.1 = {
+		buildings = {
+			curtain_walls_02
+		}
+	}
+}
+################# b_waroftun #################
+########## c_andal_coast - d_sojourners_coast ##########
+7955 = {
+	6400.1.1 = {
+		holding = city_holding
+		buildings = {
+			city_01
+		}
+	}
+	8209.1.1 = {
+		buildings = {
+			guild_halls_01
+		}
+	}
+	8225.1.1 = {
+		buildings = {
+			guild_halls_01
+		}
+	}
+	8250.1.1 = {
+		buildings = {
+			city_02
+		}
+	}
+}
+################# b_godworf #################
+########## c_andal_coast - d_sojourners_coast ##########
+7956 = {
+	6400.1.1 = {
+		holding = church_holding
+		buildings = {
+			temple_01
+		}
+	}
+	6500.1.1 = {
+		buildings = {
+			monastic_schools_01
+		}
+	}
+	6600.1.1 = {
+		buildings = {
+			monastic_schools_02
+		}
+	}
+	6700.1.1 = {
+		buildings = {
+			temple_02
+		}
+	}
+}
+################# b_stanworf #################
+########## c_andal_coast - d_sojourners_coast ##########
+7957 = {
+	holding = none
+}
+################# b_norotorr #################
+########## c_andal_coast - d_sojourners_coast ##########
+7958 = {
+	holding = none
+}
+################# b_lastirycg #################
+########## c_andal_coast - d_sojourners_coast ##########
+7959 = {
+	holding = none
+}
+################# b_wudiston #################
+########## c_andal_coast - d_sojourners_coast ##########
+7960 = {
+	holding = none
+}
+################# b_wetorr #################
+########## c_horost - d_sojourners_coast ##########
+7961 = {
+	culture = pentoshi
+	religion = trios
+}
+################# b_emmon #################
+########## c_horost - d_sojourners_coast ##########
+7962 = {
+	holding = none
+}
+################# b_archirce ################
+########## c_horost - d_sojourners_coast ##########
+7963 = {
+	holding = none
+}
+################ b_eafeld ################
+########## c_horost - d_sojourners_coast ##########
+7964 = {
+	holding = none
+}
+################# b_duntorr ################
+########## c_smiths_bay - d_sojourners_coast ##########
+7965 = {
+	culture = andalosi
+	religion = weeping_lady
+}
+################# b_duntun ################
+########## c_smiths_bay - d_sojourners_coast ##########
+7966 = {
+	holding = none
+}
+################# b_heahrycg ################
+########## c_smiths_bay - d_sojourners_coast ##########
+7967 = {
+	holding = none
+}
+################# b_heawud ################
+########## c_smiths_bay - d_sojourners_coast ##########
+7968 = {
+	holding = none
+}
+################# b_dunig ################
+########## c_smiths_bay - d_sojourners_coast ##########
+7969 = {
+	holding = none
+}
+################# b_ortorr ################
+########## c_boiorrio - d_sojourners_coast ##########
+7970 = {
+	culture = andalosi
+	religion = weeping_lady
+}
+################# b_hildtun ################
+########## c_boiorrio - d_sojourners_coast ##########
+7971 = {
+	holding = none
+}
+################# b_wigchirche ################
+########## c_boiorrio - d_sojourners_coast ##########
+7972 = {
+	holding = none
+}
+################# b_hrycghild ################
+########## c_boiorrio - d_sojourners_coast ##########
+7973 = {
+	holding = none
+}
+################# b_beadu ################
+########## c_boiorrio - d_sojourners_coast ##########
+7974 = {
+	holding = none
+}
+################# b_weshryc ################
+########## c_boiorrio - d_sojourners_coast ##########
+7975 = {
+	holding = none
+}
+################# b_weshul ################
+########## c_warriors_approach - d_sojourners_coast ##########
+7976 = {
+	culture = pentoshi
+	religion = princely_arbiter
+}
+################# b_westun ################
+########## c_warriors_approach - d_sojourners_coast ##########
+7977 = {
+	holding = none
+}
+################# b_wesuf ################
+########## c_warriors_approach - d_sojourners_coast ##########
+7978 = {
+	holding = none
+}
+################# b_twea ################
+########## c_parmengaed - d_sojourners_coast ##########
+7979 = {
+	culture = andalosi
+	religion = trios
+}
+################# b_eaton ################
+########## c_parmengaed - d_sojourners_coast ##########
+7980 = {
+	holding = none
+}
+################# b_eanuf ################
+########## c_parmengaed - d_sojourners_coast ##########
+7981 = {
+	holding = none
+}
+################# b_hrycgul ################
+########## c_parmengaed - d_sojourners_coast ##########
+7982 = {
+	holding = none
+}
+################# b_bareyne ################
+########## c_parmengaed - d_sojourners_coast ##########
+7983 = {
+	holding = none
+}
+################# b_caeriniot #################
+################ c_jelfold - d_jelmark ################
+7984 = {
+	culture = andalosi
+	religion = servants_of_the_star
+	holding = castle_holding
+}
+################# b_jeltun #################
+################ c_jelfold - d_jelmark ################
+7985 = {
+	holding = none
+}
+################# b_jechire #################
+################ c_jelfold - d_jelmark ################
+7986 = {
+	holding = none
+}
+################# b_creco #################
+################ c_jelfold - d_jelmark ################
+7987 = {
+	holding = none
+}
+################# b_bartock #################
+################ c_jelfold - d_jelmark ################
+7988 = {
+	holding = none
+}
+################# b_jelfold #################
+################ c_jelfold - d_jelmark ################
+7989 = {
+	holding = none
+}
+################# b_jaestorr #################
+################ c_jaesford - d_jelmark ################
+7990 = {
+	culture = andalosi
+	religion = rhllor
+	holding = castle_holding
+}
+################# b_riddetun #################
+################ c_jaesford - d_jelmark ################
+7991 = {
+	holding = none
+}
+################# b_suchirche #################
+################ c_jaesford - d_jelmark ################
+7992 = {
+	holding = none
+}
+################# b_riddermark ################
+################ c_jaesford - d_jelmark ################
+7993 = {
+	holding = none
+}
+################# b_jaeshyl ################
+################ c_jaesford - d_jelmark ################
+7994 = {
+	holding = none
+}
+################# b_maidenburh ################
+################ c_maidridge - d_jelmark ################
+7995 = {
+	culture = andalosi
+	religion = rhllor
+	holding = castle_holding
+}
+################# b_rhinkahrycg ################
+################ c_maidridge - d_jelmark ################
+7996 = {
+	holding = none
+}
+################# b_maegden ################
+################ c_maidridge - d_jelmark ################
+7997 = {
+	holding = none
+}
+################# b_claene ################
+################ c_maidridge - d_jelmark ################
+7998 = {
+	holding = none
+}
+################# b_destorr ################
+################ c_jelmahinon - d_jelmark ################
+7999 = {
+	culture = andalosi
+	religion = trios
+	holding = castle_holding
+}
+################# b_laestun ################
+################ c_jelmahinon - d_jelmark ################
+8000 = {
+	holding = none
+}
+################# b_heachirche ################
+################ c_jelmahinon - d_jelmark ################
+8001 = {
+	holding = none
+}
+################# b_stanefeld ################
+################ c_jelmahinon - d_jelmark ################
+8002 = {
+	holding = none
+}
+################# b_riddefeld ################
+################ c_jelmahinon - d_jelmark ################
+8003 = {
+	holding = none
+}
+################# b_eafold ################
+################ c_jelmahinon - d_jelmark ################
+8004 = {
+	holding = none
+}
+################# b_wintorr ################
+################ c_wind_coast - d_jelmark ################
+8005 = {
+	culture = andal
+	religion = servants_of_the_star
+	6400.1.1 = {
+		holding = castle_holding
+		buildings = {
+			castle_01
+		}
+	}
+	6450.1.1 = {
+		culture = andalosi
+	}
+	8153.1.1 = {
+		culture = braavosi
+		religion = rhllor
+		holding = city_holding
+		buildings = {
+			city_01
+		}
+	}
+	8175.1.1 = {
+		buildings = {
+			common_tradeport_01
+		}
+	}
+	8200.1.1 = {
+		buildings = {
+			common_tradeport_02
+		}
+	}
+	8225.1.1 = {
+		buildings = {
+			city_02
+		}
+	}
+	8250.1.1 = {
+		buildings = {
+			common_tradeport_03
+		}
+	}
+	8275.1.1 = {
+		buildings = {
+			common_tradeport_04
+		}
+	}
+}
+################# b_windanworf ################
+################ c_wind_coast - d_jelmark ################
+8006 = {
+	holding = none
+	8153.1.1 = {
+		holding = city_holding
+		buildings = {
+			city_01
+		}
+	}
+	8175.1.1 = {
+		buildings = {
+			common_tradeport_01
+		}
+	}
+	8200.1.1 = {
+		buildings = {
+			city_02
+			common_tradeport_02
+		}
+	}
+}
+################# b_sherne ################
+################ c_wind_coast - d_jelmark ################
+8007 = {
+	holding = none
+	8153.1.1 = {
+		holding = city_holding
+		buildings = {
+			city_01
+		}
+	}
+	8175.1.1 = {
+		buildings = {
+			common_tradeport_01
+		}
+	}
+	8200.1.1 = {
+		buildings = {
+			city_02
+			common_tradeport_02
+		}
+	}
+}
+################# b_hylindan ################
+################ c_wind_coast - d_jelmark ################
+8008 = {
+	holding = none
+}
+################# b_aemtig ################
+################ c_wind_coast - d_jelmark ################
+8009 = {
+	holding = none
+}
+################# b_hintorr #################
+################ c_jaeshinun - d_nast ################
+8010 = {
+	culture = andalosi
+	religion = servants_of_the_star
+	holding = castle_holding
+}
+################# b_hintum #################
+################ c_jaeshinun - d_nast ################
+8011 = {
+	holding = none
+}
+################# b_seodun #################
+################ c_jaeshinun - d_nast ################
+8012 = {
+	holding = none
+}
+################# b_himtaeg #################
+################ c_jaeshinun - d_nast ################
+8013 = {
+	holding = none
+}
+################# b_wudaeg #################
+################ c_jaeshinun - d_nast ################
+8014 = {
+	holding = none
+}
+################# b_giestorr #################
+################ c_strangers_finger - d_nast ################
+8015 = {
+	culture = andalosi
+	religion = servants_of_the_star
+	holding = castle_holding
+}
+################# b_tungaest #################
+################ c_strangers_finger - d_nast ################
+8016 = {
+	holding = none
+}
+################# b_seofohirche #################
+################ c_strangers_finger - d_nast ################
+8017 = {
+	holding = none
+}
+################# b_hyrcgaes #################
+################ c_strangers_finger - d_nast ################
+8018 = {
+	holding = none
+}
+################# b_gieshyl ################
+################ c_strangers_finger - d_nast ################
+8019 = {
+	holding = none
+}
+################# b_faetor ################
+################ c_fathers_point - d_nast ################
+8020 = {
+	culture = andalosi
+	religion = rhllor
+	holding = castle_holding
+}
+################# b_vaetun ################
+################ c_fathers_point - d_nast ################
+8021 = {
+	holding = none
+}
+################# b_dartholm ################
+################ c_fathers_point - d_nast ################
+8022 = {
+	holding = none
+}
+################# b_hyrcgae ################
+################ c_fathers_point - d_nast ################
+8023 = {
+	holding = none
+}
+################# b_moritorr ################
+################ c_morimark - d_nast ################
+8024 = {
+	culture = andalosi
+	religion = servants_of_the_star
+	holding = castle_holding
+}
+################# b_hyrtun ################
+################ c_morimark - d_nast ################
+8025 = {
+	holding = none
+}
+################# b_moriholm ################
+################ c_morimark - d_nast ################
+8026 = {
+	holding = none
+}
+################# b_wudrycg ################
+################ c_morimark - d_nast ################
+8027 = {
+	holding = none
+}
+################# b_hyjaes ################
+################ c_morimark - d_nast ################
+8028 = {
+	holding = none
+}
+################# b_soetorr ################
+############### c_sigridge - d_sentinel_ridge ###############
+8029 = {
+	culture = norvoshi
+	religion = rhllor
+	holding = castle_holding
+}
+################# b_dunshae ################
+############### c_sigridge - d_sentinel_ridge ###############
+8030 = {
+	holding = none
+}
+################# b_duchirche ################
+############### c_sigridge - d_sentinel_ridge ###############
+8031 = {
+	holding = none
+}
+################# b_seofrith ################
+############### c_sigridge - d_sentinel_ridge ###############
+8032 = {
+	holding = none
+}
+################# b_dunpas ################
+############### c_sigridge - d_sentinel_ridge ###############
+8033 = {
+	holding = none
+}
+################# b_wudun ################
+############### c_sigridge - d_sentinel_ridge ###############
+8034 = {
+	holding = none
+}
+################# b_duwud ################
+############### c_sigridge - d_sentinel_ridge ###############
+8035 = {
+	holding = none
+}
+################# b_rhotorr ################
+############### c_rhoford - d_sentinel_ridge ###############
+8036 = {
+	culture = rhoynish
+	religion = rhllor
+	holding = castle_holding
+}
+################# b_rhohyl ################
+############### c_rhoford - d_sentinel_ridge ###############
+8037 = {
+	holding = none
+}
+################ b_rhoae ################
+############### c_rhoford - d_sentinel_ridge ###############
+8038 = {
+	holding = none
+}
+################ b_rhoford ################
+############### c_rhoford - d_sentinel_ridge ###############
+8039 = {
+	holding = none
+}
+################ b_rhofeld ################
+############### c_rhoford - d_sentinel_ridge ###############
+8040 = {
+	holding = none
+}
+################ b_hutorr ################
+############### c_hukoford - d_sentinel_ridge ###############
+8041 = {
+	culture = rhoynish
+	religion = rhllor
+	holding = castle_holding
+}
+################ b_fortun ################
+############### c_hukoford - d_sentinel_ridge ###############
+8042 = {
+	holding = none
+}
+################ b_firche ################
+############### c_hukoford - d_sentinel_ridge ###############
+8043 = {
+	holding = none
+}
+################ b_hurycg ################
+############### c_hukoford - d_sentinel_ridge ###############
+8044 = {
+	holding = none
+}
+################ b_qetorr ################
+############### c_qeloford - d_sentinel_ridge ###############
+8045 = {
+	culture = andalosi
+	religion = servants_of_the_star
+	holding = castle_holding
+}
+################ b_qelotun ################
+############### c_qeloford - d_sentinel_ridge ###############
+8046 = {
+	holding = none
+}
+################ b_qeloford ################
+############### c_qeloford - d_sentinel_ridge ###############
+8047 = {
+	holding = none
+}
+################ b_jeloford ################
+############### c_qeloford - d_sentinel_ridge ###############
+8048 = {
+	holding = none
+}
+################ b_qelodun ################
+############### c_qeloford - d_sentinel_ridge ###############
+8049 = {
+	holding = none
+}
+################ b_pacetorr ################
+############### c_gryvidge - d_sentinel_ridge ###############
+8050 = {
+	culture = andalosi
+	religion = rhllor
+	holding = castle_holding
+}
+################ b_grycidge ################
+############### c_gryvidge - d_sentinel_ridge ###############
+8051 = {
+	holding = none
+}
+################ b_gryrche ################
+############### c_gryvidge - d_sentinel_ridge ###############
+8052 = {
+	holding = none
+}
+################ b_grydun ################
+############### c_gryvidge - d_sentinel_ridge ###############
+8053 = {
+	holding = none
+}
+################ b_tikuvale ################
+############### c_tikuvale - d_sentinel_ridge ###############
+8054 = {
+	culture = norvoshi
+	religion = rhllor
+	holding = castle_holding
+}
+################ b_eadun ################
+############### c_tikuvale - d_sentinel_ridge ###############
+8055 = {
+	holding = none
+}
+################ b_eavale ################
+############### c_tikuvale - d_sentinel_ridge ###############
+8056 = {
+	holding = none
+}
+################ b_tikuae ################
+############### c_tikuvale - d_sentinel_ridge ###############
+8057 = {
+	holding = none
+}
+################ b_tikudun ################
+############### c_tikuvale - d_sentinel_ridge ###############
+8058 = {
+	holding = none
+}
+################ b_hyriku ################
+############### c_tikuvale - d_sentinel_ridge ###############
+8059 = {
+	holding = none
+}

@@ -1,0 +1,388 @@
+﻿##################### b_zobri_bastion ####################
+############### c_tyrosh - d_tyrosh ###############
+7351 = {
+	culture = tyroshi
+	religion = trios
+	holding = castle_holding
+	duchy_capital_building = agot_tyrosh_walls_01
+	special_building = agot_tyrosh_01
+	7824.1.1 = {
+		buildings = {
+			castle_05
+			curtain_walls_05
+			smiths_05
+		}
+	}
+}
+################# b_quilt_harbor #################
+############### c_tyrosh - d_tyrosh ###############
+7352 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_05
+			guild_halls_05
+		}
+	}
+}
+################## b_dye_district #################
+############### c_tyrosh - d_tyrosh ###############
+7353 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_04
+			guild_halls_05
+		}
+	}
+}
+#################### b_kerkosh ####################
+############## c_great_hue - d_tyrosh ##############
+7354 = {
+	culture = tyroshi
+	religion = rhllor
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_04
+			common_tradeport_03
+		}
+	}
+}
+################### b_soot_dorun ##################
+############## c_great_hue - d_tyrosh ##############
+7355 = {
+	special_building = agot_red_temple_tyrosh_01
+	holding = church_holding
+	7824.1.1 = {
+		buildings = {
+			temple_04
+			monastic_schools_04
+		}
+	}
+}
+############### b_the_bleeding_tower ##############
+############## c_bleeding_bay - d_tyrosh ##############
+7356 = {
+	culture = tyroshi
+	religion = trios
+	holding = castle_holding
+	special_building = agot_bleeding_tower_01
+	7824.1.1 = {
+		buildings = {
+			castle_04
+			curtain_walls_03
+			common_tradeport_02
+		}
+	}
+}
+################## b_brandy_row ##################
+############## c_bleeding_bay - d_tyrosh ##############
+7357 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_01
+			guild_halls_03
+		}
+	}
+}
+################ b_temple_of_trios ################
+############## c_bleeding_bay - d_tyrosh ##############
+7358 = {
+	special_building = agot_grand_temple_of_trios_01
+	holding = church_holding
+	7824.1.1 = {
+		buildings = {
+			temple_04
+			monastic_schools_04
+		}
+	}
+}
+#################### b_bleak_point ####################
+############### c_zernosh - d_tyrosh ##############
+7359 = {
+	culture = tyroshi
+	religion = trios
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_03
+			hill_forts_05
+			common_tradeport_04
+		}
+	}
+}
+#################### b_snailery ###################
+############## c_muricosh - d_tyrosh ##############
+7360 = {
+	culture = tyroshi
+	religion = rhllor
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_02
+			hill_forts_01
+		}
+	}
+}
+################### b_whelcastle ##################
+############## c_muricosh - d_tyrosh ##############
+7361 = {
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			warrior_lodges_01
+		}
+	}
+}
+#################### b_dynelos ####################
+############## c_muricosh - d_tyrosh ##############
+7362 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_little_tyrosh ################
+############ c_uhyrosh_coast - d_quhyrys ###########
+7363 = {
+	culture = tyroshi
+	religion = trios
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_06
+			common_tradeport_05
+		}
+	}
+}
+################# b_droplet_hold #################
+############ c_uhyrosh_coast - d_quhyrys ###########
+7364 = {
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_02
+			hill_forts_01
+		}
+	}
+}
+#################### b_riroorys ###################
+############ c_uhyrosh_coast - d_quhyrys ###########
+7365 = {
+	holding = church_holding
+	7824.1.1 = {
+		buildings = {
+			temple_02
+			monastic_schools_04
+		}
+	}
+}
+###################### b_tean #####################
+############ c_uhyrosh_coast - d_quhyrys ###########
+7366 = {
+	holding = none
+}
+##################### b_taris #####################
+############ c_uhyrosh_coast - d_quhyrys ###########
+7367 = {
+	holding = none
+}
+################### b_tin_field ###################
+############ c_uhyrosh_coast - d_quhyrys ###########
+7368 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_03
+		}
+	}
+}
+################### b_tandaynish ###################
+############## c_tandaynish - d_quhyrys #############
+7369 = {
+	culture = tyroshi
+	religion = trios
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_05
+			common_tradeport_04
+		}
+	}
+}
+################## b_tanners_wood #################
+############## c_tandaynish - d_quhyrys #############
+7370 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_01
+		}
+	}
+}
+################### b_stramanosh ##################
+############## c_tandaynish - d_quhyrys #############
+7371 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_05
+		}
+	}
+}
+################## b_straw_tower ##################
+############## c_tandaynish - d_quhyrys #############
+7372 = {
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			curtain_walls_01
+		}
+	}
+}
+##################### b_kylos #####################
+################ c_kylos - d_quhyrys ###############
+7373 = {
+	culture = tyroshi
+	religion = weeping_lady
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_06
+			common_tradeport_03
+		}
+	}
+}
+#################### b_kycastle ###################
+################ c_kylos - d_quhyrys ###############
+7374 = {
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_03
+			curtain_walls_03
+		}
+	}
+}
+################### b_old_kyland ##################
+################ c_kylos - d_quhyrys ###############
+7375 = {
+	holding = church_holding
+	7824.1.1 = {
+		buildings = {
+			temple_04
+			monastic_schools_04
+		}
+	}
+}
+#################### b_adoorys ####################
+################ c_kylos - d_quhyrys ###############
+7376 = {
+	holding = none
+}
+#################### b_doorwood ###################
+################ c_kylos - d_quhyrys ###############
+7377 = {
+	holding = none
+}
+################## b_adaron_gates #################
+############### c_adaron - d_quhyrys ##############
+7378 = {
+	culture = tyroshi
+	religion = trios
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_03
+			curtain_walls_03
+			barracks_01
+		}
+	}
+}
+#################### b_kymersh ####################
+############### c_adaron - d_quhyrys ##############
+7379 = {
+	holding = none
+}
+################### b_brandarosh ##################
+############### c_adaron - d_quhyrys ##############
+7380 = {
+	holding = none
+}
+################## b_brand_grains #################
+############### c_adaron - d_quhyrys ##############
+7381 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+#################### b_vilibosh ###################
+############## c_vilibosh - d_quhyrys ##############
+7382 = {
+	culture = hartalari
+	religion = trios
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_03
+			common_tradeport_03
+		}
+	}
+}
+################# b_villains_gate #################
+############## c_vilibosh - d_quhyrys ##############
+7383 = {
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_02
+			hill_forts_02
+		}
+	}
+}
+##################### b_quirron ####################
+############## c_vilibosh - d_quhyrys ##############
+7384 = {
+	holding = none
+}
+############## b_the_vilibosh_meadows #############
+############## c_vilibosh - d_quhyrys ##############
+7385 = {
+	holding = none
+}
+#################### b_the_step ###################
+############# c_cape_basibosh - d_quhyrys #############
+7386 = {
+	culture = tyroshi
+	religion = trios
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_03
+			hill_forts_03
+		}
+	}
+}
+##################### b_rutish #####################
+############# c_cape_basibosh - d_quhyrys #############
+7387 = {
+	holding = none
+}

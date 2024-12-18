@@ -1,0 +1,492 @@
+﻿################ b_bloodstone_lair ################
+######## c_bloodstone - d_first_stepstones ########
+7294 = {
+	culture = tyroshi
+	religion = trios
+	special_building_slot = agot_racallios_fort_01
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_03
+			agot_pirate_control_06
+			agot_pirate_military_06
+		}
+	}
+	8131.11.12 = {
+		special_building = agot_racallios_fort_01
+	}
+}
+################### b_bloodstain ##################
+######## c_bloodstone - d_first_stepstones ########
+7295 = {
+	holding = none
+}
+################### b_riftguard ###################
+######## c_bloodstone - d_first_stepstones ########
+7296 = {
+	holding = none
+}
+################# b_sorrows_harbor ################
+######## c_bloodstone - d_first_stepstones ########
+7297 = {
+	holding = none
+}
+################## b_blood_cover ##################
+######## c_bloodstone - d_first_stepstones ########
+7298 = {
+	holding = church_holding
+	7824.1.1 = {
+		buildings = {
+			temple_02
+			monastic_schools_01
+		}
+	}
+}
+################### b_banefalter ##################
+######## c_bloodstone - d_first_stepstones ########
+7299 = {
+	holding = none
+}
+################### b_stillblood ##################
+######## c_blood_point - d_first_stepstones #######
+7300 = {
+	culture = tyroshi
+	religion = weeping_lady
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_02
+			agot_pirate_control_03
+			agot_pirate_supply_01
+		}
+	}
+}
+################# b_torment_point #################
+######## c_blood_point - d_first_stepstones #######
+7301 = {
+	holding = none
+}
+################### b_harmhaven ###################
+######## c_blood_point - d_first_stepstones #######
+7302 = {
+	holding = none
+}
+################### b_sandsting ###################
+###### c_lower_sunstone - d_first_stepstones ######
+7303 = {
+	culture = salt_dornish
+	religion = the_seven_main
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_02
+			agot_pirate_control_02
+			agot_pirate_supply_04
+		}
+	}
+}
+################ b_final_footsteps ################
+###### c_lower_sunstone - d_first_stepstones ######
+7304 = {
+	holding = none
+}
+################## b_vandals_run ##################
+###### c_lower_sunstone - d_first_stepstones ######
+7305 = {
+	holding = none
+}
+################# b_scorpions_rise ################
+###### c_lower_sunstone - d_first_stepstones ######
+7306 = {
+	holding = none
+}
+################# b_sunstone_cover ################
+###### c_upper_sunstone - d_first_stepstones ######
+7307 = {
+	culture = myrish
+	religion = weeping_lady
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_01
+			agot_pirate_control_02
+			agot_pirate_troop_02
+		}
+	}
+}
+################# b_sackers_grotto ################
+###### c_upper_sunstone - d_first_stepstones ######
+7308 = {
+	holding = none
+}
+################### b_gentlerock ##################
+###### c_upper_sunstone - d_first_stepstones ######
+7309 = {
+	holding = none
+}
+################ b_prowlers_finger ################
+###### c_upper_sunstone - d_first_stepstones ######
+7310 = {
+	holding = none
+}
+################## b_daggerbreak ##################
+###### c_upper_sunstone - d_first_stepstones ######
+7311 = {
+	holding = none
+}
+#################### b_somberys ###################
+######## c_turtleback - d_first_stepstones ########
+7312 = {
+	culture = rhoynish
+	religion = mother_rhoyne
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_02
+			hill_forts_02
+			common_tradeport_01
+		}
+	}
+}
+################### b_the_stash ###################
+######## c_wreckstone - d_first_stepstones ########
+7313 = {
+	culture = myrish
+	religion = weeping_lady
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_02
+			agot_pirate_fortification_03
+			agot_pirate_economic_06
+		}
+	}
+}
+################ b_wreckstone_point ###############
+######## c_wreckstone - d_first_stepstones ########
+7314 = {
+	holding = none
+}
+################### b_downgrave ###################
+######## c_wreckstone - d_first_stepstones ########
+7315 = {
+	holding = none
+}
+################## b_gallow_cove ##################
+####### c_grey_gallows - d_first_stepstones #######
+7316 = {
+	culture = lyseni
+	religion = weeping_lady
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_03
+			agot_pirate_control_06
+			agot_pirate_troop_04
+		}
+	}
+}
+################## b_scarlet_harm #################
+####### c_grey_gallows - d_first_stepstones #######
+7317 = {
+	holding = none
+}
+#################### b_downseed ###################
+######## c_dwarfstone - d_first_stepstones ########
+7318 = {
+	culture = pentoshi
+	religion = princely_arbiter
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_03
+			agot_pirate_control_02
+			agot_pirate_troop_03
+		}
+	}
+}
+################# b_rock_of_narin #################
+######## c_dwarfstone - d_first_stepstones ########
+7319 = {
+	holding = none
+}
+################## b_skullhammer ##################
+########## c_skullhammer - d_skull_tides ##########
+7320 = {
+	culture = hartalari
+	religion = trios
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_02
+			agot_pirate_military_05
+			agot_pirate_supply_03
+		}
+	}
+}
+################## b_fathers_bane #################
+########## c_skullhammer - d_skull_tides ##########
+7321 = {
+	holding = none
+}
+################### b_hellbrace ###################
+########## c_skullhammer - d_skull_tides ##########
+7322 = {
+	holding = none
+}
+################## b_hammerchild ##################
+########## c_skullhammer - d_skull_tides ##########
+7323 = {
+	holding = none
+}
+################## b_sharp_shore ##################
+########### c_liarsmyrk - d_skull_tides ###########
+7324 = {
+	culture = tyroshi
+	religion = rhllor
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_01
+			agot_pirate_economic_02
+			agot_pirate_supply_03
+		}
+	}
+}
+################### b_lairwater ###################
+########### c_liarsmyrk - d_skull_tides ###########
+7325 = {
+	holding = none
+}
+################## b_blightskull ##################
+########### c_the_skulls - d_skull_tides ##########
+7326 = {
+	culture = lyseni
+	religion = rhllor
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_03
+			agot_pirate_military_05
+			agot_pirate_supply_05
+		}
+	}
+}
+################### b_driftskull ##################
+########### c_the_skulls - d_skull_tides ##########
+7327 = {
+	holding = none
+}
+################### b_thiefwater ##################
+######### c_torturers_deep - d_skull_tides ########
+7328 = {
+	culture = tyroshi
+	religion = rhllor
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_02
+			agot_pirate_supply_03
+			agot_pirate_troop_02
+		}
+	}
+}
+################## b_queensburden #################
+######### c_torturers_deep - d_skull_tides ########
+7329 = {
+	holding = none
+}
+#################### b_seasong ####################
+######### c_torturers_deep - d_skull_tides ########
+7330 = {
+	holding = none
+}
+################### b_morrefall ###################
+############ c_pyrwell - d_skull_tides ############
+7331 = {
+	culture = braavosi
+	religion = weeping_lady
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_01
+			agot_pirate_supply_04
+			agot_pirate_troop_03
+		}
+	}
+}
+#################### b_almodwyn ###################
+############ c_pyrwell - d_skull_tides ############
+7332 = {
+	holding = none
+}
+################## b_maidens_bed ##################
+########### c_denmaiden - d_the_maidens ###########
+7333 = {
+	culture = lyseni
+	religion = trios
+	special_building_slot = agot_crab_fields_01
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_02
+			agot_pirate_control_06
+			agot_pirate_economic_06
+		}
+	}
+	8098.1.1 = {
+		holding = castle_holding
+		special_building = agot_crab_fields_01
+		buildings = {
+			common_tradeport_02
+			workshops_02
+		}
+	}
+	8108.12.05 = {
+		holding = pirate_den_holding
+		buildings = {
+			pirate_den_02
+			agot_pirate_control_06
+			agot_pirate_economic_06
+		}
+	}
+}
+################### b_spoil_cove ##################
+########### c_denmaiden - d_the_maidens ###########
+7334 = {
+	holding = none
+}
+################ b_circle_of_skulls ###############
+########### c_denmaiden - d_the_maidens ###########
+7335 = {
+	holding = none
+}
+################### b_raidmaiden ##################
+########### c_raidmaiden - d_the_maidens ##########
+7336 = {
+	culture = hartalari
+	religion = rhllor
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_02
+			agot_pirate_troop_03
+			agot_pirate_military_03
+		}
+	}
+}
+################## b_indigo_stand #################
+########### c_raidmaiden - d_the_maidens ##########
+7337 = {
+	holding = none
+}
+################ b_reckoners_regard ###############
+########## c_last_refuge - d_the_maidens ##########
+7338 = {
+	culture = myrish
+	religion = weeping_lady
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_01
+			agot_pirate_fortification_01
+			agot_pirate_supply_04
+		}
+	}
+}
+################## b_striped_mask #################
+######### c_tigers_island - d_the_maidens #########
+7339 = {
+	culture = volantene
+	religion = rhllor
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_03
+			agot_pirate_military_06
+			agot_pirate_fortification_06
+		}
+	}
+}
+################# b_viridian_stay #################
+########### c_dark_den - d_saans_stones ###########
+7340 = {
+	culture = lyseni
+	religion = weeping_lady
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_02
+			agot_pirate_economic_06
+			agot_pirate_supply_05
+		}
+	}
+}
+################# b_saamhars_spear ################
+########### c_dark_den - d_saans_stones ###########
+7341 = {
+	holding = none
+}
+################### b_tradesbane ##################
+########### c_dark_den - d_saans_stones ###########
+7342 = {
+	holding = none
+}
+################## b_crimson_scar #################
+########### c_dark_den - d_saans_stones ###########
+7343 = {
+	holding = none
+}
+#################### b_jade_run ###################
+########### c_dark_den - d_saans_stones ###########
+7344 = {
+	holding = none
+}
+################# b_oledos_bounty #################
+########### c_duskrane - d_saans_stones ###########
+7345 = {
+	culture = myrish
+	religion = trios
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_03
+			agot_pirate_military_03
+			agot_pirate_troop_02
+		}
+	}
+}
+################## b_goodmerchant #################
+########### c_duskrane - d_saans_stones ###########
+7346 = {
+	holding = none
+}
+################### b_howlhaven ###################
+########### c_duskrane - d_saans_stones ###########
+7347 = {
+	holding = none
+}
+################# b_prendos_point #################
+########### c_duskrane - d_saans_stones ###########
+7348 = {
+	holding = none
+}
+################## b_looters_line #################
+########## c_shame_isle - d_saans_stones ##########
+7349 = {
+	culture = tyroshi
+	religion = rhllor
+	holding = pirate_den_holding
+	7824.1.1 = {
+		buildings = {
+			pirate_den_02
+			agot_pirate_fortification_03
+			agot_pirate_troop_02
+		}
+	}
+}
+################ b_smoking_serpent ################
+########## c_shame_isle - d_saans_stones ##########
+7350 = {
+	holding = none
+}

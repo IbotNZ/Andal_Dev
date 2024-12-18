@@ -1,0 +1,145 @@
+﻿# Moonclans yeet
+# ##################### b_rkayt #####################
+# ########## c_tan_annag - d_northern_clans #########
+# 2224 = {
+# 	holding = tribal_holding
+# 	culture = mountain_clansman
+# 	religion = old_gods_vale
+# }
+# #################### b_ihrdilk ####################
+# ########## c_tan_annag - d_northern_clans #########
+# 2225 = {
+# }
+# ################## b_vros_ukhedak #################
+# ########## c_tan_annag - d_northern_clans #########
+# 2226 = {
+# }
+# #################### b_vanyiik ####################
+# ########## c_kirdumyt - d_northern_clans ##########
+# 2227 = {
+# 	holding = tribal_holding
+# 	culture = mountain_clansman
+# 	religion = old_gods_vale
+# }
+# ##################### b_rkirih ####################
+# ########## c_kirdumyt - d_northern_clans ##########
+# 2228 = {
+# }
+# #################### b_ann_edak ###################
+# ####### c_vros_arekludak - d_northern_clans #######
+# 2229 = {
+# 	holding = tribal_holding
+# 	culture = mountain_clansman
+# 	religion = old_gods_vale
+# }
+# ################### b_kyir_vroln ##################
+# ####### c_vros_arekludak - d_northern_clans #######
+# 2230 = {
+# }
+# #################### b_vros_kih ###################
+# ########## c_dhirmyik - d_northern_clans ##########
+# 2231 = {
+# 	holding = tribal_holding
+# 	culture = mountain_clansman
+# 	religion = old_gods_vale
+# }
+# #################### b_eihannk ####################
+# ########## c_dhirmyik - d_northern_clans ##########
+# 2232 = {
+# }
+# ################### b_annrkhaih ###################
+# ############ c_rkaih - d_northern_clans ###########
+# 2233 = {
+# 	holding = tribal_holding
+# 	culture = mountain_clansman
+# 	religion = old_gods_vale
+# }
+# ################## b_nrol_ihedak ##################
+# ############ c_rkaih - d_northern_clans ###########
+# 2234 = {
+# }
+# ################### b_avkerihdak ##################
+# ############ c_nrayt - d_southern_clans ###########
+# 2235 = {
+# 	holding = tribal_holding
+# 	culture = mountain_clansman
+# 	religion = old_gods_vale
+# }
+# #################### b_tannrayt ###################
+# ############ c_nrayt - d_southern_clans ###########
+# 2236 = {
+# }
+# ################### b_dhanyiihk ###################
+# ############ c_nrayt - d_southern_clans ###########
+# 2237 = {
+# }
+# ################## b_kihrak_annih #################
+# ########### c_aktrih - d_southern_clans ###########
+# 2238 = {
+# 	holding = tribal_holding
+# 	culture = mountain_clansman
+# 	religion = old_gods_vale
+# }
+# ################### b_tanyt_ilyk ##################
+# ########### c_aktrih - d_southern_clans ###########
+# 2239 = {
+# }
+# ################### b_vekirmued ###################
+# ########### c_rihmued - d_southern_clans ##########
+# 2240 = {
+# 	holding = tribal_holding
+# 	culture = mountain_clansman
+# 	religion = old_gods_vale
+# }
+# ################### b_eih_annag ###################
+# ########### c_rihmued - d_southern_clans ##########
+# 2241 = {
+# }
+# ################## b_dihvek_vroln #################
+# ##### c_vros_tiknnag_kreih - d_southern_clans #####
+# 2242 = {
+# 	holding = tribal_holding
+# 	culture = mountain_clansman
+# 	religion = old_gods_vale
+# }
+# #################### b_nrikannk ###################
+# ##### c_vros_tiknnag_kreih - d_southern_clans #####
+# 2243 = {
+# }
+# ##################### b_rroln #####################
+# ########## c_khriyiik - d_southern_clans ##########
+# 2244 = {
+# 	holding = tribal_holding
+# 	culture = mountain_clansman
+# 	religion = old_gods_vale
+# }
+# ################ b_nroilh_dkehmued ################
+# ########## c_khriyiik - d_southern_clans ##########
+# 2245 = {
+# }
+# #################### b_viredak ####################
+# ######### c_nrih_iseck - d_southern_clans #########
+# 2246 = {
+# 	holding = tribal_holding
+# 	culture = mountain_clansman
+# 	religion = old_gods_vale
+# }
+# ##################### b_sinyt #####################
+# ######### c_nrih_iseck - d_southern_clans #########
+# 2247 = {
+# }
+# ################### b_annvredak ###################
+# ######### c_nrih_iseck - d_southern_clans #########
+# 2248 = {
+# }
+# ################## b_caihk_annag ##################
+# ######### c_vros_karyit - d_southern_clans ########
+# 2249 = {
+# 	holding = tribal_holding
+# 	culture = mountain_clansman
+# 	religion = old_gods_vale
+# }
+# ################### b_khayt_edak ##################
+# ######### c_vros_karyit - d_southern_clans ########
+# 2250 = {
+# }

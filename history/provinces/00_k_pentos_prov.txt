@@ -1,0 +1,1524 @@
+﻿################## b_pentos ##################
+############ c_pentos - d_pentos ###########
+7708 = {
+	culture = pentoshi
+	religion = princely_arbiter
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_05
+			guild_halls_06
+			agot_slave_camps_06
+		}
+	}
+}
+################## b_sunset_bazaars ##################
+############ c_pentos - d_pentos ###########
+7709 = {
+	holding = city_holding
+	special_building = agot_pentos_harbor_01
+	7824.1.1 = {
+		buildings = {
+			city_04
+			guild_halls_04
+		}
+	}
+}
+################## b_sunrise_market ##################
+############ c_pentos - d_pentos ###########
+7710 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_04
+		}
+	}
+}
+################## b_cheesemonger_manse ##################
+########### c_artisanal_way - d_pentos ##########
+7711 = {
+	culture = pentoshi
+	religion = rhllor
+	holding = castle_holding
+	special_building = agot_magister_harbor_01
+	7824.1.1 = {
+		buildings = {
+			castle_03
+			curtain_walls_02
+			agot_slave_camps_06
+		}
+	}
+}
+################## b_mummer_lane ##################
+########### c_artisanal_way - d_pentos ##########
+7712 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_04
+
+		}
+	}
+}
+################## b_pentos_rhllor_temple ##################
+########### c_artisanal_way - d_pentos ##########
+7713 = {
+	special_building = agot_red_temple_pentos_01
+	holding = church_holding
+	7824.1.1 = {
+		buildings = {
+			temple_04
+			monastic_schools_05
+		}
+	}
+}
+################## b_palace_prosperity ##################
+########### c_princes_quarter - d_pentos ##########
+7714 = {
+	culture = pentoshi
+	religion = princely_arbiter
+	special_building = agot_pentos_01
+	duchy_capital_building = agot_pentos_walls_01
+	holding = castle_holding
+	8000.1.1 = {
+		buildings = {
+			castle_01
+			curtain_walls_01
+			agot_slave_camps_06
+		}
+	}
+}
+################## b_spice_exchange ##################
+########### c_princes_quarter - d_pentos ##########
+7715 = {
+	holding = city_holding
+	8000.1.1 = {
+		buildings = {
+			city_04
+			guild_halls_03
+		}
+	}
+}
+################## b_naqiedror #################
+######### c_sunrise_road - d_pentos ########
+7716 = {
+	culture = pentoshi
+	religion = princely_arbiter
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			curtain_walls_01
+		}
+	}
+}
+################## b_geralonkion #################
+######### c_sunrise_road - d_pentos ########
+7717 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_03
+		}
+	}
+}
+################## b_hienkos #################
+######### c_sunrise_road - d_pentos ########
+7718 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_03
+		}
+	}
+}
+################## b_gerarae #################
+######### c_sunrise_road - d_pentos ########
+7719 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_03
+		}
+	}
+}
+################## b_naqiege #################
+######### c_sunrise_road - d_pentos ########
+7720 = {
+	holding = none
+}
+################## b_qelbartos #################
+######### c_sunrise_road - d_pentos ########
+7721 = {
+	holding = none
+}
+################## b_gradoror #################
+########## c_gravan_pastures - d_pentos #########
+7722 = {
+	culture = pentoshi
+	religion = princely_arbiter
+}
+################## b_gravonion #################
+########## c_gravan_pastures - d_pentos #########
+7723 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################## b_rigaashis #################
+########## c_gravan_pastures - d_pentos #########
+7724 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################## b_graninkion #################
+########## c_gravan_pastures - d_pentos #########
+7725 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################## b_nivan #################
+########## c_gravan_pastures - d_pentos #########
+7726 = {
+	holding = none
+}
+################## b_illyera #################
+########## c_izulepsa - d_pentos #########
+7727 = {
+	culture = pentoshi
+	religion = princely_arbiter
+}
+################## b_sentilys #################
+########## c_izulepsa - d_pentos #########
+7728 = {
+	holding = none
+}
+################## b_nidor #################
+########## c_izulepsa - d_pentos #########
+7729 = {
+	holding = none
+}
+################## b_vezsyl #################
+########## c_izulepsa - d_pentos #########
+7730 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################## b_jelsyl #################
+########## c_izulepsa - d_pentos #########
+7731 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################## b_ameanjel #################
+########### c_amenai_ridge - d_pentos ##########
+7732 = {
+	culture = pentoshi
+	religion = princely_arbiter
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			hill_forts_01
+			agot_slave_camps_02
+		}
+	}
+}
+################## b_rhinkaviln #################
+########### c_amenai_ridge - d_pentos ##########
+7733 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################## b_misihin #################
+########### c_amenai_ridge - d_pentos ##########
+7734 = {
+	holding = none
+}
+################## b_amenankion #################
+########### c_amenai_ridge - d_pentos ##########
+7735 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################## b_pengroz #################
+########## c_shepamoti - d_pentos #########
+7736 = {
+	culture = pentoshi
+	religion = princely_arbiter
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			curtain_walls_01
+			agot_slave_camps_02
+		}
+	}
+}
+################## b_arasonkion #################
+########## c_shepamoti - d_pentos #########
+7737 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################## b_naqelbar #################
+########## c_shepamoti - d_pentos #########
+7738 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################## b_peninkion #################
+########## c_shepamoti - d_pentos #########
+7739 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_iemrios ################
+########## c_shepamoti - d_pentos #########
+7740 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_iemny ################
+########## c_olynos - d_pentos ##########
+7741 = {
+	culture = pentoshi
+	religion = princely_arbiter
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			curtain_walls_01
+			agot_slave_camps_02
+		}
+	}
+}
+################# b_ninkiot ################
+########## c_olynos - d_pentos ##########
+7742 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_01
+			guild_halls_01
+		}
+	}
+}
+################# b_jaerios ################
+########## c_olynos - d_pentos ##########
+7743 = {
+	holding = none
+}
+################# b_ninrios ################
+########## c_olynos - d_pentos ##########
+7744 = {
+	holding = none
+}
+################# b_nihinon ################
+########## c_olynos - d_pentos ##########
+7745 = {
+	holding = none
+}
+################# b_iemgroz ################
+########## c_olynos - d_pentos ##########
+7746 = {
+	holding = none
+}
+################# b_daarilaro_aajon ################
+######### c_daarilaro_aajon - d_pentos #########
+7747 = {
+	culture = pentoshi
+	religion = princely_arbiter
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			curtain_walls_01
+			agot_slave_camps_04
+		}
+	}
+}
+################ b_ozendyos ###############
+######## c_ozendyos - d_princes_shore #######
+7748 = {
+	culture = pentoshi
+	religion = princely_arbiter
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			curtain_walls_01
+			agot_slave_camps_04
+		}
+	}
+}
+################ b_tidrar ###############
+######## c_ozendyos - d_princes_shore #######
+7749 = {
+	holding = none
+}
+################ b_heedris ###############
+######## c_ozendyos - d_princes_shore #######
+7750 = {
+	holding = none
+}
+################ b_ozejaes ###############
+######## c_ozendyos - d_princes_shore #######
+7751 = {
+	holding = none
+}
+################ b_ozehinun ###############
+######## c_ozendyos - d_princes_shore #######
+7752 = {
+	holding = none
+}
+################ b_ozegrezior ###############
+######## c_ozendyos - d_princes_shore #######
+7753 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################ b_bedrylos ###############
+########### c_bedrylos - d_princes_shore ###########
+7754 = {
+	culture = pentoshi
+	religion = princely_arbiter
+}
+################ b_bedrygos ################
+########### c_bedrylos - d_princes_shore ###########
+7755 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################ b_jaesabed ################
+########### c_bedrylos - d_princes_shore ###########
+7756 = {
+	holding = none
+}
+################ b_bedrigues ################
+########### c_bedrylos - d_princes_shore ###########
+7757 = {
+	holding = none
+}
+################ b_rylinon ################
+########### c_bedrylos - d_princes_shore ###########
+7758 = {
+	holding = none
+}
+################ b_gerios ###############
+########### c_bedrylos - d_princes_shore ###########
+7759 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################ b_hedys ################
+########## c_hedyswood - d_princes_shore ##########
+7760 = {
+	culture = pentoshi
+	religion = princely_arbiter
+}
+################ b_jelgios ################
+########## c_hedyswood - d_princes_shore ##########
+7761 = {
+	holding = none
+}
+################ b_hedyjaes ################
+########## c_hedyswood - d_princes_shore ##########
+7762 = {
+	holding = none
+}
+################# b_hedys_ninkion ################
+########## c_hedyswood - d_princes_shore ##########
+7763 = {
+	holding = none
+}
+################# b_hedys_grozior ################
+########## c_hedyswood - d_princes_shore ##########
+7764 = {
+	holding = none
+}
+################ b_endybaes ###############
+############ c_astiennon - d_princes_shore ###########
+7765 = {
+	culture = andalosi
+	religion = weeping_lady
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			hill_forts_01
+		}
+	}
+}
+################ b_endystia ###############
+############ c_astiennon - d_princes_shore ###########
+7766 = {
+	holding = none
+}
+################ b_endyjaes ################
+############ c_astiennon - d_princes_shore ###########
+7767 = {
+	holding = none
+}
+################ b_guese_endystia ################
+############ c_astiennon - d_princes_shore ###########
+7768 = {
+	holding = none
+}
+################ b_guese_hinon ###############
+############ c_astiennon - d_princes_shore ###########
+7769 = {
+	holding = none
+}
+################ b_tiderar ###############
+######## c_doralbar_coast - d_princes_shore #######
+7770 = {
+	culture = andalosi
+	religion = weeping_lady
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			hill_forts_01
+		}
+	}
+}
+################ b_doralbar ###############
+######## c_doralbar_coast - d_princes_shore #######
+7771 = {
+	holding = none
+}
+################ b_doralja ###############
+######## c_doralbar_coast - d_princes_shore #######
+7772 = {
+	holding = none
+}
+################ b_rihinu ###############
+######## c_doralbar_coast - d_princes_shore #######
+7773 = {
+	holding = none
+}
+################ b_rhinka_guesin ###############
+######## c_doralbar_coast - d_princes_shore #######
+7774 = {
+	holding = none
+}
+################# b_kyrhinon ################
+######### c_plush_approach - d_velvet_hills #########
+7775 = {
+	culture = pentoshi
+	religion = rhllor
+}
+################# b_kyrstor ################
+######### c_plush_approach - d_velvet_hills #########
+7776 = {
+	holding = none
+}
+################# b_jaekyr ################
+######### c_plush_approach - d_velvet_hills #########
+7777 = {
+	holding = none
+}
+################# b_rhoan_drohe ################
+######### c_plush_approach - d_velvet_hills #########
+7778 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_kyrkion ################
+######### c_plush_approach - d_velvet_hills #########
+7779 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_vejinon ################
+######### c_plush_approach - d_velvet_hills #########
+7780 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_endikyr ################
+######### c_plush_approach - d_velvet_hills #########
+7781 = {
+	holding = none
+}
+################# b_dunrael ################
+######### c_dunbarra - d_velvet_hills #########
+7782 = {
+	culture = pentoshi
+	religion = princely_arbiter
+}
+################# b_dunbarra ################
+######### c_dunbarra - d_velvet_hills #########
+7783 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_jaebarra ################
+######### c_dunbarra - d_velvet_hills #########
+7784 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_raelatiam ################
+######### c_evoratiam - d_velvet_hills #########
+7785 = {
+	culture = pentoshi
+	religion = princely_arbiter
+}
+################# b_evortiam ################
+######### c_evoratiam - d_velvet_hills #########
+7786 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_jaevortiam ################
+######### c_evoratiam - d_velvet_hills #########
+7787 = {
+	holding = none
+}
+################# b_iemny_qelbar ################
+######### c_evoratiam - d_velvet_hills #########
+7788 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_evorgroz ################
+######### c_evoratiam - d_velvet_hills #########
+7789 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_braedykion ################
+######### c_evoratiam - d_velvet_hills #########
+7790 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_velourael #################
+########## c_velour - d_velvet_hills #########
+7791 = {
+	culture = pentoshi
+	religion = princely_arbiter
+}
+################# b_veloktion #################
+########## c_velour - d_velvet_hills #########
+7792 = {
+	holding = none
+}
+################# b_velouj #################
+########## c_velour - d_velvet_hills #########
+7793 = {
+	holding = none
+}
+################# b_rhinka_velour #################
+########## c_velour - d_velvet_hills #########
+7794 = {
+	holding = none
+}
+################# b_velbais #################
+########## c_velour - d_velvet_hills #########
+7795 = {
+	holding = none
+}
+################# b_keldios #################
+########## c_keldios - d_velvet_hills #########
+7796 = {
+	culture = pentoshi
+	religion = rhllor
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			curtain_walls_01
+			agot_slave_camps_02
+		}
+	}
+}
+################# b_tikosaedar #################
+########## c_keldios - d_velvet_hills #########
+7797 = {
+	holding = none
+}
+################# b_vaedar_anogrion #################
+########## c_keldios - d_velvet_hills #########
+7798 = {
+	holding = none
+}
+################# b_vaedar_ninkion #################
+########## c_keldios - d_velvet_hills #########
+7799 = {
+	holding = none
+}
+############### b_qelbar_grozior ###############
+####### c_kastaeliton - d_hinozobris ######
+7800 = {
+	culture = rhoynish
+	religion = rhllor
+}
+############### b_emmongrozior ###############
+####### c_kastaeliton - d_hinozobris ######
+7801 = {
+	holding = none
+}
+############### b_lantaqelbar ###############
+####### c_kastaeliton - d_hinozobris ######
+7802 = {
+	holding = none
+}
+############### b_vezoraenion ###############
+####### c_kastaeliton - d_hinozobris ######
+7803 = {
+	holding = none
+}
+############### b_vehinon ###############
+####### c_kastaeliton - d_hinozobris ######
+7804 = {
+	holding = none
+}
+############### b_urninkion ###############
+####### c_kastaeliton - d_hinozobris ######
+7805 = {
+	holding = none
+}
+############### b_jelinkion ###############
+####### c_kastaeliton - d_hinozobris ######
+7806 = {
+	holding = none
+}
+################ b_phasombion ###############
+####### c_phasios_hills - d_hinozobris #######
+7807 = {
+	culture = rhoynish
+	religion = mother_rhoyne
+}
+################ b_argion ###############
+####### c_phasios_hills - d_hinozobris #######
+7808 = {
+	holding = none
+}
+################ b_phagrozior ###############
+####### c_phasios_hills - d_hinozobris #######
+7809 = {
+	holding = none
+}
+################ b_phasinkion ###############
+####### c_phasios_hills - d_hinozobris #######
+7810 = {
+	holding = none
+}
+############### b_todonar ###############
+####### c_togez_woods - d_hinozobris ######
+7811 = {
+	culture = pentoshi
+	religion = rhllor
+}
+############### b_toguesin ###############
+####### c_togez_woods - d_hinozobris ######
+7812 = {
+	holding = none
+}
+############### b_naqinkion ###############
+####### c_togez_woods - d_hinozobris ######
+7813 = {
+	holding = none
+}
+############### b_hinogrion ###############
+####### c_togez_woods - d_hinozobris ######
+7814 = {
+	holding = none
+}
+############### b_togez ###############
+####### c_togez_woods - d_hinozobris ######
+7815 = {
+	holding = none
+}
+################## b_tombion #################
+########### c_reles - d_hinozobris ###########
+7816 = {
+	culture = pentoshi
+	religion = rhllor
+}
+################## b_tovilinion #################
+########### c_reles - d_hinozobris ###########
+7817 = {
+	holding = none
+}
+################## b_vokgor #################
+########### c_reles - d_hinozobris ###########
+7818 = {
+	holding = none
+}
+############### b_kasguesin ###############
+########### c_reles - d_hinozobris ###########
+7819 = {
+	holding = none
+}
+################ b_merpasom ###############
+########## c_hareqeblon - d_hinozobris ##########
+7820 = {
+	culture = pentoshi
+	religion = princely_arbiter
+}
+################ b_merpankion ###############
+########## c_hareqeblon - d_hinozobris ##########
+7821 = {
+	holding = none
+}
+################ b_phasorinkion ###############
+########## c_hareqeblon - d_hinozobris ##########
+7822 = {
+	holding = none
+}
+################ b_vezorinkion ###############
+########## c_hareqeblon - d_hinozobris ##########
+7823 = {
+	holding = none
+}
+################ b_jelmorinkion ###############
+########## c_hareqeblon - d_hinozobris ##########
+7824 = {
+	holding = none
+}
+############### b_valdrizombion ###############
+####### c_valdrizes_hinon - d_hinozobris ######
+7825 = {
+	culture = rhoynish
+	religion = rhllor
+	special_building = agot_valdrizes_01
+	holding = castle_holding
+	8000.1.1 = {
+		buildings = {
+			castle_01
+			curtain_walls_01
+		}
+	}
+}
+############### b_hiorirosonkion ###############
+####### c_valdrizes_hinon - d_hinozobris ######
+7826 = {
+	holding = none
+}
+############### b_rijiblion_valdrizes ###############
+####### c_valdrizes_hinon - d_hinozobris ######
+7827 = {
+	holding = church_holding
+	8000.1.1 = {
+		buildings = {
+			temple_04
+			monastic_schools_05
+		}
+	}
+}
+############### b_jelnuspes ###############
+####### c_valdrizes_hinon - d_hinozobris ######
+7828 = {
+	holding = none
+}
+############### b_veznuspes ###############
+####### c_valdrizes_hinon - d_hinozobris ######
+7829 = {
+	holding = none
+}
+############### b_naqaninkion ###############
+####### c_valdrizes_hinon - d_hinozobris ######
+7830 = {
+	holding = none
+}
+################ b_kastajikagon ###############
+####### c_zadientor - d_the_baked_lands #######
+7831 = {
+	culture = andalosi
+	religion = weeping_lady
+}
+################ b_tistonkion ###############
+####### c_zadientor - d_the_baked_lands #######
+7832 = {
+	holding = none
+}
+################ b_tistalion ###############
+####### c_zadientor - d_the_baked_lands #######
+7833 = {
+	holding = none
+}
+################ b_tistahinon ###############
+####### c_zadientor - d_the_baked_lands #######
+7834 = {
+	holding = none
+}
+################ b_guese_dorenka ###############
+####### c_zadientor - d_the_baked_lands #######
+7835 = {
+	holding = none
+}
+################# b_samdoro ################
+########### c_blipys - d_the_baked_lands ###########
+7836 = {
+	culture = myrish
+	religion = rhllor
+}
+################# b_onhinion ################
+########### c_blipys - d_the_baked_lands ###########
+7837 = {
+	holding = none
+}
+################# b_riolys ################
+########### c_blipys - d_the_baked_lands ###########
+7838 = {
+	holding = none
+}
+################# b_logroz ################
+########### c_blipys - d_the_baked_lands ###########
+7839 = {
+	holding = none
+}
+################# b_kastombion ################
+########## c_ejipvos - d_the_baked_lands ##########
+7840 = {
+	culture = andalosi
+	religion = princely_arbiter
+}
+################# b_griapos ################
+########## c_ejipvos - d_the_baked_lands ##########
+7841 = {
+	holding = none
+}
+################# b_levitsos ################
+########## c_ejipvos - d_the_baked_lands ##########
+7842 = {
+	holding = none
+}
+############### b_rizmon_blinun ###############
+####### c_dying_woods - d_the_baked_lands ######
+7843 = {
+	culture = andalosi
+	religion = rhllor
+}
+################ b_vezonun ###############
+####### c_dying_woods - d_the_baked_lands ######
+7844 = {
+	holding = none
+}
+################ b_vizgues ###############
+####### c_dying_woods - d_the_baked_lands ######
+7845 = {
+	holding = none
+}
+################ b_eninkion ###############
+####### c_dying_woods - d_the_baked_lands ######
+7846 = {
+	holding = none
+}
+################ b_hivez ###############
+####### c_dying_woods - d_the_baked_lands ######
+7847 = {
+	holding = none
+}
+############### b_morgues ###############
+####### c_jalarios - d_the_baked_lands ######
+7848 = {
+	culture = pentoshi
+	religion = weeping_lady
+}
+############### b_tastavililion ###############
+####### c_jalarios - d_the_baked_lands ######
+7849 = {
+	holding = none
+}
+############### b_norgues ###############
+####### c_jalarios - d_the_baked_lands ######
+7850 = {
+	holding = none
+}
+############### b_glaesagyes ###############
+####### c_jalarios - d_the_baked_lands ######
+7851 = {
+	holding = none
+}
+############### b_endigues ###############
+####### c_jalarios - d_the_baked_lands ######
+7852 = {
+	holding = none
+}
+############### b_jelinun ###############
+####### c_jalarios - d_the_baked_lands ######
+7853 = {
+	holding = none
+}
+################# b_ar_kon ################
+############# c_ar_kon - d_konian_coast #############
+7854 = {
+	culture = pentoshi
+	religion = weeping_lady
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			curtain_walls_01
+			agot_slave_camps_02
+		}
+	}
+}
+################# b_konoktion ################
+############# c_ar_kon - d_konian_coast #############
+7855 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_aranogrion ################
+############# c_ar_kon - d_konian_coast #############
+7856 = {
+	holding = none
+}
+################# b_nagues ################
+############# c_ar_kon - d_konian_coast #############
+7857 = {
+	holding = none
+}
+################# b_arinun ################
+############# c_ar_kon - d_konian_coast #############
+7858 = {
+	holding = none
+}
+################# b_konigues ################
+############# c_ar_kon - d_konian_coast #############
+7859 = {
+	holding = none
+}
+################# b_arios ################
+############# c_ar_kon - d_konian_coast #############
+7860 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_qelbor_vilinion ################
+############ c_ringolion - d_konian_coast ############
+7861 = {
+	culture = pentoshi
+	religion = princely_arbiter
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			curtain_walls_01
+			agot_slave_camps_02
+		}
+	}
+}
+################# b_ringolion ################
+############ c_ringolion - d_konian_coast ############
+7862 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_hinorijiblion ################
+############ c_ringolion - d_konian_coast ############
+7863 = {
+	holding = none
+}
+################# b_konqelbor ################
+############ c_ringolion - d_konian_coast ############
+7864 = {
+	holding = none
+}
+################## b_amenos #################
+############# c_amenos - d_konian_coast #############
+7865 = {
+	culture = pentoshi
+	religion = princely_arbiter
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			hill_forts_01
+			agot_slave_camps_02
+		}
+	}
+}
+################## b_amenogues #################
+############# c_amenos - d_konian_coast #############
+7866 = {
+	holding = none
+}
+################## b_menun #################
+############# c_amenos - d_konian_coast #############
+7867 = {
+	holding = none
+}
+################## b_hinikagon #################
+############# c_amenos - d_konian_coast #############
+7868 = {
+	holding = none
+}
+############### b_riolatus ###############
+############# c_amenos - d_konian_coast #############
+7869 = {
+	holding = none
+}
+############### b_vejonedoror ###############
+########### c_vejonegroz - d_konian_coast ###########
+7870 = {
+	culture = pentoshi
+	religion = rhllor
+}
+############### b_vejonkion ###############
+########### c_vejonegroz - d_konian_coast ###########
+7871 = {
+	holding = none
+}
+############### b_dorenka_doros ###############
+########### c_vejonegroz - d_konian_coast ###########
+7872 = {
+	holding = none
+}
+############### b_endiebinon ###############
+########### c_vejonegroz - d_konian_coast ###########
+7873 = {
+	holding = none
+}
+############### b_jurnerys ###############
+########### c_vejonegroz - d_konian_coast ###########
+7874 = {
+	holding = none
+}
+############### b_ozurne ###############
+########### c_vejonegroz - d_konian_coast ###########
+7875 = {
+	holding = none
+}
+################# b_nyalla ################
+########## c_nyalla - d_konian_coast ##########
+7876 = {
+	culture = pentoshi
+	religion = princely_arbiter
+}
+################# b_dagrozior ################
+########## c_nyalla - d_konian_coast ##########
+7877 = {
+	holding = none
+}
+################# b_hopihanin ################
+########## c_nyalla - d_konian_coast ##########
+7878 = {
+	holding = none
+}
+################# b_gaguesiers ################
+########## c_nyalla - d_konian_coast ##########
+7879 = {
+	holding = none
+}
+################# b_nonombion #################
+############ c_nontelos - d_nontelos ###########
+7880 = {
+	culture = pentoshi
+	religion = weeping_lady
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			hill_forts_01
+			agot_slave_camps_02
+		}
+	}
+}
+################# b_nontelos #################
+############ c_nontelos - d_nontelos ###########
+7881 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_04
+			guild_halls_06
+		}
+	}
+}
+################# b_riostelos #################
+############ c_nontelos - d_nontelos ###########
+7882 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_nonbaes #################
+############ c_nontelos - d_nontelos ###########
+7883 = {
+	holding = none
+}
+################# b_dorios #################
+############ c_nontelos - d_nontelos ###########
+7884 = {
+	holding = none
+}
+################# b_nonajon #################
+############ c_nontelos - d_nontelos ###########
+7885 = {
+	holding = none
+}
+################# b_viigashos #################
+######### c_viigashos - d_nontelos #########
+7886 = {
+	culture = myrish
+	religion = rhllor
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			ramparts_01
+			agot_slave_camps_02
+		}
+	}
+}
+################# b_dhaen #################
+######### c_viigashos - d_nontelos #########
+7887 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_vedoros #################
+######### c_viigashos - d_nontelos #########
+7888 = {
+	holding = none
+}
+################# b_qelrios ################
+########## c_gyrakos - d_nontelos #########
+7889 = {
+	culture = myrish
+	religion = rhllor
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			hill_forts_01
+			agot_slave_camps_02
+		}
+	}
+}
+################# b_rhinarios ################
+########## c_gyrakos - d_nontelos #########
+7890 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_vejogrion ################
+########## c_gyrakos - d_nontelos #########
+7891 = {
+	holding = none
+}
+################# b_jelmor_vejguesin ################
+########## c_gyrakos - d_nontelos #########
+7892 = {
+	holding = none
+}
+################# b_vezor_vejguesin ################
+########## c_gyrakos - d_nontelos #########
+7893 = {
+	holding = none
+}
+################# b_guesidoror ################
+############ c_myllenios - d_nontelos ############
+7894 = {
+	culture = myrish
+	religion = trios
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			ramparts_01
+			agot_slave_camps_02
+		}
+	}
+}
+################# b_mylenos ################
+############ c_myllenios - d_nontelos ############
+7895 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_03
+			guild_halls_04
+		}
+	}
+}
+################# b_mylerios ################
+############ c_myllenios - d_nontelos ############
+7896 = {
+	holding = none
+}
+################# b_lenyrios ################
+############ c_myllenios - d_nontelos ############
+7897 = {
+	holding = none
+}
+################# b_manaqelbor ################
+############ c_myllenios - d_nontelos ############
+7898 = {
+	holding = none
+}
+################# b_naejitsos ################
+############ c_myllenios - d_nontelos ############
+7899 = {
+	holding = none
+}
+################# b_costoba ################
+########## c_kastaraen - d_nontelos #########
+7900 = {
+	culture = myrish
+	religion = rhllor
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			ramparts_01
+			agot_slave_camps_02
+		}
+	}
+}
+################# b_kastaraen ################
+########## c_kastaraen - d_nontelos #########
+7901 = {
+	holding = none
+}
+################# b_urnekas ################
+########## c_kastaraen - d_nontelos #########
+7902 = {
+	holding = none
+}
+################# b_jelurne ################
+########## c_kastaraen - d_nontelos #########
+7903 = {
+	holding = none
+}
+################# b_jurnemyr ################
+########## c_kastaraen - d_nontelos #########
+7904 = {
+	holding = none
+}
+################# b_samal ################
+############# c_samaalis - d_nontelos #############
+7905 = {
+	culture = andalosi
+	religion = rhllor
+}
+################# b_samagues ################
+############# c_samaalis - d_nontelos #############
+7906 = {
+	holding = none
+}
+################# b_guesejurne ################
+############# c_samaalis - d_nontelos #############
+7907 = {
+	holding = none
+}
+################# b_endamire ################
+############# c_samaalis - d_nontelos #############
+7908 = {
+	holding = none
+}
+################# b_hinomire ################
+############# c_samaalis - d_nontelos #############
+7909 = {
+	holding = none
+}
+################# b_naqamire ################
+############# c_samaalis - d_nontelos #############
+7910 = {
+	holding = none
+}
+################# b_samahinon ################
+############# c_samaalis - d_nontelos #############
+7911 = {
+	holding = none
+}
+################# b_bosarios ################
+########## c_nonguesin - d_nontelos #########
+7912 = {
+	culture = pentoshi
+	religion = weeping_lady
+	holding = castle_holding
+	7824.1.1 = {
+		buildings = {
+			castle_01
+			curtain_walls_01
+			agot_slave_camps_02
+		}
+	}
+}
+################# b_nonrios ################
+########## c_nonguesin - d_nontelos #########
+7913 = {
+	holding = city_holding
+	7824.1.1 = {
+		buildings = {
+			city_02
+			guild_halls_02
+		}
+	}
+}
+################# b_bosaguesin ################
+########## c_nonguesin - d_nontelos #########
+7914 = {
+	holding = none
+}
+################# b_naqaguesin ################
+########## c_nonguesin - d_nontelos #########
+7915 = {
+	holding = none
+}
+################# b_higuesin ################
+########## c_nonguesin - d_nontelos #########
+7916 = {
+	holding = none
+}
+################# b_drammagon ################
+########## c_nonguesin - d_nontelos #########
+7917 = {
+	holding = none
+}

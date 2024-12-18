@@ -1,0 +1,1006 @@
+﻿################# b_maulnock_hold #################
+########## c_maulnock_gap - d_wintermouth #########
+5626 = {
+	culture = fangman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+#################### b_nockflat ###################
+########## c_maulnock_gap - d_wintermouth #########
+5627 = {
+	holding = none
+}
+#################### b_maulmelt ###################
+########## c_maulnock_gap - d_wintermouth #########
+5628 = {
+	holding = none
+}
+##################### b_midgap ####################
+########## c_maulnock_gap - d_wintermouth #########
+5629 = {
+	holding = none
+}
+################### b_fangs_lip ###################
+########## c_maulnock_gap - d_wintermouth #########
+5630 = {
+	holding = none
+}
+#################### b_southgap ###################
+########## c_maulnock_gap - d_wintermouth #########
+5631 = {
+	holding = none
+}
+################### b_whiteflap ###################
+########## c_maulnock_gap - d_wintermouth #########
+5632 = {
+	holding = none
+}
+################### b_hightribe ###################
+########### c_pack_land - d_wintermouth ###########
+5633 = {
+	culture = fangman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################### b_packledge ###################
+########### c_pack_land - d_wintermouth ###########
+5634 = {
+	holding = none
+}
+################# b_winters_breach ################
+########### c_pack_land - d_wintermouth ###########
+5635 = {
+	holding = none
+}
+################## b_sheer_flats ##################
+########### c_pack_land - d_wintermouth ###########
+5636 = {
+	holding = none
+}
+################# b_walkers_march #################
+########### c_pack_land - d_wintermouth ###########
+5637 = {
+	holding = none
+}
+################# b_whiteout_flats ################
+########### c_pack_land - d_wintermouth ###########
+5638 = {
+	holding = none
+}
+################# b_horkstone_hold ################
+########### c_horkstone - d_wintermouth ###########
+5639 = {
+	culture = fangman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################### b_fangridge ###################
+########### c_horkstone - d_wintermouth ###########
+5640 = {
+	holding = none
+}
+#################### b_horkhill ###################
+########### c_horkstone - d_wintermouth ###########
+5641 = {
+	holding = none
+}
+################# b_icestone_ridge ################
+########### c_horkstone - d_wintermouth ###########
+5642 = {
+	holding = none
+}
+################## b_frost_gully ##################
+########### c_horkstone - d_wintermouth ###########
+5643 = {
+	holding = none
+}
+################### b_mount_hork ##################
+########### c_horkstone - d_wintermouth ###########
+5644 = {
+	holding = none
+}
+################### b_sheerstone ##################
+########### c_horkstone - d_wintermouth ###########
+5645 = {
+	holding = none
+}
+################ b_whitetooth_hold ################
+############# c_toothline - d_flatfang ############
+5646 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+#################### b_rimefang ###################
+############# c_toothline - d_flatfang ############
+5647 = {
+	holding = none
+}
+################### b_tush_flat ###################
+############# c_toothline - d_flatfang ############
+5648 = {
+	holding = none
+}
+################## b_weeping_wall #################
+############# c_toothline - d_flatfang ############
+5649 = {
+	holding = none
+}
+################## b_yaeger_huts ##################
+############ c_yeager_nest - d_flatfang ###########
+5650 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################## b_hunters_lake #################
+############ c_yeager_nest - d_flatfang ###########
+5651 = {
+	holding = none
+}
+################### b_white_hunt ##################
+############ c_yeager_nest - d_flatfang ###########
+5652 = {
+	holding = none
+}
+################## b_yaejyrflats ##################
+############ c_yeager_nest - d_flatfang ###########
+5653 = {
+	holding = none
+}
+################### b_hunt_ledge ##################
+############ c_yeager_nest - d_flatfang ###########
+5654 = {
+	holding = none
+}
+################### b_preylands ###################
+############ c_yeager_nest - d_flatfang ###########
+5655 = {
+	holding = none
+}
+################### b_frozennest ##################
+############ c_yeager_nest - d_flatfang ###########
+5656 = {
+	holding = none
+}
+################## b_white_winds ##################
+############ c_yeager_nest - d_flatfang ###########
+5657 = {
+	holding = none
+}
+################ b_white_bear_hold ################
+######### c_white_bear_slope - d_flatfang #########
+5658 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################ b_paw_print_flats ################
+######### c_white_bear_slope - d_flatfang #########
+5659 = {
+	holding = none
+}
+################### b_slopefall ###################
+######### c_white_bear_slope - d_flatfang #########
+5660 = {
+	holding = none
+}
+#################### b_polflats ###################
+######### c_white_bear_slope - d_flatfang #########
+5661 = {
+	holding = none
+}
+################### b_bear_ledge ##################
+######### c_white_bear_slope - d_flatfang #########
+5662 = {
+	holding = none
+}
+################## b_mauledlands ##################
+######### c_white_bear_slope - d_flatfang #########
+5663 = {
+	holding = none
+}
+#################### b_skihold ####################
+############# c_the_slip - d_flatfang #############
+5664 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################## b_tumbleflats ##################
+############# c_the_slip - d_flatfang #############
+5665 = {
+	holding = none
+}
+#################### b_sliding ####################
+############# c_the_slip - d_flatfang #############
+5666 = {
+	holding = none
+}
+################# b_skidders_ridge ################
+############# c_the_slip - d_flatfang #############
+5667 = {
+	holding = none
+}
+################### b_the_slope ###################
+############# c_the_slip - d_flatfang #############
+5668 = {
+	holding = none
+}
+################## b_echoheights ##################
+########### c_echoing_flats - d_flatfang ##########
+5669 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################### b_bleakflats ##################
+########### c_echoing_flats - d_flatfang ##########
+5670 = {
+	holding = none
+}
+################# b_mirror_sheets #################
+########### c_echoing_flats - d_flatfang ##########
+5671 = {
+	holding = none
+}
+################# b_whispers_ledge ################
+########### c_echoing_flats - d_flatfang ##########
+5672 = {
+	holding = none
+}
+################# b_screamers_flat ################
+########### c_echoing_flats - d_flatfang ##########
+5673 = {
+	holding = none
+}
+################### b_ridgewatch ##################
+############ c_frozen_drop - d_flatfang ###########
+5674 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################## b_dropped_hold #################
+############ c_frozen_drop - d_flatfang ###########
+5675 = {
+	holding = none
+}
+################# b_frost_approach ################
+############ c_frozen_drop - d_flatfang ###########
+5676 = {
+	holding = none
+}
+################### b_drops_edge ##################
+############ c_frozen_drop - d_flatfang ###########
+5677 = {
+	holding = none
+}
+################## b_sweat_lodge ##################
+######## c_thawed_haven - d_great_ice_river #######
+5678 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+#################### b_coldside ###################
+######## c_thawed_haven - d_great_ice_river #######
+5679 = {
+	holding = none
+}
+################### b_underledge ##################
+######## c_thawed_haven - d_great_ice_river #######
+5680 = {
+	holding = none
+}
+#################### b_warmside ###################
+######## c_thawed_haven - d_great_ice_river #######
+5681 = {
+	holding = none
+}
+#################### b_feldhead ###################
+######### c_final_feld - d_great_ice_river ########
+5682 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################### b_meltedfeld ##################
+######### c_final_feld - d_great_ice_river ########
+5683 = {
+	holding = none
+}
+#################### b_icefeld ####################
+######### c_final_feld - d_great_ice_river ########
+5684 = {
+	holding = none
+}
+################### b_blendfeld ###################
+######### c_final_feld - d_great_ice_river ########
+5685 = {
+	holding = none
+}
+################### b_whitefeld ###################
+######### c_final_feld - d_great_ice_river ########
+5686 = {
+	holding = none
+}
+################### b_the_empty ###################
+######### c_final_feld - d_great_ice_river ########
+5687 = {
+	holding = none
+}
+################### b_brownfeld ###################
+######### c_final_feld - d_great_ice_river ########
+5688 = {
+	holding = none
+}
+################### b_pulkwaters ##################
+########## c_pulkbush - d_great_ice_river #########
+5689 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################### b_pulkledge ###################
+########## c_pulkbush - d_great_ice_river #########
+5690 = {
+	holding = none
+}
+################### b_whitepulk ###################
+########## c_pulkbush - d_great_ice_river #########
+5691 = {
+	holding = none
+}
+#################### b_the_bush ###################
+########## c_pulkbush - d_great_ice_river #########
+5692 = {
+	holding = none
+}
+################### b_ledgebush ###################
+########## c_pulkbush - d_great_ice_river #########
+5693 = {
+	holding = none
+}
+#################### b_herdwell ###################
+########## c_herdway - d_great_ice_river ##########
+5694 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+#################### b_slipbush ###################
+########## c_herdway - d_great_ice_river ##########
+5695 = {
+	holding = none
+}
+#################### b_iceflow ####################
+########## c_herdway - d_great_ice_river ##########
+5696 = {
+	holding = none
+}
+################### b_drinkwall ###################
+########## c_herdway - d_great_ice_river ##########
+5697 = {
+	holding = none
+}
+################# b_running_ridge #################
+########## c_herdway - d_great_ice_river ##########
+5698 = {
+	holding = none
+}
+#################### b_faunaway ###################
+########## c_herdway - d_great_ice_river ##########
+5699 = {
+	holding = none
+}
+################### b_herdlands ###################
+########## c_herdway - d_great_ice_river ##########
+5700 = {
+	holding = none
+}
+################### b_lorns_rest ##################
+########### c_lorn_point - d_bay_of_ice ###########
+5701 = {
+	culture = frozen_shoreman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+#################### b_gullfest ###################
+########### c_lorn_point - d_bay_of_ice ###########
+5702 = {
+	holding = none
+}
+################## b_skinners_bay #################
+########### c_lorn_point - d_bay_of_ice ###########
+5703 = {
+	holding = none
+}
+################### b_shellcoast ##################
+########### c_lorn_point - d_bay_of_ice ###########
+5704 = {
+	holding = none
+}
+################### b_candleflow ##################
+########### c_rotting_ice - d_bay_of_ice ##########
+5705 = {
+	culture = frozen_shoreman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################## b_corpseflats ##################
+########### c_rotting_ice - d_bay_of_ice ##########
+5706 = {
+	holding = none
+}
+#################### b_coldfall ###################
+########### c_rotting_ice - d_bay_of_ice ##########
+5707 = {
+	holding = none
+}
+################## b_putrid_pass ##################
+########### c_rotting_ice - d_bay_of_ice ##########
+5708 = {
+	holding = none
+}
+################### b_gripstone ###################
+########### c_rotting_ice - d_bay_of_ice ##########
+5709 = {
+	holding = none
+}
+################## b_rotten_shore #################
+########### c_rotting_ice - d_bay_of_ice ##########
+5710 = {
+	holding = none
+}
+################### b_voltussyk ###################
+############ c_voltussyk - d_bay_of_ice ###########
+5711 = {
+	culture = frozen_shoreman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################### b_voltflats ###################
+############ c_voltussyk - d_bay_of_ice ###########
+5712 = {
+	holding = none
+}
+#################### b_rokflats ###################
+############ c_voltussyk - d_bay_of_ice ###########
+5713 = {
+	holding = none
+}
+#################### b_rokussyk ###################
+############ c_voltussyk - d_bay_of_ice ###########
+5714 = {
+	holding = none
+}
+#################### b_deadfeld ###################
+############ c_voltussyk - d_bay_of_ice ###########
+5715 = {
+	holding = none
+}
+################## b_rollingflats #################
+############ c_voltussyk - d_bay_of_ice ###########
+5716 = {
+	holding = none
+}
+################## b_lichen_wall ##################
+############ c_greytuft - d_bay_of_ice ############
+5717 = {
+	culture = frozen_shoreman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+#################### b_lichfeld ###################
+############ c_greytuft - d_bay_of_ice ############
+5718 = {
+	holding = none
+}
+############### b_yellowgrass_hearth ##############
+########### c_still_flow - d_bay_of_ice ###########
+5719 = {
+	culture = frozen_shoreman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################## b_steamy_flats #################
+########### c_still_flow - d_bay_of_ice ###########
+5720 = {
+	holding = none
+}
+################### b_deadfield ###################
+########### c_still_flow - d_bay_of_ice ###########
+5721 = {
+	holding = none
+}
+################## b_snowy_escape #################
+########### c_still_flow - d_bay_of_ice ###########
+5722 = {
+	holding = none
+}
+################### b_seal_point ##################
+########### c_still_flow - d_bay_of_ice ###########
+5723 = {
+	holding = none
+}
+################### b_gravehold ###################
+########## c_bone_hummock - d_bay_of_ice ##########
+5724 = {
+	culture = frozen_shoreman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+############### b_grassfields_demise ##############
+########## c_bone_hummock - d_bay_of_ice ##########
+5725 = {
+	holding = none
+}
+################# b_desolate_field ################
+########## c_bone_hummock - d_bay_of_ice ##########
+5726 = {
+	holding = none
+}
+################# b_freezing_pass #################
+########## c_bone_hummock - d_bay_of_ice ##########
+5727 = {
+	holding = none
+}
+################## b_grazingfield #################
+######## c_reindeer_heath - d_stalkingshore #######
+5728 = {
+	culture = frozen_shoreman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################### b_deers_rain ##################
+######## c_reindeer_heath - d_stalkingshore #######
+5729 = {
+	holding = none
+}
+################### b_shrubsleet ##################
+######## c_reindeer_heath - d_stalkingshore #######
+5730 = {
+	holding = none
+}
+#################### b_furswept ###################
+######## c_reindeer_heath - d_stalkingshore #######
+5731 = {
+	holding = none
+}
+################### b_snowy_pass ##################
+######## c_reindeer_heath - d_stalkingshore #######
+5732 = {
+	holding = none
+}
+################ b_deergrave_frore ################
+######## c_reindeer_heath - d_stalkingshore #######
+5733 = {
+	holding = none
+}
+################### b_snowfield ###################
+######## c_reindeer_heath - d_stalkingshore #######
+5734 = {
+	holding = none
+}
+################# b_the_pods_flow #################
+######### c_frozen_gulch - d_stalkingshore ########
+5735 = {
+	culture = frozen_shoreman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+#################### b_red_guch ###################
+######### c_frozen_gulch - d_stalkingshore ########
+5736 = {
+	holding = none
+}
+############### b_broken_tusk_field ###############
+######### c_frozen_gulch - d_stalkingshore ########
+5737 = {
+	holding = none
+}
+#################### b_fats_end ###################
+######### c_frozen_gulch - d_stalkingshore ########
+5738 = {
+	holding = none
+}
+################## b_tuskens_doom #################
+######### c_frozen_gulch - d_stalkingshore ########
+5739 = {
+	holding = none
+}
+#################### b_tuskwall ###################
+######### c_frozen_gulch - d_stalkingshore ########
+5740 = {
+	holding = none
+}
+################## b_piscis_rest ##################
+######### c_frozen_gulch - d_stalkingshore ########
+5741 = {
+	holding = none
+}
+#################### b_icehome ####################
+########## c_hide_point - d_stalkingshore #########
+5742 = {
+	culture = frozen_shoreman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+#################### b_wancoast ###################
+########## c_hide_point - d_stalkingshore #########
+5743 = {
+	holding = none
+}
+################## b_quarry_coast #################
+########## c_hide_point - d_stalkingshore #########
+5744 = {
+	holding = none
+}
+#################### b_tuskpont ###################
+########## c_hide_point - d_stalkingshore #########
+5745 = {
+	holding = none
+}
+##################### b_meltin ####################
+########## c_hide_point - d_stalkingshore #########
+5746 = {
+	holding = none
+}
+################# b_shadows_corpse ################
+########## c_hide_point - d_stalkingshore #########
+5747 = {
+	holding = none
+}
+################## b_selkie_sund ##################
+######### c_selkie_sund - d_stalkingshore #########
+5748 = {
+	culture = frozen_shoreman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################### b_whiteneck ###################
+######### c_selkie_sund - d_stalkingshore #########
+5749 = {
+	holding = none
+}
+#################### b_icewalk ####################
+######### c_selkie_sund - d_stalkingshore #########
+5750 = {
+	holding = none
+}
+################## b_selkie_point #################
+######### c_selkie_sund - d_stalkingshore #########
+5751 = {
+	holding = none
+}
+################# b_whispers_wall #################
+######### c_selkie_sund - d_stalkingshore #########
+5752 = {
+	holding = none
+}
+#################### b_peltwash ###################
+########## c_riverpelt - d_stalkingshore ##########
+5753 = {
+	culture = frozen_shoreman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################### b_shunfield ###################
+########## c_riverpelt - d_stalkingshore ##########
+5754 = {
+	holding = none
+}
+################### b_riverhome ###################
+########## c_riverpelt - d_stalkingshore ##########
+5755 = {
+	holding = none
+}
+################## b_heated_shore #################
+########## c_riverpelt - d_stalkingshore ##########
+5756 = {
+	holding = none
+}
+################## b_still_flats ##################
+######### c_musklight - d_gleaming_plains #########
+5757 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################## b_heavy_smell ##################
+######### c_musklight - d_gleaming_plains #########
+5758 = {
+	holding = none
+}
+################### b_damplight ###################
+######### c_musklight - d_gleaming_plains #########
+5759 = {
+	holding = none
+}
+#################### b_bunched ####################
+######### c_musklight - d_gleaming_plains #########
+5760 = {
+	holding = none
+}
+################### b_hairswept ###################
+######### c_musklight - d_gleaming_plains #########
+5761 = {
+	holding = none
+}
+################### b_glintstone ##################
+######### c_glintstone - d_gleaming_plains ########
+5762 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################### b_bonebroth ###################
+######### c_glintstone - d_gleaming_plains ########
+5763 = {
+	holding = tribal_holding
+}
+################### b_sleetstone ##################
+######### c_glintstone - d_gleaming_plains ########
+5764 = {
+	holding = none
+}
+################### b_palecliff ###################
+######### c_glintstone - d_gleaming_plains ########
+5765 = {
+	holding = none
+}
+################### b_pine_point ##################
+######### c_glintstone - d_gleaming_plains ########
+5766 = {
+	holding = none
+}
+################### b_bleakridge ##################
+######### c_glintstone - d_gleaming_plains ########
+5767 = {
+	holding = none
+}
+################### b_cauldhouse ##################
+######### c_glintstone - d_gleaming_plains ########
+5768 = {
+	holding = none
+}
+#################### b_brevelyk ###################
+########## c_brevelyk - d_gleaming_plains #########
+5769 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################## b_brightplain ##################
+########## c_brevelyk - d_gleaming_plains #########
+5770 = {
+	holding = none
+}
+################### b_shine_path ##################
+########## c_brevelyk - d_gleaming_plains #########
+5771 = {
+	holding = none
+}
+################### b_sunny_spot ##################
+########## c_brevelyk - d_gleaming_plains #########
+5772 = {
+	holding = none
+}
+################### b_gravelark ###################
+########## c_brevelyk - d_gleaming_plains #########
+5773 = {
+	holding = none
+}
+#################### b_maradon ####################
+########## c_brevelyk - d_gleaming_plains #########
+5774 = {
+	holding = none
+}
+#################### b_the_lyk ####################
+########## c_brevelyk - d_gleaming_plains #########
+5775 = {
+	holding = none
+}
+################### b_sheer_wall ##################
+######### c_sheer_wall - d_gleaming_plains ########
+5776 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################### b_snowmound ###################
+######### c_sheer_wall - d_gleaming_plains ########
+5777 = {
+	holding = none
+}
+#################### b_big_ice ####################
+######### c_sheer_wall - d_gleaming_plains ########
+5778 = {
+	holding = none
+}
+################### b_paleswept ###################
+######### c_sheer_wall - d_gleaming_plains ########
+5779 = {
+	holding = none
+}
+################### b_slickbare ###################
+######### c_sheer_wall - d_gleaming_plains ########
+5780 = {
+	holding = none
+}
+##################### b_daara #####################
+######### c_sheer_wall - d_gleaming_plains ########
+5781 = {
+	holding = none
+}
+################### b_bad_waste ###################
+######### c_sheer_wall - d_gleaming_plains ########
+5782 = {
+	holding = none
+}
+#################### b_good_web ###################
+########### c_spider_flow - d_west_shelf ##########
+5783 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+#################### b_softsilk ###################
+########### c_spider_flow - d_west_shelf ##########
+5784 = {
+	holding = none
+}
+#################### b_bad_path ###################
+########### c_spider_flow - d_west_shelf ##########
+5785 = {
+	holding = none
+}
+################## b_critterspot ##################
+########### c_spider_flow - d_west_shelf ##########
+5786 = {
+	holding = none
+}
+#################### b_longleg ####################
+########### c_spider_flow - d_west_shelf ##########
+5787 = {
+	holding = none
+}
+################## b_webby_hollow #################
+########### c_spider_flow - d_west_shelf ##########
+5788 = {
+	holding = none
+}
+################### b_blackhair ###################
+########### c_spider_flow - d_west_shelf ##########
+5789 = {
+	holding = none
+}
+################ b_bigwalruss_camp ################
+########## c_trappers_rest - d_west_shelf #########
+5790 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################### b_war_perch ###################
+########## c_trappers_rest - d_west_shelf #########
+5791 = {
+	holding = none
+}
+#################### b_trap_den ###################
+########## c_trappers_rest - d_west_shelf #########
+5792 = {
+	holding = none
+}
+################### b_good_catch ##################
+########## c_trappers_rest - d_west_shelf #########
+5793 = {
+	holding = none
+}
+################### b_runningway ##################
+########## c_trappers_rest - d_west_shelf #########
+5794 = {
+	holding = none
+}
+################### b_bonebuild ###################
+########## c_trappers_rest - d_west_shelf #########
+5795 = {
+	holding = none
+}
+##################### b_yarek #####################
+########## c_trappers_rest - d_west_shelf #########
+5796 = {
+	holding = none
+}
+#################### b_the_drop ###################
+########## c_shining_ledge - d_west_shelf #########
+5797 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################### b_levelhead ###################
+########## c_shining_ledge - d_west_shelf #########
+5798 = {
+	holding = none
+}
+#################### b_fearfall ###################
+########## c_shining_ledge - d_west_shelf #########
+5799 = {
+	holding = none
+}
+################### b_shiny_doom ##################
+########## c_shining_ledge - d_west_shelf #########
+5800 = {
+	holding = none
+}
+#################### b_reachout ###################
+########## c_shining_ledge - d_west_shelf #########
+5801 = {
+	holding = none
+}
+#################### b_lookdown ###################
+########## c_shining_ledge - d_west_shelf #########
+5802 = {
+	holding = none
+}
+#################### b_wide_sky ###################
+########## c_shining_ledge - d_west_shelf #########
+5803 = {
+	holding = none
+}
+################### b_gahurl_mag ##################
+########### c_shurl_arer - d_west_shelf ###########
+5804 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################### b_floatwell ###################
+########### c_shurl_arer - d_west_shelf ###########
+5805 = {
+	holding = none
+}
+#################### b_shallows ###################
+########### c_shurl_arer - d_west_shelf ###########
+5806 = {
+	holding = none
+}
+##################### b_sunder ####################
+########## c_cracked_sund - d_west_shelf ##########
+5807 = {
+	culture = ice_riverman
+	religion = old_gods_frozen_shore
+	holding = tribal_holding
+}
+################## b_white_abyss ##################
+########## c_cracked_sund - d_west_shelf ##########
+5808 = {
+	holding = none
+}
+################### b_riverswept ##################
+########## c_cracked_sund - d_west_shelf ##########
+5809 = {
+	holding = none
+}
+################### b_deepcrack ###################
+########## c_cracked_sund - d_west_shelf ##########
+5810 = {
+	holding = none
+}
+################## b_blue_thrush ##################
+########## c_cracked_sund - d_west_shelf ##########
+5811 = {
+	holding = none
+}
+############## b_cracked_and_crumble ##############
+########## c_cracked_sund - d_west_shelf ##########
+5812 = {
+	holding = none
+}
+################### b_lost_away ###################
+########## c_cracked_sund - d_west_shelf ##########
+5813 = {
+	holding = none
+}
