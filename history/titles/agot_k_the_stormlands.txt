@@ -1,6 +1,6 @@
 ﻿k_the_stormlands = {
 	6535.1.1 = {
-		holder = 0
+		holder = Durrandon_48
 	}
 	7999.9.15 = {
 		holder = Baratheon_14
@@ -210,9 +210,6 @@ d_shipbreaker_bay = {
 		holder = Durrandon_47
 	}
 	6532.1.1 = {
-		holder = Durrandon_48
-	}
-	6535.1.1 = {
 		holder = Durrandon_48
 	}
 	6555.1.1 = {
@@ -5413,7 +5410,6 @@ d_stackfield = {
 	#	liege = e_the_stormlands
 	#}
 	6537.1.1 = {
-		liege = k_storms_end
 		holder = Durrandon_48
 	}
 	7853.1.1 = {
@@ -6365,7 +6361,6 @@ d_the_rainwood = {
 	#	liege = e_the_stormlands
 	#}
 	6535.1.1 = {
-		liege = k_storms_end
 		holder = Durrandon_48
 	}
 	7869.1.1 = {

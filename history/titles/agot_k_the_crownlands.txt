@@ -1,7 +1,7 @@
 ﻿k_the_crownlands = {
 	7999.4.1 = {
 		holder = Targaryen_27
-		liege = e_the_iron_throne
+		#liege = e_the_iron_throne
 	}
 	8037.9.9 = {
 		holder = Targaryen_30
@@ -71,12 +71,12 @@
 }
 d_kings_landing = {
 	2.1.1 = {
-		de_jure_liege = k_the_riverlands
+		#de_jure_liege = k_the_riverlands
 	}
 	7999.4.1 = {
 		holder = Targaryen_27
-		liege = k_the_crownlands
-		de_jure_liege = k_the_crownlands
+		#liege = k_the_crownlands
+		#de_jure_liege = k_the_crownlands
 	}
 	8037.9.9 = {
 		holder = Targaryen_30
@@ -146,7 +146,7 @@ d_kings_landing = {
 }
 c_kings_landing = {
 	3306.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 		effect = {
 			title:d_kings_landing = { set_title_name = d_blackwater_bay }
 			set_title_name = c_rush_hills
@@ -180,14 +180,14 @@ c_kings_landing = {
 		holder = Durrandon_81
 	}
 	7902.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7925.1.1 = {
 		holder = Durrandon_85
 	}
 	7947.1.1 = {
 		holder = Hoare_30
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7960.1.1 = {
 		holder = Hoare_31
@@ -426,8 +426,8 @@ b_goldguard_heights = {
 }
 c_blackstripe = {
 	3306.1.1 = {
-		liege = e_the_riverlands
-		de_jure_liege = d_the_baywater_woods
+		#liege = e_the_riverlands
+		#de_jure_liege = d_the_baywater_woods
 	}
 	7760.1.1 = {
 		holder = Durrandon_73
@@ -451,7 +451,7 @@ c_blackstripe = {
 		holder = Durrandon_81
 	}
 	7902.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7925.1.1 = {
 		holder = Durrandon_85
@@ -464,8 +464,8 @@ c_blackstripe = {
 	}
 	7999.9.15 = {
 		holder = Targaryen_27
-		liege = d_kings_landing
-		de_jure_liege = d_kings_landing
+		#liege = d_kings_landing
+		#de_jure_liege = d_kings_landing
 	}
 	8037.9.9 = {
 		holder = Targaryen_30
@@ -532,7 +532,7 @@ c_blackstripe = {
 }
 c_bramsfort = {
 	7653.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7837.1.1 = {
 		holder = Chelsted_8
@@ -544,7 +544,7 @@ c_bramsfort = {
 		holder = Chelsted_13
 	}
 	7902.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7910.1.1 = {
 		holder = Chelsted_16
@@ -553,7 +553,7 @@ c_bramsfort = {
 		holder = Chelsted_20
 	}
 	7947.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7968.1.1 = {
 		holder = Chelsted_37
@@ -562,7 +562,7 @@ c_bramsfort = {
 		holder = Chelsted_41
 	}
 	7999.5.1 = {
-		liege = d_kings_landing
+		#liege = d_kings_landing
 	}
 	8004.1.1 = {
 		holder = Chelsted_42
@@ -606,10 +606,10 @@ c_bramsfort = {
 }
 c_briarcrest = {
 	90.1.1 = {
-		de_jure_liege = d_tumbleton
+		#de_jure_liege = d_tumbleton
 	}
 	7873.1.1 = {
-		liege = d_tumbleton
+		#liege = d_tumbleton
 	}
 	7881.1.1 = {
 		holder = Greenhill_5
@@ -633,8 +633,8 @@ c_briarcrest = {
 		holder = Greenhill_67
 	}
 	8000.5.1 = {
-		liege = d_kings_landing
-		de_jure_liege = d_kings_landing
+		#liege = d_kings_landing
+		#de_jure_liege = d_kings_landing
 	}
 	8038.1.1 = {
 		holder = Greenhill_68
@@ -675,7 +675,7 @@ c_briarcrest = {
 }
 c_riverline = {
 	7653.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7873.1.1 = {
 		holder = Mallery_3
@@ -690,13 +690,13 @@ c_riverline = {
 		holder = Mallery_7
 	}
 	7902.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7911.1.1 = {
 		holder = Mallery_8
 	}
 	7947.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7952.1.1 = {
 		holder = Mallery_9
@@ -705,7 +705,7 @@ c_riverline = {
 		holder = Mallery_10
 	}
 	7999.5.1 = {
-		liege = d_kings_landing
+		#liege = d_kings_landing
 	}
 	8009.1.1 = {
 		holder = Mallery_28
@@ -752,7 +752,7 @@ c_riverline = {
 }
 c_shinebridge = {
 	3306.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7856.1.1 = {
 		holder = Thorne_4
@@ -761,7 +761,7 @@ c_shinebridge = {
 		holder = Thorne_6
 	}
 	7902.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7923.1.1 = {
 		holder = Thorne_7
@@ -770,7 +770,7 @@ c_shinebridge = {
 		holder = Thorne_13
 	}
 	7947.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7961.1.1 = {
 		holder = Thorne_49
@@ -782,7 +782,7 @@ c_shinebridge = {
 		holder = Thorne_56
 	}
 	7999.5.1 = {
-		liege = d_kings_landing
+		#liege = d_kings_landing
 	}
 	8037.1.1 = {
 		holder = Thorne_58
@@ -823,8 +823,8 @@ c_shinebridge = {
 }
 c_wings_pass = {
 	20.1.1 = {
-		liege = e_the_stormlands
-		de_jure_liege = d_the_baywater_woods
+		#liege = e_the_stormlands
+		#de_jure_liege = d_the_baywater_woods
 	}
 	7856.1.1 = {
 		holder = Belgrave_6
@@ -845,8 +845,8 @@ c_wings_pass = {
 		holder = Belgrave_38
 	}
 	7999.9.15 = {
-		liege = d_kings_landing
-		de_jure_liege = d_kings_landing
+		#liege = d_kings_landing
+		#de_jure_liege = d_kings_landing
 	}
 	8014.1.1 = {
 		holder = Belgrave_12
@@ -884,7 +884,7 @@ c_wings_pass = {
 }
 d_crackclaw_point = {
 	3306.1.1 = {
-		de_jure_liege = k_the_riverlands
+		#de_jure_liege = k_the_riverlands
 	}
 	5050.1.1 = {
 		holder = Brune_10
@@ -908,7 +908,7 @@ d_crackclaw_point = {
 		holder = 0
 	}
 	7999.11.15 = {
-		de_jure_liege = k_the_crownlands
+		#de_jure_liege = k_the_crownlands
 	}
 }
 c_dyre_den = {
@@ -916,7 +916,7 @@ c_dyre_den = {
 		holder = Brune_9
 	}
 	5050.1.1 = {
-		liege = d_crackclaw_point
+		#liege = d_crackclaw_point
 		holder = Brune_10
 	}
 	7840.1.1 = {
@@ -938,7 +938,7 @@ c_dyre_den = {
 		holder = Brune_20
 	}
 	7999.11.15 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8025.1.1 = {
 		holder = Brune_22
@@ -973,7 +973,7 @@ c_dyre_den = {
 }
 c_bronzeholm = {
 	5050.1.1 = {
-		liege = d_crackclaw_point
+		#liege = d_crackclaw_point
 	}
 	7870.1.1 = {
 		holder = Boggs_14
@@ -997,7 +997,7 @@ c_bronzeholm = {
 		holder = Boggs_61
 	}
 	7999.11.15 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8016.1.1 = {
 		holder = Boggs_62
@@ -1041,7 +1041,7 @@ c_brownhollow = {
 		holder = Brune_9
 	}
 	5050.1.1 = {
-		liege = d_crackclaw_point
+		#liege = d_crackclaw_point
 		holder = Brownhollow_5
 	}
 	7874.1.1 = {
@@ -1063,7 +1063,7 @@ c_brownhollow = {
 		holder = Brownhollow_47
 	}
 	7999.11.15 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8010.1.1 = {
 		holder = Brownhollow_50
@@ -1110,7 +1110,7 @@ c_brownhollow = {
 }
 c_hazewood = {
 	5050.1.1 = {
-		liege = d_crackclaw_point
+		#liege = d_crackclaw_point
 	}
 	7865.1.1 = {
 		holder = Bush_31
@@ -1131,7 +1131,7 @@ c_hazewood = {
 		holder = Bush_32
 	}
 	7999.11.15 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8006.1.1 = {
 		holder = Bush_42
@@ -1172,7 +1172,7 @@ c_hazewood = {
 }
 c_needlewater = {
 	5050.1.1 = {
-		liege = d_crackclaw_point
+		#liege = d_crackclaw_point
 	}
 	7854.1.1 = {
 		holder = Pyne_27
@@ -1196,7 +1196,7 @@ c_needlewater = {
 		holder = Pyne_13
 	}
 	7999.11.15 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8005.1.1 = {
 		holder = Pyne_16
@@ -1234,7 +1234,7 @@ c_needlewater = {
 }
 c_pointside = {
 	5050.1.1 = {
-		liege = d_crackclaw_point
+		#liege = d_crackclaw_point
 	}
 	7854.1.1 = {
 		holder = Hardy_11
@@ -1252,7 +1252,7 @@ c_pointside = {
 		holder = Hardy_23
 	}
 	7999.11.15 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8014.1.1 = {
 		holder = Hardy_27
@@ -1299,7 +1299,7 @@ c_pointside = {
 }
 c_strongbox = {
 	5050.1.1 = {
-		liege = d_crackclaw_point
+		#liege = d_crackclaw_point
 	}
 	7863.1.1 = {
 		holder = Cave_30
@@ -1320,7 +1320,7 @@ c_strongbox = {
 		holder = Cave_58
 	}
 	7999.11.15 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8038.1.1 = {
 		holder = Cave_60
@@ -1352,7 +1352,7 @@ c_strongbox = {
 }
 c_strongcliffs = {
 	6600.1.1 = {
-		liege = d_crackclaw_point
+		#liege = d_crackclaw_point
 		holder = Crabb_13
 	}
 	7871.1.1 = {
@@ -1374,7 +1374,7 @@ c_strongcliffs = {
 		holder = Crabb_54
 	}
 	7999.11.15 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8030.1.1 = {
 		holder = Crabb_56
@@ -1409,8 +1409,8 @@ c_strongcliffs = {
 }
 d_deerfield = {
 	3306.1.1 = {
-		liege = e_the_riverlands
-		de_jure_liege = k_the_riverlands
+		#liege = e_the_riverlands
+		#de_jure_liege = k_the_riverlands
 	}
 	7888.1.1 = {
 		holder = Buckwell_8
@@ -1419,13 +1419,13 @@ d_deerfield = {
 		holder = Buckwell_11
 	}
 	7902.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7920.1.1 = {
 		holder = Buckwell_12
 	}
 	7947.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7952.1.1 = {
 		holder = Buckwell_14
@@ -1434,8 +1434,8 @@ d_deerfield = {
 		holder = Buckwell_47
 	}
 	7999.6.1 = {
-		liege = k_the_crownlands
-		de_jure_liege = k_the_crownlands
+		#liege = k_the_crownlands
+		#de_jure_liege = k_the_crownlands
 	}
 	8004.1.1 = {
 		holder = Buckwell_53
@@ -1540,7 +1540,7 @@ c_brackworth = {
 		holder = Holk_4
 	}
 	7888.1.1 = {
-		liege = d_deerfield
+		#liege = d_deerfield
 	}
 	7891.1.1 = {
 		holder = Holk_9
@@ -1593,7 +1593,7 @@ c_point_square = {
 		holder = Buckwell_8
 	}
 	7888.1.1 = {
-		liege = d_deerfield
+		#liege = d_deerfield
 	}
 	7895.1.1 = {
 		holder = Buckwell_11
@@ -1649,7 +1649,7 @@ c_tuskford = {
 		holder = Buckwell_8
 	}
 	7888.1.1 = {
-		liege = d_deerfield
+		#liege = d_deerfield
 	}
 	7895.1.1 = {
 		holder = Buckwell_11
@@ -1708,7 +1708,7 @@ c_vairs_head = {
 		holder = Harte_8
 	}
 	7888.1.1 = {
-		liege = d_deerfield
+		#liege = d_deerfield
 	}
 	7923.1.1 = {
 		holder = Harte_10
@@ -1766,8 +1766,8 @@ b_fallowpoint = {
 }
 d_duskendale = {
 	3306.1.1 = {
-		liege = e_the_riverlands
-		de_jure_liege = k_the_riverlands
+		#liege = e_the_riverlands
+		#de_jure_liege = k_the_riverlands
 	}
 	6535.1.1 = {
 		holder = Placeholder_Darklyn
@@ -1782,18 +1782,18 @@ d_duskendale = {
 		holder = Darklyn_63
 	}
 	7902.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7947.1.1 = {
 		holder = Darklyn_66
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7966.1.1 = {
 		holder = Darklyn_5
 	}
 	7999.6.1 = {
-		liege = k_the_crownlands
-		de_jure_liege = k_the_crownlands
+		#liege = k_the_crownlands
+		#de_jure_liege = k_the_crownlands
 		holder = Darklyn_7
 	}
 	8018.1.1 = {
@@ -1844,7 +1844,7 @@ d_duskendale = {
 }
 c_duskendale = {
 	7862.1.1 = {
-		liege = d_duskendale
+		#liege = d_duskendale
 		holder = Darklyn_1
 		effect = {
 			dynasty:dynn_Darklyn ?= {
@@ -1988,7 +1988,7 @@ b_highley = {
 }
 c_bluntmark = {
 	7862.1.1 = {
-		liege = d_duskendale
+		#liege = d_duskendale
 	}
 	7891.1.1 = {
 		holder = Rykker_7
@@ -2047,7 +2047,7 @@ c_crownback = {
 		holder = Hollard_12
 	}
 	7862.1.1 = {
-		liege = d_duskendale
+		#liege = d_duskendale
 	}
 	7873.1.1 = {
 		holder = Hollard_13
@@ -2112,7 +2112,7 @@ c_crownback = {
 }
 c_darkwoods_mull = {
 	7862.1.1 = {
-		liege = d_duskendale
+		#liege = d_duskendale
 		holder = Darklyn_1
 	}
 	7881.1.1 = {
@@ -2166,7 +2166,7 @@ c_darkwoods_mull = {
 }
 c_shadowshield = {
 	7862.1.1 = {
-		liege = d_duskendale
+		#liege = d_duskendale
 		holder = Darklyn_1
 	}
 	7881.1.1 = {
@@ -2232,7 +2232,7 @@ c_shadowshield = {
 }
 c_spinney = {
 	7862.1.1 = {
-		liege = d_duskendale
+		#liege = d_duskendale
 		holder = Darklyn_1
 	}
 	7881.1.1 = {
@@ -2286,7 +2286,7 @@ c_spinney = {
 }
 c_yellowstars = {
 	7862.1.1 = {
-		liege = d_duskendale
+		#liege = d_duskendale
 	}
 	7890.1.1 = {
 		holder = Rychard_5
@@ -2339,8 +2339,8 @@ c_yellowstars = {
 }
 d_hayford = {
 	3306.1.1 = {
-		liege = e_the_riverlands
-		de_jure_liege = k_the_riverlands
+		#liege = e_the_riverlands
+		#de_jure_liege = k_the_riverlands
 	}
 	7858.1.1 = {
 		holder = Hayford_3
@@ -2349,7 +2349,7 @@ d_hayford = {
 		holder = Hayford_5
 	}
 	7902.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7908.1.1 = {
 		holder = Hayford_11
@@ -2358,7 +2358,7 @@ d_hayford = {
 		holder = Hayford_28
 	}
 	7947.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7955.1.1 = {
 		holder = Hayford_34
@@ -2367,8 +2367,8 @@ d_hayford = {
 		holder = Hayford_38
 	}
 	7999.5.1 = {
-		liege = k_the_crownlands
-		de_jure_liege = k_the_crownlands
+		#liege = k_the_crownlands
+		#de_jure_liege = k_the_crownlands
 	}
 	8014.1.1 = {
 		holder = Hayford_9
@@ -2409,7 +2409,7 @@ d_hayford = {
 }
 c_hayford = {
 	7858.1.1 = {
-		liege = d_hayford
+		#liege = d_hayford
 		holder = Hayford_3
 	}
 	7877.1.1 = {
@@ -2466,7 +2466,7 @@ c_hayford = {
 }
 c_old_yore = {
 	7858.1.1 = {
-		liege = d_hayford
+		#liege = d_hayford
 	}
 	7853.1.1 = {
 		holder = Yore_4
@@ -2522,7 +2522,7 @@ c_old_yore = {
 }
 c_proudwell = {
 	7858.1.1 = {
-		liege = d_hayford
+		#liege = d_hayford
 	}
 	7876.1.1 = {
 		holder = Cressey_3
@@ -2581,7 +2581,7 @@ c_sows_horn = {
 		holder = Hogg_4
 	}
 	7858.1.1 = {
-		liege = d_hayford
+		#liege = d_hayford
 	}
 	7859.1.1 = {
 		holder = Hogg_5
@@ -2638,7 +2638,7 @@ c_sows_horn = {
 d_masseys_hook = {
 	185.1.1 = {
 		holder = Massey_10
-		de_jure_liege = k_the_stormlands
+		#de_jure_liege = k_the_stormlands
 	}
 	219.1.1 = {
 		holder = 0
@@ -2659,7 +2659,7 @@ d_masseys_hook = {
 		holder = Massey_16
 	}
 	6551.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 		holder = 0
 	}
 	7859.1.1 = {
@@ -2684,8 +2684,8 @@ d_masseys_hook = {
 		holder = Massey_25
 	}
 	7999.4.1 = {
-		liege = k_the_crownlands
-		de_jure_liege = k_the_crownlands
+		#liege = k_the_crownlands
+		#de_jure_liege = k_the_crownlands
 	}
 	8023.1.1 = {
 		holder = Massey_27
@@ -2724,12 +2724,12 @@ d_masseys_hook = {
 		holder = Massey_1
 	}
 	8298.10.24 = {
-		liege = 0
+		#liege = 0
 	}
 }
 c_stonedance = {
 	185.1.1 = {
-		liege = d_masseys_hook
+		#liege = d_masseys_hook
 		holder = Massey_10
 	}
 	6535.1.1 = {
@@ -2810,7 +2810,7 @@ c_stonedance = {
 }
 c_chancedoor = {
 	185.1.1 = {
-		liege = d_masseys_hook
+		#liege = d_masseys_hook
 	}
 	6535.1.1 = {
 		holder = Placeholder_Massey
@@ -2874,7 +2874,7 @@ c_glasswood = {
 }
 c_glasswater = {
 	185.1.1 = {
-		liege = d_masseys_hook
+		#liege = d_masseys_hook
 	}
 	7856.1.1 = {
 		holder = Chyttering_7
@@ -2930,7 +2930,7 @@ c_glasswater = {
 }
 c_seedskull = {
 	185.1.1 = {
-		liege = d_masseys_hook
+		#liege = d_masseys_hook
 	}
 	6535.1.1 = {
 		holder = Placeholder_Massey
@@ -2983,7 +2983,7 @@ c_seedskull = {
 }
 c_sweetmont = {
 	185.1.1 = {
-		liege = d_masseys_hook
+		#liege = d_masseys_hook
 	}
 	6535.1.1 = {
 		holder = Placeholder_Massey
@@ -3062,10 +3062,10 @@ b_kings_mountain = {
 }
 c_winded_glade = {
 	185.1.1 = {
-		liege = d_masseys_hook
+		#liege = d_masseys_hook
 	}
 	6535.1.1 = {
-		liege = 0
+		#liege = 0
 		holder = Placeholder_Durrandon
 	}
 	7890.1.1 = {
@@ -3113,7 +3113,7 @@ c_winded_glade = {
 }
 c_wisewood = {
 	185.1.1 = {
-		liege = d_masseys_hook
+		#liege = d_masseys_hook
 	}
 	6535.1.1 = {
 		holder = Placeholder_Durrandon
@@ -3169,8 +3169,8 @@ c_wisewood = {
 }
 d_rooks_rest = {
 	3306.1.1 = {
-		de_jure_liege = k_the_riverlands
-		liege = e_the_riverlands
+		#de_jure_liege = k_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7855.1.1 = {
 		holder = Staunton_4
@@ -3179,7 +3179,7 @@ d_rooks_rest = {
 		holder = Staunton_6
 	}
 	7902.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7921.1.1 = {
 		holder = Staunton_50
@@ -3188,7 +3188,7 @@ d_rooks_rest = {
 		holder = Staunton_54
 	}
 	7947.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7951.1.1 = {
 		holder = Staunton_8
@@ -3197,8 +3197,8 @@ d_rooks_rest = {
 		holder = Staunton_9
 	}
 	7999.6.1 = {
-		de_jure_liege = k_the_crownlands
-		liege = k_the_crownlands
+		#de_jure_liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8006.1.1 = {
 		holder = Staunton_10
@@ -3236,7 +3236,7 @@ c_rooks_rest = {
 		holder = Placeholder_Darklyn
 	}
 	7855.1.1 = {
-		liege = d_rooks_rest
+		#liege = d_rooks_rest
 		holder = Staunton_4
 	}
 	7871.1.1 = {
@@ -3287,7 +3287,7 @@ c_rooks_rest = {
 }
 c_pepperwood = {
 	7855.1.1 = {
-		liege = d_rooks_rest
+		#liege = d_rooks_rest
 	}
 	7866.1.1 = {
 		holder = Langward_5
@@ -3346,7 +3346,7 @@ c_pepperwood = {
 }
 c_risegrave = {
 	7855.1.1 = {
-		liege = d_rooks_rest
+		#liege = d_rooks_rest
 		holder = Staunton_4
 	}
 	7871.1.1 = {
@@ -3397,7 +3397,7 @@ c_risegrave = {
 }
 c_stellarstake = {
 	7855.1.1 = {
-		liege = d_rooks_rest
+		#liege = d_rooks_rest
 	}
 	7866.1.1 = {
 		holder = Langward_5
@@ -3456,11 +3456,11 @@ c_stellarstake = {
 }
 d_rosby = {
 	3306.1.1 = {
-		liege = e_the_riverlands
-		de_jure_liege = k_the_riverlands
+		#liege = e_the_riverlands
+		#de_jure_liege = k_the_riverlands
 	}
 	6535.1.1 = {
-		de_jure_liege = k_the_riverlands
+		#de_jure_liege = k_the_riverlands
 		holder = Placeholder_Darklyn
 	}
 	7869.1.1 = {
@@ -3470,13 +3470,13 @@ d_rosby = {
 		holder = Rosby_6
 	}
 	7902.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7921.1.1 = {
 		holder = Rosby_47
 	}
 	7947.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7954.1.1 = {
 		holder = Rosby_48
@@ -3488,8 +3488,8 @@ d_rosby = {
 		holder = Rosby_10
 	}
 	7999.5.1 = {
-		liege = k_the_crownlands
-		de_jure_liege = k_the_crownlands
+		#liege = k_the_crownlands
+		#de_jure_liege = k_the_crownlands
 	}
 	8005.1.1 = {
 		holder = Rosby_11
@@ -3533,7 +3533,7 @@ d_rosby = {
 }
 c_rosby = {
 	7869.1.1 = {
-		liege = d_rosby
+		#liege = d_rosby
 		holder = Rosby_5
 	}
 	7885.1.1 = {
@@ -3596,7 +3596,7 @@ c_edgerton = {
 		holder = Edgerton_4
 	}
 	7869.1.1 = {
-		liege = d_rosby
+		#liege = d_rosby
 		holder = Edgerton_5
 	}
 	7891.1.1 = {
@@ -3647,7 +3647,7 @@ c_edgerton = {
 }
 c_greensward = {
 	7869.1.1 = {
-		liege = d_rosby
+		#liege = d_rosby
 	}
 	7874.1.1 = {
 		holder = Blount_10
@@ -3709,7 +3709,7 @@ c_redbend = {
 		holder = Edgerton_4
 	}
 	7869.1.1 = {
-		liege = d_rosby
+		#liege = d_rosby
 		holder = Edgerton_5
 	}
 	7891.1.1 = {
@@ -3766,7 +3766,7 @@ c_strongmead = {
 		holder = Cargyll_1
 	}
 	7869.1.1 = {
-		liege = d_rosby
+		#liege = d_rosby
 	}
 	7880.1.1 = {
 		holder = Cargyll_2
@@ -3819,7 +3819,7 @@ c_strongmead = {
 }
 c_whiteplate = {
 	7869.1.1 = {
-		liege = d_rosby
+		#liege = d_rosby
 	}
 	7889.1.1 = {
 		holder = Whitfield_5
@@ -3866,11 +3866,11 @@ c_whiteplate = {
 }
 d_stokeworth = {
 	3306.1.1 = {
-		liege = e_the_riverlands
-		de_jure_liege = k_the_riverlands
+		#liege = e_the_riverlands
+		#de_jure_liege = k_the_riverlands
 	}
 	6535.1.1 = {
-		de_jure_liege = k_the_riverlands
+		#de_jure_liege = k_the_riverlands
 		holder = Placeholder_Darklyn
 	}
 	7859.1.1 = {
@@ -3880,7 +3880,7 @@ d_stokeworth = {
 		holder = Stokeworth_9
 	}
 	7902.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7914.1.1 = {
 		holder = Stokeworth_10
@@ -3889,7 +3889,7 @@ d_stokeworth = {
 		holder = Stokeworth_14
 	}
 	7947.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7970.1.1 = {
 		holder = Stokeworth_31
@@ -3898,8 +3898,8 @@ d_stokeworth = {
 		holder = Stokeworth_35
 	}
 	7999.5.1 = {
-		liege = k_the_crownlands
-		de_jure_liege = k_the_crownlands
+		#liege = k_the_crownlands
+		#de_jure_liege = k_the_crownlands
 	}
 	8031.1.1 = {
 		holder = Stokeworth_15
@@ -3937,7 +3937,7 @@ d_stokeworth = {
 }
 c_stokeworth = {
 	7859.1.1 = {
-		liege = d_stokeworth
+		#liege = d_stokeworth
 		holder = Stokeworth_8
 	}
 	7875.1.1 = {
@@ -4033,7 +4033,7 @@ c_bentbranch = {
 		holder = Baxter_3
 	}
 	7859.1.1 = {
-		liege = d_stokeworth
+		#liege = d_stokeworth
 	}
 	7875.1.1 = {
 		holder = Baxter_4
@@ -4092,7 +4092,7 @@ c_cantondale = {
 		holder = Branfield_3
 	}
 	7859.1.1 = {
-		liege = d_stokeworth
+		#liege = d_stokeworth
 	}
 	7871.1.1 = {
 		holder = Branfield_8
@@ -4154,7 +4154,7 @@ c_cantondale = {
 }
 c_grainside = {
 	7859.1.1 = {
-		liege = d_stokeworth
+		#liege = d_stokeworth
 	}
 	7859.1.1 = {
 		holder = Wheaton_23
@@ -4216,7 +4216,7 @@ c_grainside = {
 }
 c_nessing = {
 	7859.1.1 = {
-		liege = d_stokeworth
+		#liege = d_stokeworth
 		holder = Stokeworth_8
 	}
 	7875.1.1 = {
@@ -4273,7 +4273,7 @@ c_nessing = {
 }
 c_silverhead = {
 	7859.1.1 = {
-		liege = d_stokeworth
+		#liege = d_stokeworth
 	}
 	7855.1.1 = {
 		holder = Byrch_7
@@ -4335,16 +4335,16 @@ c_silverhead = {
 }
 d_the_baywater_woods = {
 	7600.1.1 = {
-		liege = e_the_stormlands
-		de_jure_liege = k_the_stormlands
+		#liege = e_the_stormlands
+		#de_jure_liege = k_the_stormlands
 	}
 	7999.9.15 = {
-		de_jure_liege = k_the_crownlands
+		#de_jure_liege = k_the_crownlands
 	}
 }
 c_the_gauntlet = {
 	7600.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7850.1.1 = {
 		holder = Gaunt_8
@@ -4362,7 +4362,7 @@ c_the_gauntlet = {
 		holder = Gaunt_23
 	}
 	7999.9.15 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8004.1.1 = {
 		holder = Gaunt_27
@@ -4400,7 +4400,7 @@ c_the_gauntlet = {
 }
 c_brushmill = {
 	7600.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7818.1.1 = {
 		holder = Miller_25
@@ -4427,7 +4427,7 @@ c_brushmill = {
 		holder = Miller_27
 	}
 	7999.9.15 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8017.1.1 = {
 		holder = Miller_29
@@ -4465,7 +4465,7 @@ c_brushmill = {
 }
 c_bywater = {
 	7600.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7851.1.1 = {
 		holder = Bywater_6
@@ -4486,7 +4486,7 @@ c_bywater = {
 		holder = Bywater_33
 	}
 	7999.9.15 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8040.1.1 = {
 		holder = Bywater_34
@@ -4527,7 +4527,7 @@ c_bywater = {
 }
 c_greyhelm = {
 	7600.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7865.1.1 = {
 		holder = Pyle_4
@@ -4545,7 +4545,7 @@ c_greyhelm = {
 		holder = Pyle_22
 	}
 	7999.9.15 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8003.1.1 = {
 		holder = Pyle_27
@@ -4589,10 +4589,10 @@ c_greyhelm = {
 }
 d_the_blackwater_rush = {
 	800.1.1 = {
-		de_jure_liege = k_the_riverlands
+		#de_jure_liege = k_the_riverlands
 	}
 	7999.5.1 = {
-		de_jure_liege = k_the_crownlands
+		#de_jure_liege = k_the_crownlands
 	}
 	8184.2.1 = {
 		holder = Targaryen_94
@@ -4603,7 +4603,7 @@ d_the_blackwater_rush = {
 }
 c_rollingford = {
 	3306.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7862.1.1 = {
 		holder = Rollingford_4
@@ -4612,7 +4612,7 @@ c_rollingford = {
 		holder = Rollingford_5
 	}
 	7902.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7910.1.1 = {
 		holder = Rollingford_6
@@ -4621,13 +4621,13 @@ c_rollingford = {
 		holder = Rollingford_8
 	}
 	7947.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7987.1.1 = {
 		holder = Rollingford_12
 	}
 	7999.5.1 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8016.1.1 = {
 		holder = Rollingford_17
@@ -4651,10 +4651,10 @@ c_rollingford = {
 		holder = Rollingford_46
 	}
 	8184.2.1 = {
-		liege = d_the_blackwater_rush
+		#liege = d_the_blackwater_rush
 	}
 	8196.6.1 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8208.1.1 = {
 		holder = Rollingford_50
@@ -4668,7 +4668,7 @@ c_rollingford = {
 }
 c_great_fork = {
 	3306.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7853.1.1 = {
 		holder = Bourney_22
@@ -4677,7 +4677,7 @@ c_great_fork = {
 		holder = Bourney_23
 	}
 	7902.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7915.1.1 = {
 		holder = Bourney_26
@@ -4686,7 +4686,7 @@ c_great_fork = {
 		holder = Bourney_41
 	}
 	7947.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7984.1.1 = {
 		holder = Bourney_42
@@ -4695,7 +4695,7 @@ c_great_fork = {
 		holder = Bourney_44
 	}
 	7999.5.1 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8027.1.1 = {
 		holder = Bourney_49
@@ -4719,10 +4719,10 @@ c_great_fork = {
 		holder = Bourney_40
 	}
 	8184.2.1 = {
-		liege = d_the_blackwater_rush
+		#liege = d_the_blackwater_rush
 	}
 	8196.6.1 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8209.1.1 = {
 		holder = Bourney_2
@@ -4733,7 +4733,7 @@ c_great_fork = {
 }
 c_longgrass = {
 	800.1.1 = {
-		de_jure_liege = d_tumbleton
+		#de_jure_liege = d_tumbleton
 		effect = {
 			title:b_redgrass_field  = { set_title_name = b_longgrass_field }
 		}
@@ -4742,7 +4742,7 @@ c_longgrass = {
 		holder = Corne_22
 	}
 	7873.1.1 = {
-		liege = d_tumbleton
+		#liege = d_tumbleton
 	}
 	7892.1.1 = {
 		holder = Corne_24
@@ -4763,8 +4763,8 @@ c_longgrass = {
 		holder = Corne_79
 	}
 	8000.5.1 = {
-		liege = k_the_crownlands
-		de_jure_liege = d_the_blackwater_rush
+		#liege = k_the_crownlands
+		#de_jure_liege = d_the_blackwater_rush
 	}
 	8038.1.1 = {
 		holder = Corne_83
@@ -4788,11 +4788,11 @@ c_longgrass = {
 		holder = Corne_37
 	}
 	8184.2.1 = {
-		liege = d_the_blackwater_rush
+		#liege = d_the_blackwater_rush
 		holder = Targaryen_94
 	}
 	8196.6.1 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 		holder = Corne_50
 		effect = {
 			title:b_redgrass_field  = { reset_title_name = yes }
@@ -4810,7 +4810,7 @@ c_longgrass = {
 }
 c_middleton = {
 	3306.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7883.1.1 = {
 		holder = Hall_4
@@ -4819,13 +4819,13 @@ c_middleton = {
 		holder = Hall_6
 	}
 	7902.1.1 = {
-		liege = e_the_stormlands
+		#liege = e_the_stormlands
 	}
 	7921.1.1 = {
 		holder = Hall_15
 	}
 	7947.1.1 = {
-		liege = e_the_riverlands
+		#liege = e_the_riverlands
 	}
 	7968.1.1 = {
 		holder = Hall_16
@@ -4834,7 +4834,7 @@ c_middleton = {
 		holder = Hall_29
 	}
 	7999.5.1 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8023.1.1 = {
 		holder = Hall_33
@@ -4855,13 +4855,13 @@ c_middleton = {
 		holder = Hall_52
 	}
 	8184.2.1 = {
-		liege = d_the_blackwater_rush
+		#liege = d_the_blackwater_rush
 	}
 	8193.1.1 = {
 		holder = Hall_54
 	}
 	8196.6.1 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 	}
 	8228.1.1 = {
 		holder = Hall_58
@@ -4878,13 +4878,13 @@ c_middleton = {
 }
 c_pikemouth = {
 	800.1.1 = {
-		de_jure_liege = d_tumbleton
+		#de_jure_liege = d_tumbleton
 	}
 	7858.1.1 = {
 		holder = Corne_22
 	}
 	7873.1.1 = {
-		liege = d_tumbleton
+		#liege = d_tumbleton
 	}
 	7892.1.1 = {
 		holder = Corne_24
@@ -4905,8 +4905,8 @@ c_pikemouth = {
 		holder = Corne_79
 	}
 	8000.5.1 = {
-		liege = k_the_crownlands
-		de_jure_liege = d_the_blackwater_rush
+		#liege = k_the_crownlands
+		#de_jure_liege = d_the_blackwater_rush
 	}
 	8038.1.1 = {
 		holder = Corne_83
@@ -4930,13 +4930,13 @@ c_pikemouth = {
 		holder = Corne_37
 	}
 	8184.2.1 = {
-		liege = d_the_blackwater_rush
+		#liege = d_the_blackwater_rush
 	}
 	8186.1.1 = {
 		holder = Corne_38
 	}
 	8196.6.1 = {
-		liege = k_the_crownlands
+		#liege = k_the_crownlands
 		holder = Corne_50
 	}
 	8258.6.1 = {
@@ -4951,8 +4951,8 @@ c_pikemouth = {
 }
 d_wendwater_forest = {
 	20.1.1 = {
-		liege = e_the_stormlands
-		de_jure_liege = k_the_stormlands
+		#liege = e_the_stormlands
+		#de_jure_liege = k_the_stormlands
 	}
 	7870.1.1 = {
 		holder = Farring_7
@@ -4973,8 +4973,8 @@ d_wendwater_forest = {
 		holder = Farring_20
 	}
 	7999.9.15 = {
-		liege = k_the_crownlands
-		de_jure_liege = k_the_crownlands
+		#liege = k_the_crownlands
+		#de_jure_liege = k_the_crownlands
 	}
 	8002.1.1 = {
 		holder = Farring_29
@@ -5010,7 +5010,7 @@ d_wendwater_forest = {
 		holder = Farring_1
 	}
 	8298.10.24 = {
-		liege = 0
+		#liege = 0
 	}
 }
 c_wendwater_fork = {
@@ -5018,7 +5018,7 @@ c_wendwater_fork = {
 		holder = Placeholder_Durrandon
 	}
 	7870.1.1 = {
-		liege = d_wendwater_forest
+		#liege = d_wendwater_forest
 	}
 	7874.1.1 = {
 		holder = Wendwater_4
@@ -5087,7 +5087,7 @@ c_farring_cross = {
 	}
 	7870.1.1 = {
 		holder = Farring_7
-		liege = d_wendwater_forest
+		#liege = d_wendwater_forest
 	}
 	7881.1.1 = {
 		holder = Farring_8
@@ -5149,7 +5149,7 @@ c_darkgroves = {
 		holder = Groves_39
 	}
 	7870.1.1 = {
-		liege = d_wendwater_forest
+		#liege = d_wendwater_forest
 	}
 	7893.1.1 = {
 		holder = Groves_41
@@ -5202,7 +5202,7 @@ c_darkgroves = {
 }
 c_noblewood = {
 	7870.1.1 = {
-		liege = d_wendwater_forest
+		#liege = d_wendwater_forest
 	}
 		7837.1.1 = {
 		holder = Correy_31
@@ -5261,7 +5261,7 @@ c_noblewood = {
 }
 c_stripeharbor = {
 	7870.1.1 = {
-		liege = d_wendwater_forest
+		#liege = d_wendwater_forest
 	}
 	7875.1.1 = {
 		holder = Manning_5

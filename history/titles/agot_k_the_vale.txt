@@ -1378,6 +1378,9 @@ c_purling = {
 	}
 }
 d_eastweald = {
+	6535.1.2 = {
+		holder = Hunter_48
+	}
 	6539.1.1 = {
 		liege = e_the_vale
 	}
@@ -1449,6 +1452,10 @@ d_eastweald = {
 	}
 }
 c_longbow_hills = {
+	6535.1.1 = {
+		holder = Hunter_48
+		liege = d_eastweald
+	}
 	6541.1.1 = {
 		holder = Hunter_48
 		liege = d_eastweald
@@ -2010,7 +2017,7 @@ c_etterbill = {
 		liege = d_gulltown
 	}
 	6535.1.1 = {
-		holder = Placeholder_Royce
+		holder = Royce_18
 	}
 	7895.1.1 = {
 		holder = Lushry_1
@@ -2066,7 +2073,7 @@ c_kear = {
 		liege = d_gulltown
 	}
 	6535.1.1 = {
-		holder = Placeholder_Royce
+		holder = Royce_18
 	}
 	7853.1.1 = {
 		holder = Kinnear_1
@@ -2700,7 +2707,7 @@ d_ironoaks = {
 		holder = Waynwood_26
 	}
 	6535.1.1 = {
-		holder = Placeholder_Royce
+		holder = Royce_18
 	}
 	6539.1.1 = {
 		liege = e_the_vale
@@ -3097,9 +3104,6 @@ c_the_banners = {
 d_ninestars = {
 	6535.1.1 = {
 		holder = Templeton_5
-	}
-	6535.1.2 = {
-		holder = Placeholder_Royce
 	}
 	6539.1.1 = {
 		liege = e_the_vale
@@ -4078,7 +4082,7 @@ c_strikeguard = {
 }
 d_old_anchor = {
 	6535.1.1 = {
-		holder = Placeholder_Royce
+		holder = Royce_18
 	}
 	6539.1.1 = {
 		liege = e_the_vale
@@ -4347,7 +4351,7 @@ d_runestone = {
 		holder = Royce_11
 	}
 	6535.1.1 = {
-		holder = Placeholder_Royce
+		holder = Royce_18
 	}
 	6358.1.1 = {
 		holder = Royce_12
