@@ -19506,7 +19506,7 @@ e_the_reach = {
 e_the_riverlands = {
 	color = { 50 95 196 }
 	capital = c_riverrun
-	k_blackwater_bay = {
+	k_the_crownlands = { # k_blackwater_bay
 		color = { 219 112 155 }
 		capital = c_rosby
 		d_kings_landing = {
@@ -23756,7 +23756,7 @@ e_the_riverlands = {
 e_the_stormlands = {
 	color = { 222 199 42 }
 	capital = c_storms_end
-	k_storms_end = {
+	k_the_stormlands = {
 		color = { 222 199 42 }
 		capital = c_storms_end
 		d_shipbreaker_bay = {
@@ -26922,7 +26922,7 @@ e_the_stormlands = {
 			}
 		}
 	}
-	#k_the_stormlands = {
+	#k_the_stormlands = { # k_storms_end
 	#	color = { 222 199 42 }
 	#	capital = c_storms_end
 	#	can_create = {
@@ -27666,7 +27666,7 @@ e_the_vale = {
 			}
 		}
 	}
-	k_mountain_vale = {
+	k_the_vale = {
 		color = { 120 196 228 }
 		capital = c_the_eyrie
 		d_the_giants_lance = {
@@ -29550,7 +29550,7 @@ e_the_vale = {
 			}
 		}
 	}
-	#k_the_vale = {
+	#k_the_vale k_mountain_vale = {
 	#	color = { 90 202 213 }
 	#	capital = c_the_eyrie
 	#	definite_form = yes
@@ -29839,7 +29839,7 @@ e_the_wall = {
 e_the_westerlands = {
 	color = { 186 50 42 }
 	capital = c_casterly_rock
-	k_casterly_rock = {
+	k_the_westerlands = {
 		color = { 186 50 42 }
 		capital = c_casterly_rock
 		d_casterly_rock = {
@@ -32016,7 +32016,7 @@ e_the_westerlands = {
 			}
 		}
 	}
-	#k_the_westerlands = {
+	#k_the_westerlands = { # k_casterly_rock
 	#	color = { 186 50 42 }
 	#	capital = c_casterly_rock
 	#	definite_form = yes
