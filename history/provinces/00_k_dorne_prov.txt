@@ -2,7 +2,7 @@
 ############# c_sunspear - d_sunspear #############
 4937 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	special_building = sunspear_01
 	duchy_capital_building = leisure_palace_02
@@ -71,7 +71,7 @@
 ############ c_plankytown - d_sunspear ############
 4944 = {
 	culture = greenblood
-	religion = mother_rhoyne
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -113,7 +113,7 @@
 ############ c_husk_flats - d_sunspear ############
 4949 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -154,7 +154,7 @@
 ############ c_stinkwater - d_sunspear ############
 4955 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 curtain_walls_01 }
@@ -193,7 +193,7 @@
 ############ c_lemonwood - d_lemonwood ############
 4960 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	duchy_capital_building = agot_vineyard_01
 	holding = castle_holding
 	7824.1.1 = {
@@ -243,7 +243,7 @@
 ############ c_sweetwater - d_lemonwood ###########
 4966 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -279,7 +279,7 @@
 ############ c_sourmarket - d_lemonwood ###########
 4971 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -315,7 +315,7 @@
 ######## c_drillwater_islands - d_lemonwood #######
 4976 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -338,7 +338,7 @@
 ########### c_salt_shore - d_salt_shore ###########
 4979 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -387,7 +387,7 @@
 ############ c_brackish - d_salt_shore ############
 4986 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -426,7 +426,7 @@
 ########## c_white_stones - d_salt_shore ##########
 4991 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -462,7 +462,7 @@
 ############ c_saltstone - d_salt_shore ###########
 4996 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -500,7 +500,7 @@
 ############ c_godsgrace - d_godsgrace ############
 5002 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	duchy_capital_building = agot_vineyard_02
 	holding = castle_holding
 	special_building = agot_godsgrace_01
@@ -546,7 +546,7 @@
 ########### c_goldpeppers - d_godsgrace ###########
 5008 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -585,7 +585,7 @@
 ############ c_orangewood - d_godsgrace ###########
 5013 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 curtain_walls_01 }
@@ -624,7 +624,7 @@
 ############# c_nerandyn - d_godsgrace ############
 5018 = {
 	culture = greenblood
-	religion = mother_rhoyne
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -652,7 +652,7 @@
 ########### c_sevensdunes - d_godsgrace ###########
 5022 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 curtain_walls_01 }
@@ -688,7 +688,7 @@
 ############ c_latebloom - d_godsgrace ############
 5027 = {
 	culture = greenblood
-	religion = mother_rhoyne
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 curtain_walls_01 }
@@ -724,7 +724,7 @@
 ########### c_spottswood - d_broken_arm ###########
 5032 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	duchy_capital_building = royal_forest_01
 	7824.1.1 = {
@@ -769,7 +769,7 @@
 ############ c_torchwood - d_broken_arm ###########
 5038 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -813,7 +813,7 @@
 ############ c_rockwell - d_broken_arm ############
 5044 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -849,7 +849,7 @@
 ########## c_ghost_hills - d_ghost_hills ##########
 5049 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 hill_forts_02 }
@@ -901,7 +901,7 @@
 ########### c_nymercairn - d_ghost_hills ##########
 5056 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -942,7 +942,7 @@
 ########### c_the_faint - d_ghost_hills ###########
 5062 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -986,7 +986,7 @@
 ############## c_the_tor - d_the_tor ##############
 5068 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_04 watchtowers_04 stables_03 }
@@ -1033,7 +1033,7 @@
 ########### c_tallor_islands - d_the_tor ##########
 5074 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1056,7 +1056,7 @@
 ############## c_murrandy - d_the_tor #############
 5077 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1087,7 +1087,7 @@
 ############ c_dream_dunes - d_the_tor ############
 5081 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1123,7 +1123,7 @@
 ############## c_barberry - d_the_tor #############
 5086 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1159,7 +1159,7 @@
 ########## c_the_bramble - d_scourgehead ##########
 5091 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1198,7 +1198,7 @@
 ############ c_stedding - d_scourgehead ###########
 5096 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1242,7 +1242,7 @@
 ########### c_flatwater - d_scourgehead ###########
 5317 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1286,7 +1286,7 @@
 ########## c_the_scourge - d_scourgehead ##########
 5335 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1330,7 +1330,7 @@
 ########## c_ghaston_grey - d_scourgehead #########
 5472 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	special_building = agot_ghaston_grey_01
 	7824.1.1 = {
@@ -1349,7 +1349,7 @@
 ############## c_vaith - d_red_dunes ##############
 5102 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 hill_forts_03 stables_03 }
@@ -1393,7 +1393,7 @@
 ############ c_killburne - d_red_dunes ############
 5108 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -1437,7 +1437,7 @@
 ########### c_brittlebush - d_red_dunes ###########
 5114 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1481,7 +1481,7 @@
 ############ c_red_waste - d_red_dunes ############
 5120 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1517,7 +1517,7 @@
 ########## c_the_scablands - d_red_dunes ##########
 5125 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1553,7 +1553,7 @@
 ########### c_the_barrens - d_red_dunes ###########
 5130 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1589,7 +1589,7 @@
 ############# c_hellholt - d_brimstone ############
 5135 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	duchy_capital_building = siege_works_01
 	7824.1.1 = {
@@ -1634,7 +1634,7 @@
 ########## c_sulphur_flats - d_brimstone ##########
 5141 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1678,7 +1678,7 @@
 ############ c_jackalrun - d_brimstone ############
 5147 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1719,7 +1719,7 @@
 ############ c_brimstone - d_brimstone ############
 5153 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1764,7 +1764,7 @@
 ############ c_steamfall - d_brimstone ############
 5159 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1808,7 +1808,7 @@
 ########## c_burning_dunes - d_brimstone ##########
 5165 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1849,7 +1849,7 @@
 ########### c_bloodbridge - d_brimstone ###########
 5171 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1887,7 +1887,7 @@
 ############# c_willburn - d_brimstone ############
 5177 = {
 	culture = salt_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1928,7 +1928,7 @@
 ############# c_first_well - d_oldwell ############
 5183 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1966,7 +1966,7 @@
 ############# c_pronghorn - d_oldwell #############
 5189 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1999,7 +1999,7 @@
 ############## c_drywell - d_oldwell ##############
 5194 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2032,7 +2032,7 @@
 ############ c_the_dustbowl - d_oldwell ###########
 5199 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -2070,7 +2070,7 @@
 ############ c_shady_sands - d_oldwell ############
 5205 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -2105,7 +2105,7 @@
 ############ c_sandstone - d_sandstone ############
 5211 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 watchtowers_03 stables_03 }
@@ -2149,7 +2149,7 @@
 ########## c_stained_sands - d_sandstone ##########
 5217 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2185,7 +2185,7 @@
 ########### c_white_dunes - d_sandstone ###########
 5222 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -2218,7 +2218,7 @@
 ########## c_stinging_sands - d_sandstone #########
 5227 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2256,7 +2256,7 @@
 ############ c_dreadsands - d_sandstone ###########
 5233 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2300,7 +2300,7 @@
 ############# c_barbmane - d_sandstone ############
 5239 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -2344,7 +2344,7 @@
 ############# c_sandhorn - d_sandstone ############
 5245 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -2385,7 +2385,7 @@
 ############# c_arnight - d_sandstone #############
 5251 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2426,7 +2426,7 @@
 ############ c_starfall - d_torrentine ############
 5257 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	special_building = agot_starfall_01
 	duchy_capital_building = blacksmiths_01
@@ -2483,7 +2483,7 @@
 ######### c_high_hermitage - d_torrentine #########
 5264 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -2532,7 +2532,7 @@
 ############ c_the_elbow - d_torrentine ###########
 5271 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2573,7 +2573,7 @@
 ######### c_radiant_cliffs - d_torrentine #########
 5277 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -2612,7 +2612,7 @@
 ############ c_dawnbrink - d_torrentine ###########
 5282 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -2640,7 +2640,7 @@
 ########## c_shining_sands - d_torrentine #########
 5286 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2676,7 +2676,7 @@
 ######### c_fields_of_glass - d_torrentine ########
 5291 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -2720,7 +2720,7 @@
 ############ c_astermine - d_torrentine ###########
 5297 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2761,7 +2761,7 @@
 ############# c_yronwood - d_yronwood #############
 5303 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	special_building = yronwood_mines_02
 	duchy_capital_building = royal_armory_02
@@ -2823,7 +2823,7 @@
 ############# c_greenbelt - d_yronwood ############
 5311 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -2867,7 +2867,7 @@
 ############ c_great_dunes - d_yronwood ###########
 5323 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2905,7 +2905,7 @@
 ############ c_royalmarch - d_yronwood ############
 5329 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2946,7 +2946,7 @@
 ############# c_wayguard - d_yronwood #############
 5341 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -2982,7 +2982,7 @@
 ############ c_blood_gulch - d_yronwood ###########
 5346 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3020,7 +3020,7 @@
 ######### c_skyreach - d_the_princes_pass #########
 5352 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	special_building = agot_skyreach_01
 	duchy_capital_building = march_02
@@ -3066,7 +3066,7 @@
 ######### c_wide_way - d_the_princes_pass #########
 5358 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -3099,7 +3099,7 @@
 ######### c_cadgemont - d_the_princes_pass ########
 5363 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3135,7 +3135,7 @@
 ######### c_hoodridge - d_the_princes_pass ########
 5368 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3171,7 +3171,7 @@
 ######### c_thorntree - d_the_princes_pass ########
 5373 = {
 	culture = sand_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3204,7 +3204,7 @@
 ######## c_princemarch - d_the_princes_pass #######
 5378 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3241,7 +3241,7 @@
 ############ c_blackmont - d_blackmont ############
 5383 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	duchy_capital_building = march_01
 	7824.1.1 = {
@@ -3284,7 +3284,7 @@
 5392 = {
 	holding = castle_holding
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	7824.1.1 = {
 		buildings = { castle_02 }
 	}
@@ -3311,7 +3311,7 @@
 ############ c_baldcrest - d_blackmont ############
 5389 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = city_holding
 	7824.1.1 = {
 		buildings = { city_01 }
@@ -3321,7 +3321,7 @@
 ############ c_the_crawl - d_blackmont ############
 5394 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3365,7 +3365,7 @@
 ######### c_carrion_heights - d_blackmont #########
 5400 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -3403,7 +3403,7 @@
 ############ c_westroost - d_blackmont ############
 5406 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3441,7 +3441,7 @@
 ############ c_kingsgrave - d_redmarch ############
 5412 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	duchy_capital_building = march_01
 	7824.1.1 = {
@@ -3486,7 +3486,7 @@
 ######### c_redstone_heights - d_redmarch #########
 5418 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3527,7 +3527,7 @@
 ############# c_mortberry - d_redmarch ############
 5424 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3568,7 +3568,7 @@
 ############ c_strongwine - d_redmarch ############
 5430 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3609,7 +3609,7 @@
 ############ c_rustbarren - d_redmarch ############
 5436 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3645,7 +3645,7 @@
 ############## c_wyl - d_the_stoneway #############
 5441 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	duchy_capital_building = march_01
 	7824.1.1 = {
@@ -3690,7 +3690,7 @@
 ########### c_fangside - d_the_stoneway ###########
 5447 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3726,7 +3726,7 @@
 ########### c_brinkburn - d_the_stoneway ##########
 5452 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3767,7 +3767,7 @@
 ########### c_highgrave - d_the_stoneway ##########
 5458 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -3798,7 +3798,7 @@
 ############ c_denmont - d_the_stoneway ###########
 5462 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -3827,7 +3827,7 @@
 ########### c_blackvein - d_the_stoneway ##########
 5466 = {
 	culture = stone_dornish
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }

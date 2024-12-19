@@ -1,8 +1,8 @@
 ﻿################ b_hugors_hill ###############
 ############# c_coronyll - d_andalimark #############
 7918 = {
-	culture = andalosi
-	religion = princely_arbiter
+	culture = andal
+	religion = servants_of_the_star
 	holding = castle_holding
 	special_building = agot_hugor_hill_01
 	7824.1.1 = {
@@ -33,8 +33,8 @@
 ################ b_corohold ###############
 ############# c_coronyll - d_andalimark #############
 7922 = {
-	culture = andalosi
-	religion = princely_arbiter
+	culture = andal
+	religion = servants_of_the_star
 	holding = castle_holding
 	4100.1.1 = {
 		buildings = {
@@ -62,8 +62,8 @@
 ################ b_hukodale ###############
 ############# c_crone_moors - d_andalimark #############
 7925 = {
-	culture = rhoynish
-	religion = rhllor
+	culture = andal
+	religion = servants_of_the_star
 }
 ################ b_norofer ###############
 ############# c_crone_moors - d_andalimark #############
@@ -93,8 +93,8 @@
 ############### b_sufofer ###############
 ############# c_gonford - d_andalimark #############
 7931 = {
-	culture = rhoynish
-	religion = rhllor
+	culture = andal
+	religion = servants_of_the_star
 }
 ############### b_chirchylle ###############
 ############# c_gonford - d_andalimark #############
@@ -114,8 +114,8 @@
 ############### b_eahyll ###############
 ############# c_ishys - d_andalimark #############
 7935 = {
-	culture = pentoshi
-	religion = princely_arbiter
+	culture = andal
+	religion = servants_of_the_star
 }
 ############### b_ausfold ###############
 ############# c_ishys - d_andalimark #############
@@ -140,8 +140,8 @@
 ############### b_weshold ###############
 ############# c_tableland - d_andalimark #############
 7940 = {
-	culture = pentoshi
-	religion = princely_arbiter
+	culture = andal
+	religion = servants_of_the_star
 }
 ############### b_vesfeld ###############
 ############# c_tableland - d_andalimark #############
@@ -161,7 +161,7 @@
 ############### b_fenn_cepan ###############
 ############# c_armirridge - d_andalimark #############
 7944 = {
-	culture = andalosi
+	culture = andal
 	religion = servants_of_the_star
 }
 ############### b_fentun ###############
@@ -182,8 +182,8 @@
 ############### b_crontoor ###############
 ############# c_hukorvale - d_andalimark #############
 7948 = {
-	culture = andalosi
-	religion = rhllor
+	culture = andal
+	religion = servants_of_the_star
 }
 ############### b_hrycone ###############
 ############# c_hukorvale - d_andalimark #############
@@ -222,11 +222,11 @@
 		}
 	}
 	6450.1.1 = {
-		culture = andalosi
+		culture = andal
 	}
 	8209.1.1 = {
 		culture = braavosi
-		religion = rhllor
+		religion = servants_of_the_star
 	}
 	8225.1.1 = {
 		buildings = {
@@ -312,8 +312,8 @@
 ################# b_wetorr #################
 ########## c_horost - d_sojourners_coast ##########
 7961 = {
-	culture = pentoshi
-	religion = trios
+	culture = andal
+	religion = servants_of_the_star
 }
 ################# b_emmon #################
 ########## c_horost - d_sojourners_coast ##########
@@ -333,8 +333,8 @@
 ################# b_duntorr ################
 ########## c_smiths_bay - d_sojourners_coast ##########
 7965 = {
-	culture = andalosi
-	religion = weeping_lady
+	culture = andal
+	religion = servants_of_the_star
 }
 ################# b_duntun ################
 ########## c_smiths_bay - d_sojourners_coast ##########
@@ -359,8 +359,8 @@
 ################# b_ortorr ################
 ########## c_boiorrio - d_sojourners_coast ##########
 7970 = {
-	culture = andalosi
-	religion = weeping_lady
+	culture = andal
+	religion = servants_of_the_star
 }
 ################# b_hildtun ################
 ########## c_boiorrio - d_sojourners_coast ##########
@@ -390,8 +390,8 @@
 ################# b_weshul ################
 ########## c_warriors_approach - d_sojourners_coast ##########
 7976 = {
-	culture = pentoshi
-	religion = princely_arbiter
+	culture = andal
+	religion = servants_of_the_star
 }
 ################# b_westun ################
 ########## c_warriors_approach - d_sojourners_coast ##########
@@ -406,8 +406,8 @@
 ################# b_twea ################
 ########## c_parmengaed - d_sojourners_coast ##########
 7979 = {
-	culture = andalosi
-	religion = trios
+	culture = andal
+	religion = servants_of_the_star
 }
 ################# b_eaton ################
 ########## c_parmengaed - d_sojourners_coast ##########
@@ -432,7 +432,7 @@
 ################# b_caeriniot #################
 ################ c_jelfold - d_jelmark ################
 7984 = {
-	culture = andalosi
+	culture = andal
 	religion = servants_of_the_star
 	holding = castle_holding
 }
@@ -464,8 +464,8 @@
 ################# b_jaestorr #################
 ################ c_jaesford - d_jelmark ################
 7990 = {
-	culture = andalosi
-	religion = rhllor
+	culture = andal
+	religion = servants_of_the_star
 	holding = castle_holding
 }
 ################# b_riddetun #################
@@ -491,8 +491,8 @@
 ################# b_maidenburh ################
 ################ c_maidridge - d_jelmark ################
 7995 = {
-	culture = andalosi
-	religion = rhllor
+	culture = andal
+	religion = servants_of_the_star
 	holding = castle_holding
 }
 ################# b_rhinkahrycg ################
@@ -513,8 +513,8 @@
 ################# b_destorr ################
 ################ c_jelmahinon - d_jelmark ################
 7999 = {
-	culture = andalosi
-	religion = trios
+	culture = andal
+	religion = servants_of_the_star
 	holding = castle_holding
 }
 ################# b_laestun ################
@@ -554,11 +554,11 @@
 		}
 	}
 	6450.1.1 = {
-		culture = andalosi
+		culture = andal
 	}
 	8153.1.1 = {
 		culture = braavosi
-		religion = rhllor
+		religion = servants_of_the_star
 		holding = city_holding
 		buildings = {
 			city_01
@@ -647,7 +647,7 @@
 ################# b_hintorr #################
 ################ c_jaeshinun - d_nast ################
 8010 = {
-	culture = andalosi
+	culture = andal
 	religion = servants_of_the_star
 	holding = castle_holding
 }
@@ -674,7 +674,7 @@
 ################# b_giestorr #################
 ################ c_strangers_finger - d_nast ################
 8015 = {
-	culture = andalosi
+	culture = andal
 	religion = servants_of_the_star
 	holding = castle_holding
 }
@@ -701,8 +701,8 @@
 ################# b_faetor ################
 ################ c_fathers_point - d_nast ################
 8020 = {
-	culture = andalosi
-	religion = rhllor
+	culture = andal
+	religion = servants_of_the_star
 	holding = castle_holding
 }
 ################# b_vaetun ################
@@ -723,7 +723,7 @@
 ################# b_moritorr ################
 ################ c_morimark - d_nast ################
 8024 = {
-	culture = andalosi
+	culture = andal
 	religion = servants_of_the_star
 	holding = castle_holding
 }
@@ -750,8 +750,8 @@
 ################# b_soetorr ################
 ############### c_sigridge - d_sentinel_ridge ###############
 8029 = {
-	culture = norvoshi
-	religion = rhllor
+	culture = andal
+	religion = servants_of_the_star
 	holding = castle_holding
 }
 ################# b_dunshae ################
@@ -787,8 +787,8 @@
 ################# b_rhotorr ################
 ############### c_rhoford - d_sentinel_ridge ###############
 8036 = {
-	culture = rhoynish
-	religion = rhllor
+	culture = andal
+	religion = servants_of_the_star
 	holding = castle_holding
 }
 ################# b_rhohyl ################
@@ -814,8 +814,8 @@
 ################ b_hutorr ################
 ############### c_hukoford - d_sentinel_ridge ###############
 8041 = {
-	culture = rhoynish
-	religion = rhllor
+	culture = andal
+	religion = servants_of_the_star
 	holding = castle_holding
 }
 ################ b_fortun ################
@@ -836,7 +836,7 @@
 ################ b_qetorr ################
 ############### c_qeloford - d_sentinel_ridge ###############
 8045 = {
-	culture = andalosi
+	culture = andal
 	religion = servants_of_the_star
 	holding = castle_holding
 }
@@ -863,8 +863,8 @@
 ################ b_pacetorr ################
 ############### c_gryvidge - d_sentinel_ridge ###############
 8050 = {
-	culture = andalosi
-	religion = rhllor
+	culture = andal
+	religion = servants_of_the_star
 	holding = castle_holding
 }
 ################ b_grycidge ################
@@ -885,8 +885,8 @@
 ################ b_tikuvale ################
 ############### c_tikuvale - d_sentinel_ridge ###############
 8054 = {
-	culture = norvoshi
-	religion = rhllor
+	culture = andal
+	religion = servants_of_the_star
 	holding = castle_holding
 }
 ################ b_eadun ################

@@ -2,7 +2,7 @@
 ################## c_myrish_docks - d_myr ##################
 7556 = {
 	culture = myrish
-	religion = rhllor
+	religion = valyrian
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -40,7 +40,7 @@
 ################# c_myr - d_myr #################
 7559 = {
 	culture = myrish
-	religion = rhllor
+	religion = valyrian
 	holding = castle_holding
 	special_building = agot_myr_01
 	duchy_capital_building = agot_myr_walls_01

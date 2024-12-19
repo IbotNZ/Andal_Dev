@@ -762,10 +762,10 @@ b_blackhull = {
 	}
 }
 d_sharp_point = {
-	20.1.1 = {
-		liege = e_the_stormlands
-		de_jure_liege = k_the_stormlands
-	}
+	#20.1.1 = {
+	#	#liege = e_the_stormlands
+	#	#de_jure_liege = k_the_stormlands
+	#}
 	6453.1.1 = {
 		holder = Massey_12
 	}

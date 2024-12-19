@@ -2,7 +2,7 @@
 ############ c_pentos - d_pentos ###########
 7708 = {
 	culture = pentoshi
-	religion = princely_arbiter
+	religion = valyrian
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -39,7 +39,7 @@
 ########### c_artisanal_way - d_pentos ##########
 7711 = {
 	culture = pentoshi
-	religion = rhllor
+	religion = valyrian
 	holding = castle_holding
 	special_building = agot_magister_harbor_01
 	7824.1.1 = {
@@ -78,7 +78,7 @@
 ########### c_princes_quarter - d_pentos ##########
 7714 = {
 	culture = pentoshi
-	religion = princely_arbiter
+	religion = valyrian
 	special_building = agot_pentos_01
 	duchy_capital_building = agot_pentos_walls_01
 	holding = castle_holding

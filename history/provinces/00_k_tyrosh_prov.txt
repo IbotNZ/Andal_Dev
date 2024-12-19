@@ -2,7 +2,7 @@
 ############### c_tyrosh - d_tyrosh ###############
 7351 = {
 	culture = tyroshi
-	religion = trios
+	religion = valyrian
 	holding = castle_holding
 	duchy_capital_building = agot_tyrosh_walls_01
 	special_building = agot_tyrosh_01
@@ -40,7 +40,7 @@
 ############## c_great_hue - d_tyrosh ##############
 7354 = {
 	culture = tyroshi
-	religion = rhllor
+	religion = valyrian
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -66,7 +66,7 @@
 ############## c_bleeding_bay - d_tyrosh ##############
 7356 = {
 	culture = tyroshi
-	religion = trios
+	religion = valyrian
 	holding = castle_holding
 	special_building = agot_bleeding_tower_01
 	7824.1.1 = {
@@ -104,7 +104,7 @@
 ############### c_zernosh - d_tyrosh ##############
 7359 = {
 	culture = tyroshi
-	religion = trios
+	religion = valyrian
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -118,7 +118,7 @@
 ############## c_muricosh - d_tyrosh ##############
 7360 = {
 	culture = tyroshi
-	religion = rhllor
+	religion = valyrian
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {

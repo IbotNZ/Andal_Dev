@@ -2193,7 +2193,7 @@
 ######### c_white_harbor - d_white_harbor #########
 423 = {
 	culture = harborman
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	special_building = agot_new_castle_01
 	duchy_capital_building = tax_assessor_01
@@ -2344,7 +2344,7 @@
 ########### c_whetmarsh - d_white_harbor ##########
 443 = {
 	culture = harborman
-	religion = the_seven_main
+	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }

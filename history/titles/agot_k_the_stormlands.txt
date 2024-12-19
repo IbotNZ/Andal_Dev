@@ -213,7 +213,7 @@ d_shipbreaker_bay = {
 		holder = Durrandon_48
 	}
 	6535.1.1 = {
-		holder = Placeholder_Durrandon
+		holder = Durrandon_48
 	}
 	6555.1.1 = {
 		holder = Durrandon_49
@@ -1904,9 +1904,9 @@ c_darcroft = {
 	}
 }
 c_harrowfield = {
-	20.1.1 = {
-		liege = e_the_stormlands
-	}
+	#20.1.1 = {
+	#	liege = e_the_stormlands
+	#}
 	7863.1.1 = {
 		holder = Trant_11
 	}
@@ -2028,9 +2028,9 @@ c_wellwend = {
 	}
 }
 d_estermont_isles = {
-	20.1.1 = {
-		liege = e_the_stormlands
-	}
+	#20.1.1 = {
+	#	liege = e_the_stormlands
+	#}
 	7844.1.1 = {
 		holder = Estermont_11
 	}
@@ -4029,7 +4029,7 @@ d_nestridge = {
 		liege = e_the_stormlands
 	}
 	6535.1.1 = {
-		holder = Placeholder_Durrandon
+		holder = Durrandon_48
 	}
 	7876.1.1 = {
 		holder = Connington_10
@@ -5409,11 +5409,12 @@ c_slaynes_break = {
 	}
 }
 d_stackfield = {
-	20.1.1 = {
-		liege = e_the_stormlands
-	}
-	6535.1.1 = {
-		holder = Placeholder_Durrandon
+	#20.1.1 = {
+	#	liege = e_the_stormlands
+	#}
+	6537.1.1 = {
+		liege = k_storms_end
+		holder = Durrandon_48
 	}
 	7853.1.1 = {
 		holder = Errol_4
@@ -6092,7 +6093,7 @@ d_the_drench = {
 }
 c_rainshore = {
 	6535.1.1 = {
-		holder = Placeholder_Durrandon
+		holder = Durrandon_48
 	}
 	7876.1.1 = {
 		liege = d_nestridge
@@ -6168,7 +6169,7 @@ c_rainshore = {
 }
 c_griffin_river = {
 	6535.1.1 = {
-		holder = Placeholder_Durrandon
+		holder = Durrandon_48
 	}
 	7876.1.1 = {
 		liege = d_nestridge
@@ -6360,11 +6361,12 @@ c_greenpools = {
 	}
 }
 d_the_rainwood = {
-	20.1.1 = {
-		liege = e_the_stormlands
-	}
+	#20.1.1 = {
+	#	liege = e_the_stormlands
+	#}
 	6535.1.1 = {
-		holder = Placeholder_Durrandon
+		liege = k_storms_end
+		holder = Durrandon_48
 	}
 	7869.1.1 = {
 		holder = Wylde_14
@@ -6731,9 +6733,9 @@ c_rains_neck = {
 	}
 }
 d_valor_meadows = {
-	20.1.1 = {
-		liege = e_the_stormlands
-	}
+	#20.1.1 = {
+	#	liege = e_the_stormlands
+	#}
 	7849.1.1 = {
 		holder = Staedmon_5
 	}
@@ -6909,9 +6911,9 @@ c_cloveridge = {
 	}
 }
 d_dark_harrow = {
-	20.1.1 = {
-		liege = e_the_stormlands
-	}
+	#20.1.1 = {
+	#	liege = e_the_stormlands
+	#}
 	7851.1.1 = {
 		holder = Toyne_9
 	}
@@ -7095,7 +7097,7 @@ d_vellum_coast = {
 		liege = e_the_stormlands
 	}
 	6535.1.1 = {
-		holder = Placeholder_Durrandon
+		holder = Durrandon_48
 	}
 	7865.1.1 = {
 		holder = Penrose_5
