@@ -1,0 +1,17 @@
+k_the_reach = {
+    6535.1.1 = {
+		holder = Placeholder_Gardener
+	}
+}
+
+k_oldtown_2 = {
+    6535.1.1 = {
+		holder = Placeholder_Hightower
+	}
+}
+
+k_the_westmarch = {
+    6535.1.1 = {
+		holder = Placeholder_Tarley
+	}
+}

@@ -1,0 +1,17 @@
+k_duskendale_2 = {
+    6535.1.1 = {
+		holder = Placeholder_Darklyn
+	}
+}
+
+k_the_crownlands = {
+    6535.1.1 = {
+		holder = Placeholder_Darklyn
+	}
+}
+
+k_the_riverlands = {
+    6535.1.1 = {
+		holder = Placeholder_Justman
+	}
+}
