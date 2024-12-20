@@ -1763,7 +1763,7 @@ e_disputed_lands = {
 		}
 	}
 	k_disputed_lands = {
-		color = { 139 126 22 }
+		color = { 109 106 82 }
 		capital = c_broken_lance
 		can_create = {
 			custom_tooltip = {

@@ -1,4 +1,7 @@
-﻿# agot_bm_group_era_1 = { # Century of Blood
+﻿Andal_bm_group_era_1 = { # Andal Invasion
+	default_start_date = 6535.1.1
+}
+# agot_bm_group_era_1 = { # Century of Blood
 	# default_start_date = 9999.9.9
 # }
 # agot_bm_group_era_2 = { # Forging the Realm

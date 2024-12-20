@@ -1,4 +1,247 @@
-﻿agot_bm_8082 = {
+﻿agot_bm_6538 = {
+	start_date = 6538.1.1
+	is_playable = yes
+	group = Andal_bm_group_era_1
+
+	weight = {
+		value = 20
+	}
+
+	# Jaehaerys Targaryen ID: Targaryen_35
+	character = {
+		name = "bookmark_82_jaehaerys_targaryen"
+		dynasty = dynn_Targaryen
+		dynasty_splendor_level = 4
+		type = male
+		birth = 8034.9.20
+		title = e_the_iron_throne
+		government = lp_feudal_government
+		culture = high_valyrian
+		religion = the_seven_main
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = Targaryen_35
+		position = { 800 350 }
+
+		animation = steward
+
+		character = {
+			name = "bookmark_82_alysanne_targaryen"
+			relation = "BOOKMARK_RELATION_WIFE"
+			dynasty = dynn_Targaryen
+			type = female
+			birth = 8036.6.1
+			culture = high_valyrian
+			religion = the_seven_main
+			history_id = Targaryen_36
+			animation = personality_forgiving
+		}
+
+		character = {
+			name = "bookmark_82_septon_barth"
+			relation = "BOOKMARK_RELATION_HAND"
+			type = male
+			birth = 8027.1.1
+			culture = reachman
+			religion = the_seven_main
+			history_id = Septon_Kings_Landing_2
+			animation = chaplain
+		}
+	}
+
+	# Aemon Targaryen ID: Targaryen_45
+	character = {
+		name = "bookmark_82_aemon_targaryen"
+		dynasty = dynn_Targaryen
+		dynasty_splendor_level = 4
+		type = male
+		birth = 8055.1.1
+		title = k_dragonstone
+		government = lp_feudal_government
+		culture = high_valyrian
+		religion = the_seven_main
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = Targaryen_45
+		position = { 1200 325 }
+
+		animation = personality_bold
+
+		character = {
+			name = "bookmark_82_rhaenys_targaryen"
+			relation = "BOOKMARK_RELATION_DAUGHTER_AND_HEIR"
+			dynasty = dynn_Targaryen
+			type = female
+			birth = 8074.1.1
+			culture = high_valyrian
+			religion = the_seven_main
+			history_id = Targaryen_59
+			animation = idle
+		}
+
+		character = {
+			name = "bookmark_82_jocelyn_baratheon"
+			relation = "BOOKMARK_RELATION_WIFE"
+			dynasty = dynn_Baratheon
+			type = female
+			birth = 8054.1.1
+			culture = stormlander
+			religion = the_seven_main
+			history_id = Baratheon_33
+			animation = personality_honorable
+		}
+	}
+
+	# Mors VI Martell ID: Martell_61
+	character = {
+		name = "bookmark_82_mors_martell"
+		dynasty = dynn_Martell
+		dynasty_splendor_level = 3
+		type = male
+		birth = 8045.1.1
+		title = e_dorne
+		government = feudal_government
+		culture = salt_dornish
+		religion = the_seven_main
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = Martell_61
+		position = { 800 740 }
+
+		animation = personality_callous
+	}
+
+	# Manfryd Redwyne ID: Redwyne_29
+	character = {
+		name = "bookmark_82_manfryd_redwyne"
+		dynasty = dynn_Redwyne
+		dynasty_splendor_level = 2
+		type = male
+		birth = 8020.1.1
+		title = d_the_arbor
+		government = lp_feudal_government
+		culture = vineman
+		religion = the_seven_main
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = Redwyne_29
+		position = { 200 650 }
+
+		animation = personality_rational
+
+		character = {
+			name = "bookmark_82_robert_redwyne"
+			relation = "BOOKMARK_RELATION_SON_AND_HEIR"
+			dynasty = dynn_Redwyne
+			type = male
+			birth = 8037.1.1
+			culture = vineman
+			religion = the_seven_main
+			history_id = Redwyne_30
+			animation = personality_content
+		}
+
+		character = {
+			name = "bookmark_82_ryam_redwyne"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = dynn_Redwyne
+			type = male
+			birth = 8041.1.1
+			culture = vineman
+			religion = the_seven_main
+			history_id = Redwyne_32
+			animation = personality_honorable
+		}
+	}
+
+	# Lyman Beesbury ID: Beesbury_21
+	character = {
+		name = "bookmark_82_lyman_beesbury"
+		dynasty = dynn_Beesbury
+		dynasty_splendor_level = 1
+		type = male
+		birth = 8048.1.1
+		title = c_honeyholt
+		government = lp_feudal_government
+		culture = honeywiner
+		religion = the_seven_main
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = Beesbury_21
+		position = { 300 370 }
+
+		animation = idle
+
+		character = {
+			name = "bookmark_82_braxton_beesbury"
+			relation = "BOOKMARK_RELATION_SON_AND_HEIR"
+			dynasty = dynn_Beesbury
+			type = male
+			birth = 8065.1.1
+			culture = honeywiner
+			religion = the_seven_main
+			history_id = Beesbury_22
+			animation = happiness
+		}
+	}
+
+	# Roy Connington ID: Connington_27
+	character = {
+		name = "bookmark_82_roy_connington"
+		dynasty = dynn_Connington
+		dynasty_splendor_level = 2
+		type = male
+		birth = 8067.1.1
+		title = d_nestridge
+		government = lp_feudal_government
+		culture = stormlander
+		religion = the_seven_main
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = Connington_27
+		position = { 1150 640 }
+
+		animation = flirtation
+	}
+
+	# Osmund Strong ID: Strong_27
+	character = {
+		name = "bookmark_82_osmund_strong"
+		dynasty = dynn_Strong
+		dynasty_splendor_level = 2
+		type = male
+		birth = 8051.1.1
+		title = d_harrenhal
+		government = lp_feudal_government
+		culture = riverlander
+		religion = the_seven_main
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = Strong_27
+		position = { 600 160 }
+
+		animation = personality_greedy
+
+		character = {
+			name = "bookmark_82_simon_strong"
+			relation = "BOOKMARK_RELATION_BROTHER"
+			dynasty = dynn_Strong
+			type = male
+			birth = 8054.1.1
+			culture = riverlander
+			religion = the_seven_main
+			history_id = Strong_28
+			animation = idle
+		}
+
+		character = {
+			name = "bookmark_82_lyonel_strong"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = dynn_Strong
+			type = male
+			birth = 8067.1.1
+			culture = riverlander
+			religion = the_seven_main
+			history_id = Strong_29
+			animation = personality_cynical
+		}
+	}
+}
+
+agot_bm_8082 = {
 	start_date = 6538.1.1
 	is_playable = yes
 	group = agot_bm_group_era_3
