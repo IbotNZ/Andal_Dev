@@ -180,7 +180,7 @@
 #################### b_paenolis ###################
 ############### c_drennelion - d_myr ##############
 7573 = {
-	culture = myrish
+	culture = hartalari
 	religion = trios
 	holding = castle_holding
 	7824.1.1 = {
@@ -225,7 +225,7 @@
 #################### b_paenaar ####################
 ################# c_rynlos - d_myr ################
 7579 = {
-	culture = myrish
+	culture = hartalari
 	religion = trios
 	holding = castle_holding
 	7658.1.1 = {
@@ -262,7 +262,7 @@
 ################### b_hesterion ###################
 ############## c_naqes_embar - d_myr ##############
 7585 = {
-	culture = myrish
+	culture = hartalari
 	religion = trios
 	holding = castle_holding
 	7824.1.1 = {
@@ -307,7 +307,7 @@
 ##################### b_aneren ####################
 ################# c_jaeren - d_myr ################
 7591 = {
-	culture = myrish
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	7824.1.1 = {
@@ -352,7 +352,7 @@
 #################### b_drasagha ###################
 ############# c_draembyr - d_croraera #############
 7597 = {
-	culture = rhoynish
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	7658.1.1 = {
@@ -500,7 +500,7 @@
 ################### b_flaeraenor ##################
 ########## c_erintys - d_brenassar #########
 7621 = {
-	culture = myrish
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	7658.1.1 = {
@@ -527,7 +527,7 @@
 #################### b_paenoris ###################
 ########### c_aror_drennah - d_brenassar ##########
 7626 = {
-	culture = myrish
+	culture = hartalari
 	religion = weeping_lady
 	holding = castle_holding
 	7658.1.1 = {
@@ -564,7 +564,7 @@
 ##################### b_vogio #####################
 ############## c_qolash - d_brenassar #############
 7631 = {
-	culture = rhoynish
+	culture = hartalari
 	religion = trios
 	holding = castle_holding
 	7658.1.1 = {
@@ -601,7 +601,7 @@
 #################### b_hotaris ####################
 ############## c_byloth - d_brenassar #############
 7637 = {
-	culture = myrish
+	culture = hartalari
 	religion = weeping_lady
 	holding = castle_holding
 	7658.1.1 = {
@@ -670,7 +670,7 @@
 #################### b_arenosha ###################
 ############# c_molranno - d_brenassar ############
 7648 = {
-	culture = myrish
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	7658.1.1 = {
@@ -702,7 +702,7 @@
 #################### b_waereya ####################
 ############## c_eranah - d_brenassar #############
 7653 = {
-	culture = myrish
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	7658.1.1 = {
@@ -734,7 +734,7 @@
 #################### b_sambaro ####################
 ############## c_lotyr_bay - d_qehes ##############
 7658 = {
-	culture = myrish
+	culture = hartalari
 	religion = trios
 	holding = castle_holding
 	7824.1.1 = {
@@ -784,7 +784,7 @@
 #################### b_noronos ####################
 ################ c_mogho - d_qehes ################
 7665 = {
-	culture = myrish
+	culture = hartalari
 	religion = weeping_lady
 	holding = castle_holding
 	7658.1.1 = {
@@ -821,7 +821,7 @@
 ##################### b_dilora ####################
 ############## c_ergos - d_qehes ##############
 7671 = {
-	culture = myrish
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	7658.1.1 = {
@@ -848,7 +848,7 @@
 ################### b_maegaenor ###################
 ############### c_lerysha - d_qehes ###############
 7675 = {
-	culture = myrish
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	7658.1.1 = {
@@ -885,7 +885,7 @@
 ##################### b_naeros ####################
 ############### c_drasaho - d_qehes ###############
 7681 = {
-	culture = myrish
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	7658.1.1 = {
@@ -922,7 +922,7 @@
 #################### b_aerenhor ###################
 ############# c_greenlace - d_daarano #############
 7687 = {
-	culture = rhoynish
+	culture = hartalari
 	religion = weeping_lady
 	holding = castle_holding
 	7658.1.1 = {
@@ -959,7 +959,7 @@
 ################### b_brenerris ###################
 ############ c_qapys - d_daarano ############
 7693 = {
-	culture = rhoynish
+	culture = hartalari
 	religion = mother_rhoyne
 	holding = castle_holding
 	7658.1.1 = {
@@ -986,7 +986,7 @@
 #################### b_ennelion ###################
 ############## c_illiros - d_daarano ##############
 7697 = {
-	culture = myrish
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	7658.1.1 = {
@@ -1023,7 +1023,7 @@
 #################### b_faeniros ###################
 ############## c_aenoris - d_daarano ##############
 7703 = {
-	culture = rhoynish
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	7658.1.1 = {

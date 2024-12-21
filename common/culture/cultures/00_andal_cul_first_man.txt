@@ -183,6 +183,67 @@ bronze_man = { # Royce unique culture
     }
 }
 
+sisterman_2 = { # Royce unique culture
+	color = { 0.71 0.71 0.71 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
 ## Trident First Men
 
 tridentman = { # Culture focused around The Trident
@@ -677,7 +738,7 @@ manderman = { # Primary Reach culture around the river Mander
     }
 }
 
-marcher = { # Tarley focused martial culture of the Westmarch
+first_marcher = { # Tarley focused martial culture of the Westmarch
 	color = { 0.71 0.71 0.71 }
 
 	ethos = ethos_bellicose
@@ -738,7 +799,68 @@ marcher = { # Tarley focused martial culture of the Westmarch
     }
 }
 
-honeywiner = { # Scholarly focused culture around Oldtown
+first_honeywiner = { # Scholarly focused culture around Oldtown
+	color = { 0.71 0.71 0.71 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+grassman = { # Tribal Reach culture
 	color = { 0.71 0.71 0.71 }
 
 	ethos = ethos_bellicose
@@ -923,10 +1045,71 @@ storm_savage = { # Storm god worshipers, love to raid
     }
 }
 
+woodsman = { # Culture around the Stormwoods
+	color = { 0.71 0.71 0.71 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
 ## Dorne Fist Men
 
 high_dornish = { # Culture of the High Kingdom of Dorne
-	color = { 0.71 0.71 0.71 }
+	color = { 219 100 48 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_first_man
@@ -987,7 +1170,7 @@ high_dornish = { # Culture of the High Kingdom of Dorne
 }
 
 daynish = { # Dayne focused culture
-	color = { 0.71 0.71 0.71 }
+	color = { 209 96 104 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_first_man
@@ -1048,7 +1231,7 @@ daynish = { # Dayne focused culture
 }
 
 dorne_nomad = { # Tribal Dornish culture around the less habitable desert areas
-	color = { 0.71 0.71 0.71 }
+	color = { 191 135 61 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_first_man
@@ -1109,7 +1292,7 @@ dorne_nomad = { # Tribal Dornish culture around the less habitable desert areas
 }
 
 hill_dornish = { # Tribal culture in the Stone Ways northwest
-	color = { 0.71 0.71 0.71 }
+	color = { 194 141 89 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_first_man
@@ -1170,7 +1353,7 @@ hill_dornish = { # Tribal culture in the Stone Ways northwest
 }
 
 stone_way_man = { # Culture around the Stone Way
-	color = { 0.71 0.71 0.71 }
+	color = { 237 116 66 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_first_man

@@ -159,7 +159,7 @@
 #################### b_boeanare ###################
 ########### c_dyreno_hills - d_mangrove_shore ###########
 7402 = {
-	culture = tyroshi
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	buildings = {
@@ -186,7 +186,7 @@
 #################### b_maesonis ###################
 ########## c_aercadar - d_mangrove_shore ##########
 7406 = {
-	culture = lyseni
+	culture = hartalari
 	religion = weeping_lady
 	holding = castle_holding
 	buildings = {
@@ -230,7 +230,7 @@
 ################### b_unsareanos ##################
 ############## c_morghos - d_mangrove_shore #############
 7411 = {
-	culture = lyseni
+	culture = hartalari
 	religion = weeping_lady
 	holding = city_holding
 	7824.1.1 = {
@@ -292,7 +292,7 @@
 ################### b_orteohaes ###################
 ############ c_orthas_reon - d_mangrove_shore ###########
 7418 = {
-	culture = lyseni
+	culture = hartalari
 	religion = weeping_lady
 	holding = city_holding
 	7824.1.1 = {
@@ -349,7 +349,7 @@
 ################## b_slavers_port #################
 ########### c_fetted_grove - d_mangrove_shore ##########
 7424 = {
-	culture = lyseni
+	culture = hartalari
 	religion = weeping_lady
 	holding = city_holding
 	7824.1.1 = {

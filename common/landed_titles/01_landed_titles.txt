@@ -19509,6 +19509,58 @@ e_the_riverlands = {
 	k_the_crownlands = { # k_blackwater_bay
 		color = { 219 112 155 }
 		capital = c_rosby
+		d_fork_river = {
+			color = { 142 50 107 }
+			c_briarcrest = {
+				color = { 160 0 72 }
+				b_briarcrest = {
+					province = 4172
+					color = { 76 49 80 }
+				}
+				b_ashcross = {
+					province = 4173
+					color = { 81 47 113 }
+				}
+			}
+			c_pikemouth = {
+				color = { 137 74 167 }
+				b_pikemouth = {
+					province = 4346
+					color = { 253 89 110 }
+				}
+				b_sickburn = {
+					province = 4347
+					color = { 246 97 108 }
+				}
+				b_fort_neigh = {
+					province = 4348
+					color = { 182 74 109 }
+				}
+				b_tarnscale = {
+					province = 4349
+					color = { 187 117 135 }
+				}
+			}
+			c_longgrass = {
+				color = { 226 141 186 }
+				b_darkwater_keep = {
+					province = 4350
+					color = { 191 53 113 }
+				}
+				b_redgrass_field = {
+					province = 4351
+					color = { 177 101 105 }
+				}
+				b_weeping_ridge = {
+					province = 4352
+					color = { 171 84 113 }
+				}
+				b_rushbend = {
+					province = 4353
+					color = { 245 105 113 }
+				}
+			}
+		}
 		d_kings_landing = {
 			color = { 152 60 127 }
 			capital = c_kings_landing
@@ -19596,51 +19648,6 @@ e_the_riverlands = {
 				b_rustford = {
 					province = 4164
 					color = { 90 48 109 }
-				}
-			}
-			c_wings_pass = {
-				color = { 129 93 196 }
-				b_wings_pass = {
-					province = 4165
-					color = { 82 49 103 }
-				}
-				b_fishdirt = {
-					province = 4166
-					color = { 77 49 103 }
-				}
-				b_turnmouth = {
-					province = 4167
-					color = { 97 50 103 }
-				}
-				b_merdost = {
-					province = 4168
-					color = { 93 50 107 }
-				}
-			}
-			c_blackstripe = {
-				color = { 86 104 132 }
-				b_blackstripe_keep = {
-					province = 4169
-					color = { 82 49 104 }
-				}
-				b_freelock = {
-					province = 4170
-					color = { 55 56 106 }
-				}
-				b_clearwinch = {
-					province = 4171
-					color = { 103 54 103 }
-				}
-			}
-			c_briarcrest = {
-				color = { 160 0 72 }
-				b_briarcrest = {
-					province = 4172
-					color = { 76 49 80 }
-				}
-				b_ashcross = {
-					province = 4173
-					color = { 81 47 113 }
 				}
 			}
 			c_riverline = {
@@ -19966,44 +19973,6 @@ e_the_riverlands = {
 				b_sorewick = {
 					province = 4345
 					color = { 185 115 111 }
-				}
-			}
-			c_pikemouth = {
-				color = { 137 74 167 }
-				b_pikemouth = {
-					province = 4346
-					color = { 253 89 110 }
-				}
-				b_sickburn = {
-					province = 4347
-					color = { 246 97 108 }
-				}
-				b_fort_neigh = {
-					province = 4348
-					color = { 182 74 109 }
-				}
-				b_tarnscale = {
-					province = 4349
-					color = { 187 117 135 }
-				}
-			}
-			c_longgrass = {
-				color = { 226 141 186 }
-				b_darkwater_keep = {
-					province = 4350
-					color = { 191 53 113 }
-				}
-				b_redgrass_field = {
-					province = 4351
-					color = { 177 101 105 }
-				}
-				b_weeping_ridge = {
-					province = 4352
-					color = { 171 84 113 }
-				}
-				b_rushbend = {
-					province = 4353
-					color = { 245 105 113 }
 				}
 			}
 		}
@@ -24690,6 +24659,40 @@ e_the_stormlands = {
 				custom_tooltip = {
 					text = agot_can_create_duchy
 					agot_can_create_duchy_title = yes
+				}
+			}
+			c_wings_pass = {
+				color = { 129 93 196 }
+				b_wings_pass = {
+					province = 4165
+					color = { 82 49 103 }
+				}
+				b_fishdirt = {
+					province = 4166
+					color = { 77 49 103 }
+				}
+				b_turnmouth = {
+					province = 4167
+					color = { 97 50 103 }
+				}
+				b_merdost = {
+					province = 4168
+					color = { 93 50 107 }
+				}
+			}
+			c_blackstripe = {
+				color = { 86 104 132 }
+				b_blackstripe_keep = {
+					province = 4169
+					color = { 82 49 104 }
+				}
+				b_freelock = {
+					province = 4170
+					color = { 55 56 106 }
+				}
+				b_clearwinch = {
+					province = 4171
+					color = { 103 54 103 }
 				}
 			}
 			c_the_gauntlet = {

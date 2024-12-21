@@ -76,7 +76,7 @@ Placeholder_Dorne = {
 	name = Dornman # a lord
 
 	religion = rhllor
-	culture = salt_dornish
+	culture = high_dornish
 
 	#father = Golathis_46
 	#mother = Golathis_rs_46
