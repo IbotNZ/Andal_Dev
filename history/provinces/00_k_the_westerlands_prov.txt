@@ -1,7 +1,7 @@
 ﻿################# b_casterly_rock #################
 ######## c_casterly_rock - d_casterly_rock ########
 2855 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	special_building = casterly_rock_01
@@ -62,7 +62,7 @@
 ################### b_lanniskeep ##################
 ########## c_lannisport - d_casterly_rock #########
 2862 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -125,7 +125,7 @@
 ################# b_cleganes_keep #################
 ########## c_fang_hill - d_casterly_rock ##########
 2867 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -151,7 +151,7 @@
 ################ b_hetherfield_hall ###############
 ######### c_hetherfield - d_casterly_rock #########
 2871 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -182,7 +182,7 @@
 #################### b_hadersly ###################
 ########### c_hadersly - d_casterly_rock ##########
 2880 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -213,7 +213,7 @@
 #################### b_lonmont ####################
 ########### c_lonmont - d_casterly_rock ###########
 3114 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -252,7 +252,7 @@
 ################## b_motley_house #################
 ######### c_motley_hills - d_casterly_rock ########
 3109 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -302,7 +302,7 @@
 ################### b_crakehall ###################
 ############ c_crakehall - d_crakehall ############
 2884 = {
-	culture = westerman
+	culture = crakeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -349,7 +349,7 @@
 ################# b_greenrust_keep ################
 ############ c_greenrust - d_crakehall ############
 2890 = {
-	culture = westerman
+	culture = crakeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -396,7 +396,7 @@
 #################### b_allfort ####################
 ############# c_forthane - d_crakehall ############
 2896 = {
-	culture = westerman
+	culture = crakeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -435,7 +435,7 @@
 ################### b_castle_haw ##################
 ############# c_biltmore - d_crakehall ############
 2901 = {
-	culture = westerman
+	culture = crakeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -476,7 +476,7 @@
 ################### b_broughton ###################
 ############ c_broughton - d_crakehall ############
 2912 = {
-	culture = westerman
+	culture = crakeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -507,7 +507,7 @@
 ################### b_cornfield ###################
 ########## c_cornfield - d_the_fieldlands #########
 2916 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -554,7 +554,7 @@
 ################### b_the_bower ###################
 ######### c_greenfield - d_the_fieldlands #########
 2922 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -593,7 +593,7 @@
 ################### b_foote_hill ##################
 ######### c_foote_hills - d_the_fieldlands ########
 2927 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -632,7 +632,7 @@
 ################### b_toll_tower ##################
 ########## c_toll_pass - d_the_fieldlands #########
 2936 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -671,7 +671,7 @@
 ################ b_castle_wellsmere ###############
 ########## c_wellsmere - d_the_fieldlands #########
 2932 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -702,7 +702,7 @@
 ################## b_roundtowers ##################
 ########### c_roundtowers - d_rundridge ###########
 2941 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -746,7 +746,7 @@
 ################### b_stillkeep ###################
 ############# c_stilwood - d_rundridge ############
 2907 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -774,7 +774,7 @@
 ################ b_manticores_keep ################
 ############ c_stingrock - d_rundridge ############
 2947 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -808,7 +808,7 @@
 ################# b_pleasant_hill #################
 ########## c_pleasant_hills - d_rundridge #########
 2952 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -844,7 +844,7 @@
 ################### b_silverhall ##################
 ############ c_silverhill - d_sterling ############
 2961 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	special_building = silverhill_mines_01
@@ -889,7 +889,7 @@
 ################## b_featherhorn ##################
 ############ c_featherhorn - d_sterling ###########
 2967 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -931,7 +931,7 @@
 ################### b_redbramble ##################
 ############ c_redbramble - d_sterling ############
 2972 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -975,7 +975,7 @@
 ################## b_drox_castle ##################
 ############# c_longbolt - d_sterling #############
 2978 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1014,7 +1014,7 @@
 ################# b_lansdale_watch ################
 ############# c_lansdale - d_sterling #############
 2983 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1053,7 +1053,7 @@
 ################## b_stonecliffe ##################
 ############ c_stonecliffe - d_sterling ###########
 2988 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1084,7 +1084,7 @@
 ################### b_whiteridge ##################
 ############ c_whiteridge - d_sterling ############
 2992 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1112,7 +1112,7 @@
 ##################### b_louth #####################
 ############### c_louth - d_sterling ##############
 2996 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1141,7 +1141,7 @@
 #################### b_deep_den ###################
 ############# c_deep_den - d_denslane #############
 2999 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1185,7 +1185,7 @@
 ################## b_standground ##################
 ############ c_stars_ridge - d_denslane ###########
 3005 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1226,7 +1226,7 @@
 ################## b_ferrens_keep #################
 ############## c_raddle - d_denslane ##############
 3011 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1265,7 +1265,7 @@
 ################### b_long_rock ###################
 ############# c_long_rock - d_denslane ############
 3016 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1293,7 +1293,7 @@
 #################### b_brockryn ###################
 ############ c_greybrocks - d_denslane ############
 3020 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1316,7 +1316,7 @@
 ################### b_payne_hall ##################
 ########## c_worthmark - d_the_gold_road ##########
 3023 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1355,7 +1355,7 @@
 ################## b_riverspring ##################
 ######### c_riverspring - d_the_gold_road #########
 3028 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1394,7 +1394,7 @@
 #################### b_bramhope ###################
 ########### c_rutland - d_the_gold_road ###########
 3033 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1430,7 +1430,7 @@
 #################### b_brixhall ###################
 ########## c_brixworth - d_the_gold_road ##########
 3038 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1466,7 +1466,7 @@
 #################### b_hornvale ###################
 ############# c_hornvale - d_hornvale #############
 3043 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1510,7 +1510,7 @@
 ################### b_alderedge ###################
 ############# c_alderedge - d_hornvale ############
 3049 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1554,7 +1554,7 @@
 ################### b_deadwater ###################
 ############# c_deadwater - d_hornvale ############
 3055 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1598,7 +1598,7 @@
 ################# b_castle_bymore #################
 ############## c_bymore - d_hornvale ##############
 3061 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1636,7 +1636,7 @@
 ################ b_the_golden_tooth ###############
 ##### c_the_golden_tooth - d_the_golden_tooth #####
 3067 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	special_building = mines_of_the_tooth_02
@@ -1684,7 +1684,7 @@
 ################# b_oxcross_castle ################
 ########## c_oxcross - d_the_golden_tooth #########
 3103 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1728,7 +1728,7 @@
 ################## b_broadhollow ##################
 ######## c_broadhollow - d_the_golden_tooth #######
 3073 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1756,7 +1756,7 @@
 ################### b_bellantine ##################
 ######## c_bellantine - d_the_golden_tooth ########
 3088 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1787,7 +1787,7 @@
 #################### b_ashemark ###################
 ############# c_ashemark - d_ashemark #############
 3092 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1831,7 +1831,7 @@
 ################### b_wildspire ###################
 ############## c_ruffell - d_ashemark #############
 3077 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1875,7 +1875,7 @@
 ################### b_rivermont ###################
 ############# c_rivermont - d_ashemark ############
 3082 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1898,7 +1898,7 @@
 ################### b_nunns_deep ##################
 ############ c_nunns_deep - d_ashemark ############
 3119 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	special_building = nunns_deep_mines_01
@@ -1930,7 +1930,7 @@
 #################### b_dropkeep ###################
 ############# c_the_drop - d_ashemark #############
 2878 = {
-	culture = westerman
+	culture = rockman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1963,7 +1963,7 @@
 #################### b_provence ###################
 ############# c_provence - d_goldmarch ############
 3122 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2002,7 +2002,7 @@
 ################# b_castle_algood #################
 ########### c_golden_hills - d_goldmarch ##########
 3127 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2030,7 +2030,7 @@
 ################## b_deepen_hall ##################
 ############# c_darrows - d_goldmarch #############
 3131 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2061,7 +2061,7 @@
 #################### b_banefort ###################
 ############ c_banefort - d_withermoore ###########
 3135 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	special_building = agot_banefort_01
@@ -2107,7 +2107,7 @@
 #################### b_wyndhall ###################
 ########### c_wyndemere - d_withermoore ###########
 3141 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2148,7 +2148,7 @@
 ##################### b_fearby ####################
 ############# c_fearby - d_withermoore ############
 3147 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2181,7 +2181,7 @@
 #################### b_westford ###################
 ########### c_old_ridge - d_withermoore ###########
 3152 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2217,7 +2217,7 @@
 #################### b_the_crag ###################
 ############# c_the_crag - d_the_crag #############
 3161 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2253,7 +2253,7 @@
 #################### b_eldress ####################
 ############## c_eldress - d_the_crag #############
 3166 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2289,7 +2289,7 @@
 #################### b_highview ###################
 ############# c_highview - d_the_crag #############
 3157 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2320,7 +2320,7 @@
 #################### b_garring ####################
 ############## c_vellon - d_the_crag ##############
 3176 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2359,7 +2359,7 @@
 ################### b_castamere ###################
 ############ c_castamere - d_castamere ############
 3180 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	special_building = agot_castamere_01
@@ -2410,7 +2410,7 @@
 ################### b_sarsfield ###################
 ############ c_sarsfield - d_castamere ############
 3097 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2454,7 +2454,7 @@
 ################## b_lowell_hall ##################
 ############## c_lowell - d_castamere #############
 3086 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2493,7 +2493,7 @@
 ################# b_castle_pendric ################
 ########## c_pendric_hills - d_castamere ##########
 3174 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	special_building = pendric_hills_mines_01
@@ -2530,7 +2530,7 @@
 ################# b_borrowed_keep #################
 ############ c_borrowmore - d_castamere ###########
 4302 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2566,7 +2566,7 @@
 ################## b_tarbeck_hall #################
 ############ c_seven_points - d_tarrich ###########
 3186 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2610,7 +2610,7 @@
 ################## b_vikary_house #################
 ############# c_borrenline - d_tarrich ############
 3191 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2649,7 +2649,7 @@
 ################## b_tremblestone #################
 ############## c_trembley - d_tarrich #############
 3215 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2672,7 +2672,7 @@
 #################### b_wrexdale ###################
 ############## c_midvale - d_tarrich ##############
 3197 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2711,7 +2711,7 @@
 ################### b_feastfires ##################
 ########### c_feastfires - d_lanns_point ##########
 3201 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2743,7 +2743,7 @@
 ############# c_kayce - d_lanns_point #############
 3206 = {
 	holding = castle_holding
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	7824.1.1 = {
 		buildings = { castle_03 hill_forts_03 warrior_lodges_03 }
@@ -2778,7 +2778,7 @@
 #################### b_kynhold ####################
 ############ c_kynlands - d_lanns_point ###########
 3210 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2809,7 +2809,7 @@
 ################## b_clever_keep ##################
 ########## c_clever_cove - d_lanns_point ##########
 3220 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2835,7 +2835,7 @@
 ################### b_faircastle ##################
 ############ c_faircastle - d_fair_isle ###########
 3223 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2879,7 +2879,7 @@
 ################### b_the_beacon ##################
 ############# c_clifton - d_fair_isle #############
 3229 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2910,7 +2910,7 @@
 ################### b_madgerich ###################
 ############ c_madgerich - d_fair_isle ############
 3233 = {
-	culture = westerman
+	culture = first_westerman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {

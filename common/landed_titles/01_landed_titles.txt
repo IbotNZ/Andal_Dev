@@ -3593,17 +3593,6 @@ e_dorne = {
 					color = { 162 188 50 }
 				}
 			}
-			c_ghaston_grey = {
-				color = { 184 144 115 }
-				b_ghaston_grey = {
-					province = 5472
-					color = { 183 156 113 }
-				}
-				b_shrieks_harbor = {
-					province = 5473
-					color = { 149 121 77 }
-				}
-			}
 		}
 		d_the_tor = {
 			color = { 218 124 45 }
@@ -24141,97 +24130,6 @@ e_the_stormlands = {
 				}
 			}
 		}
-		d_estermont_isles = {
-			color = { 223 181 42 }
-			capital = c_estermont
-			can_create = {
-				trigger_if = {
-					limit = { 
-						OR = {
-							primary_title.tier >= tier_kingdom
-							AND = {
-								primary_title.tier = tier_duchy
-								is_independent_ruler = no
-							}
-						}
-					}
-					has_title = title:d_estermont_isles.title_capital_county
-				}
-				custom_tooltip = {
-					text = agot_can_create_duchy
-					agot_can_create_duchy_title = yes
-				}
-			}
-			c_estermont = {
-				color = { 232 215 30 }
-				b_greenstone = {
-					province = 4631
-					color = { 199 143 20 }
-				}
-				b_pale_tower = {
-					province = 4632
-					color = { 213 117 14 }
-				}
-				b_stowegard = {
-					province = 4633
-					color = { 209 158 32 }
-				}
-				b_logs_head = {
-					province = 4634
-					color = { 210 111 17 }
-				}
-				b_the_shell = {
-					province = 4635
-					color = { 189 111 9 }
-					definite_form = yes
-				}
-			}
-			c_tudbury_island = {
-				color = { 207 110 30 }
-				b_tudbury_hall = {
-					province = 4636
-					color = { 209 130 39 }
-				}
-				b_shinys_hat = {
-					province = 4637
-					color = { 161 78 14 }
-				}
-				b_shellpoint = {
-					province = 4638
-					color = { 199 140 20 }
-				}
-			}
-			c_pikerock = {
-				color = { 210 169 50 }
-				b_pikerock = {
-					province = 4639
-					color = { 195 129 50 }
-				}
-				b_wastrell = {
-					province = 4640
-					color = { 201 154 43 }
-				}
-				b_green_moor = {
-					province = 4641
-					color = { 201 136 19 }
-				}
-			}
-			c_lestermarks = {
-				color = { 232 196 60 }
-				b_orlester = {
-					province = 4642
-					color = { 191 101 8 }
-				}
-				b_inner_lester = {
-					province = 4643
-					color = { 198 167 65 }
-				}
-				b_downlester = {
-					province = 4644
-					color = { 201 140 47 }
-				}
-			}
-		}
 		d_the_drench = {
 			color = { 187 185 83 }
 			capital = c_rainshore
@@ -24568,25 +24466,6 @@ e_the_stormlands = {
 				b_coastlyn = {
 					province = 4590
 					color = { 231 195 62 }
-				}
-			}
-			c_wrathrock = {
-				color = { 238 224 0 }
-				b_wrathrock = {
-					province = 4591
-					color = { 245 208 80 }
-				}
-				b_darcross = {
-					province = 4592
-					color = { 229 192 67 }
-				}
-				b_harchester = {
-					province = 4593
-					color = { 245 199 74 }
-				}
-				b_smithsmark = {
-					province = 4594
-					color = { 231 198 64 }
 				}
 			}
 			c_bronzeaxe = {
@@ -25085,9 +24964,153 @@ e_the_stormlands = {
 			}
 		}
 	}
-	k_tarth_2 = {
+	k_tarth_2 = { # Storm isles
 		color = { 209 165 45 }
 		capital = c_evenfall
+		d_storm_isles = {
+			color = { 238 224 0 }
+			capital = c_wrathrock
+			c_ghaston_grey = {
+				color = { 184 144 115 }
+				b_ghaston_grey = {
+					province = 5472
+					color = { 183 156 113 }
+				}
+				b_shrieks_harbor = {
+					province = 5473
+					color = { 149 121 77 }
+				}
+			}
+			c_wrathrock = {
+				color = { 238 224 0 }
+				b_wrathrock = {
+					province = 4591
+					color = { 245 208 80 }
+				}
+				b_darcross = {
+					province = 4592
+					color = { 229 192 67 }
+				}
+				b_harchester = {
+					province = 4593
+					color = { 245 199 74 }
+				}
+				b_smithsmark = {
+					province = 4594
+					color = { 231 198 64 }
+				}
+			}
+			c_severisles = {
+				color = { 224 167 0 }
+				b_sever_watch = {
+					province = 4669
+					color = { 233 231 165 }
+				}
+				b_orrport = {
+					province = 4670
+					color = { 255 251 131 }
+				}
+				b_holfs_haven = {
+					province = 4671
+					color = { 238 242 128 }
+				}
+				b_holf_of_man = {
+					province = 4672
+					color = { 236 239 166 }
+				}
+			}
+		}
+		d_estermont_isles = {
+			color = { 223 181 42 }
+			capital = c_estermont
+			can_create = {
+				trigger_if = {
+					limit = { 
+						OR = {
+							primary_title.tier >= tier_kingdom
+							AND = {
+								primary_title.tier = tier_duchy
+								is_independent_ruler = no
+							}
+						}
+					}
+					has_title = title:d_estermont_isles.title_capital_county
+				}
+				custom_tooltip = {
+					text = agot_can_create_duchy
+					agot_can_create_duchy_title = yes
+				}
+			}
+			c_estermont = {
+				color = { 232 215 30 }
+				b_greenstone = {
+					province = 4631
+					color = { 199 143 20 }
+				}
+				b_pale_tower = {
+					province = 4632
+					color = { 213 117 14 }
+				}
+				b_stowegard = {
+					province = 4633
+					color = { 209 158 32 }
+				}
+				b_logs_head = {
+					province = 4634
+					color = { 210 111 17 }
+				}
+				b_the_shell = {
+					province = 4635
+					color = { 189 111 9 }
+					definite_form = yes
+				}
+			}
+			c_tudbury_island = {
+				color = { 207 110 30 }
+				b_tudbury_hall = {
+					province = 4636
+					color = { 209 130 39 }
+				}
+				b_shinys_hat = {
+					province = 4637
+					color = { 161 78 14 }
+				}
+				b_shellpoint = {
+					province = 4638
+					color = { 199 140 20 }
+				}
+			}
+			c_pikerock = {
+				color = { 210 169 50 }
+				b_pikerock = {
+					province = 4639
+					color = { 195 129 50 }
+				}
+				b_wastrell = {
+					province = 4640
+					color = { 201 154 43 }
+				}
+				b_green_moor = {
+					province = 4641
+					color = { 201 136 19 }
+				}
+			}
+			c_lestermarks = {
+				color = { 232 196 60 }
+				b_orlester = {
+					province = 4642
+					color = { 191 101 8 }
+				}
+				b_inner_lester = {
+					province = 4643
+					color = { 198 167 65 }
+				}
+				b_downlester = {
+					province = 4644
+					color = { 201 140 47 }
+				}
+			}
+		}
 		d_tarth = {
 			color = { 209 165 45 }
 			capital = c_evenfall
@@ -26359,25 +26382,6 @@ e_the_stormlands = {
 				b_stormbird = {
 					province = 4668
 					color = { 255 255 191 }
-				}
-			}
-			c_severisles = {
-				color = { 224 167 0 }
-				b_sever_watch = {
-					province = 4669
-					color = { 233 231 165 }
-				}
-				b_orrport = {
-					province = 4670
-					color = { 255 251 131 }
-				}
-				b_holfs_haven = {
-					province = 4671
-					color = { 238 242 128 }
-				}
-				b_holf_of_man = {
-					province = 4672
-					color = { 236 239 166 }
 				}
 			}
 		}

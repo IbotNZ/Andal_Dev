@@ -104,7 +104,7 @@
 ################## b_naqiedror #################
 ######### c_sunrise_road - d_pentos ########
 7716 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 	holding = castle_holding
 	7824.1.1 = {
@@ -160,7 +160,7 @@
 ################## b_gradoror #################
 ########## c_gravan_pastures - d_pentos #########
 7722 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 }
 ################## b_gravonion #################
@@ -204,7 +204,7 @@
 ################## b_illyera #################
 ########## c_izulepsa - d_pentos #########
 7727 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 }
 ################## b_sentilys #################
@@ -242,7 +242,7 @@
 ################## b_ameanjel #################
 ########### c_amenai_ridge - d_pentos ##########
 7732 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 	holding = castle_holding
 	7824.1.1 = {
