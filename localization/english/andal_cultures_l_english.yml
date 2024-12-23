@@ -1,0 +1,104 @@
+﻿l_english:
+ first_valeman:0 "Lower Valeman"
+ first_valeman_prefix:0 "Lower"
+ first_valeman_collective_noun:0 "Lower Valemen"
+
+ first_moonman:0 "Upper Valeman"
+ first_moonman_prefix:0 "Upper"
+ first_moonman_collective_noun:0 "Upper Valemen"
+
+ bronze_man:0 "Bronzeman"
+ bronze_man_prefix:0 "Bronze"
+ bronze_man_collective_noun:0 "Bronzemen"
+
+ first_sisterman:0 "Sisterman"
+ first_sisterman_prefix:0 "Sister"
+ first_sisterman_collective_noun:0 "Sistermen"
+
+ tridentman:0 "Tridentman"
+ tridentman_prefix:0 "Trident"
+ tridentman_collective_noun:0 "Tridentmen"
+
+ river_tribal:0 "River Tribal"
+ river_tribal_prefix:0 "River"
+ river_tribal_collective_noun:0 "River Tribal"
+
+ blackwoodian:0 "bBlackwoodian"
+ blackwoodian_prefix:0 "Blackwood"
+ blackwoodian_collective_noun:0 "Blackwoodian"
+ 
+ bay_man:0 "Bayman"
+ bay_man_prefix:0 "Bay"
+ bay_man_collective_noun:0 "Baymen"
+ 
+ first_westerman:0 "Westerman"
+ first_westerman_prefix:0 "Westerman"
+ first_westerman_collective_noun:0 "Westermen"
+ 
+ rockman:0 "Rockman"
+ rockman_prefix:0 "Rock"
+ rockman_collective_noun:0 "Rockmen"
+ 
+ crakeman:0 "Crakeman"
+ crakeman_prefix:0 "Crake"
+ crakeman_collective_noun:0 "Crakemen"
+ 
+ manderman:0 "Manderman"
+ manderman_prefix:0 "Mander"
+ manderman_collective_noun:0 "Mandermen"
+ 
+ first_marcher:0 "Marcher"
+ first_marcher_prefix:0 "March"
+ first_marcher_collective_noun:0 "Marcher"
+ 
+ first_honeywiner:0 "Honeywiner"
+ first_honeywiner_prefix:0 "Honey"
+ first_honeywiner_collective_noun:0 "Honeywiner"
+ 
+ grassman:0 "Grassman"
+ grassman_prefix:0 "Grass"
+ grassman_collective_noun:0 "Grassmen"
+ 
+ first_arborman:0 "Arborman"
+ first_arborman_prefix:0 "Arbor"
+ first_arborman_collective_noun:0 "Arbormen"
+ 
+ groveman:0 "Groveman"
+ groveman_prefix:0 "Grove"
+ groveman_collective_noun:0 "Grovemen"
+ 
+ iron_shieldman:0 "Shieldman"
+ iron_shieldman_prefix:0 "Shield"
+ iron_shieldman_collective_noun:0 "Shieldmen"
+ 
+ first_stormlander:0 "Stormlander"
+ first_stormlander_prefix:0 "Storm"
+ first_stormlander_collective_noun:0 "Stormlander"
+ 
+ storm_savage:0 "Storm Savage"
+ storm_savage_prefix:0 "Savage"
+ storm_savage_collective_noun:0 "Storm Savage"
+ 
+ woodsman:0 "Woodsman"
+ woodsman_prefix:0 "Wood"
+ woodsman_collective_noun:0 "Woodsmen"
+ 
+ high_dornish:0 "High Dornish"
+ high_dornish_prefix:0 "High"
+ high_dornish_collective_noun:0 "High Dornish"
+ 
+ daynish:0 "Dawnman"
+ daynish_prefix:0 "Dawn"
+ daynish_collective_noun:0 "Dawnmen"
+ 
+ dorne_nomad:0 "Nomad Dornish"
+ dorne_nomad_prefix:0 "Nomad"
+ dorne_nomad_collective_noun:0 "Nomad Dornish"
+ 
+ hill_dornish:0 "Hill Dornish"
+ hill_dornish_prefix:0 "Hill"
+ hill_dornish_collective_noun:0 "Hill Dornish"
+ 
+ stone_way_man:0 "Stoneman"
+ stone_way_man_prefix:0 "Stone"
+ stone_way_man_collective_noun:0 "Stonemen"
