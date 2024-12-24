@@ -187,7 +187,7 @@ Arryn_AI_13 = {
 
 	6372.1.1 = { birth = yes }
 	6381.1.1 = { trait = septon }
-	6428.1.1 = { death = yes }
+	6439.1.1 = { death = { death_reason = death_dragon } }
 }
 # issue of Alester
 Arryn_AI_14 = {
@@ -240,7 +240,20 @@ Arryn_AI_17 = {
 
 	6400.1.1 = { birth = yes }
 	6419.1.1 = { trait = knight }
-	6460.1.1 = { death = yes }
+	6439.1.1 = { death = { death_reason = death_dragon } }
+}
+Arryn_AI_17_b = {
+	name = Roland
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_12 # Alester Arryn
+
+	6404.1.1 = { birth = yes }
+	6423.1.1 = { trait = knight }
+	6439.1.1 = { death = { death_reason = death_dragon } }
 }
 # issue of Artys
 Arryn_AI_18 = {
