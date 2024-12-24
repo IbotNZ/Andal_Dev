@@ -1,0 +1,711 @@
+###### HOUSE ARRYN (id = dynn_Arryn)
+############################
+### As High as Honor
+###
+Arryn_AI_1 = {
+	name = Mathos
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	6280.1.1 = { birth = yes }
+	6297.1.1 = { trait = knight }
+	6298.1.1 = { add_spouse = Arryn_AI_rs_1 } # Arra, potentially daughter of Hugor of the Hill
+	6335.1.1 = { death = yes }
+}
+Arryn_AI_rs_1 = {
+	name = Arra
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	6280.1.1 = { birth = yes }
+	6346.1.1 = { death = yes }
+}
+# issue of Mathos
+Arryn_AI_2 = {
+	name = Hugor
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_1 # Mathos
+	mother = Arryn_AI_rs_1 # Arra
+
+	6300.1.1 = { birth = yes }
+	6319.1.1 = { trait = knight }
+	6351.1.1 = { death = yes }
+}
+Arryn_AI_3 = {
+	name = Mela
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_1 # Mathos
+	mother = Arryn_AI_rs_1 # Arra
+
+	6302.1.1 = { birth = yes }
+	6346.1.1 = { death = yes }
+}
+Arryn_AI_4 = {
+	name = Alester
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_1 # Mathos
+	mother = Arryn_AI_rs_1 # Arra
+
+	6306.1.1 = { birth = yes }
+	6324.1.1 = { trait = knight }
+	6348.1.1 = { death = yes }
+}
+Arryn_AI_5 = {
+	name = Mathos
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_1 # Mathos
+	mother = Arryn_AI_rs_1 # Arra
+
+	6309.1.1 = { birth = yes }
+	6335.1.1 = { trait = septon }
+	6367.1.1 = { death = yes }
+}
+# issue of Hugor
+Arryn_AI_6 = {
+	name = Erreg
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_2 # Hugor Arryn
+
+	6320.1.1 = { birth = yes }
+	6338.1.1 = { trait = knight }
+	6339.1.1 = { death = { death_reason = death_battle } }
+}
+Arryn_AI_7 = {
+	name = Hugh
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_2 # Hugor Arryn
+
+	6324.1.1 = { birth = yes }
+	6343.1.1 = { trait = knight }
+	6385.1.1 = { death = yes }
+}
+Arryn_AI_8 = {
+	name = Aglantine
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_2 # Hugor Arryn
+
+	6328.1.1 = { birth = yes }
+	6340.1.1 = { trait = septon } # septa
+	6370.1.1 = { death = yes }
+}
+Arryn_AI_9 = {
+	name = Arra
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_2 # Hugor Arryn
+
+	6331.1.1 = { birth = yes }
+	6364.1.1 = { death = yes }
+}
+# issue of Hugh
+Arryn_AI_10 = {
+	name = Roland
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_7 # Hugh Arryn
+
+	6346.1.1 = { birth = yes }
+	6365.1.1 = { trait = knight }
+	6372.1.1 = { death = yes }
+}
+Arryn_AI_11 = {
+	name = Roelle
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_7 # Hugh Arryn
+
+	6350.1.1 = { birth = yes }
+	6392.1.1 = { death = yes }
+}
+# issue of Roland
+Arryn_AI_12 = {
+	name = Alester
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_10 # Roland Arryn
+
+	6371.1.1 = { birth = yes }
+	6389.1.1 = { trait = knight }
+	6428.1.1 = { death = yes }
+}
+Arryn_AI_13 = {
+	name = Hugo
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_10 # Roland Arryn
+
+	6372.1.1 = { birth = yes }
+	6381.1.1 = { trait = septon }
+	6428.1.1 = { death = yes }
+}
+# issue of Alester
+Arryn_AI_14 = {
+	name = Melicent
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_12 # Alester Arryn
+
+	6391.1.1 = { birth = yes }
+	6434.1.1 = { death = yes }
+}
+Arryn_AI_15 = {
+	name = Hugor
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_12 # Alester Arryn
+
+	6393.1.1 = { birth = yes }
+	6399.1.1 = { trait = knight }
+	6412.1.1 = { death = yes }
+}
+Arryn_AI_16 = {
+	name = Lucinda
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_12 # Alester Arryn
+
+	6397.1.1 = { birth = yes }
+	6478.1.1 = { death = yes }
+}
+Arryn_AI_17 = {
+	name = Artys
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_12 # Alester Arryn
+
+	6400.1.1 = { birth = yes }
+	6419.1.1 = { trait = knight }
+	6460.1.1 = { death = yes }
+}
+# issue of Artys
+Arryn_AI_18 = {
+	name = Melantine
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_17 # Artys Arryn
+
+	6424.1.1 = { birth = yes }
+	6458.1.1 = { death = yes }
+}
+Arryn_AI_19 = {
+	name = Alyssa
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_17 # Artys Arryn
+
+	6426.1.1 = { birth = yes }
+	6441.1.1 = { trait = septon } # septa
+	6494.1.1 = { death = yes }
+}
+Arryn_AI_20 = {
+	name = Steffon
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_17 # Artys Arryn
+
+	6430.1.1 = { birth = yes }
+	6451.1.1 = { trait = knight }
+	6488.1.1 = { death = yes }
+}
+# issue of Steffon
+Arryn_AI_21 = {
+	name = Hugor
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_20 # Steffon Arryn
+
+	6455.1.1 = { birth = yes }
+	6474.1.1 = { trait = knight }
+	6497.1.1 = { death = yes }
+}
+Arryn_AI_22 = {
+	name = Artys
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_20 # Steffon Arryn
+
+	6458.1.1 = { birth = yes }
+	6477.1.1 = { trait = knight }
+	6504.1.1 = { death = yes }
+}
+Arryn_AI_23 = {
+	name = Sharra
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_20 # Steffon Arryn
+
+	6463.1.1 = { birth = yes }
+	6498.1.1 = { death = yes }
+}
+Arryn_AI_24 = {
+	name = Lucamore
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_20 # Steffon Arryn
+
+	6469.1.1 = { birth = yes }
+	6483.1.1 = { trait = septon }
+	6540.1.1 = { death = yes }
+}
+# issue of Hugor
+Arryn_AI_25 = {
+	name = Shella
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_21 # Hugor Arryn
+
+	6477.1.1 = { birth = yes }
+	6534.1.1 = { death = yes }
+}
+Arryn_AI_26 = {
+	name = Hugo
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_21 # Hugor Arryn
+
+	6479.1.1 = { birth = yes }
+	6498.1.1 = { trait = knight }
+	6527.1.1 = { death = yes }
+}
+Arryn_AI_27 = {
+	name = Sarella
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_21 # Hugor Arryn
+
+	6482.1.1 = { birth = yes }
+	6526.1.1 = { death = yes }
+}
+# issue of Hugo
+Arryn_AI_28 = {
+	name = Alester
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_26 # Hugo Arryn
+
+	6499.1.1 = { birth = yes }
+	6517.1.1 = { trait = knight }
+	6533.1.1 = { death = yes }
+}
+Arryn_AI_29 = {
+	name = Hugor
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_26 # Hugo Arryn
+
+	6504.1.1 = { birth = yes }
+	6520.1.1 = { trait = septon }
+	6556.1.1 = { death = yes }
+}
+Arryn_AI_30 = {
+	name = Alyssa
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_26 # Hugo Arryn
+
+	6512.1.1 = { birth = yes }
+	6568.1.1 = { death = yes }
+}
+# issue of Artys (grand uncle of Alester)
+Arryn_AI_31 = {
+	name = Steffon
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_22 # Artys Arryn
+
+	6479.1.1 = { birth = yes }
+	6498.1.1 = { trait = knight }
+	6513.1.1 = { death = yes }
+}
+Arryn_AI_32 = {
+	name = Artys
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_22 # Artys Arryn
+
+	6482.1.1 = { birth = yes }
+	6501.1.1 = { trait = knight }
+	6503.1.1 = { death = yes }
+}
+Arryn_AI_33 = {
+	name = Melantine
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_22 # Artys Arryn
+
+	6488.1.1 = { birth = yes }
+	6503.1.1 = { trait = septon } # septa
+	6540.1.1 = { death = yes }
+}
+# issue of Steffon (first cousin of Hugo)
+Arryn_AI_34 = {
+	name = Artys
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_31 # Steffon Arryn
+
+	6499.1.1 = { birth = yes }
+	6517.1.1 = { trait = knight }
+	6530.1.1 = { death = yes }
+}
+Arryn_AI_35 = {
+	name = Roland
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_31 # Steffon Arryn
+
+	6506.1.1 = { birth = yes }
+	6523.1.1 = { trait = knight }
+	6539.1.1 = { death = { death_reason = death_battle } }
+}
+Arryn_AI_36 = {
+	name = Mathos
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_31 # Steffon Arryn
+
+	6512.1.1 = { birth = yes }
+	6530.1.1 = { trait = knight }
+	6545.1.1 = { death = yes }
+}
+# issue of Roland (second cousin of Alester)
+Arryn_AI_37 = {
+	name = Hugh
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_35 # Roland Arryn
+
+	6525.1.1 = { birth = yes }
+	6543.1.1 = { trait = knight }
+	6560.1.1 = { death = yes }
+}
+Arryn_AI_38 = {
+	name = Roelle
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_35 # Roland Arryn
+
+	6528.1.1 = { birth = yes }
+	6567.1.1 = { death = yes }
+}
+# issue of Mathos (second cousin of Alester)
+Arryn_AI_39 = {
+	name = Alyssa
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_36 # Mathos Arryn
+
+	6532.1.1 = { birth = yes }
+	6548.1.1 = { trait = septon } # septa
+	6582.1.1 = { death = yes }
+}
+Arryn_AI_40 = {
+	name = Lucinda
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_36 # Mathos Arryn
+
+	6535.1.1 = { birth = yes }
+	6551.1.1 = { trait = septon } # septa
+	6574.1.1 = { death = yes }
+}
+# issue of Alester
+Arryn_AI_41 = {
+	name = Sharra
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_28 # Alester Arryn
+
+	6522.1.1 = { birth = yes }
+	6578.1.1 = { death = yes }
+}
+Arryn_AI_42 = {
+	name = Myranda
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_28 # Alester Arryn
+
+	6524.1.1 = { birth = yes }
+	6555.1.1 = { death = yes }
+}
+Arryn_AI_43 = {
+	name = Amarra
+	dynasty = dynn_Arryn
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_28 # Alester Arryn
+
+	6528.1.1 = { birth = yes }
+	6544.1.1 = { trait = septon } # septa
+	6555.1.1 = { death = yes }
+}
+
+
+
+###### HOUSE CORBRAY (id = dynn_Corbray)
+############################
+###
+###
+
+Corbray_AI_1 = {
+	name = Lyle
+	dynasty = dynn_Corbray
+
+	religion = the_seven_main
+	culture = andal
+
+	6400.1.1 = { birth = yes }
+	6421.1.1 = { trait = knight }
+	6453.1.1 = { death = yes }
+}
+Corbray_AI_2 = {
+	name = Gwayne
+	dynasty = dynn_Corbray
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Corbray_AI_1 # Lyle Corbray
+
+	6424.1.1 = { birth = yes }
+	6443.1.1 = { trait = knight }
+	6461.1.1 = { death = yes }
+}
+Corbray_AI_3 = {
+	name = Leowyn
+	dynasty = dynn_Corbray
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Corbray_AI_2 # Gwayne Corbray
+
+	6446.1.1 = { birth = yes }
+	6465.1.1 = { trait = knight }
+	6468.1.1 = { death = { death_reason = death_accident } }
+}
+
+
+
+###### HOUSE TEMPLETON (id = dynn_Templeton)
+############################
+###
+###
+Templeton_AI_1 = {
+	name = Hugh
+	dynasty = dynn_Templeton
+
+	religion = the_seven_main
+	culture = andal
+
+	6400.1.1 = { birth = yes }
+	6416.1.1 = { trait = knight }
+	6442.1.1 = { death = yes }
+}
+Templeton_AI_2 = {
+	name = Luceon
+	dynasty = dynn_Templeton
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Templeton_AI_1 # Hugh Templeton
+
+	6425.1.1 = { birth = yes }
+	6445.1.1 = { trait = knight }
+	6473.1.1 = { death = yes }
+}
+Templeton_AI_3 = {
+	name = Gerold
+	dynasty = dynn_Templeton
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Templeton_AI_2 # Luceon Templeton
+
+	6452.1.1 = { birth = yes }
+	6473.1.1 = { trait = knight }
+	6494.1.1 = { death = yes }
+}
+Templeton_AI_4 = {
+	name = Artys
+	dynasty = dynn_Templeton
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Templeton_AI_3 # Gerold Templeton
+
+	6474.1.1 = { birth = yes }
+	6493.1.1 = { trait = knight }
+	6520.1.1 = { death = yes }
+}
+Templeton_AI_5 = {
+	name = Jaime
+	dynasty = dynn_Templeton
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Templeton_AI_4 # Artys Templeton
+
+	6493.1.1 = { birth = yes }
+	6512.1.1 = { trait = knight }
+	6533.1.1 = { death = yes }
+}
