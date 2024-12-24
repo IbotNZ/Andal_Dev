@@ -1,0 +1,179 @@
+###### HOUSE ARRYN (id = dynn_Arryn)
+############################
+### As High as Honor
+###
+
+Hugor_of_the_Hill_1 = {
+	name = Hugor # Canon, the founder of the faith of the Seven
+	#dynasty = dynn_of_the_hill
+
+	martial = 7
+	diplomacy = 7
+	stewardship = 7
+	intrigue = 7
+	learning = 7
+
+	religion = the_seven_main
+	culture = andal
+
+	trait = education_learning_5
+	trait = zealous
+	trait = diligent
+	trait = authoritative
+	trait = just
+	trait = august # check
+	trait = theologian # check
+	trait = lifestyle_mystic_historical # check trait id
+	trait = holy_warrior # check trait id
+	#trait = crusader_king # rename Seven’s Chosen ?
+	trait = savior # check if another trait isn’t more applicable
+	trait = intellect_good_1
+	trait = fecund
+trait = bossy
+
+	disallow_random_traits = yes
+
+	6000.1.1 = { birth = yes }
+	6343.1.1 = { death = yes } # 7 x 7 X 7
+}
+
+
+
+Argos_Sevenstar_1 = {
+	name= Argos # Canon Argos Sevenstar
+	#dynasty = dynn_Sevenstar
+    
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+
+	religion = the_seven_main
+	culture = andal
+ 	
+	trait = education_martial_3
+	trait = zealous
+	trait = ambitious
+	trait = brave
+	trait = wrathful
+	trait = holy_warrior # check trait id
+	trait = physique_good_2
+	trait = strong
+	trait = rowdy
+
+	disallow_random_traits = yes
+    
+	6578.1.1 = { birth = yes }
+	6593.1.1 = {
+    		trait = knight
+    		trait = education_martial__prowess_4
+	}
+	6601.1.1 = {
+    		death = {
+        		death_reason = death_execution
+        		#killer = 820059 # Theon Stark CHECK ID
+    		}
+	}
+}
+
+
+
+# King of Lorath (dynn_Lorassyon ?)
+Qarlon_1 = {
+	name= Qarlon # Canon Qarlon the Great
+	#dynasty = 174917 
+    
+	religion = the_seven_main
+	culture = andal
+    
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+    
+	trait = intellect_good_1 #
+	trait = ambitious
+	trait = education_martial_4
+	trait = brave 
+	trait = wrathful
+	trait = zealous
+	#trait = ruthless # check which trait to replace to give him callous or an equivalent
+	trait = bossy
+
+	disallow_random_traits = yes
+
+    
+	6385.1.1 = { birth = yes } # CK2 6425
+	6401.1.1 = {
+    		trait = education_martial_prowess_3
+	}
+	6403 = {
+		trait = knight
+		add_spouse = Qarlon_rs_1 # Lorra
+	}
+	6419.1.1 = {
+    		#give_nickname = nick_the_great
+		trait = conqueror
+	}
+	#6438.1.1 = {
+    		#effect = {
+       		 	#set_global_flag = andal_invasion_of_norvos
+       		 	#e_new_valyria = {
+            			#holder_scope = {
+            				#opinion = { who = ROOT modifier = declared_war_on_tributary }
+            			#}
+        		#}
+    		#}
+	#}
+	6439.1.1 = { death = { death_reason = death_battle } } # or death_dragon or death_burned
+}
+Qarlon_rs_1 = {
+	name = Lorra
+	female = yes
+    
+	religion = the_seven_main
+	culture = andal
+    
+	6387.1.1 = { birth = yes }
+	6439.1.1 = { death = { death_reason = death_dragon_siege } }
+
+}
+Qarlon_2 = {
+	name= Uthor
+	#dynasty = 174917
+    
+	religion = the_seven_main
+	culture = andal
+
+	father = Qarlon_1 # Qarlon the Great
+	mother = Qarlon_rs_1 # Lorra
+
+	6405.1.1 = { birth = yes } # CK2 6442
+	6421.1.1 = {
+		trait = education_martial_prowess_2
+	}
+	6423.1.1 = {
+		trait = knight
+	}
+	6439.1.1 = { death = { death_reason = death_dragon_siege } }
+}
+Qarlon_3 = {
+	name = Atrys
+	#dynasty = 174917
+    
+	religion = the_seven_main
+	culture = andal
+
+	father = Qarlon_1 # Qarlon the Great
+	mother = Qarlon_rs_1 # Lorra
+
+	6410.1.1 = { birth = yes } # CK2 6447 
+	6426.1.1= {
+		trait = education_martial_prowess_3
+	}	
+	6427.1.1 = {
+		trait = knight
+	}
+	6439.1.1 = { death = { death_reason = death_dragon_siege } }
+}
+
