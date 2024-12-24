@@ -1,0 +1,5 @@
+k_the_wall = {
+    6535.1.1 = {
+		holder = Placeholder_Wall
+	}
+}

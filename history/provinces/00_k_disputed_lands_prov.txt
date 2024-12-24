@@ -1,7 +1,7 @@
 ﻿################# b_ramynis_monne #################
 ############ c_qorena - d_the_shambles ############
 7428 = {
-	culture = tyroshi
+	culture = hartalari
 	religion = weeping_lady
 	holding = castle_holding
 }
@@ -800,7 +800,7 @@
 #################### b_miviyaan ###################
 ########### c_silkhead - d_trade_cities ###########
 7528 = {
-	culture = lyseni
+	culture = hartalari
 	religion = weeping_lady
 	holding = castle_holding
 	7824.1.1 = {
@@ -862,7 +862,7 @@
 ##################### b_dyllen ####################
 ############ c_haehees - d_trade_cities ###########
 7535 = {
-	culture = lyseni
+	culture = hartalari
 	religion = trios
 	holding = city_holding
 	7824.1.1 = {
@@ -928,7 +928,7 @@
 #################### b_castian ####################
 ########## c_unmecaeros - d_trade_cities ##########
 7545 = {
-	culture = volantene
+	culture = hartalari
 	religion = trios
 	holding = city_holding
 	7824.1.1 = {
@@ -962,7 +962,7 @@
 ###################### b_hes ######################
 ######### c_triarchs_fall - d_trade_cities #########
 7550 = {
-	culture = volantene
+	culture = hartalari
 	religion = rhllor
 	special_building_slot = agot_monument_of_borderland_01
 	holding = castle_holding

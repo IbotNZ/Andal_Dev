@@ -1,0 +1,10 @@
+﻿l_english: 
+ # Administrative
+ valyrian_outpost_government: "Valyrian Outpost"
+ valyrian_outpost_government_with_icon: "@government_type_administrative! $valyrian_outpost_government$"
+ valyrian_outpost_government_adjective: "Administrative"
+ valyrian_outpost_government_realm: "Administrative Realm"
+ valyrian_outpost_government_desc: "\n$game_concept_administrative_desc$\n\n#F Administrative is a highly centralized government, where power mainly resides within the capital. Birthright, while still important, is not as prominent as in a feudal realm. With enough skill and ambition anyone, even from the most humble of origin, may rise up to become an influential governor or make a play for the throne and become emperor.#!"
+ valyrian_outpost_government_vassals_label: "[administrative|E] [obligations|E] are based on [GetPlayer.Custom('GetProvinceAdministrationConcept')]"
+ valyrian_outpost_government_obligations: "Administrative Obligations"
+ valyrian_outpost_government_themes: "Available Administration Types"

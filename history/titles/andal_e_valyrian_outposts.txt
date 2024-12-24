@@ -1,0 +1,24 @@
+e_myr = {
+    6535.1.1 = {
+        government = valyrian_outpost_government
+		holder = Placeholder_Myr
+	}
+}
+e_tyrosh = {
+    6535.1.1 = {
+        government = valyrian_outpost_government
+		holder = Placeholder_Tyrosh
+	}
+}
+e_lys = {
+    6535.1.1 = {
+        government = valyrian_outpost_government
+		holder = Placeholder_Lys
+	}
+}
+e_pentos = {
+    6535.1.1 = {
+        government = valyrian_outpost_government
+		holder = Placeholder_Pentos
+	}
+}

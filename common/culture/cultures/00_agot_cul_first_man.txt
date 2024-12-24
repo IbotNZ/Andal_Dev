@@ -1,0 +1,1395 @@
+﻿# Generated on 2022-10-13 by ACOT Culture Tool
+barrowman = {
+	color = { 0.72 0.72 0.72 }
+
+	ethos = ethos_spiritual
+	heritage = heritage_first_man
+	language = language_common
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_equitable
+		tradition_esteemed_hospitality
+		tradition_martial_admiration
+		tradition_horse_breeder
+		agot_tradition_barrowman
+	}
+
+	name_list = name_list_northman
+
+	coa_gfx = {
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		barrow_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		northman_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+
+ }
+
+	parents = { northman }
+	created = 400.1.1
+}
+
+bearman = {
+	color = { 0.6 0.68 0.54 }
+
+	ethos = ethos_stoic
+	heritage = heritage_first_man
+	language = language_common
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		agot_tradition_bearman
+		tradition_only_the_strong
+		tradition_forest_fighters
+		tradition_staunch_traditionalists
+		tradition_stalwart_defenders
+	}
+
+	name_list = name_list_northman
+
+	coa_gfx = {
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		northman_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+
+ }
+
+	parents = { wolfswood_clansman }
+	created = 7050.1.1
+}
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+clawman = {
+	color = { 0.70 0.63 0.66 }
+
+	ethos = ethos_stoic
+	heritage = heritage_first_man
+	language = language_common
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_frugal_armorsmiths
+		tradition_forest_fighters
+		tradition_storytellers
+		tradition_chivalry
+		agot_tradition_clawman
+	}
+
+	name_list = name_list_clawman
+
+	coa_gfx = {
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		clawman_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+
+ }
+
+	parents = { first_man }
+	created = 4800.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+crannogman = {
+	color = { 0.60 0.68 0.62 }
+
+	ethos = ethos_mystic
+	heritage = heritage_first_man
+	language = language_common
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		tradition_modest
+		tradition_adaptive_skirmishing
+		tradition_wetlanders
+		tradition_storytellers
+		agot_tradition_crannogman
+	}
+
+	name_list = name_list_crannogman
+
+	coa_gfx = {
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		crannogman_building_gfx
+	}
+	clothing_gfx = {
+		northman_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+
+	ethnicities = { 10 = crannogman_ethnicity }
+
+	parents = { first_man }
+	created = 200.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+fangman = {
+	color = { 0.69 0.62 0.62 }
+
+	ethos = ethos_spiritual
+	heritage = heritage_first_man
+	language = language_common
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		agot_tradition_wildling
+		tradition_mountain_homes
+		tradition_winter_warriors
+		tradition_tribe_unity
+	}
+
+	name_list = name_list_wildling
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		rough_building_gfx
+		wildling_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+		2 = free_folk_fangman_01
+		2 = free_folk_fangman_02
+		2 = free_folk_fangman_03
+		2 = free_folk_fangman_04
+		2 = free_folk_fangman_05
+		2 = free_folk_fangman_06
+		2 = free_folk_fangman_07
+		2 = free_folk_fangman_08
+		2 = free_folk_fangman_09
+		2 = free_folk_fangman_10
+		2 = free_folk_fangman_11
+		2 = free_folk_fangman_12
+		2 = free_folk_fangman_13
+		2 = free_folk_fangman_14
+		2 = free_folk_fangman_15
+		2 = free_folk_fangman_16
+		2 = free_folk_fangman_17
+		2 = free_folk_fangman_18
+		2 = free_folk_fangman_19
+		2 = free_folk_fangman_20
+		2 = free_folk_fangman_21
+		2 = free_folk_fangman_22
+		2 = free_folk_fangman_23
+		2 = free_folk_fangman_24
+		2 = free_folk_fangman_25
+		2 = free_folk_fangman_26
+		2 = free_folk_fangman_27
+		2 = free_folk_fangman_28
+		2 = free_folk_fangman_29
+		2 = free_folk_fangman_30
+	}
+
+	parents = { first_man }
+	created = 400.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+first_man = {
+	color = { 0.71 0.71 0.71 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+
+ }
+
+
+
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+forestman = {
+	color = { 0.64 0.67 0.64 }
+
+	ethos = ethos_stoic
+	heritage = heritage_first_man
+	language = language_common
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		tradition_hunters
+		agot_tradition_wildling
+		tradition_eye_for_an_eye
+		tradition_forest_fighters
+	}
+
+	name_list = name_list_wildling
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		woodland_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+		2 = free_folk_forestmen_01
+		2 = free_folk_forestmen_02
+		2 = free_folk_forestmen_03
+		2 = free_folk_forestmen_04
+		2 = free_folk_forestmen_05
+		2 = free_folk_forestmen_06
+		2 = free_folk_forestmen_07
+		2 = free_folk_forestmen_08
+		2 = free_folk_forestmen_09
+		2 = free_folk_forestmen_10
+		2 = free_folk_forestmen_11
+		2 = free_folk_forestmen_12
+		2 = free_folk_forestmen_13
+		2 = free_folk_forestmen_14
+		2 = free_folk_forestmen_15
+		2 = free_folk_forestmen_16
+		2 = free_folk_forestmen_17
+		2 = free_folk_forestmen_18
+		2 = free_folk_forestmen_19
+		2 = free_folk_forestmen_20
+		2 = free_folk_forestmen_21
+	}
+
+	parents = { first_man }
+	created = 400.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+frozen_shoreman = {
+	color = { 0.67 0.70 0.75 }
+
+	ethos = ethos_communal
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		tradition_medicinal_plants
+		agot_tradition_wildling
+		tradition_winter_warriors
+		tradition_hunters
+	}
+
+	name_list = name_list_frozen_shore
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		igloos_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+
+ }
+
+	parents = { first_man }
+	created = 500.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+hill_clansman = {
+	color = { 0.71 0.72 0.73 }
+
+	ethos = ethos_stoic
+	heritage = heritage_first_man
+	language = language_common
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_eye_for_an_eye
+		tradition_loyal_soldiers
+		tradition_festivities
+		tradition_highland_warriors
+		agot_tradition_hill_clansman
+	}
+
+	name_list = name_list_hill_clansman
+
+	coa_gfx = {
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		hill_clansman_clothing_gfx
+		northman_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+
+ }
+
+	parents = { northman }
+	created = 600.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+hornfoot = {
+	color = { 0.74 0.81 0.79 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_common
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		tradition_adaptive_skirmishing
+		tradition_warrior_culture
+		tradition_sacred_groves
+		agot_tradition_wildling
+	}
+
+	name_list = name_list_wildling
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		wildling_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+		2 = free_folk_lakeman_01
+		2 = free_folk_lakeman_02
+		2 = free_folk_lakeman_03
+		2 = free_folk_lakeman_04
+		2 = free_folk_lakeman_05
+		2 = free_folk_lakeman_06
+		2 = free_folk_lakeman_07
+		2 = free_folk_lakeman_08
+		2 = free_folk_lakeman_09
+		2 = free_folk_lakeman_10
+		2 = free_folk_lakeman_11
+		2 = free_folk_lakeman_12
+		2 = free_folk_lakeman_13
+		2 = free_folk_lakeman_14
+		2 = free_folk_lakeman_15
+		2 = free_folk_fangman_01
+		2 = free_folk_fangman_02
+		2 = free_folk_fangman_03
+		2 = free_folk_fangman_04
+		2 = free_folk_fangman_05
+		2 = free_folk_fangman_06
+		2 = free_folk_fangman_07
+		2 = free_folk_fangman_08
+		2 = free_folk_fangman_09
+		2 = free_folk_fangman_10
+		2 = free_folk_fangman_11
+		2 = free_folk_fangman_12
+		2 = free_folk_fangman_13
+		2 = free_folk_fangman_14
+		2 = free_folk_fangman_15
+		2 = free_folk_forestmen_01
+		2 = free_folk_forestmen_02
+		2 = free_folk_forestmen_03
+		2 = free_folk_forestmen_04
+		2 = free_folk_forestmen_05
+		2 = free_folk_forestmen_06
+		2 = free_folk_forestmen_07
+		2 = free_folk_forestmen_08
+		2 = free_folk_forestmen_09
+		2 = free_folk_forestmen_10
+		2 = free_folk_forestmen_11
+		2 = free_folk_forestmen_12
+		2 = free_folk_forestmen_13
+		2 = free_folk_forestmen_14
+		2 = free_folk_forestmen_15
+		2 = free_folk_thenn_01
+		2 = free_folk_thenn_02
+		2 = free_folk_thenn_03
+		2 = free_folk_thenn_04
+		2 = free_folk_thenn_05
+		2 = free_folk_thenn_06
+		2 = free_folk_thenn_07
+		2 = free_folk_thenn_08
+		2 = free_folk_thenn_09
+		2 = free_folk_thenn_10
+		2 = free_folk_thenn_11
+		2 = free_folk_thenn_12
+		2 = free_folk_thenn_13
+		2 = free_folk_thenn_14
+		2 = free_folk_thenn_15
+	}
+
+	parents = { first_man }
+	created = 7500.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+ice_riverman = {
+	color = { 0.79 0.80 0.83 }
+
+	ethos = ethos_spiritual
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		tradition_isolationist
+		agot_tradition_wildling
+		# tradition_ritual_cannibalism # AGOT TODO: Not a tradition
+		tradition_winter_warriors
+	}
+
+	name_list = name_list_frozen_shore
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		igloos_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+
+ }
+
+	parents = { first_man }
+	created = 500.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+krakenman = {
+	color = { 0.62 0.64 0.62 }
+
+	ethos = ethos_communal
+	heritage = heritage_first_man
+	language = language_common
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_warrior_culture
+		tradition_life_is_just_a_joke
+		tradition_fishermen
+		tradition_hit_and_run
+		agot_tradition_krakenman
+	}
+
+	name_list = name_list_ironborn
+
+	coa_gfx = {
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		krakenman_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		ironborn_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+
+ }
+
+	parents = {
+		ironborn
+		northman
+	}
+	created = 5500.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+lakeman = {
+	color = { 0.76 0.62 0.36 }
+
+	ethos = ethos_egalitarian
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		tradition_sacred_hunts
+		agot_tradition_wildling
+		tradition_winter_warriors
+		tradition_fp1_northern_stories
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		igloos_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+		2 = free_folk_lakeman_01
+		2 = free_folk_lakeman_02
+		2 = free_folk_lakeman_03
+		2 = free_folk_lakeman_04
+		2 = free_folk_lakeman_05
+		2 = free_folk_lakeman_06
+		2 = free_folk_lakeman_07
+		2 = free_folk_lakeman_08
+		2 = free_folk_lakeman_09
+		2 = free_folk_lakeman_10
+		2 = free_folk_lakeman_11
+		2 = free_folk_lakeman_12
+		2 = free_folk_lakeman_13
+		2 = free_folk_lakeman_14
+		2 = free_folk_lakeman_15
+		2 = free_folk_lakeman_16
+		2 = free_folk_lakeman_17
+		2 = free_folk_lakeman_18
+		2 = free_folk_lakeman_19
+		2 = free_folk_lakeman_20
+		2 = free_folk_lakeman_21
+		2 = free_folk_lakeman_22
+		2 = free_folk_lakeman_23
+		2 = free_folk_lakeman_24
+		2 = free_folk_lakeman_25
+		2 = free_folk_lakeman_26
+		2 = free_folk_lakeman_27
+		2 = free_folk_lakeman_28
+		2 = free_folk_lakeman_29
+		2 = free_folk_lakeman_30
+		2 = free_folk_forestmen_01
+		2 = free_folk_forestmen_02
+		2 = free_folk_forestmen_03
+		2 = free_folk_forestmen_04
+		2 = free_folk_forestmen_05
+		2 = free_folk_forestmen_06
+		2 = free_folk_forestmen_07
+		2 = free_folk_forestmen_08
+		2 = free_folk_forestmen_09
+		2 = free_folk_forestmen_10
+		2 = free_folk_forestmen_11
+		2 = free_folk_forestmen_12
+		2 = free_folk_forestmen_13
+		2 = free_folk_forestmen_14
+		2 = free_folk_forestmen_15
+		2 = free_folk_forestmen_16
+		2 = free_folk_forestmen_17
+		2 = free_folk_forestmen_18
+		2 = free_folk_forestmen_19
+		2 = free_folk_forestmen_20
+		2 = free_folk_forestmen_21
+	}
+
+	parents = { first_man }
+	created = 500.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+mountain_clansman = {
+	color = { 0.72 0.72 0.72 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		tradition_warrior_culture
+		tradition_staunch_traditionalists
+		tradition_mountaineers
+		agot_tradition_mountain_clansman
+	}
+
+	name_list = name_list_mountain_clansman
+
+	coa_gfx = {
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		wildling_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		mountain_clansman_clothing_gfx
+		northman_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+
+ }
+
+	parents = { first_man }
+	created = 4700.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+nightrunner = {
+	color = { 0.70 0.73 0.77 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_common
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		tradition_hunters
+		tradition_forest_folk
+		agot_tradition_wildling
+		tradition_forest_fighters
+	}
+
+	name_list = name_list_wildling
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		wildling_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+		2 = free_folk_forestmen_01
+		2 = free_folk_forestmen_02
+		2 = free_folk_forestmen_03
+		2 = free_folk_forestmen_04
+		2 = free_folk_forestmen_05
+		2 = free_folk_forestmen_06
+		2 = free_folk_forestmen_07
+		2 = free_folk_forestmen_08
+		2 = free_folk_forestmen_09
+		2 = free_folk_forestmen_10
+		2 = free_folk_forestmen_11
+		2 = free_folk_forestmen_12
+		2 = free_folk_forestmen_13
+		2 = free_folk_forestmen_14
+		2 = free_folk_forestmen_15
+		2 = free_folk_forestmen_16
+		2 = free_folk_forestmen_17
+		2 = free_folk_forestmen_18
+		2 = free_folk_forestmen_19
+		2 = free_folk_forestmen_20
+		2 = free_folk_forestmen_21
+		2 = free_folk_lakeman_01
+		2 = free_folk_lakeman_02
+		2 = free_folk_lakeman_03
+		2 = free_folk_lakeman_04
+		2 = free_folk_lakeman_05
+		2 = free_folk_lakeman_06
+		2 = free_folk_lakeman_07
+		2 = free_folk_lakeman_08
+		2 = free_folk_lakeman_09
+		2 = free_folk_lakeman_10
+		2 = free_folk_lakeman_11
+		2 = free_folk_lakeman_12
+		2 = free_folk_lakeman_13
+		2 = free_folk_lakeman_14
+		2 = free_folk_lakeman_15
+	}
+
+	parents = { first_man }
+	created = 7500.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+northman = {
+	color = { 0.82 0.83 0.84 }
+
+	ethos = ethos_stoic
+	heritage = heritage_first_man
+	language = language_common
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_equitable
+		tradition_staunch_traditionalists
+		tradition_loyal_soldiers
+		tradition_forbearing
+		agot_tradition_northman
+	}
+
+	name_list = name_list_northman
+
+	coa_gfx = {
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		northman_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+
+ }
+
+	parents = { first_man }
+	created = 300.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+sisterman = {
+	color = { 0.69 0.77 0.82 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_common
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_practiced_pirates
+		tradition_seafaring
+		tradition_stand_and_fight
+		agot_tradition_insular_marriage
+		agot_tradition_sisterman
+	}
+
+	name_list = name_list_sisterman
+
+	coa_gfx = {
+		andal_coa_gfx
+	}
+	building_gfx = {
+		andal_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		sisterman_clothing_gfx
+		northman_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+
+ }
+
+	parents = { first_man }
+	created = 200.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+skagosi = {
+	color = { 0.64 0.68 0.74 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		tradition_warrior_culture
+		# tradition_ritual_cannibalism # AGOT TODO: Not a tradition
+		tradition_mountain_homes
+		tradition_battlefield_looters
+		agot_tradition_skagosi
+	}
+
+	name_list = name_list_skagosi
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		wildling_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+
+ }
+
+	parents = { first_man }
+	created = 600.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+thenn = {
+	color = { 0.79 0.53 0.07 }
+
+	ethos = ethos_bureaucratic
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		agot_tradition_wildling
+		tradition_metal_craftsmanship
+		agot_tradition_harsh_laws
+		tradition_warrior_monks
+		agot_tradition_thenn
+	}
+
+	name_list = name_list_thenn
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		thenn_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+		2 = free_folk_thenn_01
+		2 = free_folk_thenn_02
+		2 = free_folk_thenn_03
+		2 = free_folk_thenn_04
+		2 = free_folk_thenn_05
+		2 = free_folk_thenn_06
+		2 = free_folk_thenn_07
+		2 = free_folk_thenn_08
+		2 = free_folk_thenn_09
+		2 = free_folk_thenn_10
+		2 = free_folk_thenn_11
+		2 = free_folk_thenn_12
+		2 = free_folk_thenn_13
+		2 = free_folk_thenn_14
+		2 = free_folk_thenn_15
+		2 = free_folk_thenn_16
+		2 = free_folk_thenn_17
+		2 = free_folk_thenn_18
+		2 = free_folk_thenn_19
+		2 = free_folk_thenn_20
+		2 = free_folk_thenn_21
+		2 = free_folk_thenn_22
+		2 = free_folk_thenn_23
+		2 = free_folk_thenn_24
+		2 = free_folk_thenn_25
+		2 = free_folk_thenn_26
+		2 = free_folk_thenn_27
+		2 = free_folk_thenn_28
+		2 = free_folk_thenn_29
+		2 = free_folk_thenn_30
+	}
+
+	parents = { first_man }
+	created = 300.1.1
+}
+
+
+# Generated on 2022-10-13 by ACOT Culture Tool
+wolfswood_clansman = {
+	color = { 0.65 0.71 0.65 }
+
+	ethos = ethos_communal
+	heritage = heritage_first_man
+	language = language_common
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_eye_for_an_eye
+		tradition_hunters
+		tradition_forest_fighters
+		tradition_forest_folk
+		agot_tradition_wolfswood_clansman
+	}
+
+	name_list = name_list_wolfswood_clansman
+
+	coa_gfx = {
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		wolfswood_clansman_clothing_gfx
+		northman_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+
+ }
+
+	parents = { northman }
+	created = 400.1.1
+}

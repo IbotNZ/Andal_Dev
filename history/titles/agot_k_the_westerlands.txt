@@ -1442,9 +1442,6 @@ c_sarsfield = {
 	200.1.1 = {
 		liege = d_castamere
 	}
-	6535.1.1 = {
-		holder = Placeholder_Reyne
-	}
 	7868.1.1 = {
 		holder = Sarsfield_4
 	}

@@ -104,7 +104,7 @@
 ################## b_naqiedror #################
 ######### c_sunrise_road - d_pentos ########
 7716 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 	holding = castle_holding
 	7824.1.1 = {
@@ -160,7 +160,7 @@
 ################## b_gradoror #################
 ########## c_gravan_pastures - d_pentos #########
 7722 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 }
 ################## b_gravonion #################
@@ -204,7 +204,7 @@
 ################## b_illyera #################
 ########## c_izulepsa - d_pentos #########
 7727 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 }
 ################## b_sentilys #################
@@ -242,7 +242,7 @@
 ################## b_ameanjel #################
 ########### c_amenai_ridge - d_pentos ##########
 7732 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 	holding = castle_holding
 	7824.1.1 = {
@@ -400,7 +400,7 @@
 ################ b_ozendyos ###############
 ######## c_ozendyos - d_princes_shore #######
 7748 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 	holding = castle_holding
 	7824.1.1 = {
@@ -445,7 +445,7 @@
 ################ b_bedrylos ###############
 ########### c_bedrylos - d_princes_shore ###########
 7754 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 }
 ################ b_bedrygos ################
@@ -488,7 +488,7 @@
 ################ b_hedys ################
 ########## c_hedyswood - d_princes_shore ##########
 7760 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 }
 ################ b_jelgios ################
@@ -514,7 +514,7 @@
 ################ b_endybaes ###############
 ############ c_astiennon - d_princes_shore ###########
 7765 = {
-	culture = andalosi
+	culture = hartalari
 	religion = weeping_lady
 	holding = castle_holding
 	7824.1.1 = {
@@ -547,7 +547,7 @@
 ################ b_tiderar ###############
 ######## c_doralbar_coast - d_princes_shore #######
 7770 = {
-	culture = andalosi
+	culture = hartalari
 	religion = weeping_lady
 	holding = castle_holding
 	7824.1.1 = {
@@ -580,7 +580,7 @@
 ################# b_kyrhinon ################
 ######### c_plush_approach - d_velvet_hills #########
 7775 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = rhllor
 }
 ################# b_kyrstor ################
@@ -634,7 +634,7 @@
 ################# b_dunrael ################
 ######### c_dunbarra - d_velvet_hills #########
 7782 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 }
 ################# b_dunbarra ################
@@ -662,7 +662,7 @@
 ################# b_raelatiam ################
 ######### c_evoratiam - d_velvet_hills #########
 7785 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 }
 ################# b_evortiam ################
@@ -717,7 +717,7 @@
 ################# b_velourael #################
 ########## c_velour - d_velvet_hills #########
 7791 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 }
 ################# b_veloktion #################
@@ -743,7 +743,7 @@
 ################# b_keldios #################
 ########## c_keldios - d_velvet_hills #########
 7796 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	7824.1.1 = {
@@ -772,7 +772,7 @@
 ############### b_qelbar_grozior ###############
 ####### c_kastaeliton - d_hinozobris ######
 7800 = {
-	culture = rhoynish
+	culture = hartalari
 	religion = rhllor
 }
 ############### b_emmongrozior ###############
@@ -808,7 +808,7 @@
 ################ b_phasombion ###############
 ####### c_phasios_hills - d_hinozobris #######
 7807 = {
-	culture = rhoynish
+	culture = hartalari
 	religion = mother_rhoyne
 }
 ################ b_argion ###############
@@ -829,7 +829,7 @@
 ############### b_todonar ###############
 ####### c_togez_woods - d_hinozobris ######
 7811 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = rhllor
 }
 ############### b_toguesin ###############
@@ -855,7 +855,7 @@
 ################## b_tombion #################
 ########### c_reles - d_hinozobris ###########
 7816 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = rhllor
 }
 ################## b_tovilinion #################
@@ -876,7 +876,7 @@
 ################ b_merpasom ###############
 ########## c_hareqeblon - d_hinozobris ##########
 7820 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 }
 ################ b_merpankion ###############
@@ -902,7 +902,7 @@
 ############### b_valdrizombion ###############
 ####### c_valdrizes_hinon - d_hinozobris ######
 7825 = {
-	culture = rhoynish
+	culture = hartalari
 	religion = rhllor
 	special_building = agot_valdrizes_01
 	holding = castle_holding
@@ -947,7 +947,7 @@
 ################ b_kastajikagon ###############
 ####### c_zadientor - d_the_baked_lands #######
 7831 = {
-	culture = andalosi
+	culture = hartalari
 	religion = weeping_lady
 }
 ################ b_tistonkion ###############
@@ -973,7 +973,7 @@
 ################# b_samdoro ################
 ########### c_blipys - d_the_baked_lands ###########
 7836 = {
-	culture = myrish
+	culture = hartalari
 	religion = rhllor
 }
 ################# b_onhinion ################
@@ -994,7 +994,7 @@
 ################# b_kastombion ################
 ########## c_ejipvos - d_the_baked_lands ##########
 7840 = {
-	culture = andalosi
+	culture = hartalari
 	religion = princely_arbiter
 }
 ################# b_griapos ################
@@ -1010,7 +1010,7 @@
 ############### b_rizmon_blinun ###############
 ####### c_dying_woods - d_the_baked_lands ######
 7843 = {
-	culture = andalosi
+	culture = hartalari
 	religion = rhllor
 }
 ################ b_vezonun ###############
@@ -1036,7 +1036,7 @@
 ############### b_morgues ###############
 ####### c_jalarios - d_the_baked_lands ######
 7848 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = weeping_lady
 }
 ############### b_tastavililion ###############
@@ -1067,7 +1067,7 @@
 ################# b_ar_kon ################
 ############# c_ar_kon - d_konian_coast #############
 7854 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = weeping_lady
 	holding = castle_holding
 	7824.1.1 = {
@@ -1123,7 +1123,7 @@
 ################# b_qelbor_vilinion ################
 ############ c_ringolion - d_konian_coast ############
 7861 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 	holding = castle_holding
 	7824.1.1 = {
@@ -1158,7 +1158,7 @@
 ################## b_amenos #################
 ############# c_amenos - d_konian_coast #############
 7865 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 	holding = castle_holding
 	7824.1.1 = {
@@ -1192,7 +1192,7 @@
 ############### b_vejonedoror ###############
 ########### c_vejonegroz - d_konian_coast ###########
 7870 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = rhllor
 }
 ############### b_vejonkion ###############
@@ -1223,7 +1223,7 @@
 ################# b_nyalla ################
 ########## c_nyalla - d_konian_coast ##########
 7876 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = princely_arbiter
 }
 ################# b_dagrozior ################
@@ -1244,7 +1244,7 @@
 ################# b_nonombion #################
 ############ c_nontelos - d_nontelos ###########
 7880 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = weeping_lady
 	holding = castle_holding
 	7824.1.1 = {
@@ -1295,7 +1295,7 @@
 ################# b_viigashos #################
 ######### c_viigashos - d_nontelos #########
 7886 = {
-	culture = myrish
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	7824.1.1 = {
@@ -1325,7 +1325,7 @@
 ################# b_qelrios ################
 ########## c_gyrakos - d_nontelos #########
 7889 = {
-	culture = myrish
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	7824.1.1 = {
@@ -1365,7 +1365,7 @@
 ################# b_guesidoror ################
 ############ c_myllenios - d_nontelos ############
 7894 = {
-	culture = myrish
+	culture = hartalari
 	religion = trios
 	holding = castle_holding
 	7824.1.1 = {
@@ -1410,7 +1410,7 @@
 ################# b_costoba ################
 ########## c_kastaraen - d_nontelos #########
 7900 = {
-	culture = myrish
+	culture = hartalari
 	religion = rhllor
 	holding = castle_holding
 	7824.1.1 = {
@@ -1444,7 +1444,7 @@
 ################# b_samal ################
 ############# c_samaalis - d_nontelos #############
 7905 = {
-	culture = andalosi
+	culture = hartalari
 	religion = rhllor
 }
 ################# b_samagues ################
@@ -1480,7 +1480,7 @@
 ################# b_bosarios ################
 ########## c_nonguesin - d_nontelos #########
 7912 = {
-	culture = pentoshi
+	culture = hartalari
 	religion = weeping_lady
 	holding = castle_holding
 	7824.1.1 = {

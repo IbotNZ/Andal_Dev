@@ -1,6 +1,20 @@
 ﻿############################           PLACEHOLDERS          ############################
 ####################################################################################
 
+Placeholder_Wall = {
+	name = Aurio # a lord
+	#dynasty = dynn_Golathis
+
+	religion = rhllor
+	culture = andalosi
+
+	#father = Golathis_46
+	#mother = Golathis_rs_46
+
+	6500.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+
 ###### Essos
 ############################
 Placeholder_Andalos = {
@@ -76,7 +90,7 @@ Placeholder_Dorne = {
 	name = Dornman # a lord
 
 	religion = rhllor
-	culture = salt_dornish
+	culture = high_dornish
 
 	#father = Golathis_46
 	#mother = Golathis_rs_46
@@ -195,7 +209,7 @@ Placeholder_Tarth = {
 	name = Dayneman # a lord
 
 	religion = rhllor
-	culture = stone_dornish
+	culture = storm_savage
 
 	#father = Golathis_46
 	#mother = Golathis_rs_46

@@ -1,7 +1,7 @@
 ﻿################## b_dragonstone ##################
 ########## c_dragonstone - d_dragonstone ##########
 4415 = {
-	culture = high_valyrian
+	culture = bay_man
 	religion = old_gods_south
 	holding = castle_holding
 	duchy_capital_building = agot_dragonmont_01
@@ -37,7 +37,7 @@
 ################ b_castle_driftmark ###############
 ############ c_driftmark - d_driftmark ############
 4419 = {
-	culture = westerosi_valyrian
+	culture = bay_man
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -76,7 +76,7 @@
 ################### b_high_tide ###################
 ############ c_high_tide - d_driftmark ############
 4424 = {
-	culture = westerosi_valyrian
+	culture = bay_man
 	religion = old_gods_south
 	holding = castle_holding
 	special_building_slot = agot_hightide_01
@@ -139,7 +139,7 @@
 ################## b_sharp_point ##################
 ########## c_sharp_point - d_sharp_point ##########
 4428 = {
-	culture = stormlander
+	culture = hookman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -165,7 +165,7 @@
 ################### b_waycastle ###################
 ############ c_longbar - d_dragonstone ############
 4431 = {
-	culture = stormlander
+	culture = hookman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -175,7 +175,7 @@
 ################## b_gullet_tower #################
 ########### c_gullet_isle - d_driftmark ###########
 4432 = {
-	culture = stormlander
+	culture = hookman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -188,7 +188,7 @@
 ################### b_sweetport ###################
 ######## c_sweetport_sound - d_sharp_point ########
 4433 = {
-	culture = stormlander
+	culture = hookman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -209,7 +209,7 @@
 ################### b_vallscale ###################
 ############ c_the_scales - d_claw_isle ###########
 4435 = {
-	culture = westerosi_valyrian
+	culture = bay_man
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -219,7 +219,7 @@
 ################## b_crabs_return #################
 ############ c_claw_isle - d_claw_isle ############
 4436 = {
-	culture = westerosi_valyrian
+	culture = bay_man
 	religion = old_gods_south
 	holding = castle_holding
 	special_building = agot_claw_isle_01

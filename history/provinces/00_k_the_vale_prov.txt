@@ -1,7 +1,7 @@
 ﻿################### b_the_eyrie ###################
 ######### c_the_eyrie - d_the_giants_lance ########
 2251 = {
-	culture = valeman
+	culture = andal
 	religion = old_gods_south
 	holding = castle_holding
 	special_building = the_eyrie_01
@@ -37,7 +37,7 @@
 ############# b_the_gates_of_the_moon #############
 ######### c_moongates - d_the_giants_lance ########
 2255 = {
-	culture = valeman
+	culture = andal
 	religion = old_gods_south
 	holding = castle_holding
 	4450.1.1 = {
@@ -82,7 +82,7 @@
 ################ b_the_bloody_gate ################
 ###### c_the_bloody_gate - d_the_giants_lance #####
 2263 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	special_building = the_bloody_gate_01
@@ -108,7 +108,7 @@
 ################### b_clans_end ###################
 ###### c_the_high_road - d_the_giants_lance #####
 2265 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -131,7 +131,7 @@
 ################## b_donnersdown ##################
 ######## c_donnersdown - d_the_giants_lance #######
 2267 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -167,7 +167,7 @@
 ################### b_highstone ###################
 ######## c_giants_scar - d_the_giants_lance #######
 2272 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -206,7 +206,7 @@
 ################## b_the_redfort ##################
 ########## c_the_redfort - d_strongstone ##########
 2277 = {
-	culture = moonman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	special_building = agot_redfort_01
@@ -251,7 +251,7 @@
 ################### b_breckland ###################
 ########### c_breckland - d_strongstone ###########
 2283 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -298,7 +298,7 @@
 ################# b_slabstone_keep ################
 ############# c_brume - d_strongstone #############
 2289 = {
-	culture = moonman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -342,7 +342,7 @@
 ################## b_wisdom_hall ##################
 ######### c_tangled_shore - d_strongstone #########
 2295 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -386,7 +386,7 @@
 ################## b_mullbry_keep #################
 ############ c_mullbry - d_strongstone ############
 2301 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -430,7 +430,7 @@
 ################ b_castle_wickenden ###############
 ############ c_wickenden - d_wickenden ############
 2307 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -474,7 +474,7 @@
 ################### b_artysfort ###################
 ########### c_crabs_shore - d_wickenden ###########
 2313 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -513,7 +513,7 @@
 ################## b_marble_pass ##################
 ############ c_marbletoft - d_wickenden ###########
 2318 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -549,7 +549,7 @@
 ################### b_ninestars ###################
 ############ c_ninestars - d_ninestars ############
 2323 = {
-	culture = valeman
+	culture = andal
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -596,7 +596,7 @@
 #################### b_kipress ####################
 ############# c_kipress - d_ninestars #############
 2329 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -640,7 +640,7 @@
 ################### b_stoutstone ##################
 ############ c_stoutstone - d_ninestars ###########
 2335 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -676,7 +676,7 @@
 #################### b_newberry ###################
 ############# c_newberry - d_ninestars ############
 2340 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -707,7 +707,7 @@
 ################ b_ironoaks_castle ################
 ############# c_ironoaks - d_ironoaks #############
 2344 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	special_building = agot_ironoaks_01
@@ -756,7 +756,7 @@
 ################## b_hardyng_hall #################
 ############# c_hardvale - d_ironoaks #############
 2350 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -800,7 +800,7 @@
 ################### b_bannerfall ##################
 ############ c_the_banners - d_ironoaks ###########
 2356 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -836,7 +836,7 @@
 ##################### b_hazen #####################
 ############### c_hazen - d_ironoaks ##############
 2361 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -875,7 +875,7 @@
 #################### b_ryefeld ####################
 ############## c_ryefeld - d_ironoaks #############
 2366 = {
-	culture = valeman
+	culture = bronze_man
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -919,7 +919,7 @@
 ################### b_old_anchor ##################
 ########### c_old_anchor - d_old_anchor ###########
 2372 = {
-	culture = valeman
+	culture = bronze_man
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -966,7 +966,7 @@
 ################### b_rusty_fort ##################
 ########### c_rustpointe - d_old_anchor ###########
 2378 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1002,7 +1002,7 @@
 ################## b_scarle_keep ##################
 ############ c_wycliffe - d_old_anchor ############
 2383 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1041,7 +1041,7 @@
 ################### b_tetchmere ###################
 ############ c_tetchmere - d_old_anchor ###########
 2388 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1072,7 +1072,7 @@
 ################## b_longbow_hall #################
 ########## c_longbow_hills - d_eastweald ##########
 2392 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1116,7 +1116,7 @@
 ################# b_starfish_spire ################
 ############ c_ruthermont - d_eastweald ###########
 2398 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	special_building = agot_ruthermont_01
 	holding = castle_holding
@@ -1161,7 +1161,7 @@
 ################## b_craynes_nest #################
 ############ c_sedgemore - d_eastweald ############
 2404 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1205,7 +1205,7 @@
 ################### b_lymestone ###################
 ############### c_lyme - d_eastweald ##############
 2410 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1241,7 +1241,7 @@
 ############### b_brackenbrick_hall ###############
 ######## c_brackenbrick_point - d_eastweald #######
 2415 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1285,7 +1285,7 @@
 ################## b_bowlyn_hall ##################
 ############## c_bowlyn - d_eastweald #############
 2421 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1329,7 +1329,7 @@
 ################### b_stillwater ##################
 ############ c_the_stills - d_eastweald ###########
 2427 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1370,7 +1370,7 @@
 ############### b_graftons_holdfast ###############
 ############# c_gulltown - d_gulltown #############
 2433 = {
-	culture = valeman
+	culture = andal
 	religion = old_gods_south
 	holding = castle_holding
 	special_building = agot_grafton_keep_01
@@ -1422,7 +1422,7 @@
 ################# b_osgoods_square ################
 ############ c_osgoodswell - d_gulltown ###########
 2439 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1445,7 +1445,7 @@
 ################# b_port_of_arryn #################
 ########### c_port_of_arryn - d_gulltown ##########
 2442 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1471,7 +1471,7 @@
 ################### b_etterbill ###################
 ############# c_etterbill - d_gulltown ############
 2445 = {
-	culture = valeman
+	culture = bronze_man
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1510,7 +1510,7 @@
 ###################### b_kear #####################
 ############### c_kear - d_gulltown ###############
 2450 = {
-	culture = valeman
+	culture = bronze_man
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1546,7 +1546,7 @@
 ################### b_runestone ###################
 ############ c_runestone - d_runestone ############
 2455 = {
-	culture = valeman
+	culture = bronze_man
 	religion = weirwood_of_the_seven
 	holding = castle_holding
 	special_building = agot_runestone_01
@@ -1599,7 +1599,7 @@
 ################## b_bronzeguard ##################
 ########### c_bronzeguard - d_runestone ###########
 2461 = {
-	culture = valeman
+	culture = bronze_man
 	religion = weirwood_of_the_seven
 	holding = castle_holding
 	7824.1.1 = {
@@ -1632,7 +1632,7 @@
 ################### b_gull_tower ##################
 ############# c_gullview - d_runestone ############
 2466 = {
-	culture = valeman
+	culture = bronze_man
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1660,7 +1660,7 @@
 ################## b_the_etchings #################
 ########### c_the_etchings - d_runestone ##########
 2470 = {
-	culture = valeman
+	culture = bronze_man
 	religion = weirwood_of_the_seven
 	holding = castle_holding
 	7824.1.1 = {
@@ -1680,7 +1680,7 @@
 ################# b_upcliffs_haven ################
 ############ c_witch_isle - d_runestone ###########
 2473 = {
-	culture = valeman
+	culture = bronze_man
 	religion = weirwood_of_the_seven
 	holding = castle_holding
 	7824.1.1 = {
@@ -1703,7 +1703,7 @@
 ################ b_coldwater_castle ###############
 ####### c_coldwater_burn - d_the_drainlands #######
 2476 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1744,7 +1744,7 @@
 ################### b_grey_glen ###################
 ########## c_grey_glen - d_the_drainlands #########
 2482 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1788,7 +1788,7 @@
 #################### b_longmoor ###################
 ########## c_longmoor - d_the_drainlands ##########
 2629 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1826,7 +1826,7 @@
 ################### b_pinkstrath ##################
 ######### c_pinkstrath - d_the_drainlands #########
 2622 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1851,7 +1851,7 @@
 ################### b_tammerlan ###################
 ########## c_tammerlan - d_the_drainlands #########
 2488 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1892,7 +1892,7 @@
 ##################### b_crown #####################
 ######### c_crown_crescent - d_crowncrests ########
 2494 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1936,7 +1936,7 @@
 #################### b_morency ####################
 ############ c_morency - d_crowncrests ############
 2500 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -1972,7 +1972,7 @@
 ################### b_crestfall ###################
 ########### c_crestfall - d_crowncrests ###########
 2505 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2008,7 +2008,7 @@
 ################## b_purling_hall #################
 ############ c_purling - d_crowncrests ############
 2510 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2039,7 +2039,7 @@
 ################## b_hearts_home ##################
 ########## c_hearts_home - d_hearts_home ##########
 2514 = {
-	culture = valeman
+	culture = andal
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2086,7 +2086,7 @@
 ################## b_bronzespear ##################
 ########## c_bronzespear - d_hearts_home ##########
 2520 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2125,7 +2125,7 @@
 ################## b_sledge_house #################
 ########### c_stonefall - d_hearts_home ###########
 2525 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2172,7 +2172,7 @@
 ################ b_castle_rathmore ################
 ############ c_rathmore - d_hearts_home ###########
 2531 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2208,7 +2208,7 @@
 #################### b_standish ###################
 ############ c_standish - d_hearts_home ###########
 2536 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2244,7 +2244,7 @@
 ################### b_strongsong ##################
 ########### c_strongsong - d_strongsong ###########
 2541 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	special_building = agot_strongsong_01
 	holding = castle_holding
@@ -2292,7 +2292,7 @@
 ################## b_vearnon_keep #################
 ############# c_vearnon - d_strongsong ############
 2547 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2336,7 +2336,7 @@
 ################### b_wedge_keep ##################
 ########## c_timbers_wedge - d_strongsong #########
 2553 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2375,7 +2375,7 @@
 ################# b_clammath_keep #################
 ############ c_clammath - d_strongsong ############
 2558 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2419,7 +2419,7 @@
 ################## b_topperpoole ##################
 ########### c_topperpoole - d_strongsong ##########
 2564 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2458,7 +2458,7 @@
 ################## b_belmont_hold #################
 ############ c_waldlake - d_strongsong ############
 2569 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2497,7 +2497,7 @@
 ################# b_bluewater_hold ################
 ############ c_bluewater - d_strongsong ###########
 2574 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2536,7 +2536,7 @@
 ################### b_snakewood ###################
 ######### c_snakewood - d_snakewood_forest ########
 2579 = {
-	culture = valeman
+	culture = first_valeman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2580,7 +2580,7 @@
 ################# b_sunken_castle #################
 ######## c_sunkenwood - d_snakewood_forest ########
 2585 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2621,7 +2621,7 @@
 ################## b_hunger_keep ##################
 ######## c_hungerford - d_snakewood_forest ########
 2591 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2668,7 +2668,7 @@
 ############## b_castle_at_harrowpool #############
 ######## c_harrowpool - d_snakewood_forest ########
 2597 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2712,7 +2712,7 @@
 ################## b_willowspire ##################
 ######## c_willowspire - d_snakewood_forest #######
 2603 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2756,7 +2756,7 @@
 #################### b_correll ####################
 ########## c_correll - d_snakewood_forest #########
 2609 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2792,7 +2792,7 @@
 ################## b_rutley_hall ##################
 ######## c_misty_moor - d_snakewood_forest ########
 2614 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2825,7 +2825,7 @@
 ################## b_secondstone ##################
 ############# c_the_paps - d_grimholm #############
 2619 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2848,7 +2848,7 @@
 ################## b_midlors_fort #################
 ########### c_midlor_point - d_grimholm ###########
 2626 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2868,7 +2868,7 @@
 ################## b_midlor_hall ##################
 ############## c_midlor - d_grimholm ##############
 2635 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2909,7 +2909,7 @@
 ################### b_hullbreach ##################
 ############# c_brownden - d_grimholm #############
 2641 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2937,7 +2937,7 @@
 ################## b_bommenstone ##################
 ############ c_bommenstone - d_grimholm ###########
 2645 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -2973,7 +2973,7 @@
 #################### b_newkeep ####################
 ############# c_hersy - d_northbreach #############
 2650 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3017,7 +3017,7 @@
 ################### b_blackmoon ###################
 ############# c_pebble - d_northbreach ############
 2656 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3045,7 +3045,7 @@
 ################ b_castle_eventide ################
 ############ c_eventide - d_northbreach ###########
 2660 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3081,7 +3081,7 @@
 ################### b_portmouth ###################
 ########### c_portmouth - d_northbreach ###########
 2665 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3109,7 +3109,7 @@
 ################ b_castle_reckshaw ################
 ############ c_reckshaw - d_northbreach ###########
 2669 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3145,7 +3145,7 @@
 #################### b_biteport ###################
 ######### c_scorched_vale - d_northbreach #########
 2674 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3181,7 +3181,7 @@
 ################## b_shores_fort ##################
 ######## c_forgotten_shore - d_northbreach ########
 2679 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3217,7 +3217,7 @@
 ################## b_strikeguard ##################
 ########## c_strikeguard - d_northbreach ##########
 2684 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3240,7 +3240,7 @@
 ################## b_sunrise_keep #################
 ############ c_sunrise_bite - d_the_cut ###########
 2687 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3276,7 +3276,7 @@
 ##################### b_rockle ####################
 ############### c_rockle - d_the_cut ##############
 2693 = {
-	culture = moonman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3312,7 +3312,7 @@
 #################### b_bludden ####################
 ############## c_bludden - d_the_cut ##############
 2698 = {
-	culture = fingerman
+	culture = first_moonman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3348,7 +3348,7 @@
 ################## b_barren_rock ##################
 ########### c_crows_barrens - d_the_cut ###########
 2703 = {
-	culture = riverlander
+	culture = tridentman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3380,7 +3380,7 @@
 ############# c_moonbloom - d_the_cut #############
 2691 = {
 	holding = castle_holding
-	culture = moonman
+	culture = tridentman
 	religion = old_gods_south
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -3420,7 +3420,7 @@
 ################ b_sunderland_hall ################
 ########### c_sunderland - d_the_sisters ##########
 2709 = {
-	culture = sisterman
+	culture = first_sisterman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3446,7 +3446,7 @@
 ################## b_seas_beacon ##################
 ######## c_west_longsister - d_the_sisters ########
 2712 = {
-	culture = sisterman
+	culture = first_sisterman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3472,7 +3472,7 @@
 ############### b_breakwater_castle ###############
 ########## c_sweetsister - d_the_sisters ##########
 2715 = {
-	culture = sisterman
+	culture = first_sisterman
 	religion = old_gods_south
 	holding = castle_holding
 	7824.1.1 = {
@@ -3504,7 +3504,7 @@
 #################### b_havenry ####################
 ########## c_littlesister - d_the_sisters #########
 2719 = {
-	culture = sisterman
+	culture = first_sisterman
 	religion = lady_of_the_waves
 	holding = castle_holding
 	7824.1.1 = {

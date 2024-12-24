@@ -1,0 +1,1658 @@
+## Vale First Men
+
+first_valeman = { # Culture for First Man lowlands
+	color = { 47 132 189 } # 109 164 205
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+first_moonman = { # Tribal culture for First Man highlands
+	color = { 33 105 105 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+bronze_man = { # Royce unique culture
+	color = { 205 127 50 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+first_sisterman = { # Royce unique culture
+	color = { 109 109 201 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+## Trident First Men
+
+tridentman = { # Culture focused around The Trident
+	color = { 52 63 186 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+blackwoodian = { # Blackwood unique culture
+	color = { 36 28 97 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+river_tribal = { # Southwestern tribal culture
+	color = { 35 146 173 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+bay_man = { # Blackwater bay regional culture
+	color = { 105 55 173 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+## Westerlands First Men
+
+first_westerman = { # Mining and wealth focused culture around Casterly Rock
+	color = { 209 91 73 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+rockman = { # Tribal culture in eastern Westerlands
+	color = { 189 120 47 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+crakeman = { # Crakehall focused martial culture
+	color = { 168 126 81 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+## Reach First Men
+
+manderman = { # First Reachman primary Reach culture around the river Mander
+	color = { 42 122 44 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+first_marcher = { # Tarley focused martial culture of the Westmarch
+	color = { 0.85 0.75 0.40 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+first_honeywiner = { # Scholarly focused culture around Oldtown
+	color = { 61 161 119 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+grassman = { # Tribal Reach culture
+	color = { 72 194 129 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+first_arborman = { # Tribal Reach culture
+	color = { 150 17 43 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+groveman = {
+	color = { 193 219 59 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+iron_shieldman = {
+	color = { 0.71 0.71 0.71 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+## Stormlands First Men
+
+first_stormlander = { # Durrandon focused martial culture
+	color = { 230 187 14 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+storm_savage = { # Storm god worshipers, love to raid
+	color = { 71 54 110 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+woodsman = { # Culture around the Stormwoods
+	color = { 135 184 36 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+hookman = { # Culture around the Stormwoods
+	color = { 130 65 96 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+## Dorne Fist Men
+
+high_dornish = { # Culture of the High Kingdom of Dorne
+	color = { 219 100 48 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+daynish = { # Dayne focused culture
+	color = { 209 96 104 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+dorne_nomad = { # Tribal Dornish culture around the less habitable desert areas
+	color = { 191 135 61 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+hill_dornish = { # Tribal culture in the Stone Ways northwest
+	color = { 194 141 89 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}
+
+stone_way_man = { # Culture around the Stone Way
+	color = { 237 116 66 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_fp1_the_right_to_prove
+		tradition_adaptive_skirmishing
+		agot_tradition_firstman
+	}
+
+	name_list = name_list_first_man
+
+	coa_gfx = {
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = {
+		first_man_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		first_man_clothing_gfx
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx
+		west_slavic_clothing_gfx
+	}
+	unit_gfx = {
+		norse_unit_gfx
+	}
+
+	ethnicities = {
+	10 = Northmen_1
+	10 = Northmen_2
+	10 = Northmen_3
+	10 = Northmen_4
+	10 = Northmen_5
+	10 = Northmen_6
+	10 = Northmen_7
+	10 = Northmen_8
+	10 = Northmen_9
+	10 = Northmen_10
+	10 = Northmen_11
+	10 = Northmen_12
+	10 = Northmen_13
+	10 = Northmen_14
+	10 = Northmen_15
+	10 = Northmen_16
+	10 = Northmen_17
+	10 = Northmen_18
+	10 = Northmen_19
+	10 = Northmen_20
+	10 = Northmen_21
+    }
+}

@@ -152,7 +152,7 @@
 ################# b_little_tyrosh ################
 ############ c_uhyrosh_coast - d_quhyrys ###########
 7363 = {
-	culture = tyroshi
+	culture = hartalari
 	religion = trios
 	holding = city_holding
 	7824.1.1 = {
@@ -209,7 +209,7 @@
 ################### b_tandaynish ###################
 ############## c_tandaynish - d_quhyrys #############
 7369 = {
-	culture = tyroshi
+	culture = hartalari
 	religion = trios
 	holding = city_holding
 	7824.1.1 = {
@@ -255,7 +255,7 @@
 ##################### b_kylos #####################
 ################ c_kylos - d_quhyrys ###############
 7373 = {
-	culture = tyroshi
+	culture = hartalari
 	religion = weeping_lady
 	holding = city_holding
 	7824.1.1 = {
@@ -301,7 +301,7 @@
 ################## b_adaron_gates #################
 ############### c_adaron - d_quhyrys ##############
 7378 = {
-	culture = tyroshi
+	culture = hartalari
 	religion = trios
 	holding = castle_holding
 	7824.1.1 = {
@@ -371,7 +371,7 @@
 #################### b_the_step ###################
 ############# c_cape_basibosh - d_quhyrys #############
 7386 = {
-	culture = tyroshi
+	culture = hartalari
 	religion = trios
 	holding = castle_holding
 	7824.1.1 = {

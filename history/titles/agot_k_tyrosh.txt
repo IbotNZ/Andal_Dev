@@ -294,9 +294,6 @@
 	}
 }
 d_tyrosh = {
-	6535.1.1 = {
-		holder = Placeholder_Tyrosh
-	}
 	7800.1.1 = {
 		holder = Basetys_25 # Seqqo
 		liege = k_tyrosh

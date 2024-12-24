@@ -59,14 +59,17 @@
  k_the_hook_2:0 "The Hook"
  k_the_hook_2_adj:0 "Hook"
 
- k_tarth_2:0 "Tarth"
- k_tarth_2adj:0 "Tarth"
+ k_tarth_2:0 "Storm Isles"
+ k_tarth_2adj:0 "Isle"
 
  k_the_stonemarch:0 "The Stonemarch"
  k_the_stonemarch_adj:0 "Stonemarch"
 
+ k_the_stormwood:0 "The Stormwood"
+ k_the_Stormwood_adj:0 "Stormwood"
+
  k_runestone_2:0 "Runestone"
- k_runestone_2_adj:0 "Runestone"
+ k_runestone_2_adj:0 "Runestone"s
 
  k_mountain_vale:0 "The Mountain and Vale"
  k_mountain_vale_adj:0 "Vale"
