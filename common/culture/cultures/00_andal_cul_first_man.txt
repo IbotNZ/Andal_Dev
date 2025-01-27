@@ -249,14 +249,14 @@ first_sisterman = { # Royce unique culture
 tridentman = { # Culture focused around The Trident
 	color = { 52 63 186 }
 
-	ethos = ethos_bellicose
+	ethos = ethos_communal
 	heritage = heritage_first_man
 	language = language_old_tongue
 	martial_custom = martial_custom_male_only
 
 	traditions = {
-		tradition_fp1_the_right_to_prove
-		tradition_adaptive_skirmishing
+		tradition_wetlanders
+		tradition_malleable_subjects
 		agot_tradition_firstman
 	}
 
@@ -310,14 +310,15 @@ tridentman = { # Culture focused around The Trident
 blackwoodian = { # Blackwood unique culture
 	color = { 36 28 97 }
 
-	ethos = ethos_bellicose
+	ethos = ethos_stoic
 	heritage = heritage_first_man
 	language = language_old_tongue
 	martial_custom = martial_custom_male_only
 
 	traditions = {
-		tradition_fp1_the_right_to_prove
-		tradition_adaptive_skirmishing
+		tradition_longbow_competitions
+		tradition_diasporic
+		tradition_prolific_hunters
 		agot_tradition_firstman
 	}
 
@@ -371,13 +372,13 @@ blackwoodian = { # Blackwood unique culture
 river_tribal = { # Southwestern tribal culture
 	color = { 35 146 173 }
 
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_first_man
 	language = language_old_tongue
 	martial_custom = martial_custom_male_only
 
 	traditions = {
-		tradition_fp1_the_right_to_prove
+		tradition_religion_blending
 		tradition_adaptive_skirmishing
 		agot_tradition_firstman
 	}
@@ -438,8 +439,9 @@ bay_man = { # Blackwater bay regional culture
 	martial_custom = martial_custom_male_only
 
 	traditions = {
-		tradition_fp1_the_right_to_prove
-		tradition_adaptive_skirmishing
+		tradition_dexterous_fishermen
+		tradition_maritime_mercantilism
+		tradition_metalworkers
 		agot_tradition_firstman
 	}
 
@@ -501,8 +503,8 @@ first_westerman = { # Mining and wealth focused culture around Casterly Rock
 	martial_custom = martial_custom_male_only
 
 	traditions = {
-		tradition_fp1_the_right_to_prove
-		tradition_adaptive_skirmishing
+		tradition_ancient_miners
+		tradition_castle_keepers
 		agot_tradition_firstman
 	}
 
@@ -562,8 +564,7 @@ rockman = { # Tribal culture in eastern Westerlands
 	martial_custom = martial_custom_male_only
 
 	traditions = {
-		tradition_fp1_the_right_to_prove
-		tradition_adaptive_skirmishing
+		tradition_hill_dwellers
 		agot_tradition_firstman
 	}
 
@@ -623,8 +624,7 @@ crakeman = { # Crakehall focused martial culture
 	martial_custom = martial_custom_male_only
 
 	traditions = {
-		tradition_fp1_the_right_to_prove
-		tradition_adaptive_skirmishing
+		tradition_martial_admiration
 		agot_tradition_firstman
 	}
 
@@ -1176,8 +1176,8 @@ storm_savage = { # Storm god worshipers, love to raid
 	martial_custom = martial_custom_male_only
 
 	traditions = {
-		tradition_fp1_the_right_to_prove
-		tradition_adaptive_skirmishing
+		tradition_practiced_pirates
+		tradition_only_the_strong
 		agot_tradition_firstman
 	}
 
@@ -1237,8 +1237,8 @@ woodsman = { # Culture around the Stormwoods
 	martial_custom = martial_custom_male_only
 
 	traditions = {
-		tradition_fp1_the_right_to_prove
-		tradition_adaptive_skirmishing
+		tradition_forest_folk
+		tradition_forest_fighters
 		agot_tradition_firstman
 	}
 
