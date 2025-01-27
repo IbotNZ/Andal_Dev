@@ -2234,6 +2234,7 @@ Redfort_AI_13 = {
 Redfort_AI_14 = {
 	name = Gwenda
 	dynasty = dynn_Redfort
+	female = yes
 
 	religion = old_gods_south
 	culture = first_man
@@ -2296,6 +2297,7 @@ Redfort_AI_18 = {
 Redfort_AI_19 = {
 	name = Maranna
 	dynasty = dynn_Redfort
+	female = yes
 
 	religion = old_gods_south
 	culture = first_man
@@ -2359,6 +2361,7 @@ Redfort_AI_23 = {
 Redfort_AI_24 = {
 	name = Rowena
 	dynasty = dynn_Redfort
+	female = yes
 
 	religion = old_gods_south
 	culture = first_man
@@ -2371,6 +2374,7 @@ Redfort_AI_24 = {
 Redfort_AI_25 = {
 	name = Gwenda
 	dynasty = dynn_Redfort
+	female = yes
 
 	religion = old_gods_south
 	culture = first_man
@@ -2558,6 +2562,7 @@ Redfort_AI_37 = {
 Redfort_AI_38 = {
 	name = Gwenlyn
 	dynasty = dynn_Redfort
+	female = yes
 
 	religion = old_gods_south
 	culture = first_man
