@@ -187,7 +187,7 @@ Arryn_AI_13 = {
 
 	6372.1.1 = { birth = yes }
 	6381.1.1 = { trait = septon }
-	6428.1.1 = { death = yes }
+	6439.1.1 = { death = { death_reason = death_dragon } }
 }
 # issue of Alester
 Arryn_AI_14 = {
@@ -240,7 +240,20 @@ Arryn_AI_17 = {
 
 	6400.1.1 = { birth = yes }
 	6419.1.1 = { trait = knight }
-	6460.1.1 = { death = yes }
+	6439.1.1 = { death = { death_reason = death_dragon } }
+}
+Arryn_AI_17_b = {
+	name = Roland
+	dynasty = dynn_Arryn
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Arryn_AI_12 # Alester Arryn
+
+	6404.1.1 = { birth = yes }
+	6423.1.1 = { trait = knight }
+	6439.1.1 = { death = { death_reason = death_dragon } }
 }
 # issue of Artys
 Arryn_AI_18 = {
@@ -595,6 +608,11 @@ Arryn_AI_43 = {
 	6555.1.1 = { death = yes }
 }
 
+###### HOUSE HARDYNG (id = dynn_Hardyng)
+############################
+### Balanced and Ready
+###
+
 
 
 ###### HOUSE CORBRAY (id = dynn_Corbray)
@@ -709,3 +727,1959 @@ Templeton_AI_5 = {
 	6512.1.1 = { trait = knight }
 	6533.1.1 = { death = yes }
 }
+
+
+###### HOUSE RUTHERMONT (id = dynn_Ruthermont)
+############################
+###
+###
+
+###### HOUSE ROYCE (id = dynn_Royce)
+############################
+### We Remember
+###
+
+Royce_AI_1 = {
+	name = Yorwyn # I
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	trait = education_martial_5
+	trait = zealous
+	trait = brave
+	trait = just
+	trait = authoritative
+	trait = rowdy
+	trait = physique_good_3
+
+	6000.1.1 = { birth = yes }
+	6087.1.1 = { death = yes }
+}
+### issue of Yorwyn
+Royce_AI_2 = {
+	name = Lyra
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_1 # Yorwyn
+
+	6028.1.1 = { birth = yes }
+	6065.1.1 = { death = yes }
+}
+Royce_AI_3 = {
+	name = Yohn # I
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_1 # Yorwyn
+
+	6032.1.1 = { birth = yes }
+	6089.1.1 = { death = yes }
+}
+Royce_AI_4 = {
+	name = Robar
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_1 # Yorwyn
+
+	6038.1.1 = { birth = yes }
+	6063.1.1 = { death = yes }
+}
+Royce_AI_5 = {
+	name = Andar
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_1 # Yorwyn
+
+	6045.1.1 = { birth = yes }
+	6090.1.1 = { death = yes }
+}
+Royce_AI_6 = {
+	name = Ysilla
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_1 # Yorwyn
+
+	6051.1.1 = { birth = yes }
+	6102.1.1 = { death = yes }
+}
+### issue of Yohn (Royce_AI_3)
+Royce_AI_7 = {
+	name = Yohn # II
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_3 # Yohn
+
+	6054.1.1 = { birth = yes }
+	6098.1.1 = { death = yes }
+}
+Royce_AI_8 = {
+	name = Yorwyn # II
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_3 # Yohn
+
+	6060.1.1 = { birth = yes }
+	6115.1.1 = { death = yes }
+}
+Royce_AI_9 = {
+	name = Serra
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_3 # Yohn
+
+	6066.1.1 = { birth = yes }
+	6100.1.1 = { death = yes }
+}
+### issue of Yohn II (Royce_AI_7)
+Royce_AI_10 = {
+	name = Andar # I
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_7 # Yohn
+
+	6073.1.1 = { birth = yes }
+	6094.1.1 = { death = yes }
+}
+Royce_AI_11 = {
+	name = Lysa
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_7 # Yohn
+
+	6080.1.1 = { birth = yes }
+	6138.1.1 = { death = yes }
+}
+### issue of Yorwyn (Royce_AI_8)
+Royce_AI_12 = {
+	name = Dorren # I
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_8 # Yorwyn
+
+	6081.1.1 = { birth = yes }
+	6098.1.1 = { add_spouse = Royce_AI_11 } # Lysa Royce
+	6127.1.1 = { death = yes }
+}
+Royce_AI_13 = {
+	name = Ysilla
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_8 # Yorwyn
+
+	6084.1.1 = { birth = yes }
+	6140.1.1 = { death = yes }
+}
+Royce_AI_14 = {
+	name = Yohn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_8 # Yorwyn
+
+	6085.1.1 = { birth = yes }
+	6110.1.1 = { death = yes }
+}
+### issue of Dorren (Royce_AI_12)
+Royce_AI_15 = {
+	name = Lysa
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_12 # Dorren
+	mother = Royce_AI_11 # Lysa Royce
+
+	6100.1.1 = { birth = yes }
+	6151.1.1 = { death = yes }
+}
+Royce_AI_16 = {
+	name = Yorwyn # III
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_12 # Dorren
+	mother = Royce_AI_11 # Lysa Royce
+
+	6102.1.1 = { birth = yes }
+	6161.1.1 = { death = yes }
+}
+Royce_AI_17 = {
+	name = Dorrea
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_12 # Dorren
+	mother = Royce_AI_11 # Lysa Royce
+
+	6108.1.1 = { birth = yes }
+	6164.1.1 = { death = yes }
+}
+### issue of Yorwyn (Royce_AI_16)
+Royce_AI_18 = {
+	name = Yohn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_16 # Yorwyn
+
+	trait = twin
+
+	6126.1.1 = { birth = yes }
+	6150.1.1 = { death = yes }
+}
+Royce_AI_19 = {
+	name = Yorwyn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_16 # Yorwyn
+
+	trait = twin
+
+	6126.1.1 = { birth = yes }
+	6177.1.1 = { death = yes }
+}
+### issue of Yohn (Royce_AI_18)
+Royce_AI_20 = {
+	name = Yohn # III
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_18 # Yohn
+
+	6147.1.1 = { birth = yes }
+	6209.1.1 = { death = yes }
+}
+### issue of Yorwyn (Royce_AI_19)
+Royce_AI_21 = {
+	name = Horton
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_19 # Yorwyn
+
+	6149.1.1 = { birth = yes }
+	6186.1.1 = { death = yes }
+}
+Royce_AI_22 = {
+	name = Brandon
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_19 # Yorwyn
+
+	6153.1.1 = { birth = yes }
+	6180.1.1 = { death = yes }
+}
+### issue of Horton (Royce_AI_21)
+Royce_AI_23 = {
+	name = Horton
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_21 # Horton
+
+	6169.1.1 = { birth = yes }
+	6212.1.1 = { death = yes }
+}
+### issue of Yohn III (Royce_AI_20)
+Royce_AI_24 = {
+	name = Ysilla # I
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_20 # Yohn
+
+	6169.1.1 = { birth = yes }
+	6190.1.1 = { add_matrilineal_spouse = Royce_AI_23 } # Horton Royce
+	6230.1.1 = { death = yes }
+}
+Royce_AI_25 = {
+	name = Lyra
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_20 # Yohn
+
+	6172.1.1 = { birth = yes }
+	6217.1.1 = { death = yes }
+}
+Royce_AI_26 = {
+	name = Yorena
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_20 # Yohn
+
+	6178.1.1 = { birth = yes }
+	6234.1.1 = { death = yes }
+}
+### issue of Ysilla (Royce_AI_24)
+Royce_AI_27 = {
+	name = Yoren # I
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_23 # Horton
+	mother = Royce_AI_24 # Ysilla
+
+	6192.1.1 = { birth = yes }
+	6254.1.1 = { death = yes }
+}
+Royce_AI_28 = {
+	name = Horton
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_23 # Horton
+	mother = Royce_AI_24 # Ysilla
+
+	6194.1.1 = { birth = yes }
+	6254.1.1 = { death = yes }
+}
+### issue of Yoren (Royce_AI_27)
+Royce_AI_29 = {
+	name = Horton # I
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_27 # Yoren
+
+	6205.1.1 = { birth = yes }
+	6260.1.1 = { death = yes }
+}
+Royce_AI_30 = {
+	name = Ysilla
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_27 # Yoren
+
+	6212.1.1 = { birth = yes }
+	6253.1.1 = { death = yes }
+}
+### issue of Horton (Royce_AI_29)
+Royce_AI_31 = {
+	name = Yoren II
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+	sexuality = asexual
+
+	father = Royce_AI_29 # Horton
+
+	6224.1.1 = { birth = yes }
+	6277.1.1 = { death = yes }
+}
+Royce_AI_32 = {
+	name = Andar
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_29 # Horton
+
+	6230.1.1 = { birth = yes }
+	6270.1.1 = { death = yes }
+}
+### issue of Andar (Royce_AI_32)
+Royce_AI_33 = {
+	name = Andar # I
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_32 # Andar
+
+	6253.1.1 = { birth = yes }
+	6289.1.1 = { death = yes }
+}
+Royce_AI_34 = {
+	name = Sansa
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_32 # Andar
+
+	6257.1.1 = { birth = yes }
+	6300.1.1 = { death = yes }
+}
+Royce_AI_35 = {
+	name = Yoren
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_32 # Andar
+
+	6261.1.1 = { birth = yes }
+	6319.1.1 = { death = yes }
+}
+### issue of Andar (Royce_AI_33)
+Royce_AI_36 = {
+	name = Yohn # IV
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_33 # Andar
+
+	6275.1.1 = { birth = yes }
+	6310.1.1 = { death = yes }
+}
+Royce_AI_37 = {
+	name = Yorwyck
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_33 # Andar
+
+	trait = education_martial_5
+
+	6280.1.1 = { birth = yes }
+	6337.1.1 = { death = yes }
+}
+Royce_AI_38 = {
+	name = Ysilla
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_33 # Andar
+
+	6283.1.1 = { birth = yes }
+	6320.1.1 = { death = yes }
+}
+### issue of Yohn IV (Royce_AI_36)
+Royce_AI_39 = {
+	name = Andar # II
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_36 # Yohn
+
+	6297.1.1 = { birth = yes }
+	6332.1.1 = { death = yes }
+}
+Royce_AI_40 = {
+	name = Yohn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_36 # Yohn
+
+	6304.1.1 = { birth = yes }
+	6346.1.1 = { death = yes }
+}
+### issue of Yorwyck (Royce_AI_37)
+Royce_AI_41 = {
+	name = Robar
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_37 # Yorwyck
+
+	6303.1.1 = { birth = yes }
+	6334.1.1 = { death = yes }
+}
+### issue of Robar (Royce_AI_41)
+Royce_AI_42 = {
+	name = Alys
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_41 # Robar
+
+	6319.1.1 = { birth = yes }
+	6357.1.1 = { death = yes }
+}
+### issue of Andar II (Royce_AI_39)
+#Royce_11 = {
+#	name = Yorwyck # I
+#	dynasty = dynn_Royce
+#
+#	religion = old_gods_south
+#	culture = first_man
+#
+#	father = Royce_AI_39 # AI ADD
+#
+#	6318.1.1 = { birth = yes }
+#	6336.1.1 = { add_spouse = Royce_AI_42 } # AI ADD
+#	6358.1.1 = { death = yes }
+#}
+Royce_AI_43 = {
+	name = Lyra
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_39 # Andar
+
+	6320.1.1 = { birth = yes }
+	6356.1.1 = { death = yes }
+}
+Royce_AI_44 = {
+	name = Ysilla
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_39 # Andar
+
+	6325.1.1 = { birth = yes }
+	6370.1.1 = { death = yes }
+}
+### issue of Yohn (Royce_AI_40)
+Royce_AI_45 = {
+	name = Yorwyn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_40 # Yohn
+
+	6325.1.1 = { birth = yes }
+	6364.1.1 = { death = yes }
+}
+Royce_AI_46 = {
+	name = Serra
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_40 # Yohn
+
+	6330.1.1 = { birth = yes }
+	6379.1.1 = { death = yes }
+}
+### issue of Yorwyck (Royce_11)
+#Royce_12 = {
+#	name = Yorwyck # II
+#	dynasty = dynn_Royce
+#
+#	religion = old_gods_south
+#	culture = first_man
+#
+#	father = Royce_11
+#	mother = Royce_AI_42 # AI ADD
+#
+#	6337.1.1 = { birth = yes }
+#	6383.1.1 = { death = yes }
+#}
+Royce_AI_47 = {
+	name = Alys
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_11 # Yorwyck
+	mother = Royce_AI_42 # Alys
+
+	6340.1.1 = { birth = yes }
+	6388.1.1 = { death = yes }
+}
+Royce_AI_48 = {
+	name = Yohn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_11 # Yorwyck
+	mother = Royce_AI_42 # Alys
+
+	6346.1.1 = { birth = yes }
+	6394.1.1 = { death = yes }
+}
+Royce_AI_49 = {
+	name = Andar
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_11 # Yorwyck
+	mother = Royce_AI_42 # Alys
+
+	6350.1.1 = { birth = yes }
+	6376.1.1 = { death = yes }
+}
+### issue of Yorwyck II (Royce_12)
+#Royce_13 = {
+#	name = Yorwyck # III
+#	dynasty = dynn_Royce
+#
+#	religion = old_gods_south
+#	culture = first_man
+#
+#	father = Royce_12
+#
+#	6358.1.1 = { birth = yes }
+#	6413.1.1 = { death = yes }
+#}
+### issue of Yohn (Royce_AI_48)
+Royce_AI_50 = {
+	name = Yoren
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_48 # Yohn
+
+	6357.1.1 = { birth = yes }
+	6402.1.1 = { death = yes }
+}
+Royce_AI_51 = {
+	name = Ysilla
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_48 # Yohn
+
+	6360.1.1 = { birth = yes }
+	6397.1.1 = { death = yes }
+}
+Royce_AI_52 = {
+	name = Yohn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_48 # Yohn
+
+	6365.1.1 = { birth = yes }
+	6420.1.1 = { death = yes }
+}
+### issue of Yoren (Royce_AI_50)
+Royce_AI_53 = {
+	name = Andar
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_50 # Yoren
+
+	6379.1.1 = { birth = yes }
+	6415.1.1 = { death = yes }
+}
+### issue of Yohn (Royce_AI_52)
+Royce_AI_54 = {
+	name = Anya
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_52 # Yohn
+
+	6388.1.1 = { birth = yes }
+	6440.1.1 = { death = yes }
+}
+Royce_AI_55 = {
+	name = Yohn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_52 # Yohn
+
+	6395.1.1 = { birth = yes }
+	6438.1.1 = { death = yes }
+}
+Royce_AI_56 = {
+	name = Robar
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_52 # Yohn
+
+	6399.1.1 = { birth = yes }
+	6461.1.1 = { death = yes }
+}
+### issue of Robar (Royce_AI_56)
+Royce_AI_57 = {
+	name = Yohn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_56 # Robar
+
+	6424.1.1 = { birth = yes }
+	6458.1.1 = { death = yes }
+}
+### issue of Yohn (Royce_AI_57)
+Royce_AI_58 = {
+	name = Robar
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_57 # Yohn
+
+	6457.1.1 = { birth = yes }
+	6520.1.1 = { death = yes }
+}
+### issue of Robar (Royce_AI_58)
+Royce_AI_59 = {
+	name = Yohn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_58 # Robar
+
+	6503.1.1 = { birth = yes }
+	6536.1.1 = { death = yes }
+}
+Royce_AI_60 = {
+	name = Lyra
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_58 # Robar
+
+	6508.1.1 = { birth = yes }
+	6570.1.1 = { death = yes }
+}
+### issue of Yohn (Royce_AI_59)
+Royce_AI_61 = {
+	name = Andar
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_59 # Yohn
+
+	6521.1.1 = { birth = yes }
+	6568.1.1 = { death = yes }
+}
+Royce_AI_62 = {
+	name = Yorwyck
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_59 # Yohn
+
+	6523.1.1 = { birth = yes }
+	6538.6.6 = { death = yes }
+}
+### issue of Yorwyck III (Royce_13)
+Royce_AI_63 = {
+	name = Yohn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_13
+
+	6381.1.1 = { birth = yes }
+	6400.1.1 = { death = yes }
+}
+Royce_AI_64 = {
+	name = Robara
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_13
+
+	6385.1.1 = { birth = yes }
+	6434.1.1 = { death = yes }
+}
+Royce_AI_65 = {
+	name = Ysilla
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_13
+
+	6388.1.1 = { birth = yes }
+	6420.1.1 = { death = yes }
+}
+Royce_AI_66 = {
+	name = Robar
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_13
+
+	6393.1.1 = { birth = yes }
+	6411.1.1 = { death = yes }
+}
+#Royce_14 = {
+#	name = Yorwyck # IV
+#	dynasty = dynn_Royce
+#
+#	religion = old_gods_south
+#	culture = first_man
+#
+#	father = Royce_13
+#
+#	6394.1.1 = { birth = yes }
+#	6445.1.1 = { death = yes }
+#}
+### issue of Yorwyck IV (Royce_14)
+Royce_AI_67 = {
+	name = Robar
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_14
+
+	6414.1.1 = { birth = yes }
+	6438.1.1 = { death = yes }
+}
+Royce_AI_68 = {
+	name = Lysa
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_14
+
+	6419.1.1 = { birth = yes }
+	6487.1.1 = { death = yes }
+}
+#Royce_15 = {
+#	name = Yorwyck # Mentioned, Yorwyck V
+#	dynasty = dynn_Royce
+#
+#	religion = old_gods_south
+#	culture = first_man
+#
+#	father = Royce_14
+#
+#	6422.1.1 = {
+#		birth = yes
+#		add_character_flag = canon_status_mentioned
+#	}
+#	6475.1.1 = {
+#		death = { death_reason = death_battle }
+#	}
+#}
+Royce_AI_69 = {
+	name = Andar
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_14
+
+	6425.1.1 = { birth = yes }
+	6462.1.1 = { death = yes }
+}
+### issue of Andar (Royce_AI_69)
+Royce_AI_70 = {
+	name = Ellard
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_69 # Andar
+
+	6450.1.1 = { birth = yes }
+	6503.1.1 = { death = yes }
+}
+### issue of Ellard (Royce_AI_70)
+Royce_AI_71 = {
+	name = Brandon
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_70 # Ellard
+
+	6477.1.1 = { birth = yes }
+	6538.6.6 = { death = yes }
+}
+Royce_AI_72 = {
+	name = Yorwyn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_70 # Ellard
+
+	6480.1.1 = { birth = yes }
+	6517.1.1 = { death = yes }
+}
+### issue of Brandon (Royce_AI_71)
+Royce_AI_73 = {
+	name = Alys
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_71 # Brandon
+
+	6500.1.1 = { birth = yes }
+	6536.1.1 = { death = yes }
+}
+Royce_AI_74 = {
+	name = Sarra
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_71 # Brandon
+
+	6506.1.1 = { birth = yes }
+	6547.1.1 = { death = yes }
+}
+Royce_AI_75 = {
+	name = Ellard
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_71 # Brandon
+
+	6510.1.1 = { birth = yes }
+	6528.1.1 = { death = yes }
+}
+Royce_AI_76 = {
+	name = Branda
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_71 # Brandon
+
+	6513.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+Royce_AI_77 = {
+	name = Brandon
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_71 # Brandon
+
+	6516.1.1 = { birth = yes }
+	6538.6.6 = { death = yes }
+}
+### issue of Yorwyn (Royce_AI_72)
+Royce_AI_78 = {
+	name = Yorwyn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_72 # Yorwyn
+
+	6506.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+### issue of Yorwyn (Royce_AI_78)
+Royce_AI_79 = {
+	name = Yorwyn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_78 # Yorwyn
+
+	6527.1.1 = { birth = yes }
+	6575.1.1 = { death = yes }
+}
+Royce_AI_80 = {
+	name = Yorwena
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_AI_78 # Yorwyn
+
+	6530.1.1 = { birth = yes }
+	6579.1.1 = { death = yes }
+}
+### issue of Yorwyck V (Royce_15)
+#Royce_16 = {
+#	name = Yorwyck # Canon, Yorwyck VI, Bronze King when Andals landed
+#	dynasty = dynn_Royce
+#
+#	martial = 7
+#	prowess = 12
+#
+#	religion = old_gods_south
+#	culture = first_man
+#
+#	father = Royce_15
+#
+#	trait = education_martial_4
+#	trait = zealous
+#	trait = wrathful
+#	trait = authoritative
+#	trait = rowdy
+#
+#	disallow_random_traits = yes
+#
+#	6446.1.1 = {
+#		birth = yes
+#		add_character_flag = has_scripted_appearance
+#		add_character_flag = canon_status_canon
+#	}
+#	6500.1.1 = { death = yes }
+#}
+Royce_AI_81 = {
+	name = Yorwell
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_15 # Yorwyck
+
+	6452.1.1 = { birth = yes }
+	6498.1.1 = { death = yes }
+}
+### issue of Yorwyck V (Royce 16)
+Royce_AI_82 = {
+	name = Yorwyck
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_16 # Yorwyck
+
+	6469.1.1 = { birth = yes }
+	6497.1.1 = { death = yes }
+}
+Royce_AI_83 = {
+	name = Horton
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_16 # Yorwyck
+
+	6475.1.1 = { birth = yes }
+	6493.1.1 = { death = yes }
+}
+Royce_AI_84 = {
+	name = Ysilla
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_16 # Yorwyck
+
+	6480.1.1 = { birth = yes }
+	6514.1.1 = { death = yes }
+}
+Royce_AI_85 = {
+	name = Arwen
+	dynasty = dynn_Royce
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_16 # Yorwyck
+
+	6484.1.1 = { birth = yes }
+	6529.1.1 = { death = yes }
+}
+#Royce_17 = {
+#	name = Robar # I
+#	dynasty = dynn_Royce
+#	dna = Royce_17
+#
+#	religion = old_gods_south
+#	culture = first_man
+#
+#	father = Royce_16
+#
+#	6487.1.1 = { birth = yes }
+#	6531.1.1 = { death = yes }
+#}
+### Issue of Robar (Royce_17)
+Royce_AI_86 = {
+	name = Yorwyck
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_16 # Yorwyck
+
+	6506.1.1 = { birth = yes }
+	6525.1.1 = { death = yes }
+}
+Royce_AI_89 = {
+	name = Yohn
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_16 # Yorwyck
+
+	6511.1.1 = { birth = yes }
+	6529.1.1 = { death = yes }
+}
+#Royce_18 = {
+#	name = Robar # Canon, Robar II, High King of The Vale
+#	dynasty = dynn_Royce
+#
+#	martial = 8
+#	diplomacy = 10
+#	intrigue = 7
+#	stewardship = 4
+#	learning = 4
+#	prowess = 24
+#
+#	religion = old_gods_south
+#	culture = first_man
+#
+#	father = Royce_17
+#
+#	trait = education_diplomacy_4
+#	trait = intellect_good_1
+#	trait = brave
+#	trait = gregarious
+#	trait = authoritative
+#	trait = ambitious
+#	trait = rowdy
+#
+#	disallow_random_traits = yes
+#
+#	6515.12.27 = {
+#		birth = yes
+#		add_character_flag = has_scripted_appearance
+#		add_character_flag = canon_status_canon
+#	}
+#	6538.6.6 = {
+#		death = {
+#			death_reason = death_battle # Battle of the Seven Stars
+#			killer = Corbray_9 # Jaime Corbray
+#		}
+#	}
+#}
+#Royce_19 = {
+#	name = Ysilla # Mentioned, persuaded the Shetts to rise against the Graftons
+#	dynasty = dynn_Royce
+#	female = yes
+#
+#	religion = old_gods_south
+#	culture = first_man
+#
+#	father = Royce_17
+#
+#	trait = education_diplomacy_4
+#	trait = diligent
+#	trait = gregarious
+#	trait = authoritative
+#	trait = zealous
+#	trait = charming
+#
+#	disallow_random_traits = yes
+#
+#	6518.1.1 = {
+#		birth = yes
+#		add_character_flag = canon_status_mentioned
+#	}
+#	6565.1.1 = { death = yes }
+#}
+Royce_AI_90 = {
+	name = Yorwell
+	dynasty = dynn_Royce
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Royce_16 # Yorwyck
+
+	6521.1.1 = { birth = yes }
+	6569.1.1 = { death = yes }
+}
+
+
+###### HOUSE GRAFTON (id = dynn_Grafton)
+############################
+###
+###
+
+###### HOUSE REDFORT (id = dynn_Redfort)
+############################
+### As Strong as Stone
+###
+
+
+###### HOUSE WAYNWOOD (id = dynn_Waynwood)
+############################
+### Onwards
+###
+
+
+###### HOUSE MELCOLM (id = dynn_Melcolm)
+############################
+###
+###
+
+
+###### HOUSE HUNTER (id = dynn_Hunter)
+############################
+###
+###
+
+
+###### HOUSE UPCLIFF (id = dynn_Upcliff)
+############################
+###
+###
+
+
+###### HOUSE MOORE (id = dynn_Moore)
+############################
+###
+###
+
+###### HOUSE SHETT (id = dynn_Shett)
+############################
+### Flight Takes Distance
+###
+
+
+###### HOUSE BREAKSTONE (id = dynn_Breakstone)
+############################
+###
+###
+
+
+###### HOUSE CRAYNE (id = dynn_Crayne)
+############################
+###
+###
+
+
+###### HOUSE WYDMAN (id = dynn_Wydman)
+############################
+### Right Conquers Might
+###
+# DIDN'T EXIST YET
+
+###### HOUSE TRUE (id = dynn_True)
+############################
+###
+###
+
+###### HOUSE DONNERLY (id = dynn_Donnerly)
+############################
+###
+###
+
+###### HOUSE SELDON (id = dynn_Seldon)
+############################
+###
+###
+
+############################    MOUNTAINS OF THE MOON   ############################
+####################################################################################
+
+###### HOUSE BELMORE (id = dynn_Belmore)
+############################
+###
+###
+
+###### HOUSE EGEN (id = dynn_Egen)
+############################
+### By Day or Night
+###
+
+###### HOUSE WAXLEY (id = dynn_Waxley)
+############################
+### Light in Darkness
+###
+
+###### HOUSE WEATHERWAX (id = dynn_Weatherwax)
+############################
+###
+###
+
+###### HOUSE LIPPS (id = dynn_Lipps)
+############################
+###
+###
+
+###### HOUSE DUTTON (id = dynn_Dutton)
+############################
+###
+###
+
+###### HOUSE DONNIGER (id = dynn_Donniger)
+############################
+###
+###
+
+###### HOUSE WARRICK (id = dynn_Warrick)
+############################
+###
+###
+
+###### HOUSE MARSTEN (id = dynn_Marsten)
+############################
+### Let the Heavens Reign
+###
+
+############################         THE FINGERS        ############################
+####################################################################################
+
+###### HOUSE SHELL (id = dynn_Shell_Vale)
+############################
+###
+###
+
+###### HOUSE BRIGHTSTONE (id = dynn_Brightstone)
+############################
+###
+###
+
+###### HOUSE LYNDERLY (id = dynn_Lynderly)
+############################
+###
+###
+
+###### HOUSE HERSY (id = dynn_Hersy)
+############################
+###
+###
+
+###### HOUSE ELESHAM (id = dynn_Elesham)
+############################
+###
+###
+
+###### HOUSE PRYOR (id = dynn_Pryor)
+############################
+###
+###
+
+###### HOUSE COLDWATER (id = dynn_Coldwater)
+############################
+###
+###
+
+###### HOUSE TOLLETT (id = dynn_Tollett)
+############################
+### When All is Darkest
+###
+
+
+###### HOUSE HUNGERFORD (id = dynn_Hungerford)
+############################
+###
+###
+
+###### HOUSE BAELISH (id = dynn_Baelish)
+############################
+### Look Around You
+###
+# NOT FOUNDED YET
+
+###### HOUSE WOODHULL (id = dynn_Woodhull)
+############################
+###
+###
+
+
+###### HOUSE MORGRYN (id = dynn_Morgryn)
+############################
+###
+###
+
+
+###### HOUSE MARKS (id = dynn_Marks)
+############################
+###
+###
+
+
+############################         THE SISTERS        ############################
+####################################################################################
+
+###### HOUSE SUNDERLAND (id = dynn_Sunderland)
+############################
+###
+###
+
+
+###### HOUSE BORRELL (id = dynn_Borrell)
+############################
+###
+###
+
+
+###### HOUSE LONGTHORPE (id = dynn_Longthorpe)
+############################
+###
+###
+
+
+###### HOUSE TORRENT (id = dynn_Torrent)
+############################
+###
+###
+
+
+############################      MODCANON HOUSES       ############################
+####################################################################################
+
+###### HOUSE CULLIMORE (id = dynn_Cullimore)
+############################
+###
+###
+
+
+###### HOUSE BRETHERICK (id = dynn_Bretherick)
+############################
+###
+###
+
+
+###### HOUSE CHASE (id = dynn_Chase)
+############################
+###
+###
+
+
+###### HOUSE RAN CAMMON (id = dynn_Ran_Cammon)
+############################
+###
+###
+
+
+###### HOUSE BARNABY (id = dynn_Lushry)
+############################
+###
+###
+
+
+###### HOUSE KINNEAR (id = dynn_Kinnear)
+############################
+###
+###
+
+
+###### HOUSE TOPP (id = dynn_Topp)
+############################
+### Rock and Stone
+###
+
+
+###### HOUSE GORSE (id = dynn_Gorse)
+############################
+### Till We Fall
+###
+
+
+###### HOUSE RUTLEY (id = dynn_Rutley)
+############################
+###
+###
+
+
+###### HOUSE WEIGHT (id = dynn_Weight)
+############################
+###
+###
+
+
+###### HOUSE HARROW (id = dynn_Harrow)
+############################
+###
+###
+
+
+###### HOUSE DEVENER (id = dynn_Devener)
+############################
+###
+###
+
+
+###### HOUSE WHICKETT (id = dynn_Whickett)
+############################
+###
+###
+
+
+###### HOUSE AULDRYN (id = dynn_Auldryn)
+############################
+###
+###
+
+
+###### HOUSE MULLYN (id = dynn_Mullyn)
+############################
+###
+###
+
+
+###### HOUSE GARNETT (id = dynn_Garnett)
+############################
+###
+###
+
+
+###### HOUSE STEWART (id = dynn_Stewart)
+############################
+###
+###
+
+
+###### HOUSE WEBSTER (id = dynn_Webster)
+############################
+###
+###
+
+
+###### HOUSE ORIMUND (id = dynn_Orimund)
+############################
+###
+###
+
+
+###### HOUSE VERLAYN (id = dynn_Verlayn)
+############################
+###
+###
+
+
+###### HOUSE BEALE (id = dynn_Beale)
+############################
+###
+###
+
+
+###### HOUSE DARKHOLME (id = dynn_Darkholme)
+############################
+###
+###
+
+
+###### HOUSE CREWS (id = dynn_Crews)
+############################
+###
+###
+
+
+###### HOUSE WITT (id = dynn_Witt)
+############################
+###
+###
+
+
+###### HOUSE DRISCOLL (id = dynn_Driscoll)
+############################
+###
+###
+
+
+###### HOUSE KURRIGAN (id = dynn_Kurrigan)
+############################
+###
+###
+
+
+###### HOUSE ALTGER (id = dynn_Altger)
+############################
+###
+###
+
+
+###### HOUSE HALCOTT (id = dynn_Halcott)
+############################
+###
+###
+
+
+###### HOUSE SHELLDRAKE (id = dynn_Shelldrake)
+############################
+###
+###
+
+
+###### HOUSE JESPER (id = dynn_Jesper)
+############################
+###
+###
+
+
+###### HOUSE VEARNON (id = dynn_Vearnon)
+############################
+###
+###
+
+
+###### HOUSE MORRIS (id = dynn_Morris)
+############################
+###
+###
+
+
+###### HOUSE SEASONS (id = dynn_Seasons)
+############################
+###
+###
+
+
+###### HOUSE DEN BROVE (id = dynn_Den_Brove)
+############################
+###
+###
+
+
+###### HOUSE BOMMENSTONE (id = dynn_Bommenstone)
+############################
+###
+###
+
+
+###### HOUSE WILTWOOD (id = dynn_Wiltwood)
+############################
+###
+###
+
+
+###### HOUSE BLEAKER (id = dynn_Bleaker)
+############################
+###
+###
+
+
+###### HOUSE GROLT (id = dynn_Grolt)
+############################
+###
+###
+
+
+###### HOUSE SYMES (id = dynn_Symes)
+############################
+###
+###
+
+
+###### HOUSE BRASK (id = dynn_Brask)
+############################
+###
+###
+
+
+###### HOUSE REVERE (id = dynn_Revere)
+############################
+###
+###
+
+
+###### HOUSE FLATTERY (id = dynn_Flattery)
+############################
+###
+###
+
+
+###### HOUSE GARRISH (id = dynn_Garrish)
+############################
+###
+###
+
+
+###### HOUSE COLLARANCE (id = dynn_Collarance)
+############################
+###
+###
+
+
+###### HOUSE RICHTER (id = dynn_Richter)
+############################
+###
+###
+
+
+###### HOUSE OLDFIELD (id = dynn_Oldfield)
+############################
+###
+###
+
+
+###### HOUSE LESPER (id = dynn_Lesper)
+############################
+###
+###
+
+
+###### HOUSE AMERSHAM (id = dynn_Amersham)
+############################
+###
+###
+
+
+###### HOUSE ILDERMONT (id = dynn_Ildermont)
+############################
+###
+###
+
+
+###### HOUSE SWALE (id = dynn_Swale)
+############################
+###
+###
+
+
+###### HOUSE TREYMORE (id = dynn_Treymore)
+############################
+###
+###
+
+
+###### HOUSE GLIMVANE (id = dynn_Glimvane)
+############################
+###
+###
+
+
+###### HOUSE WERLOREN (id = dynn_Werloren)
+############################
+###
+###
+
+
+###### HOUSE LINDHORN (id = dynn_Lindhorn)
+############################
+###
+###
+
+
+###### HOUSE CONVERY (id = dynn_Convery)
+############################
+###
+###
+
+
+###### HOUSE HANDLEY (id = dynn_Handley)
+############################
+###
+###
+
+############################      ANDAL INVASION MODCANON HOUSES       ############################
+###################################################################################################
+
+# HOUSE MISTY
+
+# HOUSE ATTERWOOD
+
+# HOUSE WILLOW
+
+# HOUSE BALDON
+
+# HOUSE GREYPOOL
+
+# HOUSE RECKSHAW
+
+# HOUSE EVENTIDE
+
+# HOUSE DAGOR
+
+# HOUSE ROCKHEART
+
+# HOUSE BLUEWATER
+
+# HOUSE REDGLADE
+
+# HOUSE CREST
+
+# HOUSE MOONSWORD
+
+# HOUSE GRIFFIN
+
+# HOUSE BLOODHOLT
+
+# HOUSE DARKMONT
+
+# HOUSE STONECROW
+
+# HOUSE HOWLER
+
+# HOUSE REDSMITH
+
+# (HOUSE LIGHTPOOL)
+
+# HOUSE WICKEN
+
+# HOUSE BRONZEGUARD
+
+# HOUSE IRONOAK
+
+# HOUSE RYEFELD
+
+# HOUSE LYMESTONE
+
+# (HOUSE TURRYN)
+
+# HOUSE WRECKE
+
+
+

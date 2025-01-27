@@ -7594,7 +7594,10 @@ Royce_11 = {
 	religion = old_gods_south
 	culture = first_man
 
+	father = Royce_AI_39 # AI ADD
+
 	6318.1.1 = { birth = yes }
+	6336.1.1 = { add_spouse = Royce_AI_42 } # AI ADD
 	6358.1.1 = { death = yes }
 }
 Royce_12 = {
@@ -7605,6 +7608,7 @@ Royce_12 = {
 	culture = first_man
 
 	father = Royce_11
+	mother = Royce_AI_42 # AI ADD
 
 	6337.1.1 = { birth = yes }
 	6383.1.1 = { death = yes }
