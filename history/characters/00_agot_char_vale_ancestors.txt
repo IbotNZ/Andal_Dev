@@ -11535,6 +11535,8 @@ Redfort_6 = {
 	religion = old_gods_south
 	culture = first_man
 
+	father = Redfort_AI_27 # AI ADD
+
 	6502.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_mentioned
