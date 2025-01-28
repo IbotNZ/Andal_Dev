@@ -2069,6 +2069,509 @@ Royce_AI_90 = {
 ### As Strong as Stone
 ###
 
+Redfort_AI_1 = {
+	name = Jon
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	6301.1.1 = { birth = yes }
+	6372.1.1 = { death = yes }
+}
+Redfort_AI_2 = {
+	name = Royce
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_1 # Jon
+
+	6324.1.1 = { birth = yes }
+	6365.1.1 = { death = yes }
+}
+Redfort_AI_3 = {
+	name = Rickard
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_1 # Jon
+
+	6329.1.1 = { birth = yes }
+	6380.1.1 = { death = yes }
+}
+Redfort_AI_4 = {
+	name = Gwenda
+	dynasty = dynn_Redfort
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_1 # Jon
+
+	6333.1.1 = { birth = yes }
+	6374.1.1 = { death = yes }
+}
+### issue of Royce (Redfort_AI_2)
+Redfort_AI_5 = {
+	name = Jonnel
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_2 # Royce
+
+	6346.1.1 = { birth = yes }
+	6397.1.1 = { death = yes }
+}
+Redfort_AI_6 = {
+	name = Margara
+	dynasty = dynn_Redfort
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_2 # Royce
+
+	6349.1.1 = { birth = yes }
+	6384.1.1 = { death = yes }
+}
+Redfort_AI_7 = {
+	name = Torren
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_2 # Royce
+
+	6351.1.1 = { birth = yes }
+	6412.1.1 = { death = yes }
+}
+### issue of Torren (Redfort_AI_7)
+Redfort_AI_8 = {
+	name = Torren
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_7 # Torren
+
+	6373.1.1 = { birth = yes }
+	6425.1.1 = { death = yes }
+}
+Redfort_AI_9 = {
+	name = Gwenna
+	dynasty = dynn_Redfort
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_7 # Torren
+
+	6375.1.1 = { birth = yes }
+	6440.1.1 = { death = yes }
+}
+### issue of Jonnel (Redfort_AI_5)
+Redfort_AI_10 = {
+	name = Royce
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_5 # Jonnel
+
+	6369.1.1 = { birth = yes }
+	6422.1.1 = { death = yes }
+}
+Redfort_AI_11 = {
+	name = Jorelle
+	dynasty = dynn_Redfort
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_5 # Jonnel
+
+	6371.1.1 = { birth = yes }
+	6426.1.1 = { death = yes }
+}
+Redfort_AI_12 = {
+	name = Rickard
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_5 # Jonnel
+
+	6375.1.1 = { birth = yes }
+	6414.1.1 = { death = yes }
+}
+### issue of Jonnel (Redfort_AI_10)
+Redfort_AI_13 = {
+	name = Rickard
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_10 # Royce
+
+	6392.1.1 = { birth = yes }
+	6437.1.1 = { death = yes }
+}
+Redfort_AI_14 = {
+	name = Gwenda
+	dynasty = dynn_Redfort
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_10 # Royce
+
+	6396.1.1 = { birth = yes }
+	6443.1.1 = { death = yes }
+}
+### issue of Rickard (Redfort_AI_13)
+Redfort_AI_15 = {
+	name = Royce
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_13 # Rickard
+
+	6415.1.1 = { birth = yes }
+	6434.1.1 = { death = yes }
+}
+Redfort_AI_16 = {
+	name = Horton
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_13 # Rickard
+
+	6418.1.1 = { birth = yes }
+	6467.1.1 = { death = yes }
+}
+Redfort_AI_17 = {
+	name = Jon
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_13 # Rickard
+
+	6426.1.1 = { birth = yes }
+	6482.1.1 = { death = yes }
+}
+### issue of Horton (Redfort_AI_16)
+Redfort_AI_18 = {
+	name = Royce
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_16 # Horton
+
+	6442.1.1 = { birth = yes }
+	6490.1.1 = { death = yes }
+}
+Redfort_AI_19 = {
+	name = Maranna
+	dynasty = dynn_Redfort
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_16 # Horton
+
+	6447.1.1 = { birth = yes }
+	6484.1.1 = { death = yes }
+}
+Redfort_AI_20 = {
+	name = Horton
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_16 # Horton
+
+	6450.1.1 = { birth = yes }
+	6521.1.1 = { death = yes }
+}
+### issue of Jon (Redfort_AI_17)
+Redfort_AI_21 = {
+	name = Rickard
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_17 # Jon
+
+	6453.1.1 = { birth = yes }
+	6514.1.1 = { death = yes }
+}
+### issue of Rickard (Redfort_AI_21)
+Redfort_AI_22 = {
+	name = Jonnel
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_21 # Rickard
+
+	6478.1.1 = { birth = yes }
+	6538.6.6 = { death = { death_reason = death_battle } } # Battle of the Seven Stars
+}
+### issue of Jonnel (Redfort_AI_22)
+Redfort_AI_23 = {
+	name = Rickon
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_22 # Jonnel
+
+	6501.1.1 = { birth = yes }
+	6538.6.6 = { death = { death_reason = death_battle } } # Battle of the Seven Stars
+}
+Redfort_AI_24 = {
+	name = Rowena
+	dynasty = dynn_Redfort
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_22 # Jonnel
+
+	6506.1.1 = { birth = yes }
+	6550.1.1 = { death = yes }
+}
+Redfort_AI_25 = {
+	name = Gwenda
+	dynasty = dynn_Redfort
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_22 # Jonnel
+
+	6513.1.1 = { birth = yes }
+	6547.1.1 = { death = yes }
+}
+Redfort_AI_26 = {
+	name = Jon
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_22 # Jonnel
+
+	6518.1.1 = { birth = yes }
+	6580.1.1 = { death = yes }
+}
+### issue of Royce (Redfort_AI_18)
+Redfort_AI_27 = {
+	name = Robar
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_18 # Royce
+
+	6469.1.1 = { birth = yes }
+	6511.1.1 = { death = yes }
+}
+Redfort_AI_28 = {
+	name = Roger
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_18 # Royce
+
+	6473.1.1 = { birth = yes }
+	6529.1.1 = { death = yes }
+}
+Redfort_AI_29 = {
+	name = Ryella
+	dynasty = dynn_Redfort
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_18 # Royce
+
+	6477.1.1 = { birth = yes }
+	6541.1.1 = { death = yes }
+}
+
+### issue of Robar (Redfort_AI_27)
+Redfort_AI_30 = {
+	name = Gwenys
+	dynasty = dynn_Redfort
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_27 # Robar
+
+	6493.1.1 = { birth = yes }
+	6550.1.1 = { death = yes }
+}
+Redfort_AI_31 = {
+	name = Marna
+	dynasty = dynn_Redfort
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_27 # Robar
+
+	6496.1.1 = { birth = yes }
+	6540.1.1 = { death = yes }
+}
+#Redfort_6 = {
+#	name = Royce # Mentioned, a lord
+#	dynasty = dynn_Redfort
+#
+#	religion = old_gods_south
+#	culture = first_man
+#
+#	father = Redfort_AI_27 # AI ADD
+#
+#	6502.1.1 = {
+#    		birth = yes
+#    		add_character_flag = canon_status_mentioned
+#	}
+#	6538.6.6 = {
+#    		trait = maimed
+#    		death = {
+#     	 		death_reason = death_battle # Battle of the Seven Stars
+#        			killer = Tollett_7 # Torgold Tollett
+#    		}
+#	}
+#}
+Redfort_AI_32 = {
+	name = Horton
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_27 # Robar
+
+	6505.1.1 = { birth = yes }
+	6539.1.1 = { death = yes }
+}
+### issue of Roger (Redfort_AI_28)
+Redfort_AI_33 = {
+	name = Roger
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_28 # Roger
+
+	6498.1.1 = { birth = yes }
+	6538.6.6 = { death = { death_reason = death_battle } }
+}
+### issue of Royce (Redfort_6)
+Redfort_AI_34 = {
+	name = Royce
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_6 # Royce
+
+	6523.1.1 = { birth = yes }
+	6565.1.1 = { death = yes }
+}
+Redfort_AI_35 = {
+	name = Ryella
+	dynasty = dynn_Redfort
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_6 # Royce
+
+	6526.1.1 = { birth = yes }
+	6561.1.1 = { death = yes }
+}
+Redfort_AI_36 = {
+	name = Robar
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_6 # Royce
+
+	6528.1.1 = { birth = yes }
+	6573.1.1 = { death = yes }
+}
+### issue of Horton (Redfort_AI_32)
+Redfort_AI_37 = {
+	name = Yohn
+	dynasty = dynn_Redfort
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_32 # Horton
+
+	6527.1.1 = { birth = yes }
+	6552.1.1 = { death = yes }
+}
+Redfort_AI_38 = {
+	name = Gwenlyn
+	dynasty = dynn_Redfort
+	female = yes
+
+	religion = old_gods_south
+	culture = first_man
+
+	father = Redfort_AI_32 # Horton
+
+	6530.1.1 = { birth = yes }
+	6558.1.1 = { death = yes }
+}
 
 ###### HOUSE WAYNWOOD (id = dynn_Waynwood)
 ############################
