@@ -125,6 +125,7 @@ Arryn_15 = {
 Arryn_16 = {
 	name = Steffon # Semi-Canon, Stefen Arryn, a lord
 	dynasty = dynn_Arryn
+	dna = Arryn_16
 
 	religion = the_seven_main
 	culture = valeman
@@ -140,6 +141,7 @@ Arryn_16 = {
 Arryn_18 = {
 	name = Alester # a lord
 	dynasty = dynn_Arryn
+	dna = Arryn_18
 
 	religion = the_seven_main
 	culture = valeman
@@ -302,6 +304,7 @@ Arryn_24 = {
 		add_character_flag = canon_status_canon
 	}
 	6608.1.1 = { trait = temperate }
+	6609.1.1 = { add_matrilineal_spouse = Arryn_19 } # Elys Arryn
 	6624.1.1 = {
 		trait = honest
 		trait = callous
@@ -3541,8 +3544,10 @@ Hardyng_52 = {
 	trait = twin
 
 	8150.1.1 = { birth = yes }
-	8166.1.1 = { add_spouse = Hardyng_rs_52 }
-	8166.1.1 = { trait = knight }
+	8166.1.1 = {
+		add_spouse = Hardyng_rs_52
+		trait = knight
+	}
 	8213.1.1 = {
 		death = { death_reason = death_choked }
 	}
@@ -4152,8 +4157,10 @@ Corbray_11 = {
 	father = Corbray_10
 
 	7830.1.1 = { birth = yes }
-	7848.1.1 = { add_spouse = Corbray_rs_11 }
-	7848.1.1 = { trait = knight }
+	7848.1.1 = {
+		add_spouse = Corbray_rs_11
+		trait = knight
+	}
 	7884.1.1 = { death = yes }
 }
 Corbray_rs_11 = {
@@ -4368,8 +4375,10 @@ Corbray_65 = {
 	mother = Corbray_rs_61
 
 	7898.1.1 = { birth = yes }
-	7914.1.1 = { add_spouse = Corbray_rs_65 }
-	7914.1.1 = { trait = knight }
+	7914.1.1 = {
+		add_spouse = Corbray_rs_65
+		trait = knight
+	}
 	7965.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -5065,6 +5074,7 @@ Corbray_51 = {
 Corbray_43 = {
 	name = Simona # Semi-Canon, married Edmure Tully
 	dynasty = dynn_Corbray
+	dna = Corbray_43
 	female = yes
 
 	religion = the_seven_main
@@ -5116,7 +5126,6 @@ Corbray_44 = {
 			agot_knighted_char_history_effect = { KNIGHT = character:Tully_44 } # Kermit Tully
 		}
 	}
-	8164.4.12 = { add_spouse = Farman_47 } # Damia Farman
 	8164.1.28 = {
 		create_character_memory = {
 			type = agot_melee_winner # Melee by the Red Fork
@@ -5125,6 +5134,7 @@ Corbray_44 = {
 			}
 		}
 	}
+	8164.4.12 = { add_spouse = Farman_47 } # Damia Farman
 	8167.1.1 = { add_spouse = Blackwood_79 } # Desmona Blackwood
 	8204.1.1 = { death = yes }
 }
@@ -5222,6 +5232,11 @@ Corbray_46 = {
 	8166.1.1 = {
 		birth = yes
 		add_character_flag = canon_status_semicanon
+	}
+	8175.1.1 = {
+		effect = {
+			agot_set_as_ward_and_squire_history_effect = { KNIGHT = character:Targaryen_91 } # Daeron II Targaryen
+		}
 	}
 	8227.1.1 = { death = yes }
 }
@@ -6220,6 +6235,7 @@ Templeton_28 = {
 		add_character_flag = canon_status_semicanon
 	}
 	8156.1.1 = { trait = knight }
+	8170.1.1 = { add_spouse = Celtigar_44 } # Ashera Celtigar
 	8174.1.1 = { death = { death_reason = death_battle } }
 }
 Templeton_30 = {
@@ -7440,8 +7456,10 @@ Ruthermont_72 = {
 	mother = Ruthermont_65
 
 	8151.1.1 = { birth = yes }
-	8170.1.1 = { add_spouse = Ruthermont_rs_72 }
-	8170.1.1 = { trait = knight }
+	8170.1.1 = {
+		add_spouse = Ruthermont_rs_72
+		trait = knight
+	}
 	8204.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -13195,6 +13213,7 @@ Waynwood_44 = {
 }
 Waynwood_rs_41 = {
 	name = Anya
+	dna = Waynwood_rs_41
 	female = yes
 
 	religion = the_seven_main
@@ -15409,8 +15428,10 @@ Hunter_63 = {
 	mother = Hunter_rs_15
 
 	7875.1.1 = { birth = yes }
-	7893.1.1 = { add_spouse = Hunter_rs_63 }
-	7893.1.1 = { trait = knight }
+	7893.1.1 = {
+		add_spouse = Hunter_rs_63
+		trait = knight
+	}
 	7937.1.1 = {
 		death = { death_reason = death_poison }
 	}
@@ -15526,8 +15547,10 @@ Hunter_69 = {
 	mother = Hunter_rs_68
 
 	7917.1.1 = { birth = yes }
-	7935.1.1 = { add_spouse = Hunter_rs_69 }
-	7935.1.1 = { trait = knight }
+	7935.1.1 = {
+		add_spouse = Hunter_rs_69
+		trait = knight
+	}
 	7983.1.1 = {
 		death = { death_reason = death_poison }
 	}
@@ -19452,8 +19475,10 @@ Shett_60 = {
 	mother = Shett_rs_21
 
 	7961.1.1 = { birth = yes }
-	7978.1.1 = { add_spouse = Shett_rs_60 }
-	7978.1.1 = { trait = knight }
+	7978.1.1 = {
+		add_spouse = Shett_rs_60
+		trait = knight
+	}
 	8023.1.1 = {
 		death = { death_reason = death_stress }
 	}
@@ -20253,8 +20278,10 @@ ShettGT_12 = {
 	mother = ShettGT_rs_11
 
 	7882.1.1 = { birth = yes }
-	7901.1.1 = { add_spouse = ShettGT_rs_12 }
-	7901.1.1 = { trait = knight }
+	7901.1.1 = {
+		add_spouse = ShettGT_rs_12
+		trait = knight
+	}
 	7932.1.1 = {
 		death = { death_reason = death_tumultuous_guts }
 	}
@@ -20707,8 +20734,10 @@ ShettGT_31 = {
 	mother = ShettGT_rs_30
 
 	8050.1.1 = { birth = yes }
-	8069.1.1 = { add_spouse = ShettGT_rs_31 }
-	8069.1.1 = { trait = knight }
+	8069.1.1 = {
+		add_spouse = ShettGT_rs_31
+		trait = knight
+	}
 	8105.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -21067,8 +21096,10 @@ ShettGT_48 = {
 	mother = ShettGT_rs_44
 
 	8177.1.1 = { birth = yes }
-	8194.1.1 = { add_spouse = ShettGT_rs_48 }
-	8194.1.1 = { trait = knight }
+	8194.1.1 = {
+		add_spouse = ShettGT_rs_48
+		trait = knight
+	}
 	8216.1.1 = {
 		death = { death_reason = death_drowned }
 	}
@@ -21588,8 +21619,10 @@ Breakstone_38 = {
 	mother = Breakstone_rs_36
 
 	8088.1.1 = { birth = yes }
-	8107.1.1 = { add_spouse = Breakstone_rs_38 }
-	8107.1.1 = { trait = knight }
+	8107.1.1 = {
+		add_spouse = Breakstone_rs_38
+		trait = knight
+	}
 	8150.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -21716,8 +21749,10 @@ Breakstone_47 = {
 	mother = Breakstone_44
 
 	8143.1.1 = { birth = yes }
-	8162.1.1 = { add_spouse = Breakstone_rs_47 }
-	8162.1.1 = { trait = knight }
+	8162.1.1 = {
+		add_spouse = Breakstone_rs_47
+		trait = knight
+	}
 	8198.1.1 = {
 		death = { death_reason = death_accident }
 	}
@@ -21789,8 +21824,10 @@ Breakstone_64 = {
 	mother = Breakstone_57
 
 	8195.1.1 = { birth = yes }
-	8212.1.1 = { add_spouse = Breakstone_rs_64 }
-	8212.1.1 = { trait = knight }
+	8212.1.1 = {
+		add_spouse = Breakstone_rs_64
+		trait = knight
+	}
 	8250.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -21947,8 +21984,10 @@ Breakstone_48 = {
 	mother = Breakstone_rs_47
 
 	8166.1.1 = { birth = yes }
-	8183.1.1 = { add_spouse = Breakstone_rs_48 }
-	8183.1.1 = { trait = knight }
+	8183.1.1 = {
+		add_spouse = Breakstone_rs_48
+		trait = knight
+	}
 	8234.1.1 = {
 		death = { death_reason = death_accident }
 	}
@@ -22146,8 +22185,10 @@ Breakstone_55 = {
 	mother = Breakstone_rs_50
 
 	8215.1.1 = { birth = yes }
-	8233.1.1 = { add_spouse = Breakstone_rs_55 }
-	8233.1.1 = { trait = knight }
+	8233.1.1 = {
+		add_spouse = Breakstone_rs_55
+		trait = knight
+	}
 	8272.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -24751,8 +24792,10 @@ Wydman_48 = {
 	mother = Wydman_rs_46
 
 	8056.1.1 = { birth = yes }
-	8072.1.1 = { add_spouse = Wydman_rs_48 }
-	8072.1.1 = { trait = knight }
+	8072.1.1 = {
+		add_spouse = Wydman_rs_48
+		trait = knight
+	}
 	8118.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -24839,8 +24882,10 @@ Wydman_52 = {
 	mother = Wydman_rs_48
 
 	8077.1.1 = { birth = yes }
-	8093.1.1 = { add_spouse = Wydman_rs_52 }
-	8093.1.1 = { trait = knight }
+	8093.1.1 = {
+		add_spouse = Wydman_rs_52
+		trait = knight
+	}
 	8129.1.1 = {
 		death = { death_reason = death_poison }
 	}
@@ -25335,8 +25380,10 @@ True_2 = {
 	mother = True_rs_1
 
 	7828.1.1 = { birth = yes }
-	7846.1.1 = { add_spouse = True_rs_2 }
-	7846.1.1 = { trait = knight }
+	7846.1.1 = {
+		add_spouse = True_rs_2
+		trait = knight
+	}
 	7867.1.1 = {
 		death = { death_reason = death_horse }
 	}
@@ -26507,8 +26554,10 @@ True_46 = {
 	mother = True_rs_34
 
 	8096.1.1 = { birth = yes }
-	8112.1.1 = { add_spouse = True_rs_46 }
-	8112.1.1 = { trait = knight }
+	8112.1.1 = {
+		add_spouse = True_rs_46
+		trait = knight
+	}
 	8116.1.1 = { death = yes }
 }
 True_rs_46 = {
@@ -27701,8 +27750,10 @@ Donnerly_41 = {
 	mother = Donnerly_38
 
 	8119.1.1 = { birth = yes }
-	8136.1.1 = { add_spouse = Donnerly_rs_41 }
-	8136.1.1 = { trait = knight }
+	8136.1.1 = {
+		add_spouse = Donnerly_rs_41
+		trait = knight
+	}
 	8154.1.1 = {
 		death = { death_reason = death_feast_accident }
 	}
@@ -27851,8 +27902,10 @@ Donnerly_48 = {
 	mother = Donnerly_43
 
 	8183.1.1 = { birth = yes }
-	8199.1.1 = { trait = knight }
-	8199.1.1 = { add_spouse = Donnerly_rs_48 }
+	8199.1.1 = {
+		trait = knight
+		add_spouse = Donnerly_rs_48
+	}
 	8214.1.1 = {
 		death = { death_reason = death_contest_melee_accident }
 	}
@@ -28201,8 +28254,10 @@ Seldon_7 = {
 	mother = Seldon_rs_6
 
 	7929.1.1 = { birth = yes }
-	7946.1.1 = { add_spouse = Seldon_rs_7 }
-	7946.1.1 = { trait = knight }
+	7946.1.1 = {
+		add_spouse = Seldon_rs_7
+		trait = knight
+	}
 	7975.1.1 = { death = yes }
 }
 Seldon_rs_7 = {
@@ -28538,8 +28593,10 @@ Seldon_33 = {
 	mother = Seldon_rs_22
 
 	8060.1.1 = { birth = yes }
-	8078.1.1 = { add_spouse = Seldon_rs_33 }
-	8078.1.1 = { trait = knight }
+	8078.1.1 = {
+		add_spouse = Seldon_rs_33
+		trait = knight
+	}
 	8113.1.1 = {
 		death = { death_reason = death_drank_to_death }
 	}
@@ -28685,8 +28742,10 @@ Seldon_36 = {
 	mother = Seldon_rs_33
 
 	8080.1.1 = { birth = yes }
-	8099.1.1 = { add_spouse = Seldon_rs_36 }
-	8099.1.1 = { trait = knight }
+	8099.1.1 = {
+		add_spouse = Seldon_rs_36
+		trait = knight
+	}
 	8143.1.1 = {
 		death = { death_reason = death_accident }
 	}
@@ -28926,8 +28985,10 @@ Seldon_58 = {
 	mother = Seldon_rs_54
 
 	8130.1.1 = { birth = yes }
-	8146.1.1 = { add_spouse = Seldon_rs_58 }
-	8146.1.1 = { trait = knight }
+	8146.1.1 = {
+		add_spouse = Seldon_rs_58
+		trait = knight
+	}
 	8169.1.1 = { death = yes }
 }
 Seldon_rs_58 = {
@@ -31405,8 +31466,10 @@ Waxley_14 = {
 	mother = Waxley_10
 
 	7891.1.1 = { birth = yes }
-	7909.1.1 = { add_spouse = Waxley_rs_14 }
-	7909.1.1 = { trait = knight }
+	7909.1.1 = {
+		add_spouse = Waxley_rs_14
+		trait = knight
+	}
 	7948.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -33077,8 +33140,10 @@ Weatherwax_10 = {
 	mother = Weatherwax_rs_7
 
 	7924.1.1 = { birth = yes }
-	7943.1.1 = { add_spouse = Weatherwax_rs_10 }
-	7943.1.1 = { trait = knight }
+	7943.1.1 = {
+		add_spouse = Weatherwax_rs_10
+		trait = knight
+	}
 	7989.1.1 = {
 		death = { death_reason = death_treatment }
 	}
@@ -33721,8 +33786,10 @@ Weatherwax_44 = {
 	mother = Weatherwax_rs_41
 
 	8105.1.1 = { birth = yes }
-	8121.1.1 = { add_spouse = Weatherwax_rs_44 }
-	8121.1.1 = { trait = knight }
+	8121.1.1 = {
+		add_spouse = Weatherwax_rs_44
+		trait = knight
+	}
 	8164.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -34017,8 +34084,10 @@ Weatherwax_56 = {
 	mother = Weatherwax_rs_47
 
 	8133.1.1 = { birth = yes }
-	8150.1.1 = { add_spouse = Weatherwax_rs_56 }
-	8150.1.1 = { trait = knight }
+	8150.1.1 = {
+		add_spouse = Weatherwax_rs_56
+		trait = knight
+	}
 	8198.1.1 = {
 		death = { death_reason = death_heart_attack }
 	}
@@ -34310,8 +34379,10 @@ Lipps_12 = {
 	mother = Lipps_rs_10
 
 	7864.1.1 = { birth = yes }
-	7883.1.1 = { add_spouse = Lipps_rs_12 }
-	7883.1.1 = { trait = knight }
+	7883.1.1 = {
+		add_spouse = Lipps_rs_12
+		trait = knight
+	}
 	7924.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -35662,8 +35733,10 @@ Dutton_17 = {
 	mother = Dutton_14
 
 	7936.1.1 = { birth = yes }
-	7954.1.1 = { add_spouse = Dutton_rs_17 }
-	7954.1.1 = { trait = knight }
+	7954.1.1 = {
+		add_spouse = Dutton_rs_17
+		trait = knight
+	}
 	8002.1.1 = {
 		trait = pneumonic
 		death = { death_reason = death_pneumonic }
@@ -36155,8 +36228,10 @@ Dutton_33 = {
 	trait = twin
 
 	8056.1.1 = { birth = yes }
-	8075.1.1 = { add_spouse = Dutton_rs_33 }
-	8075.1.1 = { trait = knight }
+	8075.1.1 = {
+		add_spouse = Dutton_rs_33
+		trait = knight
+	}
 	8093.1.1 = {
 		death = { death_reason = death_drowned }
 	}
@@ -36853,8 +36928,10 @@ Donniger_5 = {
 	culture = moonman
 
 	7846.1.1 = { birth = yes }
-	7862.1.1 = { add_spouse = Donniger_rs_5 }
-	7862.1.1 = { trait = knight }
+	7862.1.1 = {
+		add_spouse = Donniger_rs_5
+		trait = knight
+	}
 	7900.1.1 = { death = yes }
 }
 Donniger_rs_5 = {
@@ -37367,8 +37444,10 @@ Donniger_45 = {
 	mother = Donniger_rs_41
 
 	8037.1.1 = { birth = yes }
-	8056.1.1 = { add_spouse = Donniger_rs_45 }
-	8056.1.1 = { trait = knight }
+	8056.1.1 = {
+		add_spouse = Donniger_rs_45
+		trait = knight
+	}
 	8099.1.1 = {
 		death = { death_reason = death_accident }
 	}
@@ -37900,8 +37979,10 @@ Donniger_72 = {
 	trait = twin
 
 	8082.1.1 = { birth = yes }
-	8100.1.1 = { add_spouse = Donniger_rs_72 }
-	8100.1.1 = { trait = knight }
+	8100.1.1 = {
+		add_spouse = Donniger_rs_72
+		trait = knight
+	}
 	8137.1.1 = {
 		death = { death_reason = death_tumultuous_guts }
 	}
@@ -38820,8 +38901,10 @@ Warrick_10 = {
 	mother = Warrick_rs_8
 
 	7882.1.1 = { birth = yes }
-	7899.1.1 = { add_spouse = Warrick_rs_10 }
-	7899.1.1 = { trait = knight }
+	7899.1.1 = {
+		add_spouse = Warrick_rs_10
+		trait = knight
+	}
 	7923.1.1 = { death = yes }
 }
 Warrick_rs_10 = {
@@ -40748,8 +40831,10 @@ Marsten_26 = {
 	mother = Marsten_rs_19
 
 	7876.1.1 = { birth = yes }
-	7893.1.1 = { add_spouse = Marsten_rs_26 }
-	7893.1.1 = { trait = knight }
+	7893.1.1 = {
+		add_spouse = Marsten_rs_26
+		trait = knight
+	}
 	7899.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -42234,8 +42319,10 @@ Lynderly_11 = {
 	mother = Lynderly_10
 
 	7816.1.1 = { birth = yes }
-	7833.1.1 = { add_spouse = Lynderly_rs_11 }
-	7833.1.1 = { trait = knight }
+	7833.1.1 = {
+		add_spouse = Lynderly_rs_11
+		trait = knight
+	}
 	7857.1.1 = {
 		trait = cancer
 		death = { death_reason = death_cancer }
@@ -42280,8 +42367,10 @@ Lynderly_8 = {
 	mother = Lynderly_rs_11
 
 	7840.1.1 = { birth = yes }
-	7858.1.1 = { add_spouse = Lynderly_rs_8 }
-	7858.1.1 = { trait = knight }
+	7858.1.1 = {
+		add_spouse = Lynderly_rs_8
+		trait = knight
+	}
 	7900.1.1 = { death = yes }
 }
 Lynderly_rs_8 = {
@@ -42729,8 +42818,10 @@ Lynderly_49 = {
 	mother = Lynderly_rs_46
 
 	7993.1.1 = { birth = yes }
-	8009.1.1 = { add_spouse = Lynderly_rs_49 }
-	8009.1.1 = { trait = knight }
+	8009.1.1 = {
+		add_spouse = Lynderly_rs_49
+		trait = knight
+	}
 	8044.1.1 = {
 		death = { death_reason = death_accident }
 	}
@@ -43044,8 +43135,10 @@ Lynderly_63 = {
 	mother = Lynderly_rs_61
 
 	8030.1.1 = { birth = yes }
-	8046.1.1 = { add_spouse = Lynderly_rs_63 }
-	8046.1.1 = { trait = knight }
+	8046.1.1 = {
+		add_spouse = Lynderly_rs_63
+		trait = knight
+	}
 	8075.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -43851,8 +43944,10 @@ Hersy_14 = {
 	mother = Hersy_12
 
 	7860.1.1 = { birth = yes }
-	7877.1.1 = { add_spouse = Hersy_rs_14 }
-	7877.1.1 = { trait = knight }
+	7877.1.1 = {
+		add_spouse = Hersy_rs_14
+		trait = knight
+	}
 	7927.1.1 = {
 		death = { death_reason = death_fall }
 	}
@@ -44760,8 +44855,10 @@ Hersy_54 = {
 	mother = Hersy_rs_52
 
 	8124.1.1 = { birth = yes }
-	8141.1.1 = { add_spouse = Hersy_rs_54 }
-	8141.1.1 = { trait = knight }
+	8141.1.1 = {
+		add_spouse = Hersy_rs_54
+		trait = knight
+	}
 	8187.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -45149,6 +45246,7 @@ Hersy_69 = {
 Elesham_5 = {
 	name = Denys # a lord
 	dynasty = dynn_Elesham
+	dna = Elesham_5
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45161,6 +45259,7 @@ Elesham_5 = {
 Elesham_rs_5 = {
 	name = Grenna
 	female = yes
+	dna = Elesham_rs_5
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45172,6 +45271,7 @@ Elesham_rs_5 = {
 Elesham_6 = {
 	name = Mandon # a lord
 	dynasty = dynn_Elesham
+	dna = Elesham_6
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45189,6 +45289,7 @@ Elesham_6 = {
 Elesham_rs_6 = {
 	name = Phillipa
 	female = yes
+	dna = Elesham_rs_6
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45199,6 +45300,7 @@ Elesham_rs_6 = {
 Elesham_7 = {
 	name = Garlan
 	dynasty = dynn_Elesham
+	dna = Elesham_7
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45213,6 +45315,7 @@ Elesham_7 = {
 }
 Elesham_rs_7 = {
 	name = Cissy
+	dna = Elesham_rs_7
 	female = yes
 
 	religion = the_seven_main
@@ -45224,6 +45327,7 @@ Elesham_rs_7 = {
 Elesham_8 = {
 	name = Kyle
 	dynasty = dynn_Elesham
+	dna = Elesham_8
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45239,6 +45343,7 @@ Elesham_8 = {
 Elesham_9 = {
 	name = Ganna
 	dynasty = dynn_Elesham
+	dna = Elesham_9
 	female = yes
 
 	religion = the_seven_main
@@ -45257,6 +45362,7 @@ Elesham_9 = {
 Elesham_10 = {
 	name = Wallace
 	dynasty = dynn_Elesham
+	dna = Elesham_10
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45267,8 +45373,10 @@ Elesham_10 = {
 	trait = twin
 
 	7754.1.1 = { birth = yes }
-	7772.1.1 = { add_spouse = Elesham_rs_10 }
-	7772.1.1 = { trait = knight }
+	7772.1.1 = {
+		add_spouse = Elesham_rs_10
+		trait = knight
+	}
 	7781.1.1 = {
 		death = { death_reason = death_hunting_accident }
 	}
@@ -45276,6 +45384,7 @@ Elesham_10 = {
 Elesham_rs_10 = {
 	name = Aryse
 	female = yes
+	dna = Elesham_rs_10
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45287,6 +45396,7 @@ Elesham_rs_10 = {
 Elesham_11 = {
 	name = Ondros
 	dynasty = dynn_Elesham
+	dna = Elesham_11
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45303,6 +45413,7 @@ Elesham_11 = {
 }
 Elesham_rs_11 = {
 	name = Jyana
+	dna = Elesham_rs_11
 	female = yes
 
 	religion = the_seven_main
@@ -45314,6 +45425,7 @@ Elesham_rs_11 = {
 Elesham_12 = {
 	name = Qyle
 	dynasty = dynn_Elesham
+	dna = Elesham_12
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45322,14 +45434,17 @@ Elesham_12 = {
 	mother = Elesham_rs_10
 
 	7777.1.1 = { birth = yes }
-	7795.1.1 = { add_spouse = Elesham_rs_12 }
-	7795.1.1 = { trait = knight }
+	7795.1.1 = {
+		add_spouse = Elesham_rs_12
+		trait = knight
+	}
 	7834.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
 Elesham_rs_12 = {
 	name = Elesa
+	dna = Elesham_rs_12
 	female = yes
 
 	religion = the_seven_main
@@ -45342,6 +45457,7 @@ Elesham_rs_12 = {
 Elesham_13 = {
 	name = Sarion
 	dynasty = dynn_Elesham
+	dna = Elesham_13
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45358,6 +45474,7 @@ Elesham_13 = {
 Elesham_14 = {
 	name = Willam
 	dynasty = dynn_Elesham
+	dna = Elesham_14
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45376,6 +45493,7 @@ Elesham_14 = {
 Elesham_20 = {
 	name = Orwell
 	dynasty = dynn_Elesham
+	dna = Elesham_20
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45393,6 +45511,7 @@ Elesham_20 = {
 }
 Elesham_rs_20 = {
 	name = Qyrene
+	dna = Elesham_rs_20
 	female = yes
 
 	religion = the_seven_main
@@ -45404,6 +45523,7 @@ Elesham_rs_20 = {
 Elesham_21 = {
 	name = Lyn
 	dynasty = dynn_Elesham
+	dna = Elesham_21
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45420,6 +45540,7 @@ Elesham_21 = {
 }
 Elesham_rs_21 = {
 	name = Eddyne
+	dna = Elesham_rs_21
 	female = yes
 
 	religion = the_seven_main
@@ -45638,6 +45759,7 @@ Elesham_38 = {
 Elesham_31 = {
 	name = Creighton
 	dynasty = dynn_Elesham
+	dna = Elesham_31
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45655,6 +45777,7 @@ Elesham_31 = {
 }
 Elesham_rs_31 = {
 	name = Meryne
+	dna = Elesham_rs_31
 	female = yes
 
 	religion = the_seven_main
@@ -45666,6 +45789,7 @@ Elesham_rs_31 = {
 Elesham_32 = {
 	name = Rienne
 	dynasty = dynn_Elesham
+	dna = Elesham_32
 	female = yes
 
 	religion = the_seven_main
@@ -45684,6 +45808,7 @@ Elesham_32 = {
 Elesham_33 = {
 	name = Noel
 	dynasty = dynn_Elesham
+	dna = Elesham_33
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45703,6 +45828,7 @@ Elesham_33 = {
 }
 Elesham_rs_33 = {
 	name = Karyn
+	dna = Elesham_rs_33
 	female = yes
 
 	religion = the_seven_main
@@ -45714,6 +45840,7 @@ Elesham_rs_33 = {
 Elesham_34 = {
 	name = Derren
 	dynasty = dynn_Elesham
+	dna = Elesham_34
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45733,6 +45860,7 @@ Elesham_34 = {
 }
 Elesham_rs_34 = {
 	name = Oryssa
+	dna = Elesham_rs_34
 	female = yes
 
 	religion = the_seven_main
@@ -45745,6 +45873,7 @@ Elesham_rs_34 = {
 Elesham_15 = {
 	name = Adrian
 	dynasty = dynn_Elesham
+	dna = Elesham_15
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45761,6 +45890,7 @@ Elesham_15 = {
 Elesham_16 = {
 	name = Beomar
 	dynasty = dynn_Elesham
+	dna = Elesham_16
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45779,6 +45909,7 @@ Elesham_16 = {
 Elesham_40 = {
 	name = Ursula
 	dynasty = dynn_Elesham
+	dna = Elesham_40
 	female = yes
 
 	religion = the_seven_main
@@ -45796,6 +45927,8 @@ Elesham_41 = {
 	name = Domas
 	dynasty = dynn_Elesham
 
+	dna = Elesham_41
+
 	religion = the_seven_main
 	culture = fingerman
 
@@ -45811,6 +45944,7 @@ Elesham_41 = {
 }
 Elesham_rs_41 = {
 	name = Janyce
+	dna = Elesham_rs_41
 	female = yes
 
 	religion = the_seven_main
@@ -45823,6 +45957,7 @@ Elesham_rs_41 = {
 Elesham_44 = {
 	name = Isabel
 	dynasty = dynn_Elesham
+	dna = Elesham_44
 	female = yes
 
 	religion = the_seven_main
@@ -45840,6 +45975,7 @@ Elesham_44 = {
 Elesham_35 = {
 	name = Royce
 	dynasty = dynn_Elesham
+	dna = Elesham_35
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45886,6 +46022,7 @@ Elesham_rs_39 = {
 Elesham_22 = {
 	name = Andred
 	dynasty = dynn_Elesham
+	dna = Elesham_22
 
 	religion = the_seven_main
 	culture = fingerman
@@ -45904,6 +46041,7 @@ Elesham_22 = {
 Elesham_42 = {
 	name = Desmond
 	dynasty = dynn_Elesham
+	dna = Elesham_42
 
 	religion = the_seven_main
 	culture = fingerman
@@ -46261,8 +46399,10 @@ Elesham_59 = {
 	mother = Elesham_rs_56
 
 	8041.1.1 = { birth = yes }
-	8058.1.1 = { add_spouse = Elesham_rs_59 }
-	8058.1.1 = { trait = knight }
+	8058.1.1 = {
+		add_spouse = Elesham_rs_59
+		trait = knight
+	}
 	8066.1.1 = { death = yes }
 }
 Elesham_rs_59 = {
@@ -46962,8 +47102,10 @@ Elesham_89 = {
 	mother = Elesham_rs_86
 
 	8207.1.1 = { birth = yes }
-	8223.1.1 = { add_spouse = Elesham_rs_89 }
-	8223.1.1 = { trait = knight }
+	8223.1.1 = {
+		add_spouse = Elesham_rs_89
+		trait = knight
+	}
 	8268.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -47246,8 +47388,10 @@ Pryor_6 = {
 	culture = fingerman
 
 	7827.1.1 = { birth = yes }
-	7846.1.1 = { add_spouse = Pryor_rs_6 }
-	7846.1.1 = { trait = knight }
+	7846.1.1 = {
+		add_spouse = Pryor_rs_6
+		trait = knight
+	}
 	7879.1.1 = { death = yes }
 }
 Pryor_rs_6 = {
@@ -47272,8 +47416,10 @@ Pryor_7 = {
 	mother = Pryor_rs_6
 
 	7849.1.1 = { birth = yes }
-	7866.1.1 = { add_spouse = Pryor_rs_7 }
-	7866.1.1 = { trait = knight }
+	7866.1.1 = {
+		add_spouse = Pryor_rs_7
+		trait = knight
+	}
 	7904.1.1 = {
 		trait = consumption
 		death = { death_reason = death_consumption }
@@ -52500,8 +52646,10 @@ Hungerford_37 = {
 	mother = Hungerford_rs_33
 
 	8033.1.1 = { birth = yes }
-	8049.1.1 = { add_spouse = Hungerford_rs_37 }
-	8049.1.1 = { trait = knight }
+	8049.1.1 = {
+		add_spouse = Hungerford_rs_37
+		trait = knight
+	}
 	8063.1.1 = { death = yes }
 }
 Hungerford_rs_37 = {
@@ -53175,6 +53323,7 @@ Hungerford_63 = {
 Baelish_3 = {
 	name = Tormo # Mentioned, Braavosi Sellsword, founder
 	dynasty = dynn_Baelish
+	dna = Baelish_3
 
 	prowess = 12
 
@@ -53183,20 +53332,22 @@ Baelish_3 = {
 	culture = braavosi
 
 	trait = education_martial_3
+	trait = arbitrary
+	trait = calm
 	trait = rowdy
+	
+	disallow_random_traits = yes
 
 	8165.1.1 = {
 		birth = yes
 		add_character_flag = has_scripted_appearance
 		add_character_flag = canon_status_mentioned
 	}
-	8181.1.1 = {
-		trait = arbitrary
-		trait = calm
+	8175.1.1 = {
 		trait = brave
 		trait = gregarious
-		trait = education_martial_prowess_2
 	}
+	8181.1.1 = { trait = education_martial_prowess_2 }
 	8196.1.1 = { add_spouse = Baelish_rs_3 }
 	8222.1.1 = { death = yes }
 }
@@ -53531,8 +53682,10 @@ Woodhull_22 = {
 	mother = Woodhull_rs_13
 
 	7912.1.1 = { birth = yes }
-	7929.1.1 = { add_spouse = Woodhull_rs_22 }
-	7929.1.1 = { trait = knight }
+	7929.1.1 = {
+		add_spouse = Woodhull_rs_22
+		trait = knight
+	}
 	7968.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -54785,8 +54938,10 @@ Woodhull_89 = {
 	mother = Woodhull_rs_81
 
 	8191.1.1 = { birth = yes }
-	8209.1.1 = { add_spouse = Woodhull_rs_89 }
-	8209.1.1 = { trait = knight }
+	8209.1.1 = {
+		add_spouse = Woodhull_rs_89
+		trait = knight
+	}
 	8255.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -55452,8 +55607,10 @@ Woodhull_124 = {
 	mother = Woodhull_rs_119
 
 	7958.1.1 = { birth = yes }
-	7974.1.1 = { add_spouse = Woodhull_rs_124 }
-	7974.1.1 = { trait = knight }
+	7974.1.1 = {
+		add_spouse = Woodhull_rs_124
+		trait = knight
+	}
 	8024.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -56631,8 +56788,10 @@ Morgryn_28 = {
 	mother = Morgryn_27
 
 	8030.1.1 = { birth = yes }
-	8047.1.1 = { add_spouse = Morgryn_rs_28 }
-	8047.1.1 = { trait = knight }
+	8047.1.1 = {
+		add_spouse = Morgryn_rs_28
+		trait = knight
+	}
 	8084.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -57240,8 +57399,10 @@ Marks_12 = {
 	mother = Marks_rs_9
 
 	7920.1.1 = { birth = yes }
-	7936.1.1 = { trait = knight }
-	7936.1.1 = { add_spouse = Marks_rs_12 }
+	7936.1.1 = {
+		trait = knight
+		add_spouse = Marks_rs_12
+	}
 	7962.1.1 = { death = yes }
 }
 Marks_rs_12 = {
@@ -57340,8 +57501,10 @@ Marks_16 = {
 	mother = Marks_rs_15
 
 	7994.1.1 = { birth = yes }
-	8010.1.1 = { trait = knight }
-	8010.1.1 = { add_spouse = Marks_rs_16 }
+	8010.1.1 = {
+		trait = knight
+		add_spouse = Marks_rs_16
+	}
 	8044.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -57721,8 +57884,10 @@ Marks_26 = {
 	mother = Marks_rs_24
 
 	8101.1.1 = { birth = yes }
-	8117.1.1 = { trait = knight }
-	8117.1.1 = { add_spouse = Marks_rs_26 }
+	8117.1.1 = {
+		trait = knight
+		add_spouse = Marks_rs_26
+	}
 	8151.1.1 = { death = yes }
 }
 Marks_rs_26 = {
@@ -58045,6 +58210,7 @@ Marks_58 = {
 Sunderland_9 = {
 	name = Alyn # a lord
 	dynasty = dynn_Sunderland
+	dna = Sunderland_9
 
 	religion = the_seven_main
 	culture = sisterman
@@ -58055,6 +58221,7 @@ Sunderland_9 = {
 Sunderland_10 = {
 	name = Donnel # a lord
 	dynasty = dynn_Sunderland
+	dna = Sunderland_10
 
 	religion = the_seven_main
 	culture = sisterman
@@ -58287,11 +58454,6 @@ Sunderland_18 = {
 			agot_safe_set_hostage_history_effect = {
 				WARDEN = title:c_white_harbor.holder
 			}
-			agot_set_as_ward_history_effect = { GUARDIAN = character:Manderly_28 } # Willem Manderly
-		}
-	}
-	8004.1.1 = {
-		effect = {
 			agot_set_as_ward_history_effect = { GUARDIAN = character:Manderly_31 } # Damon Manderly
 		}
 	}
@@ -58746,7 +58908,7 @@ Sunderland_32 = { # Blackfyre Rebellion
 		add_character_flag = canon_status_mentioned
 	}
 	8189.1.1 = { add_spouse = Torrent_30 }
-	8212.6.1 = {
+	8212.4.1 = {
 		death = {
 			death_reason = death_execution # Second Blackfyre Rebellion
 			killer = Targaryen_96 # Brynden Bloodraven
@@ -59755,7 +59917,7 @@ Torrent_37 = {
 	father = Torrent_6
 
 	7852.1.1 = { birth = yes }
-	7874.1.1 = { add_matrilineal_spouse = Loreley_6 }
+	7869.1.1 = { add_matrilineal_spouse = Loreley_6 }
 	7918.1.1 = { death = yes }
 }
 Torrent_8 = {
@@ -60422,8 +60584,10 @@ Cullimore_6 = {
 	mother = Cullimore_rs_5
 
 	7935.1.1 = { birth = yes }
-	7951.1.1 = { trait = knight }
-	7951.1.1 = { add_spouse = Cullimore_rs_6 }
+	7951.1.1 = {
+		trait = knight
+		add_spouse = Cullimore_rs_6
+	}
 	8000.1.1 = {
 		trait = cancer
 		death = { death_reason = death_cancer }
@@ -61336,8 +61500,10 @@ Bretherick_9 = {
 	mother = Bretherick_rs_4
 
 	7926.1.1 = { birth = yes }
-	7944.1.1 = { trait = knight }
-	7944.1.1 = { add_spouse = Bretherick_rs_9 }
+	7944.1.1 = {
+		trait = knight
+		add_spouse = Bretherick_rs_9
+	}
 	7965.1.1 = { death = yes }
 }
 Bretherick_rs_9 = {
@@ -61405,8 +61571,10 @@ Bretherick_20 = {
 	mother = Bretherick_rs_7
 
 	7958.1.1 = { birth = yes }
-	7976.1.1 = { trait = knight }
-	7976.1.1 = { add_spouse = Bretherick_rs_20 }
+	7976.1.1 = {
+		trait = knight
+		add_spouse = Bretherick_rs_20
+	}
 	7994.1.1 = {
 		death = { death_reason = death_accident }
 	}
@@ -61999,8 +62167,10 @@ Bretherick_32 = {
 	mother = Bretherick_rs_28
 
 	8029.1.1 = { birth = yes }
-	8048.1.1 = { trait = knight }
-	8048.1.1 = { add_spouse = Bretherick_rs_32 }
+	8048.1.1 = {
+		trait = knight
+		add_spouse = Bretherick_rs_32
+	}
 	8087.1.1 = {
 		death = { death_reason = death_attempted_treatment }
 	}
@@ -63366,8 +63536,10 @@ Chase_25 = {
 	mother = Chase_22
 
 	8171.1.1 = { birth = yes }
-	8187.1.1 = { trait = knight }
-	8187.1.1 = { add_spouse = Chase_rs_25 }
+	8187.1.1 = {
+		trait = knight
+		add_spouse = Chase_rs_25
+	}
 	8215.1.1 = {
 		death = { death_reason = death_drank_to_death }
 	}
@@ -64003,8 +64175,10 @@ Ran_Cammon_10 = {
 	mother = Ran_Cammon_9
 
 	7949.1.1 = { birth = yes }
-	7967.1.1 = { trait = knight }
-	7967.1.1 = { add_spouse = Ran_Cammon_rs_10 }
+	7967.1.1 = {
+		trait = knight
+		add_spouse = Ran_Cammon_rs_10
+	}
 	8007.1.1 = {
 		trait = consumption
 		death = { death_reason = death_consumption }
@@ -64174,8 +64348,10 @@ Ran_Cammon_17 = {
 	mother = Ran_Cammon_rs_14
 
 	8050.1.1 = { birth = yes }
-	8068.1.1 = { trait = knight }
-	8068.1.1 = { add_spouse = Ran_Cammon_rs_17 }
+	8068.1.1 = {
+		trait = knight
+		add_spouse = Ran_Cammon_rs_17
+	}
 	8093.1.1 = { death = yes }
 }
 Ran_Cammon_rs_17 = {
@@ -66556,8 +66732,10 @@ Kinnear_16 = {
 	mother = Kinnear_rs_3
 
 	7924.1.1 = { birth = yes }
-	7940.1.1 = { trait = knight }
-	7940.1.1 = { add_spouse = Kinnear_rs_16 }
+	7940.1.1 = {
+		trait = knight
+		add_spouse = Kinnear_rs_16
+	}
 	7956.1.1 = { death = yes }
 }
 Kinnear_rs_16 = {
@@ -66670,8 +66848,10 @@ Kinnear_22 = {
 	mother = Kinnear_rs_17
 
 	7968.1.1 = { birth = yes }
-	7984.1.1 = { trait = knight }
-	7984.1.1 = { add_spouse = Kinnear_rs_22 }
+	7984.1.1 = {
+		trait = knight
+		add_spouse = Kinnear_rs_22
+	}
 	8035.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -67392,8 +67572,10 @@ Kinnear_51 = {
 	mother = Kinnear_48
 
 	8169.1.1 = { birth = yes }
-	8188.1.1 = { trait = knight }
-	8188.1.1 = { add_spouse = Kinnear_rs_51 }
+	8188.1.1 = {
+		trait = knight
+		add_spouse = Kinnear_rs_51
+	}
 	8214.1.1 = { death = yes }
 }
 Kinnear_rs_51 = {
@@ -67502,8 +67684,10 @@ Kinnear_56 = {
 	trait = twin
 
 	8190.1.1 = { birth = yes }
-	8207.1.1 = { trait = knight }
-	8207.1.1 = { add_spouse = Kinnear_rs_56 }
+	8207.1.1 = {
+		trait = knight
+		add_spouse = Kinnear_rs_56
+	}
 	8239.1.1 = { death = yes }
 }
 Kinnear_rs_56 = {
@@ -71649,8 +71833,10 @@ Weight_2 = {
 	mother = Weight_rs_1
 
 	7801.1.1 = { birth = yes }
-	7817.1.1 = { trait = knight }
-	7817.1.1 = { add_spouse = Weight_rs_2 }
+	7817.1.1 = {
+		trait = knight
+		add_spouse = Weight_rs_2
+	}
 	7842.1.1 = {
 		death = { death_reason = death_horse }
 	}
@@ -72121,8 +72307,10 @@ Weight_10 = {
 	mother = Weight_rs_8
 
 	7858.1.1 = { birth = yes }
-	7874.1.1 = { trait = knight }
-	7874.1.1 = { add_spouse = Weight_rs_10 }
+	7874.1.1 = {
+		trait = knight
+		add_spouse = Weight_rs_10
+	}
 	7900.1.1 = {
 		death = { death_reason = death_accident }
 	}
@@ -72402,8 +72590,10 @@ Weight_27 = {
 	mother = Weight_rs_19
 
 	7909.1.1 = { birth = yes }
-	7927.1.1 = { trait = knight }
-	7927.1.1 = { add_spouse = Weight_rs_27 }
+	7927.1.1 = {
+		trait = knight
+		add_spouse = Weight_rs_27
+	}
 	7953.1.1 = {
 		death = { death_reason = death_accident }
 	}
@@ -73027,8 +73217,10 @@ Weight_55 = {
 	mother = Weight_rs_54
 
 	8122.1.1 = { birth = yes }
-	8141.1.1 = { trait = knight }
-	8141.1.1 = { add_spouse = Weight_rs_55 }
+	8141.1.1 = {
+		trait = knight
+		add_spouse = Weight_rs_55
+	}
 	8172.1.1 = {
 		death = { death_reason = death_horse_riding_accident }
 	}
@@ -73269,8 +73461,10 @@ Harrow_1 = {
 	culture = moonman
 
 	7761.1.1 = { birth = yes }
-	7779.1.1 = { trait = knight }
-	7779.1.1 = { add_spouse = Harrow_rs_1 }
+	7779.1.1 = {
+		trait = knight
+		add_spouse = Harrow_rs_1
+	}
 	7811.1.1 = { death = yes }
 }
 Harrow_rs_1 = {
@@ -73322,8 +73516,10 @@ Harrow_3 = {
 	mother = Harrow_rs_1
 
 	7785.1.1 = { birth = yes }
-	7802.1.1 = { trait = knight }
-	7802.1.1 = { add_spouse = Harrow_rs_3 }
+	7802.1.1 = {
+		trait = knight
+		add_spouse = Harrow_rs_3
+	}
 	7817.1.1 = {
 		death = { death_reason = death_hunting_accident }
 	}
@@ -74314,8 +74510,10 @@ Harrow_47 = {
 	mother = Harrow_rs_39
 
 	8078.1.1 = { birth = yes }
-	8094.1.1 = { trait = knight }
-	8094.1.1 = { add_spouse = Harrow_rs_47 }
+	8094.1.1 = {
+		trait = knight
+		add_spouse = Harrow_rs_47
+	}
 	8140.1.1 = {
 		death = { death_reason = death_stress }
 	}
@@ -75374,8 +75572,10 @@ Devener_25 = {
 	mother = Devener_20
 
 	7967.1.1 = { birth = yes }
-	7986.1.1 = { trait = knight }
-	7986.1.1 = { add_spouse = Devener_rs_25 }
+	7986.1.1 = {
+		trait = knight
+		add_spouse = Devener_rs_25
+	}
 	8036.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -78688,8 +78888,10 @@ Auldryn_40 = {
 	mother = Auldryn_rs_38
 
 	8132.1.1 = { birth = yes }
-	8148.1.1 = { trait = knight }
-	8148.1.1 = { add_spouse = Auldryn_rs_40 }
+	8148.1.1 = {
+		trait = knight
+		add_spouse = Auldryn_rs_40
+	}
 	8184.1.1 = {
 		death = { death_reason = death_hypothermia }
 	}
@@ -79342,8 +79544,10 @@ Mullyn_12 = {
 	mother = Mullyn_5
 
 	7889.1.1 = { birth = yes }
-	7908.1.1 = { trait = knight }
-	7908.1.1 = { add_spouse = Mullyn_rs_12 }
+	7908.1.1 = {
+		trait = knight
+		add_spouse = Mullyn_rs_12
+	}
 	7956.1.1 = {
 		trait = cancer
 		death = { death_reason = death_cancer }
@@ -79468,8 +79672,10 @@ Mullyn_19 = {
 	mother = Mullyn_rs_11
 
 	7916.1.1 = { birth = yes }
-	7933.1.1 = { trait = knight }
-	7933.1.1 = { add_spouse = Mullyn_rs_19 }
+	7933.1.1 = {
+		trait = knight
+		add_spouse = Mullyn_rs_19
+	}
 	7981.1.1 = {
 		trait = pneumonic
 		death = { death_reason = death_pneumonic }
@@ -79931,7 +80137,7 @@ Mullyn_38 = {
 	mother = Mullyn_rs_37
 
 	8175.1.1 = { birth = yes }
-	8205.1.1 = { add_matrilineal_spouse = Mullyn_rs_38 }
+	8200.1.1 = { add_matrilineal_spouse = Mullyn_rs_38 }
 	8243.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -80141,8 +80347,10 @@ Garnett_7 = {
 	mother = Garnett_rs_4
 
 	7874.1.1 = { birth = yes }
-	7893.1.1 = { trait = knight }
-	7893.1.1 = { add_spouse = Garnett_rs_7 }
+	7893.1.1 = {
+		trait = knight
+		add_spouse = Garnett_rs_7
+	}
 	7931.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -80727,8 +80935,10 @@ Garnett_30 = {
 	mother = Garnett_rs_29
 
 	8083.1.1 = { birth = yes }
-	8102.1.1 = { trait = knight }
-	8102.1.1 = { add_spouse = Garnett_rs_30 }
+	8102.1.1 = {
+		trait = knight
+		add_spouse = Garnett_rs_30
+	}
 	8132.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -81173,8 +81383,10 @@ Stewart_9 = {
 	mother = Stewart_rs_7
 
 	7857.1.1 = { birth = yes }
-	7876.1.1 = { trait = knight }
-	7876.1.1 = { add_spouse = Stewart_rs_9 }
+	7876.1.1 = {
+		trait = knight
+		add_spouse = Stewart_rs_9
+	}
 	7925.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -81586,8 +81798,10 @@ Stewart_27 = {
 	mother = Stewart_22
 
 	7984.1.1 = { birth = yes }
-	8001.1.1 = { trait = knight }
-	8001.1.1 = { add_spouse = Stewart_rs_27 }
+	8001.1.1 = {
+		trait = knight
+		add_spouse = Stewart_rs_27
+	}
 	8024.1.1 = { death = yes }
 }
 Stewart_rs_27 = {
@@ -81770,8 +81984,10 @@ Stewart_29 = {
 	mother = Stewart_rs_24
 
 	7995.1.1 = { birth = yes }
-	8014.1.1 = { trait = knight }
-	8014.1.1 = { add_spouse = Stewart_rs_29 }
+	8014.1.1 = {
+		trait = knight
+		add_spouse = Stewart_rs_29
+	}
 	8058.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -82571,6 +82787,7 @@ Webster_rs_12 = {
 Webster_12_B = {
 	name = Bronwyn
 	dynasty = dynn_Webster
+	dna = Webster_12_B
 	female = yes
 
 	religion = the_seven_main
@@ -82820,8 +83037,10 @@ Webster_26 = {
 	mother = Webster_rs_19
 
 	7936.1.1 = { birth = yes }
-	7955.1.1 = { trait = knight }
-	7955.1.1 = { add_spouse = Webster_rs_26 }
+	7955.1.1 = {
+		trait = knight
+		add_spouse = Webster_rs_26
+	}
 	8002.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -83117,8 +83336,10 @@ Webster_35 = {
 	mother = Webster_rs_24
 
 	7966.1.1 = { birth = yes }
-	7983.1.1 = { trait = knight }
-	7983.1.1 = { add_spouse = Webster_rs_35 }
+	7983.1.1 = {
+		trait = knight
+		add_spouse = Webster_rs_35
+	}
 	8031.1.1 = {
 		trait = cancer
 		death = { death_reason = death_cancer }
@@ -84617,8 +84838,10 @@ Orimund_14 = {
 	trait = twin
 
 	7982.1.1 = { birth = yes }
-	8000.1.1 = { trait = knight }
-	8000.1.1 = { add_spouse = Orimund_rs_14 }
+	8000.1.1 = {
+		trait = knight
+		add_spouse = Orimund_rs_14
+	}
 	8035.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -85583,8 +85806,10 @@ Verlayn_15 = {
 	mother = Verlayn_11
 
 	7567.1.1 = { birth = yes }
-	7585.1.1 = { trait = knight }
-	7585.1.1 = { add_spouse = Verlayn_rs_15 }
+	7585.1.1 = {
+		trait = knight
+		add_spouse = Verlayn_rs_15
+	}
 	7632.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -85929,8 +86154,10 @@ Verlayn_30 = {
 	mother = Verlayn_rs_29
 
 	7673.1.1 = { birth = yes }
-	7691.1.1 = { trait = knight }
-	7691.1.1 = { add_spouse = Verlayn_rs_30 }
+	7691.1.1 = {
+		trait = knight
+		add_spouse = Verlayn_rs_30
+	}
 	7718.1.1 = {
 		death = { death_reason = death_accident }
 	}
@@ -86296,8 +86523,10 @@ Verlayn_66 = {
 	mother = Verlayn_rs_41
 
 	7777.1.1 = { birth = yes }
-	7795.1.1 = { trait = knight }
-	7795.1.1 = { add_spouse = Verlayn_rs_66 }
+	7795.1.1 = {
+		trait = knight
+		add_spouse = Verlayn_rs_66
+	}
 	7844.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -87458,8 +87687,10 @@ Verlayn_87 = {
 	mother = Verlayn_rs_83
 
 	8076.1.1 = { birth = yes }
-	8094.1.1 = { trait = knight }
-	8094.1.1 = { add_spouse = Verlayn_rs_87 }
+	8094.1.1 = {
+		trait = knight
+		add_spouse = Verlayn_rs_87
+	}
 	8142.1.1 = {
 		death = { death_reason = death_heart_attack }
 	}
@@ -88312,8 +88543,10 @@ Beale_12 = {
 	mother = Beale_rs_10
 
 	7898.1.1 = { birth = yes }
-	7916.1.1 = { trait = knight }
-	7916.1.1 = { add_spouse = Beale_rs_12 }
+	7916.1.1 = {
+		trait = knight
+		add_spouse = Beale_rs_12
+	}
 	7958.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -89214,8 +89447,10 @@ Beale_56 = {
 	mother = Beale_51
 
 	8146.1.1 = { birth = yes }
-	8163.1.1 = { trait = knight }
-	8163.1.1 = { add_spouse = Beale_rs_56 }
+	8163.1.1 = {
+		trait = knight
+		add_spouse = Beale_rs_56
+	}
 	8212.1.1 = {
 		death = { death_reason = death_heart_attack }
 	}
@@ -90468,8 +90703,10 @@ Darkholme_34 = {
 	mother = Darkholme_30
 
 	8095.1.1 = { birth = yes }
-	8112.1.1 = { trait = knight }
-	8112.1.1 = { add_spouse = Darkholme_rs_34 }
+	8112.1.1 = {
+		trait = knight
+		add_spouse = Darkholme_rs_34
+	}
 	8156.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -91368,8 +91605,10 @@ Crews_15 = {
 	trait = twin
 
 	7861.1.1 = { birth = yes }
-	7877.1.1 = { trait = knight }
-	7877.1.1 = { add_spouse = Crews_rs_15 }
+	7877.1.1 = {
+		trait = knight
+		add_spouse = Crews_rs_15
+	}
 	7906.1.1 = { death = yes }
 }
 Crews_rs_15 = {
@@ -92062,8 +92301,10 @@ Crews_43 = {
 	mother = Crews_rs_42
 
 	8081.1.1 = { birth = yes }
-	8100.1.1 = { trait = knight }
-	8100.1.1 = { add_spouse = Crews_rs_43 }
+	8100.1.1 = {
+		trait = knight
+		add_spouse = Crews_rs_43
+	}
 	8128.1.1 = {
 		trait = cancer
 		death = { death_reason = death_cancer }
@@ -92497,8 +92738,10 @@ Witt_2 = {
 	mother = Witt_rs_1
 
 	7780.1.1 = { birth = yes }
-	7799.1.1 = { trait = knight }
-	7799.1.1 = { add_spouse = Witt_rs_2 }
+	7799.1.1 = {
+		trait = knight
+		add_spouse = Witt_rs_2
+	}
 	7821.1.1 = { death = yes }
 }
 Witt_rs_2 = {
@@ -93270,8 +93513,10 @@ Witt_36 = {
 	mother = Witt_rs_31
 
 	8086.1.1 = { birth = yes }
-	8104.1.1 = { trait = knight }
-	8104.1.1 = { add_spouse = Witt_rs_36 }
+	8104.1.1 = {
+		trait = knight
+		add_spouse = Witt_rs_36
+	}
 	8126.1.1 = {
 		death = { death_reason = death_drank_to_death }
 	}
@@ -94007,8 +94252,10 @@ Driscoll_9 = {
 	mother = Driscoll_8
 
 	7881.1.1 = { birth = yes }
-	7899.1.1 = { trait = knight }
-	7899.1.1 = { add_spouse = Driscoll_rs_9 }
+	7899.1.1 = {
+		trait = knight
+		add_spouse = Driscoll_rs_9
+	}
 	7935.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -96223,8 +96470,10 @@ Kurrigan_45 = {
 	mother = Kurrigan_rs_43
 
 	8220.1.1 = { birth = yes }
-	8237.1.1 = { trait = knight }
-	8237.1.1 = { add_spouse = Kurrigan_rs_45 }
+	8237.1.1 = {
+		trait = knight
+		add_spouse = Kurrigan_rs_45
+	}
 	8239.1.1 = { death = yes }
 }
 Kurrigan_rs_45 = {
@@ -97400,8 +97649,10 @@ Halcott_8 = {
 	mother = Halcott_7
 
 	7879.1.1 = { birth = yes }
-	7896.1.1 = { trait = knight }
-	7896.1.1 = { add_spouse = Halcott_rs_8 }
+	7896.1.1 = {
+		trait = knight
+		add_spouse = Halcott_rs_8
+	}
 	7943.1.1 = {
 		trait = gout_ridden
 		death = { death_reason = death_gout_ridden }
@@ -97820,8 +98071,10 @@ Halcott_23 = {
 	trait = twin
 
 	8078.1.1 = { birth = yes }
-	8096.1.1 = { trait = knight }
-	8096.1.1 = { add_spouse = Halcott_rs_23 }
+	8096.1.1 = {
+		trait = knight
+		add_spouse = Halcott_rs_23
+	}
 	8131.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -98394,8 +98647,10 @@ Halcott_37 = {
 	mother = Halcott_rs_34
 
 	8165.1.1 = { birth = yes }
-	8181.1.1 = { trait = knight }
-	8181.1.1 = { add_spouse = Halcott_rs_37 }
+	8181.1.1 = {
+		trait = knight
+		add_spouse = Halcott_rs_37
+	}
 	8209.1.1 = { death = yes }
 }
 Halcott_rs_37 = {
@@ -99182,8 +99437,10 @@ Shelldrake_27 = {
 	trait = twin
 
 	7981.1.1 = { birth = yes }
-	7997.1.1 = { trait = knight }
-	7997.1.1 = { add_spouse = Shelldrake_rs_27 }
+	7997.1.1 = {
+		trait = knight
+		add_spouse = Shelldrake_rs_27
+	}
 	8047.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -99661,8 +99918,10 @@ Shelldrake_48 = {
 	mother = Shelldrake_rs_45
 
 	8129.1.1 = { birth = yes }
-	8148.1.1 = { trait = knight }
-	8148.1.1 = { add_spouse = Shelldrake_rs_48 }
+	8148.1.1 = {
+		trait = knight
+		add_spouse = Shelldrake_rs_48
+	}
 	8172.1.1 = { death = yes }
 }
 Shelldrake_rs_48 = {
@@ -100768,8 +101027,10 @@ Jesper_36 = {
 	mother = Jesper_rs_32
 
 	8188.1.1 = { birth = yes }
-	8206.1.1 = { trait = knight }
-	8206.1.1 = { add_spouse = Jesper_rs_36 }
+	8206.1.1 = {
+		trait = knight
+		add_spouse = Jesper_rs_36
+	}
 	8253.1.1 = {
 		death = { death_reason = death_accident }
 	}
@@ -101152,8 +101413,10 @@ Vearnon_11 = {
 	mother = Vearnon_rs_10
 
 	7950.1.1 = { birth = yes }
-	7967.1.1 = { trait = knight }
-	7967.1.1 = { add_spouse = Vearnon_rs_11 }
+	7967.1.1 = {
+		trait = knight
+		add_spouse = Vearnon_rs_11
+	}
 	7969.1.1 = { death = yes }
 }
 Vearnon_rs_11 = {
@@ -103046,8 +103309,10 @@ Morris_46 = {
 	mother = Morris_rs_42
 
 	8189.1.1 = { birth = yes }
-	8206.1.1 = { trait = knight }
-	8206.1.1 = { add_spouse = Morris_rs_46 }
+	8206.1.1 = {
+		trait = knight
+		add_spouse = Morris_rs_46
+	}
 	8226.1.1 = {
 		death = { death_reason = death_fall }
 	}
@@ -103621,8 +103886,10 @@ Seasons_34 = {
 	mother = Seasons_25
 
 	7994.1.1 = { birth = yes }
-	8012.1.1 = { trait = knight }
-	8012.1.1 = { add_spouse = Seasons_rs_34 }
+	8012.1.1 = {
+		trait = knight
+		add_spouse = Seasons_rs_34
+	}
 	8023.1.1 = { death = yes }
 }
 Seasons_rs_34 = {
@@ -104484,8 +104751,10 @@ Seasons_54 = {
 	trait = twin
 
 	8182.1.1 = { birth = yes }
-	8198.1.1 = { trait = knight }
-	8198.1.1 = { add_spouse = Seasons_rs_54 }
+	8198.1.1 = {
+		trait = knight
+		add_spouse = Seasons_rs_54
+	}
 	8233.1.1 = {
 		death = { death_reason = death_accident }
 	}
@@ -104786,8 +105055,10 @@ Den_Brove_11 = {
 	mother = Den_Brove_rs_7
 
 	7905.1.1 = { birth = yes }
-	7924.1.1 = { trait = knight }
-	7924.1.1 = { add_spouse = Den_Brove_rs_11 }
+	7924.1.1 = {
+		trait = knight
+		add_spouse = Den_Brove_rs_11
+	}
 	7959.1.1 = {
 		death = { death_reason = death_horse }
 	}
@@ -106709,8 +106980,10 @@ Bommenstone_25 = {
 	mother = Bommenstone_rs_24
 
 	7985.1.1 = { birth = yes }
-	8003.1.1 = { trait = knight }
-	8003.1.1 = { add_spouse = Bommenstone_rs_25 }
+	8003.1.1 = {
+		trait = knight
+		add_spouse = Bommenstone_rs_25
+	}
 	8049.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -108316,8 +108589,10 @@ Wiltwood_39 = {
 	mother = Wiltwood_rs_37
 
 	8102.1.1 = { birth = yes }
-	8121.1.1 = { trait = knight }
-	8121.1.1 = { add_spouse = Wiltwood_rs_39 }
+	8121.1.1 = {
+		trait = knight
+		add_spouse = Wiltwood_rs_39
+	}
 	8153.1.1 = {
 		trait = pneumonic
 		death = { death_reason = death_pneumonic }
@@ -109174,8 +109449,10 @@ Bleaker_21 = {
 	mother = Bleaker_rs_20
 
 	8002.1.1 = { birth = yes }
-	8021.1.1 = { trait = knight }
-	8021.1.1 = { add_spouse = Bleaker_rs_21 }
+	8021.1.1 = {
+		trait = knight
+		add_spouse = Bleaker_rs_21
+	}
 	8044.1.1 = { death = yes }
 }
 Bleaker_rs_21 = {
@@ -109551,8 +109828,10 @@ Bleaker_30 = {
 	mother = Bleaker_rs_27
 
 	8074.1.1 = { birth = yes }
-	8093.1.1 = { trait = knight }
-	8093.1.1 = { add_spouse = Bleaker_rs_30 }
+	8093.1.1 = {
+		trait = knight
+		add_spouse = Bleaker_rs_30
+	}
 	8143.1.1 = {
 		death = { death_reason = death_drank_to_death }
 	}
@@ -109595,8 +109874,10 @@ Bleaker_38 = {
 	mother = Bleaker_rs_30
 
 	8095.1.1 = { birth = yes }
-	8112.1.1 = { trait = knight }
-	8112.1.1 = { add_spouse = Bleaker_rs_38 }
+	8112.1.1 = {
+		trait = knight
+		add_spouse = Bleaker_rs_38
+	}
 	8154.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -112250,8 +112531,10 @@ Brask_7 = {
 	mother = Brask_rs_3
 
 	7851.1.1 = { birth = yes }
-	7869.1.1 = { trait = knight }
-	7869.1.1 = { add_spouse = Brask_rs_7 }
+	7869.1.1 = {
+		trait = knight
+		add_spouse = Brask_rs_7
+	}
 	7907.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -112405,8 +112688,10 @@ Brask_19 = {
 	mother = Brask_rs_8
 
 	7878.1.1 = { birth = yes }
-	7896.1.1 = { trait = knight }
-	7896.1.1 = { add_spouse = Brask_rs_19 }
+	7896.1.1 = {
+		trait = knight
+		add_spouse = Brask_rs_19
+	}
 	7929.1.1 = {
 		trait = cancer
 		death = { death_reason = death_cancer }
@@ -113010,8 +113295,10 @@ Brask_33 = {
 	mother = Brask_rs_32
 
 	8048.1.1 = { birth = yes }
-	8066.1.1 = { trait = knight }
-	8066.1.1 = { add_spouse = Brask_rs_33 }
+	8066.1.1 = {
+		trait = knight
+		add_spouse = Brask_rs_33
+	}
 	8072.1.1 = {
 		death = { death_reason = death_tumultuous_guts }
 	}
@@ -113507,8 +113794,10 @@ Revere_3 = {
 	mother = Revere_rs_1
 
 	7781.1.1 = { birth = yes }
-	7799.1.1 = { trait = knight }
-	7799.1.1 = { add_spouse = Revere_rs_3 }
+	7799.1.1 = {
+		trait = knight
+		add_spouse = Revere_rs_3
+	}
 	7843.1.1 = {
 		trait = consumption
 		death = { death_reason = death_consumption }
@@ -114825,8 +115114,10 @@ Flattery_15 = {
 	mother = Flattery_12
 
 	7909.1.1 = { birth = yes }
-	7925.1.1 = { trait = knight }
-	7925.1.1 = { add_spouse = Flattery_rs_15 }
+	7925.1.1 = {
+		trait = knight
+		add_spouse = Flattery_rs_15
+	}
 	7962.1.1 = {
 		death = { death_reason = death_tumultuous_guts }
 	}
@@ -115194,8 +115485,10 @@ Flattery_29 = {
 	mother = Flattery_rs_27
 
 	8131.1.1 = { birth = yes }
-	8150.1.1 = { trait = knight }
-	8150.1.1 = { add_spouse = Flattery_rs_29 }
+	8150.1.1 = {
+		trait = knight
+		add_spouse = Flattery_rs_29
+	}
 	8191.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -115398,8 +115691,10 @@ Flattery_34 = {
 	mother = Flattery_rs_31
 
 	8167.1.1 = { birth = yes }
-	8184.1.1 = { trait = knight }
-	8184.1.1 = { add_spouse = Flattery_rs_34 }
+	8184.1.1 = {
+		trait = knight
+		add_spouse = Flattery_rs_34
+	}
 	8215.1.1 = { death = yes }
 }
 Flattery_rs_34 = {
@@ -115616,8 +115911,10 @@ Garrish_7 = {
 	mother = Garrish_rs_6
 
 	7846.1.1 = { birth = yes }
-	7864.1.1 = { trait = knight }
-	7864.1.1 = { add_spouse = Garrish_rs_7 }
+	7864.1.1 = {
+		trait = knight
+		add_spouse = Garrish_rs_7
+	}
 	7901.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -116686,8 +116983,10 @@ Garrish_48 = {
 	mother = Garrish_rs_44
 
 	8144.1.1 = { birth = yes }
-	8160.1.1 = { trait = knight }
-	8160.1.1 = { add_spouse = Garrish_rs_48 }
+	8160.1.1 = {
+		trait = knight
+		add_spouse = Garrish_rs_48
+	}
 	8194.1.1 = {
 		death = { death_reason = death_choked }
 	}
@@ -116904,8 +117203,10 @@ Collarance_1 = {
 	culture = valeman
 
 	7785.1.1 = { birth = yes }
-	7803.1.1 = { trait = knight }
-	7803.1.1 = { add_spouse = Collarance_rs_1 }
+	7803.1.1 = {
+		trait = knight
+		add_spouse = Collarance_rs_1
+	}
 	7846.1.1 = { death = yes }
 }
 Collarance_rs_1 = {
@@ -119474,8 +119775,10 @@ Oldfield_17 = {
 	mother = Oldfield_15
 
 	7997.1.1 = { birth = yes }
-	8015.1.1 = { trait = knight }
-	8015.1.1 = { add_spouse = Oldfield_rs_17 }
+	8015.1.1 = {
+		trait = knight
+		add_spouse = Oldfield_rs_17
+	}
 	8060.1.1 = {
 		death = { death_reason = death_tumultuous_guts }
 	}
@@ -119546,8 +119849,10 @@ Oldfield_20 = {
 	mother = Oldfield_rs_18
 
 	8039.1.1 = { birth = yes }
-	8055.1.1 = { trait = knight }
-	8055.1.1 = { add_spouse = Oldfield_rs_20 }
+	8055.1.1 = {
+		trait = knight
+		add_spouse = Oldfield_rs_20
+	}
 	8105.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -121614,8 +121919,10 @@ Amersham_2 = {
 	mother = Amersham_rs_1
 
 	7794.1.1 = { birth = yes }
-	7812.1.1 = { trait = knight }
-	7812.1.1 = { add_spouse = Amersham_rs_2 }
+	7812.1.1 = {
+		trait = knight
+		add_spouse = Amersham_rs_2
+	}
 	7862.1.1 = {
 		trait = cancer
 		death = { death_reason = death_cancer }
@@ -122532,8 +122839,10 @@ Amersham_39 = {
 	mother = Amersham_38
 
 	8143.1.1 = { birth = yes }
-	8161.1.1 = { trait = knight }
-	8161.1.1 = { add_spouse = Amersham_rs_39 }
+	8161.1.1 = {
+		trait = knight
+		add_spouse = Amersham_rs_39
+	}
 	8202.1.1 = {
 		death = { death_reason = death_horse_riding_accident }
 	}
@@ -123082,8 +123391,10 @@ Ildermont_15 = {
 	mother = Ildermont_rs_12
 
 	7963.1.1 = { birth = yes }
-	7979.1.1 = { trait = knight }
-	7979.1.1 = { add_spouse = Ildermont_rs_15 }
+	7979.1.1 = {
+		trait = knight
+		add_spouse = Ildermont_rs_15
+	}
 	7997.1.1 = { death = yes }
 }
 Ildermont_rs_15 = {
@@ -123357,8 +123668,10 @@ Ildermont_28 = {
 	mother = Ildermont_rs_22
 
 	8082.1.1 = { birth = yes }
-	8100.1.1 = { trait = knight }
-	8100.1.1 = { add_spouse = Ildermont_rs_28 }
+	8100.1.1 = {
+		trait = knight
+		add_spouse = Ildermont_rs_28
+	}
 	8127.1.1 = {
 		death = { death_reason = death_training_accident }
 	}
@@ -123516,8 +123829,10 @@ Ildermont_32 = {
 	mother = Ildermont_rs_30
 
 	8114.1.1 = { birth = yes }
-	8133.1.1 = { trait = knight }
-	8133.1.1 = { add_spouse = Ildermont_rs_32 }
+	8133.1.1 = {
+		trait = knight
+		add_spouse = Ildermont_rs_32
+	}
 	8171.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -123833,8 +124148,10 @@ Swale_2 = {
 	mother = Swale_rs_1
 
 	7803.1.1 = { birth = yes }
-	7820.1.1 = { trait = knight }
-	7820.1.1 = { add_spouse = Swale_rs_2 }
+	7820.1.1 = {
+		trait = knight
+		add_spouse = Swale_rs_2
+	}
 	7864.1.1 = {
 		death = { death_reason = death_stress }
 	}
@@ -124660,8 +124977,10 @@ Swale_35 = {
 	mother = Swale_29
 
 	8040.1.1 = { birth = yes }
-	8058.1.1 = { trait = knight }
-	8058.1.1 = { add_spouse = Swale_rs_35 }
+	8058.1.1 = {
+		trait = knight
+		add_spouse = Swale_rs_35
+	}
 	8081.1.1 = {
 		death = { death_reason = death_fire }
 	}
@@ -124687,8 +125006,10 @@ Swale_36 = {
 	mother = Swale_29
 
 	8044.1.1 = { birth = yes }
-	8060.1.1 = { trait = knight }
-	8060.1.1 = { add_spouse = Swale_rs_36 }
+	8060.1.1 = {
+		trait = knight
+		add_spouse = Swale_rs_36
+	}
 	8103.1.1 = {
 		death = { death_reason = death_choked }
 	}
@@ -124715,8 +125036,10 @@ Swale_45 = {
 	mother = Swale_rs_35
 
 	8061.1.1 = { birth = yes }
-	8078.1.1 = { trait = knight }
-	8078.1.1 = { add_spouse = Swale_rs_45 }
+	8078.1.1 = {
+		trait = knight
+		add_spouse = Swale_rs_45
+	}
 	8129.1.1 = {
 		trait = depressed_1
 		death = { death_reason = death_depressed }
@@ -124905,8 +125228,10 @@ Swale_37 = {
 	mother = Swale_rs_36
 
 	8063.1.1 = { birth = yes }
-	8080.1.1 = { trait = knight }
-	8080.1.1 = { add_spouse = Swale_rs_37 }
+	8080.1.1 = {
+		trait = knight
+		add_spouse = Swale_rs_37
+	}
 	8116.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -124995,8 +125320,10 @@ Swale_40 = {
 	mother = Swale_rs_39
 
 	8100.1.1 = { birth = yes }
-	8119.1.1 = { trait = knight }
-	8119.1.1 = { add_spouse = Swale_rs_40 }
+	8119.1.1 = {
+		trait = knight
+		add_spouse = Swale_rs_40
+	}
 	8164.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -125344,8 +125671,10 @@ Treymore_1 = {
 	culture = valeman
 
 	7782.1.1 = { birth = yes }
-	7801.1.1 = { trait = knight }
-	7801.1.1 = { add_spouse = Treymore_rs_1 }
+	7801.1.1 = {
+		trait = knight
+		add_spouse = Treymore_rs_1
+	}
 	7846.1.1 = { death = yes }
 }
 Treymore_rs_1 = {
@@ -125639,8 +125968,10 @@ Treymore_10 = {
 	mother = Treymore_rs_2
 
 	7828.1.1 = { birth = yes }
-	7847.1.1 = { trait = knight }
-	7847.1.1 = { add_spouse = Treymore_rs_10 }
+	7847.1.1 = {
+		trait = knight
+		add_spouse = Treymore_rs_10
+	}
 	7863.1.1 = {
 		death = { death_reason = death_fire }
 	}
@@ -125726,8 +126057,10 @@ Treymore_11 = {
 	mother = Treymore_rs_10
 
 	7848.1.1 = { birth = yes }
-	7864.1.1 = { trait = knight }
-	7864.1.1 = { add_spouse = Treymore_rs_11 }
+	7864.1.1 = {
+		trait = knight
+		add_spouse = Treymore_rs_11
+	}
 	7913.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -126833,8 +127166,10 @@ Treymore_62 = {
 	mother = Treymore_rs_60
 
 	8165.1.1 = { birth = yes }
-	8183.1.1 = { trait = knight }
-	8183.1.1 = { add_spouse = Treymore_rs_62 }
+	8183.1.1 = {
+		trait = knight
+		add_spouse = Treymore_rs_62
+	}
 	8217.1.1 = {
 		trait = ill
 		death = { death_reason = death_ill }
@@ -126950,8 +127285,10 @@ Treymore_68 = {
 	mother = Treymore_rs_65
 
 	8190.1.1 = { birth = yes }
-	8206.1.1 = { trait = knight }
-	8206.1.1 = { add_spouse = Treymore_rs_68 }
+	8206.1.1 = {
+		trait = knight
+		add_spouse = Treymore_rs_68
+	}
 	8258.1.1 = {
 		death = { death_reason = death_heart_attack }
 	}
@@ -127278,8 +127615,10 @@ Glimvane_15 = {
 	mother = Glimvane_rs_9
 
 	7846.1.1 = { birth = yes }
-	7864.1.1 = { trait = knight }
-	7864.1.1 = { add_spouse = Glimvane_rs_15 }
+	7864.1.1 = {
+		trait = knight
+		add_spouse = Glimvane_rs_15
+	}
 	7871.1.1 = {
 		trait = pneumonic
 		death = { death_reason = death_pneumonic }
@@ -128159,8 +128498,10 @@ Werloren_6 = {
 	trait = twin
 
 	7815.1.1 = { birth = yes }
-	7834.1.1 = { trait = knight }
-	7834.1.1 = { add_spouse = Werloren_rs_6 }
+	7834.1.1 = {
+		trait = knight
+		add_spouse = Werloren_rs_6
+	}
 	7843.1.1 = {
 		trait = cancer
 		death = { death_reason = death_cancer }
@@ -128998,8 +129339,10 @@ Werloren_45 = {
 	mother = Werloren_rs_41
 
 	8133.1.1 = { birth = yes }
-	8149.1.1 = { trait = knight }
-	8149.1.1 = { add_spouse = Werloren_rs_45 }
+	8149.1.1 = {
+		trait = knight
+		add_spouse = Werloren_rs_45
+	}
 	8165.1.1 = {
 		trait = consumption
 		death = { death_reason = death_consumption }
@@ -129288,8 +129631,10 @@ Lindhorn_6 = {
 	mother = Lindhorn_4
 
 	7872.1.1 = { birth = yes }
-	7888.1.1 = { trait = knight }
-	7888.1.1 = { add_spouse = Lindhorn_rs_6 }
+	7888.1.1 = {
+		trait = knight
+		add_spouse = Lindhorn_rs_6
+	}
 	7923.1.1 = {
 		trait = consumption
 		death = { death_reason = death_consumption }
@@ -130477,8 +130822,10 @@ Convery_22 = {
 	mother = Convery_rs_12
 
 	7961.1.1 = { birth = yes }
-	7978.1.1 = { trait = knight }
-	7978.1.1 = { add_spouse = Convery_rs_22 }
+	7978.1.1 = {
+		trait = knight
+		add_spouse = Convery_rs_22
+	}
 	7990.1.1 = { death = yes }
 }
 Convery_rs_22 = {
@@ -130684,8 +131031,10 @@ Convery_20 = {
 	mother = Convery_rs_17
 
 	7967.1.1 = { birth = yes }
-	7985.1.1 = { trait = knight }
-	7985.1.1 = { add_spouse = Convery_rs_20 }
+	7985.1.1 = {
+		trait = knight
+		add_spouse = Convery_rs_20
+	}
 	8034.1.1 = {
 		death = { death_reason = death_natural_causes }
 	}
@@ -131182,8 +131531,10 @@ Handley_7 = {
 	trait = twin
 
 	7857.1.1 = { birth = yes }
-	7875.1.1 = { trait = knight }
-	7875.1.1 = { add_spouse = Handley_rs_7 }
+	7875.1.1 = {
+		trait = knight
+		add_spouse = Handley_rs_7
+	}
 	7924.1.1 = {
 		trait = cancer
 		death = { death_reason = death_cancer }
