@@ -79,7 +79,7 @@
 ################# c_imeimyr - d_myr #################
 7562 = {
 	culture = myrish
-	religion = trios
+	religion = the_seven_main
 	special_building = agot_statue_of_trios_01
 	holding = city_holding
 	7824.1.1 = {
@@ -106,7 +106,7 @@
 ################ c_baherion - d_myr ###############
 7564 = {
 	culture = myrish
-	religion = rhllor
+	religion = the_seven_main
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -152,7 +152,7 @@
 ############## c_aberfields - d_myr #############
 7569 = {
 	culture = myrish
-	religion = trios
+	religion = the_seven_main
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -181,7 +181,7 @@
 ############### c_drennelion - d_myr ##############
 7573 = {
 	culture = hartalari
-	religion = trios
+	religion = the_seven_main
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -226,7 +226,7 @@
 ################# c_rynlos - d_myr ################
 7579 = {
 	culture = hartalari
-	religion = trios
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -263,7 +263,7 @@
 ############## c_naqes_embar - d_myr ##############
 7585 = {
 	culture = hartalari
-	religion = trios
+	religion = the_seven_main
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -308,7 +308,7 @@
 ################# c_jaeren - d_myr ################
 7591 = {
 	culture = hartalari
-	religion = rhllor
+	religion = the_seven_main
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -353,7 +353,7 @@
 ############# c_draembyr - d_croraera #############
 7597 = {
 	culture = hartalari
-	religion = rhllor
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -395,7 +395,7 @@
 ############ c_draemvale - d_croraera ############
 7604 = {
 	culture = hartalari
-	religion = trios
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -437,7 +437,7 @@
 ############## c_latnyr - d_croraera ##############
 7611 = {
 	culture = hartalari
-	religion = rhllor
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -469,7 +469,7 @@
 ############# c_myrwater - d_croraera #############
 7616 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -501,7 +501,7 @@
 ########## c_erintys - d_brenassar #########
 7621 = {
 	culture = hartalari
-	religion = rhllor
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -528,7 +528,7 @@
 ########### c_aror_drennah - d_brenassar ##########
 7626 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -565,7 +565,7 @@
 ############## c_qolash - d_brenassar #############
 7631 = {
 	culture = hartalari
-	religion = trios
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -602,7 +602,7 @@
 ############## c_byloth - d_brenassar #############
 7637 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -634,7 +634,7 @@
 ############# c_vymolys - d_brenassar #############
 7642 = {
 	culture = hartalari
-	religion = rhllor
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -671,7 +671,7 @@
 ############# c_molranno - d_brenassar ############
 7648 = {
 	culture = hartalari
-	religion = rhllor
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -703,7 +703,7 @@
 ############## c_eranah - d_brenassar #############
 7653 = {
 	culture = hartalari
-	religion = rhllor
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -735,7 +735,7 @@
 ############## c_lotyr_bay - d_qehes ##############
 7658 = {
 	culture = hartalari
-	religion = trios
+	religion = the_seven_main
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -785,7 +785,7 @@
 ################ c_mogho - d_qehes ################
 7665 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -822,7 +822,7 @@
 ############## c_ergos - d_qehes ##############
 7671 = {
 	culture = hartalari
-	religion = rhllor
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -849,7 +849,7 @@
 ############### c_lerysha - d_qehes ###############
 7675 = {
 	culture = hartalari
-	religion = rhllor
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -886,7 +886,7 @@
 ############### c_drasaho - d_qehes ###############
 7681 = {
 	culture = hartalari
-	religion = rhllor
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -923,7 +923,7 @@
 ############# c_greenlace - d_daarano #############
 7687 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -987,7 +987,7 @@
 ############## c_illiros - d_daarano ##############
 7697 = {
 	culture = hartalari
-	religion = rhllor
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {
@@ -1024,7 +1024,7 @@
 ############## c_aenoris - d_daarano ##############
 7703 = {
 	culture = hartalari
-	religion = rhllor
+	religion = the_seven_main
 	holding = castle_holding
 	7658.1.1 = {
 		buildings = {

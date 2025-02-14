@@ -1,0 +1,392 @@
+### The Andal rebels and warlords
+
+Temp_Disputed_Land_AI_1 = {
+    ### Mod Canon
+
+    ## Held Titles
+    # d_nontelos
+    # c_nontelos
+    # c_viigashos
+
+    ## Lore
+    # Warlord who recently led rebellon against Andalos leading to them losing southern territory
+    # Was unable to keep coalition together so instead of forming a kingdom similar to Andalos as planned it fractured into multiple warlord states and chaos in the aftermath
+    # Canonically his new petty kingdom will be conquered by Valyrian outposts along
+
+	name = Godric
+	#dynasty = dynn_Griffin
+
+    ## Culture and Faith
+	religion = the_seven_main
+	culture = andal
+
+    ## Personality
+	# Solid warrior, solid leader, too ambitious
+	trait = education_martial_3
+	trait = gregarious
+	trait = arrogant
+	trait = greedy
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+Temp_Disputed_Land_AI_2 = {
+    ### Mod Canon
+
+    ## Held Titles
+    # d_daarano
+    # c_greenlance
+    # c_mogho
+
+    ## Lore
+    # Participant in Godric's rebellion against Andalos
+    # Formed petty kingdom in aftermath
+	# Sinful and wanted separation from the Andal church
+	# Money man behind rebellion
+
+	name = Isembard
+	#dynasty = 
+
+    ## Culture and Faith
+	religion = the_seven_main
+	culture = andal
+
+    ## Traits
+    # Education
+	trait = education_stewardship_4
+
+    # Personality
+	trait = cynical
+	trait = stubborn
+	trait = diligent
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+Temp_Disputed_Land_AI_3 = {
+    ### Mod Canon
+
+    ## Held Titles
+    # d_brenassar
+    # c_erintys
+
+    ## Lore
+    # Major supporter of Godric's rebellion but his realm fractured in aftermath
+    # Most of his duchy is independent at start
+
+	name = Mathos
+	#dynasty = 
+
+    ## Culture and Faith
+	religion = the_seven_main
+	culture = andal
+
+    ## Traits
+    # Education
+
+    # Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+Temp_Disputed_Land_AI_5 = {
+    ### Mod Canon
+
+    ## Held Titles
+	# c_rynlos
+
+    ## Lore
+	# Upstart warlord
+
+	name = Bryen
+
+    ## Culture and Faith
+	religion = the_seven_main
+	culture = andal
+
+    ## Traits
+    # Education
+
+    # Personality
+
+	disallow_random_traits = no
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+Temp_Disputed_Land_AI_6 = {
+    ### Mod Canon
+
+    ## Held Titles
+	# c_drasho
+
+    ## Lore
+	# Upstart warlord
+
+	name = Corwyn
+
+    ## Culture and Faith
+	religion = the_seven_main
+	culture = andal
+
+    ## Traits
+    # Education
+
+    # Personality
+
+	disallow_random_traits = no
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+Temp_Disputed_Land_AI_7 = {
+    ### Mod Canon
+
+    ## Held Titles
+	# c_amenai_ridge
+	# c_amenos
+
+    ## Lore
+	# Upstart warlord
+
+	name = Eldric
+
+    ## Culture and Faith
+	religion = the_seven_main
+	culture = andal
+
+    ## Traits
+    # Education
+
+    # Personality
+
+	disallow_random_traits = no
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+Temp_Disputed_Land_AI_8 = {
+    ### Mod Canon
+
+    ## Held Titles
+	# d_the_baked_lands
+	# c_zadientor
+	# c_dying_woods
+	# c_jalarios
+
+    ## Lore
+	# Upstart warlord
+
+	name = Gwayne
+
+    ## Culture and Faith
+	religion = the_seven_main
+	culture = andal
+
+    ## Traits
+    # Education
+
+    # Personality
+
+	disallow_random_traits = no
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+Temp_Disputed_Land_AI_9 = {
+    ### Mod Canon
+
+    ## Held Titles
+	# c_vejonegroz
+
+    ## Lore
+	# Upstart warlord
+
+	name = Petyr
+
+    ## Culture and Faith
+	religion = the_seven_main
+	culture = andal
+
+    ## Traits
+    # Education
+
+    # Personality
+
+	disallow_random_traits = no
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+Temp_Disputed_Land_AI_10 = {
+    ### Mod Canon
+
+    ## Held Titles
+	# c_ringolion
+
+    ## Lore
+	# Upstart warlord
+
+	name = Rodrik
+
+    ## Culture and Faith
+	religion = the_seven_main
+	culture = andal
+
+    ## Traits
+    # Education
+
+    # Personality
+
+	disallow_random_traits = no
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+### The Rhoynar in the Disputed Lands
+
+Temp_Disputed_Land_AI_4 = {
+    ### Mod Canon
+
+    ## Held Titles
+    # d_outskirts
+    # d_qehes
+    # c_naqes_embar
+    # c_lotyr_bay
+
+    ## Lore
+    # Rhoynar prince of a family destitute thanks to Valyrian wars
+    # Fought for Godric in rebellion but took opportunity as coalition fell apart to seize his own realm
+    # Intelligent and capable but deceptive
+    # Canonically will be be first rivals of the city of Myr
+    # Largest post rebellion realm but most unstable due to foreign ruler
+
+	name = Lewyn
+
+    ## Culture and Faith
+	religion = mother_rhoyne
+	culture = rhoynish
+
+    ## Traits
+    # Education
+    trait = education_martial_5
+
+    # Personality
+    # Betrayer, great warrior, defined by hatred for Valyria from past
+    trait = deceitful 
+    trait = brave
+    trait = vengeful
+
+    trait = intellect_good_1
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}

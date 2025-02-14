@@ -1,0 +1,267 @@
+d_nontelos = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_1
+	}
+}
+
+c_nontelos = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_1
+	}
+}
+
+c_viigashos = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_1
+	}
+}
+
+c_gyrakos = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_1
+	}
+}
+
+c_myllenios = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_1
+	}
+}
+
+c_kastaraen = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_1
+	}
+}
+
+c_samaalis = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_1
+	}
+}
+
+c_nonguesin = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_1
+	}
+}
+
+d_daarano = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_2
+	}
+}
+
+c_greenlace = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_2
+	}
+}
+
+c_qapys = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_2
+	}
+}
+
+c_illiros = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_2
+	}
+}
+
+c_aenoris = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_2
+	}
+}
+
+d_brenassar = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_3
+	}
+}
+
+c_erintys = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_3
+	}
+}
+
+c_aror_drennah = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_3
+	}
+}
+
+c_qolash = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_3
+	}
+}
+
+c_byloth = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_3
+	}
+}
+
+c_vymolys = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_3
+	}
+}
+
+c_molranno = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_3
+	}
+}
+
+c_eranah = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_3
+	}
+}
+
+d_outskirts = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_4
+	}
+}
+
+c_drennelion = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_4
+	}
+}
+
+c_rynlos = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_5
+	}
+}
+
+c_naqes_embar = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_4
+	}
+}
+
+c_jaeren = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_4
+	}
+}
+
+d_qehes = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_4
+	}
+}
+
+c_lotyr_bay = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_4
+	}
+}
+
+c_mogho = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_4
+	}
+}
+
+c_ergos = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_4
+	}
+}
+
+c_lerysha = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_4
+	}
+}
+
+c_drasaho = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_6
+	}
+}
+
+d_konian_coast = {
+}
+
+c_amenai_ridge = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_7
+	}
+}
+
+c_ar_kon = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_1
+	}
+}
+
+c_ringolion = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_10
+	}
+}
+
+c_amenos = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_7
+	}
+}
+
+c_vejonegroz = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_9
+	}
+}
+
+c_nyalla = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_1
+	}
+}
+
+d_the_baked_lands = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_8
+	}
+}
+
+c_zadientor = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_8
+	}
+}
+
+c_blipys = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_1
+	}
+}
+
+c_ejipvos = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_1
+	}
+}
+
+c_dying_woods = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_8
+	}
+}
+
+c_jalarios = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_8
+	}
+}
+

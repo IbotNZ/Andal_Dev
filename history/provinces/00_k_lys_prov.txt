@@ -160,7 +160,7 @@
 ########### c_dyreno_hills - d_mangrove_shore ###########
 7402 = {
 	culture = hartalari
-	religion = rhllor
+	religion = the_seven_main
 	holding = castle_holding
 	buildings = {
 		castle_02
@@ -187,7 +187,7 @@
 ########## c_aercadar - d_mangrove_shore ##########
 7406 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = the_seven_main
 	holding = castle_holding
 	buildings = {
 		castle_03
@@ -231,7 +231,7 @@
 ############## c_morghos - d_mangrove_shore #############
 7411 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = the_seven_main
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -293,7 +293,7 @@
 ############ c_orthas_reon - d_mangrove_shore ###########
 7418 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = the_seven_main
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -350,7 +350,7 @@
 ########### c_fetted_grove - d_mangrove_shore ##########
 7424 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = the_seven_main
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {

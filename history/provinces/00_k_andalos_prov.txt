@@ -2,7 +2,7 @@
 ############# c_coronyll - d_andalimark #############
 7918 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 	special_building = agot_hugor_hill_01
 	7824.1.1 = {
@@ -34,7 +34,7 @@
 ############# c_coronyll - d_andalimark #############
 7922 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 	4100.1.1 = {
 		buildings = {
@@ -63,7 +63,7 @@
 ############# c_crone_moors - d_andalimark #############
 7925 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 }
 ################ b_norofer ###############
 ############# c_crone_moors - d_andalimark #############
@@ -94,7 +94,7 @@
 ############# c_gonford - d_andalimark #############
 7931 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 }
 ############### b_chirchylle ###############
 ############# c_gonford - d_andalimark #############
@@ -115,7 +115,7 @@
 ############# c_ishys - d_andalimark #############
 7935 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 }
 ############### b_ausfold ###############
 ############# c_ishys - d_andalimark #############
@@ -141,7 +141,7 @@
 ############# c_tableland - d_andalimark #############
 7940 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 }
 ############### b_vesfeld ###############
 ############# c_tableland - d_andalimark #############
@@ -162,7 +162,7 @@
 ############# c_armirridge - d_andalimark #############
 7944 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 }
 ############### b_fentun ###############
 ############# c_armirridge - d_andalimark #############
@@ -183,7 +183,7 @@
 ############# c_hukorvale - d_andalimark #############
 7948 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 }
 ############### b_hrycone ###############
 ############# c_hukorvale - d_andalimark #############
@@ -214,7 +214,7 @@
 ########## c_andal_coast - d_sojourners_coast ##########
 7954 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	6400.1.1 = {
 		holding = castle_holding
 		buildings = {
@@ -226,7 +226,7 @@
 	}
 	8209.1.1 = {
 		culture = braavosi
-		religion = servants_of_the_star
+		religion = the_seven_main
 	}
 	8225.1.1 = {
 		buildings = {
@@ -313,7 +313,7 @@
 ########## c_horost - d_sojourners_coast ##########
 7961 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 }
 ################# b_emmon #################
 ########## c_horost - d_sojourners_coast ##########
@@ -334,7 +334,7 @@
 ########## c_smiths_bay - d_sojourners_coast ##########
 7965 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 }
 ################# b_duntun ################
 ########## c_smiths_bay - d_sojourners_coast ##########
@@ -360,7 +360,7 @@
 ########## c_boiorrio - d_sojourners_coast ##########
 7970 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 }
 ################# b_hildtun ################
 ########## c_boiorrio - d_sojourners_coast ##########
@@ -391,7 +391,7 @@
 ########## c_warriors_approach - d_sojourners_coast ##########
 7976 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 }
 ################# b_westun ################
 ########## c_warriors_approach - d_sojourners_coast ##########
@@ -407,7 +407,7 @@
 ########## c_parmengaed - d_sojourners_coast ##########
 7979 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 }
 ################# b_eaton ################
 ########## c_parmengaed - d_sojourners_coast ##########
@@ -433,7 +433,7 @@
 ################ c_jelfold - d_jelmark ################
 7984 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 }
 ################# b_jeltun #################
@@ -465,7 +465,7 @@
 ################ c_jaesford - d_jelmark ################
 7990 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 }
 ################# b_riddetun #################
@@ -492,7 +492,7 @@
 ################ c_maidridge - d_jelmark ################
 7995 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 }
 ################# b_rhinkahrycg ################
@@ -514,7 +514,7 @@
 ################ c_jelmahinon - d_jelmark ################
 7999 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 }
 ################# b_laestun ################
@@ -546,7 +546,7 @@
 ################ c_wind_coast - d_jelmark ################
 8005 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	6400.1.1 = {
 		holding = castle_holding
 		buildings = {
@@ -558,7 +558,7 @@
 	}
 	8153.1.1 = {
 		culture = braavosi
-		religion = servants_of_the_star
+		religion = the_seven_main
 		holding = city_holding
 		buildings = {
 			city_01
@@ -648,7 +648,7 @@
 ################ c_jaeshinun - d_nast ################
 8010 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 }
 ################# b_hintum #################
@@ -675,7 +675,7 @@
 ################ c_strangers_finger - d_nast ################
 8015 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 }
 ################# b_tungaest #################
@@ -702,7 +702,7 @@
 ################ c_fathers_point - d_nast ################
 8020 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 }
 ################# b_vaetun ################
@@ -724,7 +724,7 @@
 ################ c_morimark - d_nast ################
 8024 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 }
 ################# b_hyrtun ################
@@ -751,7 +751,7 @@
 ############### c_sigridge - d_sentinel_ridge ###############
 8029 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 }
 ################# b_dunshae ################
@@ -788,7 +788,7 @@
 ############### c_rhoford - d_sentinel_ridge ###############
 8036 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 }
 ################# b_rhohyl ################
@@ -815,7 +815,7 @@
 ############### c_hukoford - d_sentinel_ridge ###############
 8041 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 }
 ################ b_fortun ################
@@ -837,7 +837,7 @@
 ############### c_qeloford - d_sentinel_ridge ###############
 8045 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 }
 ################ b_qelotun ################
@@ -864,7 +864,7 @@
 ############### c_gryvidge - d_sentinel_ridge ###############
 8050 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 }
 ################ b_grycidge ################
@@ -886,7 +886,7 @@
 ############### c_tikuvale - d_sentinel_ridge ###############
 8054 = {
 	culture = andal
-	religion = servants_of_the_star
+	religion = the_seven_main
 	holding = castle_holding
 }
 ################ b_eadun ################
