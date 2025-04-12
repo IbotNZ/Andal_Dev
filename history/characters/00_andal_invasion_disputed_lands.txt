@@ -17,7 +17,7 @@ Temp_Disputed_Land_AI_1 = {
 	#dynasty = dynn_Griffin
 
     ## Culture and Faith
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
     ## Personality
@@ -61,7 +61,7 @@ Temp_Disputed_Land_AI_2 = {
 	#dynasty = 
 
     ## Culture and Faith
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
     ## Traits
@@ -103,7 +103,7 @@ Temp_Disputed_Land_AI_3 = {
 	#dynasty = 
 
     ## Culture and Faith
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
     ## Traits
@@ -138,7 +138,7 @@ Temp_Disputed_Land_AI_5 = {
 	name = Bryen
 
     ## Culture and Faith
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
     ## Traits
@@ -173,7 +173,7 @@ Temp_Disputed_Land_AI_6 = {
 	name = Corwyn
 
     ## Culture and Faith
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
     ## Traits
@@ -209,7 +209,7 @@ Temp_Disputed_Land_AI_7 = {
 	name = Eldric
 
     ## Culture and Faith
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
     ## Traits
@@ -247,7 +247,7 @@ Temp_Disputed_Land_AI_8 = {
 	name = Gwayne
 
     ## Culture and Faith
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
     ## Traits
@@ -282,7 +282,7 @@ Temp_Disputed_Land_AI_9 = {
 	name = Petyr
 
     ## Culture and Faith
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
     ## Traits
@@ -317,7 +317,7 @@ Temp_Disputed_Land_AI_10 = {
 	name = Rodrik
 
     ## Culture and Faith
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
     ## Traits

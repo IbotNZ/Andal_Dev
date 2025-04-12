@@ -6,7 +6,7 @@ Arryn_AI_1 = {
 	name = Mathos
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	6280.1.1 = { birth = yes }
@@ -18,7 +18,7 @@ Arryn_AI_rs_1 = {
 	name = Arra
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	6280.1.1 = { birth = yes }
@@ -29,7 +29,7 @@ Arryn_AI_2 = {
 	name = Hugor
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_1 # Mathos
@@ -44,7 +44,7 @@ Arryn_AI_3 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_1 # Mathos
@@ -57,7 +57,7 @@ Arryn_AI_4 = {
 	name = Alester
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_1 # Mathos
@@ -71,7 +71,7 @@ Arryn_AI_5 = {
 	name = Mathos
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_1 # Mathos
@@ -86,7 +86,7 @@ Arryn_AI_6 = {
 	name = Erreg
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_2 # Hugor Arryn
@@ -99,7 +99,7 @@ Arryn_AI_7 = {
 	name = Hugh
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_2 # Hugor Arryn
@@ -113,7 +113,7 @@ Arryn_AI_8 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_2 # Hugor Arryn
@@ -127,7 +127,7 @@ Arryn_AI_9 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_2 # Hugor Arryn
@@ -140,7 +140,7 @@ Arryn_AI_10 = {
 	name = Roland
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_7 # Hugh Arryn
@@ -154,7 +154,7 @@ Arryn_AI_11 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_7 # Hugh Arryn
@@ -167,7 +167,7 @@ Arryn_AI_12 = {
 	name = Alester
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_10 # Roland Arryn
@@ -180,7 +180,7 @@ Arryn_AI_13 = {
 	name = Hugo
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_10 # Roland Arryn
@@ -195,7 +195,7 @@ Arryn_AI_14 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_12 # Alester Arryn
@@ -207,7 +207,7 @@ Arryn_AI_15 = {
 	name = Hugor
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_12 # Alester Arryn
@@ -221,7 +221,7 @@ Arryn_AI_16 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_12 # Alester Arryn
@@ -233,7 +233,7 @@ Arryn_AI_17 = {
 	name = Artys
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_12 # Alester Arryn
@@ -246,7 +246,7 @@ Arryn_AI_17_b = {
 	name = Roland
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_12 # Alester Arryn
@@ -261,7 +261,7 @@ Arryn_AI_18 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_17 # Artys Arryn
@@ -274,7 +274,7 @@ Arryn_AI_19 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_17 # Artys Arryn
@@ -287,7 +287,7 @@ Arryn_AI_20 = {
 	name = Steffon
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_17 # Artys Arryn
@@ -301,7 +301,7 @@ Arryn_AI_21 = {
 	name = Hugor
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_20 # Steffon Arryn
@@ -314,7 +314,7 @@ Arryn_AI_22 = {
 	name = Artys
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_20 # Steffon Arryn
@@ -328,7 +328,7 @@ Arryn_AI_23 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_20 # Steffon Arryn
@@ -340,7 +340,7 @@ Arryn_AI_24 = {
 	name = Lucamore
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_20 # Steffon Arryn
@@ -355,7 +355,7 @@ Arryn_AI_25 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_21 # Hugor Arryn
@@ -367,7 +367,7 @@ Arryn_AI_26 = {
 	name = Hugo
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_21 # Hugor Arryn
@@ -381,7 +381,7 @@ Arryn_AI_27 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_21 # Hugor Arryn
@@ -394,7 +394,7 @@ Arryn_AI_28 = {
 	name = Alester
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_26 # Hugo Arryn
@@ -407,7 +407,7 @@ Arryn_AI_29 = {
 	name = Hugor
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_26 # Hugo Arryn
@@ -421,7 +421,7 @@ Arryn_AI_30 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_26 # Hugo Arryn
@@ -434,7 +434,7 @@ Arryn_AI_31 = {
 	name = Steffon
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_22 # Artys Arryn
@@ -447,7 +447,7 @@ Arryn_AI_32 = {
 	name = Artys
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_22 # Artys Arryn
@@ -461,7 +461,7 @@ Arryn_AI_33 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_22 # Artys Arryn
@@ -475,7 +475,7 @@ Arryn_AI_34 = {
 	name = Artys
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_31 # Steffon Arryn
@@ -488,7 +488,7 @@ Arryn_AI_35 = {
 	name = Roland
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_31 # Steffon Arryn
@@ -501,7 +501,7 @@ Arryn_AI_36 = {
 	name = Mathos
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_31 # Steffon Arryn
@@ -515,7 +515,7 @@ Arryn_AI_37 = {
 	name = Hugh
 	dynasty = dynn_Arryn
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_35 # Roland Arryn
@@ -529,7 +529,7 @@ Arryn_AI_38 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_35 # Roland Arryn
@@ -543,7 +543,7 @@ Arryn_AI_39 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_36 # Mathos Arryn
@@ -557,7 +557,7 @@ Arryn_AI_40 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_36 # Mathos Arryn
@@ -572,7 +572,7 @@ Arryn_AI_41 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_28 # Alester Arryn
@@ -585,7 +585,7 @@ Arryn_AI_42 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_28 # Alester Arryn
@@ -598,7 +598,7 @@ Arryn_AI_43 = {
 	dynasty = dynn_Arryn
 	female = yes
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Arryn_AI_28 # Alester Arryn
@@ -624,7 +624,7 @@ Corbray_AI_1 = {
 	name = Lyle
 	dynasty = dynn_Corbray
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	6400.1.1 = { birth = yes }
@@ -635,7 +635,7 @@ Corbray_AI_2 = {
 	name = Gwayne
 	dynasty = dynn_Corbray
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Corbray_AI_1 # Lyle Corbray
@@ -648,7 +648,7 @@ Corbray_AI_3 = {
 	name = Leowyn
 	dynasty = dynn_Corbray
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Corbray_AI_2 # Gwayne Corbray
@@ -668,7 +668,7 @@ Templeton_AI_1 = {
 	name = Hugh
 	dynasty = dynn_Templeton
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	6400.1.1 = { birth = yes }
@@ -679,7 +679,7 @@ Templeton_AI_2 = {
 	name = Luceon
 	dynasty = dynn_Templeton
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Templeton_AI_1 # Hugh Templeton
@@ -692,7 +692,7 @@ Templeton_AI_3 = {
 	name = Gerold
 	dynasty = dynn_Templeton
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Templeton_AI_2 # Luceon Templeton
@@ -705,7 +705,7 @@ Templeton_AI_4 = {
 	name = Artys
 	dynasty = dynn_Templeton
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Templeton_AI_3 # Gerold Templeton
@@ -718,7 +718,7 @@ Templeton_AI_5 = {
 	name = Jaime
 	dynasty = dynn_Templeton
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Templeton_AI_4 # Artys Templeton
@@ -743,7 +743,7 @@ Royce_AI_1 = {
 	name = Yorwyn # I
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	trait = education_martial_5
@@ -763,7 +763,7 @@ Royce_AI_2 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_1 # Yorwyn
@@ -775,7 +775,7 @@ Royce_AI_3 = {
 	name = Yohn # I
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_1 # Yorwyn
@@ -787,7 +787,7 @@ Royce_AI_4 = {
 	name = Robar
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_1 # Yorwyn
@@ -799,7 +799,7 @@ Royce_AI_5 = {
 	name = Andar
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_1 # Yorwyn
@@ -812,7 +812,7 @@ Royce_AI_6 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_1 # Yorwyn
@@ -825,7 +825,7 @@ Royce_AI_7 = {
 	name = Yohn # II
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_3 # Yohn
@@ -837,7 +837,7 @@ Royce_AI_8 = {
 	name = Yorwyn # II
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_3 # Yohn
@@ -850,7 +850,7 @@ Royce_AI_9 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_3 # Yohn
@@ -863,7 +863,7 @@ Royce_AI_10 = {
 	name = Andar # I
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_7 # Yohn
@@ -876,7 +876,7 @@ Royce_AI_11 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_7 # Yohn
@@ -889,7 +889,7 @@ Royce_AI_12 = {
 	name = Dorren # I
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_8 # Yorwyn
@@ -903,7 +903,7 @@ Royce_AI_13 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_8 # Yorwyn
@@ -915,7 +915,7 @@ Royce_AI_14 = {
 	name = Yohn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_8 # Yorwyn
@@ -929,7 +929,7 @@ Royce_AI_15 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_12 # Dorren
@@ -942,7 +942,7 @@ Royce_AI_16 = {
 	name = Yorwyn # III
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_12 # Dorren
@@ -956,7 +956,7 @@ Royce_AI_17 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_12 # Dorren
@@ -970,7 +970,7 @@ Royce_AI_18 = {
 	name = Yohn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_16 # Yorwyn
@@ -984,7 +984,7 @@ Royce_AI_19 = {
 	name = Yorwyn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_16 # Yorwyn
@@ -999,7 +999,7 @@ Royce_AI_20 = {
 	name = Yohn # III
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_18 # Yohn
@@ -1012,7 +1012,7 @@ Royce_AI_21 = {
 	name = Horton
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_19 # Yorwyn
@@ -1024,7 +1024,7 @@ Royce_AI_22 = {
 	name = Brandon
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_19 # Yorwyn
@@ -1037,7 +1037,7 @@ Royce_AI_23 = {
 	name = Horton
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_21 # Horton
@@ -1051,7 +1051,7 @@ Royce_AI_24 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_20 # Yohn
@@ -1065,7 +1065,7 @@ Royce_AI_25 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_20 # Yohn
@@ -1078,7 +1078,7 @@ Royce_AI_26 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_20 # Yohn
@@ -1091,7 +1091,7 @@ Royce_AI_27 = {
 	name = Yoren # I
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_23 # Horton
@@ -1104,7 +1104,7 @@ Royce_AI_28 = {
 	name = Horton
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_23 # Horton
@@ -1118,7 +1118,7 @@ Royce_AI_29 = {
 	name = Horton # I
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_27 # Yoren
@@ -1131,7 +1131,7 @@ Royce_AI_30 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_27 # Yoren
@@ -1144,7 +1144,7 @@ Royce_AI_31 = {
 	name = Yoren II
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 	sexuality = asexual
 
@@ -1157,7 +1157,7 @@ Royce_AI_32 = {
 	name = Andar
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_29 # Horton
@@ -1170,7 +1170,7 @@ Royce_AI_33 = {
 	name = Andar # I
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_32 # Andar
@@ -1183,7 +1183,7 @@ Royce_AI_34 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_32 # Andar
@@ -1195,7 +1195,7 @@ Royce_AI_35 = {
 	name = Yoren
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_32 # Andar
@@ -1208,7 +1208,7 @@ Royce_AI_36 = {
 	name = Yohn # IV
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_33 # Andar
@@ -1220,7 +1220,7 @@ Royce_AI_37 = {
 	name = Yorwyck
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_33 # Andar
@@ -1235,7 +1235,7 @@ Royce_AI_38 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_33 # Andar
@@ -1248,7 +1248,7 @@ Royce_AI_39 = {
 	name = Andar # II
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_36 # Yohn
@@ -1260,7 +1260,7 @@ Royce_AI_40 = {
 	name = Yohn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_36 # Yohn
@@ -1273,7 +1273,7 @@ Royce_AI_41 = {
 	name = Robar
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_37 # Yorwyck
@@ -1287,7 +1287,7 @@ Royce_AI_42 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_41 # Robar
@@ -1300,7 +1300,7 @@ Royce_AI_42 = {
 #	name = Yorwyck # I
 #	dynasty = dynn_Royce
 #
-#	religion = old_gods_south
+#	religion = old_gods_mnv
 #	culture = first_man
 #
 #	father = Royce_AI_39 # AI ADD
@@ -1314,7 +1314,7 @@ Royce_AI_43 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_39 # Andar
@@ -1327,7 +1327,7 @@ Royce_AI_44 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_39 # Andar
@@ -1340,7 +1340,7 @@ Royce_AI_45 = {
 	name = Yorwyn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_40 # Yohn
@@ -1353,7 +1353,7 @@ Royce_AI_46 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_40 # Yohn
@@ -1366,7 +1366,7 @@ Royce_AI_46 = {
 #	name = Yorwyck # II
 #	dynasty = dynn_Royce
 #
-#	religion = old_gods_south
+#	religion = old_gods_mnv
 #	culture = first_man
 #
 #	father = Royce_11
@@ -1380,7 +1380,7 @@ Royce_AI_47 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_11 # Yorwyck
@@ -1393,7 +1393,7 @@ Royce_AI_48 = {
 	name = Yohn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_11 # Yorwyck
@@ -1406,7 +1406,7 @@ Royce_AI_49 = {
 	name = Andar
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_11 # Yorwyck
@@ -1420,7 +1420,7 @@ Royce_AI_49 = {
 #	name = Yorwyck # III
 #	dynasty = dynn_Royce
 #
-#	religion = old_gods_south
+#	religion = old_gods_mnv
 #	culture = first_man
 #
 #	father = Royce_12
@@ -1433,7 +1433,7 @@ Royce_AI_50 = {
 	name = Yoren
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_48 # Yohn
@@ -1446,7 +1446,7 @@ Royce_AI_51 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_48 # Yohn
@@ -1458,7 +1458,7 @@ Royce_AI_52 = {
 	name = Yohn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_48 # Yohn
@@ -1471,7 +1471,7 @@ Royce_AI_53 = {
 	name = Andar
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_50 # Yoren
@@ -1485,7 +1485,7 @@ Royce_AI_54 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_52 # Yohn
@@ -1497,7 +1497,7 @@ Royce_AI_55 = {
 	name = Yohn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_52 # Yohn
@@ -1509,7 +1509,7 @@ Royce_AI_56 = {
 	name = Robar
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_52 # Yohn
@@ -1522,7 +1522,7 @@ Royce_AI_57 = {
 	name = Yohn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_56 # Robar
@@ -1535,7 +1535,7 @@ Royce_AI_58 = {
 	name = Robar
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_57 # Yohn
@@ -1548,7 +1548,7 @@ Royce_AI_59 = {
 	name = Yohn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_58 # Robar
@@ -1561,7 +1561,7 @@ Royce_AI_60 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_58 # Robar
@@ -1574,7 +1574,7 @@ Royce_AI_61 = {
 	name = Andar
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_59 # Yohn
@@ -1586,7 +1586,7 @@ Royce_AI_62 = {
 	name = Yorwyck
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_59 # Yohn
@@ -1599,7 +1599,7 @@ Royce_AI_63 = {
 	name = Yohn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_13
@@ -1612,7 +1612,7 @@ Royce_AI_64 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_13
@@ -1625,7 +1625,7 @@ Royce_AI_65 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_13
@@ -1637,7 +1637,7 @@ Royce_AI_66 = {
 	name = Robar
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_13
@@ -1649,7 +1649,7 @@ Royce_AI_66 = {
 #	name = Yorwyck # IV
 #	dynasty = dynn_Royce
 #
-#	religion = old_gods_south
+#	religion = old_gods_mnv
 #	culture = first_man
 #
 #	father = Royce_13
@@ -1662,7 +1662,7 @@ Royce_AI_67 = {
 	name = Robar
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_14
@@ -1675,7 +1675,7 @@ Royce_AI_68 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_14
@@ -1687,7 +1687,7 @@ Royce_AI_68 = {
 #	name = Yorwyck # Mentioned, Yorwyck V
 #	dynasty = dynn_Royce
 #
-#	religion = old_gods_south
+#	religion = old_gods_mnv
 #	culture = first_man
 #
 #	father = Royce_14
@@ -1704,7 +1704,7 @@ Royce_AI_69 = {
 	name = Andar
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_14
@@ -1717,7 +1717,7 @@ Royce_AI_70 = {
 	name = Ellard
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_69 # Andar
@@ -1730,7 +1730,7 @@ Royce_AI_71 = {
 	name = Brandon
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_70 # Ellard
@@ -1742,7 +1742,7 @@ Royce_AI_72 = {
 	name = Yorwyn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_70 # Ellard
@@ -1756,7 +1756,7 @@ Royce_AI_73 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_71 # Brandon
@@ -1769,7 +1769,7 @@ Royce_AI_74 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_71 # Brandon
@@ -1781,7 +1781,7 @@ Royce_AI_75 = {
 	name = Ellard
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_71 # Brandon
@@ -1794,7 +1794,7 @@ Royce_AI_76 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_71 # Brandon
@@ -1806,7 +1806,7 @@ Royce_AI_77 = {
 	name = Brandon
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_71 # Brandon
@@ -1819,7 +1819,7 @@ Royce_AI_78 = {
 	name = Yorwyn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_72 # Yorwyn
@@ -1832,7 +1832,7 @@ Royce_AI_79 = {
 	name = Yorwyn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_78 # Yorwyn
@@ -1845,7 +1845,7 @@ Royce_AI_80 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_AI_78 # Yorwyn
@@ -1861,7 +1861,7 @@ Royce_AI_80 = {
 #	martial = 7
 #	prowess = 12
 #
-#	religion = old_gods_south
+#	religion = old_gods_mnv
 #	culture = first_man
 #
 #	father = Royce_15
@@ -1885,7 +1885,7 @@ Royce_AI_81 = {
 	name = Yorwell
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_15 # Yorwyck
@@ -1898,7 +1898,7 @@ Royce_AI_82 = {
 	name = Yorwyck
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_16 # Yorwyck
@@ -1910,7 +1910,7 @@ Royce_AI_83 = {
 	name = Horton
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_16 # Yorwyck
@@ -1923,7 +1923,7 @@ Royce_AI_84 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_16 # Yorwyck
@@ -1936,7 +1936,7 @@ Royce_AI_85 = {
 	dynasty = dynn_Royce
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_16 # Yorwyck
@@ -1949,7 +1949,7 @@ Royce_AI_85 = {
 #	dynasty = dynn_Royce
 #	dna = Royce_17
 #
-#	religion = old_gods_south
+#	religion = old_gods_mnv
 #	culture = first_man
 #
 #	father = Royce_16
@@ -1962,7 +1962,7 @@ Royce_AI_86 = {
 	name = Yorwyck
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_16 # Yorwyck
@@ -1974,7 +1974,7 @@ Royce_AI_89 = {
 	name = Yohn
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_16 # Yorwyck
@@ -1993,7 +1993,7 @@ Royce_AI_89 = {
 #	learning = 4
 #	prowess = 24
 #
-#	religion = old_gods_south
+#	religion = old_gods_mnv
 #	culture = first_man
 #
 #	father = Royce_17
@@ -2025,7 +2025,7 @@ Royce_AI_89 = {
 #	dynasty = dynn_Royce
 #	female = yes
 #
-#	religion = old_gods_south
+#	religion = old_gods_mnv
 #	culture = first_man
 #
 #	father = Royce_17
@@ -2049,7 +2049,7 @@ Royce_AI_90 = {
 	name = Yorwell
 	dynasty = dynn_Royce
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Royce_16 # Yorwyck
@@ -2073,7 +2073,7 @@ Redfort_AI_1 = {
 	name = Jon
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	6301.1.1 = { birth = yes }
@@ -2083,7 +2083,7 @@ Redfort_AI_2 = {
 	name = Royce
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_1 # Jon
@@ -2095,7 +2095,7 @@ Redfort_AI_3 = {
 	name = Rickard
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_1 # Jon
@@ -2108,7 +2108,7 @@ Redfort_AI_4 = {
 	dynasty = dynn_Redfort
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_1 # Jon
@@ -2121,7 +2121,7 @@ Redfort_AI_5 = {
 	name = Jonnel
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_2 # Royce
@@ -2134,7 +2134,7 @@ Redfort_AI_6 = {
 	dynasty = dynn_Redfort
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_2 # Royce
@@ -2146,7 +2146,7 @@ Redfort_AI_7 = {
 	name = Torren
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_2 # Royce
@@ -2159,7 +2159,7 @@ Redfort_AI_8 = {
 	name = Torren
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_7 # Torren
@@ -2172,7 +2172,7 @@ Redfort_AI_9 = {
 	dynasty = dynn_Redfort
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_7 # Torren
@@ -2185,7 +2185,7 @@ Redfort_AI_10 = {
 	name = Royce
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_5 # Jonnel
@@ -2198,7 +2198,7 @@ Redfort_AI_11 = {
 	dynasty = dynn_Redfort
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_5 # Jonnel
@@ -2210,7 +2210,7 @@ Redfort_AI_12 = {
 	name = Rickard
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_5 # Jonnel
@@ -2223,7 +2223,7 @@ Redfort_AI_13 = {
 	name = Rickard
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_10 # Royce
@@ -2236,7 +2236,7 @@ Redfort_AI_14 = {
 	dynasty = dynn_Redfort
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_10 # Royce
@@ -2249,7 +2249,7 @@ Redfort_AI_15 = {
 	name = Royce
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_13 # Rickard
@@ -2261,7 +2261,7 @@ Redfort_AI_16 = {
 	name = Horton
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_13 # Rickard
@@ -2273,7 +2273,7 @@ Redfort_AI_17 = {
 	name = Jon
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_13 # Rickard
@@ -2286,7 +2286,7 @@ Redfort_AI_18 = {
 	name = Royce
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_16 # Horton
@@ -2299,7 +2299,7 @@ Redfort_AI_19 = {
 	dynasty = dynn_Redfort
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_16 # Horton
@@ -2311,7 +2311,7 @@ Redfort_AI_20 = {
 	name = Horton
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_16 # Horton
@@ -2324,7 +2324,7 @@ Redfort_AI_21 = {
 	name = Rickard
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_17 # Jon
@@ -2337,7 +2337,7 @@ Redfort_AI_22 = {
 	name = Jonnel
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_21 # Rickard
@@ -2350,7 +2350,7 @@ Redfort_AI_23 = {
 	name = Rickon
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_22 # Jonnel
@@ -2363,7 +2363,7 @@ Redfort_AI_24 = {
 	dynasty = dynn_Redfort
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_22 # Jonnel
@@ -2376,7 +2376,7 @@ Redfort_AI_25 = {
 	dynasty = dynn_Redfort
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_22 # Jonnel
@@ -2388,7 +2388,7 @@ Redfort_AI_26 = {
 	name = Jon
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_22 # Jonnel
@@ -2401,7 +2401,7 @@ Redfort_AI_27 = {
 	name = Robar
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_18 # Royce
@@ -2413,7 +2413,7 @@ Redfort_AI_28 = {
 	name = Roger
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_18 # Royce
@@ -2426,7 +2426,7 @@ Redfort_AI_29 = {
 	dynasty = dynn_Redfort
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_18 # Royce
@@ -2441,7 +2441,7 @@ Redfort_AI_30 = {
 	dynasty = dynn_Redfort
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_27 # Robar
@@ -2454,7 +2454,7 @@ Redfort_AI_31 = {
 	dynasty = dynn_Redfort
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_27 # Robar
@@ -2466,7 +2466,7 @@ Redfort_AI_31 = {
 #	name = Royce # Mentioned, a lord
 #	dynasty = dynn_Redfort
 #
-#	religion = old_gods_south
+#	religion = old_gods_mnv
 #	culture = first_man
 #
 #	father = Redfort_AI_27 # AI ADD
@@ -2487,7 +2487,7 @@ Redfort_AI_32 = {
 	name = Horton
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_27 # Robar
@@ -2500,7 +2500,7 @@ Redfort_AI_33 = {
 	name = Roger
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_28 # Roger
@@ -2513,7 +2513,7 @@ Redfort_AI_34 = {
 	name = Royce
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_6 # Royce
@@ -2526,7 +2526,7 @@ Redfort_AI_35 = {
 	dynasty = dynn_Redfort
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_6 # Royce
@@ -2538,7 +2538,7 @@ Redfort_AI_36 = {
 	name = Robar
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_6 # Royce
@@ -2551,7 +2551,7 @@ Redfort_AI_37 = {
 	name = Yohn
 	dynasty = dynn_Redfort
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_32 # Horton
@@ -2564,7 +2564,7 @@ Redfort_AI_38 = {
 	dynasty = dynn_Redfort
 	female = yes
 
-	religion = old_gods_south
+	religion = old_gods_mnv
 	culture = first_man
 
 	father = Redfort_AI_32 # Horton

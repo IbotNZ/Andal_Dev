@@ -2287,7 +2287,7 @@
 ########## c_silverfield - d_white_harbor #########
 435 = {
 	culture = harborman
-	religion = weirwood_of_the_seven
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2403,7 +2403,7 @@
 ########## c_white_knife - d_white_harbor #########
 452 = {
 	culture = harborman
-	religion = weirwood_of_the_seven
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -2462,7 +2462,7 @@
 ########### c_whitford - d_white_harbor ###########
 461 = {
 	culture = harborman
-	religion = weirwood_of_the_seven
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }

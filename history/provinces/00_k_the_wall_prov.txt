@@ -2,7 +2,7 @@
 ########### c_castle_black - d_the_wall ###########
 5 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	4000.1.1 = {
 		buildings = { castle_03 }
@@ -73,7 +73,7 @@
 ########### c_castle_black - d_the_wall ###########
 1 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	300.1.1 = {
 		special_building = agot_the_wall_01
@@ -128,7 +128,7 @@
 ######### c_the_shadow_tower - d_the_wall #########
 8 = {
 	culture = hill_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	300.1.1 = {
 		special_building = agot_shadow_tower_01
@@ -224,7 +224,7 @@
 ############# c_eastwatch - d_the_wall ############
 14 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	300.1.1 = {
 		special_building = agot_the_wall_01
@@ -327,7 +327,7 @@
 ###### c_weatherback_ridge - d_brandons_gift ######
 20 = {
 	culture = hill_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -381,7 +381,7 @@
 ########## c_moles_town - d_brandons_gift #########
 28 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = city_holding
 	7824.1.1 = {
 		buildings = { city_02 }
@@ -442,7 +442,7 @@
 ########### c_hoarburn - d_brandons_gift ##########
 38 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -498,7 +498,7 @@
 ############ c_boreharrow - d_new_gift ############
 54 = {
 	culture = hill_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -544,7 +544,7 @@
 ############ c_whitecross - d_new_gift ############
 57 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -600,7 +600,7 @@
 ############ c_giantsbeard - d_new_gift ###########
 66 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -651,7 +651,7 @@
 ############# c_norlinton - d_new_gift ############
 47 = {
 	culture = hill_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }

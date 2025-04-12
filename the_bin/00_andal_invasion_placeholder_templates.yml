@@ -8,7 +8,7 @@ Temp_Disputed_Land_AI_ = {
 	name = 
 
     ## Culture and Faith
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
     ## Traits

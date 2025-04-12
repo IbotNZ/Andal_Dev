@@ -13,7 +13,7 @@ Hugor_of_the_Hill_1 = {
 	intrigue = 7
 	learning = 7
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	trait = education_learning_5
@@ -29,7 +29,7 @@ Hugor_of_the_Hill_1 = {
 	trait = savior # check if another trait isn’t more applicable
 	trait = intellect_good_1
 	trait = fecund
-trait = bossy
+	trait = bossy
 
 	disallow_random_traits = yes
 
@@ -48,7 +48,7 @@ Argos_Sevenstar_1 = {
 	intrigue = 5
 	stewardship = 5
 
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
  	
 	trait = education_martial_3
@@ -83,7 +83,7 @@ Qarlon_1 = {
 	name= Qarlon # Canon Qarlon the Great
 	#dynasty = 174917 
     
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
     
 	martial = 7
@@ -131,7 +131,7 @@ Qarlon_rs_1 = {
 	name = Lorra
 	female = yes
     
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
     
 	6387.1.1 = { birth = yes }
@@ -142,7 +142,7 @@ Qarlon_2 = {
 	name= Uthor
 	#dynasty = 174917
     
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Qarlon_1 # Qarlon the Great
@@ -161,7 +161,7 @@ Qarlon_3 = {
 	name = Atrys
 	#dynasty = 174917
     
-	religion = the_seven_main
+	religion = fots_stars
 	culture = andal
 
 	father = Qarlon_1 # Qarlon the Great

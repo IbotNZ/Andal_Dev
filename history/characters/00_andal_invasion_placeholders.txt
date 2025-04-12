@@ -5,7 +5,7 @@ Placeholder_Wall = {
 	name = Aurio # a lord
 	#dynasty = dynn_Golathis
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = andalosi
 
 	#father = Golathis_46
@@ -21,7 +21,7 @@ Placeholder_Andalos = {
 	name = Aurio # a lord
 	#dynasty = dynn_Golathis
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = andalosi
 
 	#father = Golathis_46
@@ -35,7 +35,7 @@ Placeholder_Pentos = {
 	name = Aurio # a lord
 	#dynasty = dynn_Golathis
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = pentoshi
 
 	#father = Golathis_46
@@ -48,7 +48,7 @@ Placeholder_Pentos = {
 Placeholder_Myr = {
 	name = Aurio # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = myrish
 
 	#father = Golathis_46
@@ -61,7 +61,7 @@ Placeholder_Myr = {
 Placeholder_Tyrosh = {
 	name = Aurio # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = tyroshi
 
 	#father = Golathis_46
@@ -74,7 +74,7 @@ Placeholder_Tyrosh = {
 Placeholder_Lys = {
 	name = Aurio # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = lyseni
 
 	#father = Golathis_46
@@ -89,7 +89,7 @@ Placeholder_Lys = {
 Placeholder_Dorne = {
 	name = Dornman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = high_dornish
 
 	#father = Golathis_46
@@ -102,7 +102,7 @@ Placeholder_Dorne = {
 Placeholder_Yronwood = {
 	name = Dornman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -115,7 +115,7 @@ Placeholder_Yronwood = {
 Placeholder_Dayne = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -128,7 +128,7 @@ Placeholder_Dayne = {
 Placeholder_Qorgyle = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -141,7 +141,7 @@ Placeholder_Qorgyle = {
 Placeholder_dryland = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -154,7 +154,7 @@ Placeholder_dryland = {
 Placeholder_Fowler = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -167,7 +167,7 @@ Placeholder_Fowler = {
 Placeholder_Blackmont = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -180,7 +180,7 @@ Placeholder_Blackmont = {
 Placeholder_Allyrion = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -195,7 +195,7 @@ Placeholder_Allyrion = {
 Placeholder_Durrandon = {
 	name = Durran # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -208,7 +208,7 @@ Placeholder_Durrandon = {
 Placeholder_Tarth = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = storm_savage
 
 	#father = Golathis_46
@@ -221,7 +221,7 @@ Placeholder_Tarth = {
 Placeholder_Massey = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -234,7 +234,7 @@ Placeholder_Massey = {
 Placeholder_BarEmmont = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -249,7 +249,7 @@ Placeholder_BarEmmont = {
 Placeholder_Gardener = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -262,7 +262,7 @@ Placeholder_Gardener = {
 Placeholder_Hightower = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -275,7 +275,7 @@ Placeholder_Hightower = {
 Placeholder_Redwyne = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -288,7 +288,7 @@ Placeholder_Redwyne = {
 Placeholder_Tarley = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -301,7 +301,7 @@ Placeholder_Tarley = {
 Placeholder_Peake = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -314,7 +314,7 @@ Placeholder_Peake = {
 Placeholder_Fossoway = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -327,7 +327,7 @@ Placeholder_Fossoway = {
 Placeholder_Rowan = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -340,7 +340,7 @@ Placeholder_Rowan = {
 Placeholder_Crane = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -353,7 +353,7 @@ Placeholder_Crane = {
 Placeholder_Oakheart = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -366,7 +366,7 @@ Placeholder_Oakheart = {
 Placeholder_Florent = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -379,7 +379,7 @@ Placeholder_Florent = {
 Placeholder_Beesbury = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -392,7 +392,7 @@ Placeholder_Beesbury = {
 Placeholder_Bulwer = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -405,7 +405,7 @@ Placeholder_Bulwer = {
 Placeholder_Ball = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -420,7 +420,7 @@ Placeholder_Ball = {
 Placeholder_Lannister = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -433,7 +433,7 @@ Placeholder_Lannister = {
 Placeholder_Crakehall = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -446,7 +446,7 @@ Placeholder_Crakehall = {
 Placeholder_Broom = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -459,7 +459,7 @@ Placeholder_Broom = {
 Placeholder_Plumm = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -472,7 +472,7 @@ Placeholder_Plumm = {
 Placeholder_Reyne = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -485,7 +485,7 @@ Placeholder_Reyne = {
 Placeholder_Westerling = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -498,7 +498,7 @@ Placeholder_Westerling = {
 Placeholder_Banefort = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -511,7 +511,7 @@ Placeholder_Banefort = {
 Placeholder_Farman = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -524,7 +524,7 @@ Placeholder_Farman = {
 Placeholder_Foote = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -537,7 +537,7 @@ Placeholder_Foote = {
 Placeholder_Justman = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -550,7 +550,7 @@ Placeholder_Justman = {
 Placeholder_Mudd = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -563,7 +563,7 @@ Placeholder_Mudd = {
 Placeholder_Blackwood = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -576,7 +576,7 @@ Placeholder_Blackwood = {
 Placeholder_Bracken = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -589,7 +589,7 @@ Placeholder_Bracken = {
 Placeholder_Darklyn = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -602,7 +602,7 @@ Placeholder_Darklyn = {
 Placeholder_Arryn = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -615,7 +615,7 @@ Placeholder_Arryn = {
 Placeholder_Corbray = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -628,7 +628,7 @@ Placeholder_Corbray = {
 Placeholder_Royce = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -641,7 +641,7 @@ Placeholder_Royce = {
 Placeholder_Shett = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -654,7 +654,7 @@ Placeholder_Shett = {
 Placeholder_Grafton = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -667,7 +667,7 @@ Placeholder_Grafton = {
 Placeholder_Redfort = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -680,7 +680,7 @@ Placeholder_Redfort = {
 Placeholder_Hunter = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -693,7 +693,7 @@ Placeholder_Hunter = {
 Placeholder_Belmore = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -706,7 +706,7 @@ Placeholder_Belmore = {
 Placeholder_Upcliff = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -719,7 +719,7 @@ Placeholder_Upcliff = {
 Placeholder_Sunderland = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -732,7 +732,7 @@ Placeholder_Sunderland = {
 Placeholder_Stark = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -745,7 +745,7 @@ Placeholder_Stark = {
 Placeholder_Bolton = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -758,7 +758,7 @@ Placeholder_Bolton = {
 Placeholder_Amber = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -771,7 +771,7 @@ Placeholder_Amber = {
 Placeholder_Locke = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -784,7 +784,7 @@ Placeholder_Locke = {
 Placeholder_Flint = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -797,7 +797,7 @@ Placeholder_Flint = {
 Placeholder_Reed = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -810,7 +810,7 @@ Placeholder_Reed = {
 Placeholder_Slate = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -823,7 +823,7 @@ Placeholder_Slate = {
 Placeholder_Ryder = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -836,7 +836,7 @@ Placeholder_Ryder = {
 Placeholder_Fisher = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -849,7 +849,7 @@ Placeholder_Fisher = {
 Placeholder_Greenwood = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -862,7 +862,7 @@ Placeholder_Greenwood = {
 Placeholder_Glover = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -875,7 +875,7 @@ Placeholder_Glover = {
 Placeholder_Warg = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -888,7 +888,7 @@ Placeholder_Warg = {
 Placeholder_Towers = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -901,7 +901,7 @@ Placeholder_Towers = {
 Placeholder_Frost = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -914,7 +914,7 @@ Placeholder_Frost = {
 Placeholder_Umber = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
@@ -927,7 +927,7 @@ Placeholder_Umber = {
 Placeholder_Watcher = {
 	name = Dayneman # a lord
 
-	religion = rhllor
+	religion = rhllor_fc
 	culture = stone_dornish
 
 	#father = Golathis_46
