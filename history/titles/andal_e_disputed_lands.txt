@@ -265,3 +265,268 @@ c_jalarios = {
 	}
 }
 
+d_quhyrys = {
+    6535.1.1 = {
+		government = feudal_government
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_uhyrosh_coast = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_tandaynish = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_kylos = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_adaron = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_vilibosh = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_cape_basibosh = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+d_battle_hills = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_broken_lance = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_kios = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_staherys = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_coin_hoard = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_sellswords_perch = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+d_the_shambles = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_the_spar = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_qorena = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_vysos_plains = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_pearridge = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_ysilios = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+d_hells_barrens = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_goldfuror = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_dyanosh = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_lrolaembar = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_ragged_hill = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_rael_trunos = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_pendanne = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+d_aesomyr = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_restianys = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_qygaeryr = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_devosh = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_erovosh = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_drelyia = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+d_trade_cities = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_haehees = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_silkhead = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_timbercut = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_unmecaeros = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_triarchs_fall = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+d_mangrove_shore = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_morghos = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_dyreno_hills = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_aercadar = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_orthas_reon = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+
+c_fetted_grove = {
+    6535.1.1 = {
+		holder = Temp_Disputed_Land_AI_11
+	}
+}
+

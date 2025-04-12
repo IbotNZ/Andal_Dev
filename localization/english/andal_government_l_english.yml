@@ -1,6 +1,6 @@
 ﻿l_english: 
  # Administrative
- valyrian_outpost_government: "Valyrian Outpost"
+ valyrian_outpost_government: "Freehold Outpost"
  valyrian_outpost_government_with_icon: "@government_type_administrative! $valyrian_outpost_government$"
  valyrian_outpost_government_adjective: "Administrative"
  valyrian_outpost_government_realm: "Administrative Realm"

@@ -32334,3 +32334,693 @@ e_pentos = {
 		}
 	}
 }
+e_braavos = {
+	color = { 55 20 120 }
+	k_braavos = {
+		color = { 55 20 120 }
+		d_braavos = {
+			capital = c_braavos
+			color = { 243 0 101 }
+			c_braavos = {
+				color = { 243 0 101 }
+				b_the_sealords_palace = {
+					province = 8062
+					color = { 243 0 101 }
+				}
+				b_the_arsenal = {
+					province = 8063
+					color = { 247 23 122 }
+				}
+				b_purple_harbor = {
+					province = 8064
+					color = { 211 68 122 }
+				}
+			}
+			c_truth_canals = {
+				color = { 193 7 104 }
+				b_court_of_smiles = {
+					province = 8065
+					color = { 193 7 104 }
+				}
+				b_isles_of_the_gods = {
+					province = 8066
+					color = { 213 81 138 }
+				}
+				b_silty_town = {
+					province = 8067
+					color = { 165 16 140 }
+				}
+			}
+			c_ragmans_harbor = {
+				color = { 189 45 117 }
+				b_bright_towers = {
+					province = 8068
+					color = { 189 45 117 }
+				}
+				b_fog_crossing = {
+					province = 8069
+					color = { 163 18 77 }
+				}
+				b_patchwork_port = {
+					province = 8070
+					color = { 190 9 86 }
+				}
+				b_drowned_town = {
+					province = 8071
+					color = { 201 9 105 }
+				}
+			}
+			c_abberyn = {
+				color = { 223 25 120 }
+				b_abberyn = {
+					province = 8072
+					color = { 223 25 120 }
+				}
+			}
+			c_sellagoros_shields = {
+				color = { 255 33 209 }
+				b_the_titan_of_braavos = {
+					province = 8073
+					color = { 255 33 209 }
+				}
+				b_sellagoros_shield = {
+					province = 8074
+					color = { 211 30 187 }
+				}
+				b_sellagoros_talon = {
+					province = 8075
+					color = { 192 50 170 }
+				}
+			}
+			c_the_jagged_shields = {
+				color = { 131 39 126 }
+				b_utheros_shield = {
+					province = 8076
+					color = { 131 39 126 }
+				}
+				b_wreckshield = {
+					province = 8077
+					color = { 156 11 148 }
+				}
+				b_the_bravos_arm = {
+					province = 8078
+					color = { 156 55 151 }
+				}
+			}
+		}
+		d_teggarlozar = {
+			capital = c_ironport
+			color = { 184 19 88 }
+			c_ironport = {
+				color = { 184 19 88 }
+				b_ironport = {
+					province = 8079
+					color = { 184 19 88 }
+				}
+				b_ironpoint = {
+					province = 8080
+					color = { 175 3 77 }
+				}
+				b_noqoselis = {
+					province = 8081
+					color = { 192 27 96 }
+				}
+			}
+			c_ironport_isles = {
+				color = { 189 16 95 }
+				b_aegenkagon = {
+					province = 8082
+					color = { 189 16 95 }
+				}
+				b_snailport = {
+					province = 8083
+					color = { 197 35 108 }
+				}
+				b_aantyzel = {
+					province = 8084
+					color = { 212 13 126 }
+				}
+			}
+			c_the_marshes = {
+				color = { 198 65 122 }
+				b_sweetwater_font = {
+					province = 8085
+					color = { 198 65 122 }
+				}
+				b_dyrallalas = {
+					province = 8086
+					color = { 171 44 97 }
+				}
+				b_zalezora = {
+					province = 8087
+					color = { 143 33 80 }
+				}
+				b_nernos = {
+					province = 8088
+					color = { 173 35 97 }
+				}
+			}
+			c_nabyspharos = {
+				color = { 187 30 97 }
+				b_nabyspharos = {
+					province = 8089
+					color = { 187 30 97 }
+				}
+				b_cogaren = {
+					province = 8090
+					color = { 171 25 87 }
+				}
+				b_monesne = {
+					province = 8091
+					color = { 157 36 87 }
+				}
+				b_vosto = {
+					province = 8092
+					color = { 173 20 85 }
+				}
+			}
+			c_moonbridge = {
+				color = { 153 15 74 }
+				b_moonbridge = {
+					province = 8093
+					color = { 153 15 74 }
+				}
+				b_harna_codyr = {
+					province = 8094
+					color = { 180 16 85 }
+				}
+				b_elynesyr = {
+					province = 8095
+					color = { 189 43 105 }
+				}
+				b_aantayn = {
+					province = 8096
+					color = { 180 13 83 }
+				}
+				b_ancostyrbros = {
+					province = 8097
+					color = { 153 29 81 }
+				}
+				b_hurarle = {
+					province = 8098
+					color = { 199 40 107 }
+				}
+			}
+		}
+		d_braavosian_coastlands = {
+			capital = c_freneros
+			color = { 142 34 50 }
+			c_freneros = {
+				color = { 142 34 50 }
+				b_freneros = {
+					province = 8099
+					color = { 142 34 50 }
+				}
+				b_oranole = {
+					province = 8100
+					color = { 140 27 45 }
+				}
+				b_bosel = {
+					province = 8101
+					color = { 152 28 52 }
+				}
+				b_tesmor = {
+					province = 8102
+					color = { 139 21 43 }
+				}
+				b_boto = {
+					province = 8103
+					color = { 142 31 48 }
+				}
+			}
+			c_terys_isles = {
+				color = { 160 26 63 }
+				b_terysragon = {
+					province = 8104
+					color = { 160 26 63 }
+				}
+				b_pelaberos = {
+					province = 8105
+					color = { 212 42 110 }
+				}
+			}
+			c_masked_ridge = {
+				color = { 157 12 43 }
+				b_masked_ridge = {
+					province = 8106
+					color = { 157 12 43 }
+				}
+				b_ymo = {
+					province = 8107
+					color = { 147 2 33 }
+				}
+				b_dorallephar = {
+					province = 8108
+					color = { 150 17 44 }
+				}
+				b_botenar = {
+					province = 8109
+					color = { 172 38 65 }
+				}
+				b_zelgo = {
+					province = 8110
+					color = { 142 9 36 }
+				}
+			}
+			c_zelaan_garab = {
+				color = { 164 30 57 }
+				b_zelaan_garab = {
+					province = 8111
+					color = { 164 30 57 }
+				}
+				b_garaboggos = {
+					province = 8112
+					color = { 157 17 46 }
+				}
+				b_lochobo = {
+					province = 8113
+					color = { 161 21 50 }
+				}
+				b_coynodor = {
+					province = 8114
+					color = { 177 43 70 }
+				}
+				b_nodar = {
+					province = 8115
+					color = { 167 39 64 }
+				}
+			}
+			c_revosghar = {
+				color = { 182 52 78 }
+				b_revosghar = {
+					province = 8116
+					color = { 182 52 78 }
+				}
+				b_grafton_point = {
+					province = 8117
+					color = { 153 29 53 }
+				}
+				b_vorians_hook = {
+					province = 8118
+					color = { 178 41 67 }
+				}
+				b_erasquo = {
+					province = 8119
+					color = { 172 42 91 }
+				}
+				b_qosdar = {
+					province = 8120
+					color = { 152 39 81 }
+				}
+				b_assago = {
+					province = 8121
+					color = { 167 33 60 }
+				}
+			}
+			c_othoggos = {
+				color = { 163 23 50 }
+				b_othoggos = {
+					province = 8122
+					color = { 163 23 50 }
+				}
+				b_garpresdor = {
+					province = 8123
+					color = { 184 24 60 }
+				}
+				b_rogbrusgo = {
+					province = 8124
+					color = { 179 27 109 }
+				}
+				b_morihilivos = {
+					province = 8125
+					color = { 173 19 53 }
+				}
+				b_tarwenleyn = {
+					province = 8126
+					color = { 167 27 56 }
+				}
+				b_braael = {
+					province = 8127
+					color = { 178 33 64 }
+				}
+				b_doronhyl = {
+					province = 8128
+					color = { 170 16 50 }
+				}
+			}
+		}
+		d_inkolantibyr = {
+			capital = c_byraabelmos
+			color = { 166 22 83 }
+			c_byraabelmos = {
+				color = { 166 22 83 }
+				b_byraabelmos = {
+					province = 8129
+					color = { 166 22 83 }
+				}
+				b_nemordos = {
+					province = 8130
+					color = { 208 38 109 }
+				}
+				b_ynohar = {
+					province = 8131
+					color = { 196 24 96 }
+				}
+				b_nohardarsyr = {
+					province = 8132
+					color = { 193 15 89 }
+				}
+				b_lanta_vale = {
+					province = 8133
+					color = { 161 15 77 }
+				}
+				b_ezem_tyo = {
+					province = 8134
+					color = { 152 6 68 }
+				}
+			}
+			c_daerves_hills = {
+				color = { 214 50 119 }
+				b_free_mans_slope = {
+					province = 8135
+					color = { 214 50 119 }
+				}
+				b_favored_forest = {
+					province = 8136
+					color = { 197 15 92 }
+				}
+				b_songside = {
+					province = 8137
+					color = { 186 38 100 }
+				}
+				b_moonstreams = {
+					province = 8138
+					color = { 200 30 101 }
+				}
+				b_noery = {
+					province = 8139
+					color = { 201 51 115 }
+				}
+			}
+			c_lower_daerves = {
+				color = { 191 47 108 }
+				b_smallview = {
+					province = 8140
+					color = { 191 47 108 }
+				}
+				b_tyqosery = {
+					province = 8141
+					color = { 226 62 131 }
+				}
+				b_doreynios = {
+					province = 8142
+					color = { 195 31 100 }
+				}
+				b_daerves_ridge = {
+					province = 8143
+					color = { 205 72 127 }
+				}
+				b_smallbay = {
+					province = 8144
+					color = { 219 41 115 }
+				}
+			}
+		}
+		d_lunar_bay_hills = {
+			capital = c_pearl_point
+			color = { 153 32 83 }
+			c_pearl_point = {
+				color = { 153 32 83 }
+				b_permont = {
+					province = 8145
+					color = { 153 32 83 }
+				}
+				b_numio = {
+					province = 8146
+					color = { 164 42 93 }
+				}
+				b_umborys = {
+					province = 8147
+					color = { 150 17 74 }
+				}
+				b_ary_tyo = {
+					province = 8148
+					color = { 183 42 94 }
+				}
+			}
+			c_noqostyos = {
+				color = { 210 32 108 }
+				b_noqostyos = {
+					province = 8149
+					color = { 210 32 108 }
+				}
+				b_orlyr = {
+					province = 8150
+					color = { 186 22 91 }
+				}
+				b_laggary = {
+					province = 8151
+					color = { 182 12 83 }
+				}
+				b_fremotessyr = {
+					province = 8152
+					color = { 180 38 98 }
+				}
+			}
+			c_crystal_hollow = {
+				color = { 170 38 95 }
+				b_biarvyn_stones = {
+					province = 8153
+					color = { 170 38 95 }
+				}
+				b_timpa = {
+					province = 8154
+					color = { 163 21 81 }
+				}
+				b_nabne = {
+					province = 8155
+					color = { 185 20 88 }
+				}
+				b_seltoggo = {
+					province = 8156
+					color = { 148 26 77 }
+				}
+				b_yhartoggo = {
+					province = 8157
+					color = { 130 12 62 }
+				}
+			}
+		}
+		d_noporzhyr = {
+			capital = c_singers_retreat
+			color = { 175 22 86 }
+			c_singers_retreat = {
+				color = { 175 22 86 }
+				b_moonbowl = {
+					province = 8158
+					color = { 175 22 86 }
+				}
+				b_waxing_bend = {
+					province = 8159
+					color = { 192 38 102 }
+				}
+				b_zelobet = {
+					province = 8160
+					color = { 164 29 87 }
+				}
+				b_voseltos = {
+					province = 8161
+					color = { 164 40 92 }
+				}
+				b_mound_of_mordyr = {
+					province = 8162
+					color = { 160 18 78 }
+				}
+			}
+			c_burning_crescent = {
+				color = { 199 23 96 }
+				b_moonhold = {
+					province = 8163
+					color = { 199 23 96 }
+				}
+				b_erval = {
+					province = 8164
+					color = { 183 30 95 }
+				}
+				b_phardeyis = {
+					province = 8165
+					color = { 161 58 101 }
+				}
+				b_crescentwood = {
+					province = 8166
+					color = { 189 13 86 }
+				}
+				b_grimald_vale = {
+					province = 8167
+					color = { 187 13 84 }
+				}
+			}
+		}
+		d_mothers_crown = {
+			capital = c_naqio
+			color = { 143 40 83 }
+			c_naqio = {
+				color = { 143 40 83 }
+				b_bays_chair = {
+					province = 8168
+					color = { 143 40 83 }
+				}
+				b_wanewood = {
+					province = 8169
+					color = { 183 41 101 }
+				}
+				b_suns_guson = {
+					province = 8170
+					color = { 124 51 81 }
+				}
+				b_naqio_flats = {
+					province = 8171
+					color = { 124 38 73 }
+				}
+				b_narooth = {
+					province = 8172
+					color = { 151 46 89 }
+				}
+			}
+			c_mothermont = {
+				color = { 165 6 73 }
+				b_emergence = {
+					province = 8173
+					color = { 165 6 73 }
+				}
+				b_her_bounds = {
+					province = 8174
+					color = { 202 15 94 }
+				}
+				b_great_river_roots = {
+					province = 8175
+					color = { 188 24 93 }
+				}
+				b_ruhurlion = {
+					province = 8176
+					color = { 159 13 75 }
+				}
+				b_nyaanor = {
+					province = 8177
+					color = { 137 39 80 }
+				}
+				b_merceyslide = {
+					province = 8178
+					color = { 131 45 80 }
+				}
+			}
+			c_drohonargos = {
+				color = { 175 16 83 }
+				b_teneras = {
+					province = 8179
+					color = { 175 16 83 }
+				}
+				b_selcoss = {
+					province = 8180
+					color = { 142 63 95 }
+				}
+				b_drohon_point = {
+					province = 8181
+					color = { 139 53 90 }
+				}
+				b_rogyansar = {
+					province = 8182
+					color = { 160 46 95 }
+				}
+			}
+		}
+		d_sweetwater = {
+			capital = c_ryqelbar
+			color = { 133 15 65 }
+			c_ryqelbar = {
+				color = { 133 15 65 }
+				b_murkmont = {
+					province = 8183
+					color = { 133 15 65 }
+				}
+				b_ryqelbar_point = {
+					province = 8184
+					color = { 145 23 74 }
+				}
+				b_gevos = {
+					province = 8185
+					color = { 135 23 71 }
+				}
+				b_netesyna = {
+					province = 8186
+					color = { 143 8 66 }
+				}
+				b_zaloth = {
+					province = 8187
+					color = { 195 39 104 }
+				}
+			}
+			c_tohars_fork = {
+				color = { 143 29 78 }
+				b_forkpoint = {
+					province = 8188
+					color = { 143 29 78 }
+				}
+				b_tune_bluff = {
+					province = 8189
+					color = { 119 9 56 }
+				}
+				b_baralla = {
+					province = 8190
+					color = { 134 13 64 }
+				}
+				b_bognarten = {
+					province = 8191
+					color = { 118 23 63 }
+				}
+			}
+			c_ezylla_steps = {
+				color = { 147 48 132 }
+				b_yrio = {
+					province = 8192
+					color = { 147 48 132 }
+				}
+				b_aantor = {
+					province = 8193
+					color = { 114 16 57 }
+				}
+				b_harynanei = {
+					province = 8194
+					color = { 168 67 111 }
+				}
+				b_rogstay = {
+					province = 8195
+					color = { 195 49 111 }
+				}
+				b_yansbo = {
+					province = 8196
+					color = { 183 52 106 }
+				}
+			}
+			c_gezelvos = {
+				color = { 158 26 50 }
+				b_gezelvos = {
+					province = 8197
+					color = { 158 26 50 }
+				}
+				b_bartenar = {
+					province = 8198
+					color = { 165 53 101 }
+				}
+				b_zaldeybrus = {
+					province = 8199
+					color = { 154 57 98 }
+				}
+				b_dolbar_point = {
+					province = 8200
+					color = { 136 55 88 }
+				}
+			}
+		}
+	}
+}
