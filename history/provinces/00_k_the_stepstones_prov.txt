@@ -2,7 +2,7 @@
 ######## c_bloodstone - d_first_stepstones ########
 7294 = {
 	culture = hartalari
-	religion = trios
+	religion = fots_stars
 	special_building_slot = agot_racallios_fort_01
 	holding = pirate_den_holding
 	7824.1.1 = {
@@ -51,7 +51,7 @@
 ######## c_blood_point - d_first_stepstones #######
 7300 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -75,7 +75,7 @@
 ###### c_lower_sunstone - d_first_stepstones ######
 7303 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -104,7 +104,7 @@
 ###### c_upper_sunstone - d_first_stepstones ######
 7307 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -138,7 +138,7 @@
 ######## c_turtleback - d_first_stepstones ########
 7312 = {
 	culture = rhoynish
-	religion = mother_rhoyne
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -152,7 +152,7 @@
 ######## c_wreckstone - d_first_stepstones ########
 7313 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -176,7 +176,7 @@
 ####### c_grey_gallows - d_first_stepstones #######
 7316 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -195,7 +195,7 @@
 ######## c_dwarfstone - d_first_stepstones ########
 7318 = {
 	culture = pentoshi
-	religion = princely_arbiter
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -214,7 +214,7 @@
 ########## c_skullhammer - d_skull_tides ##########
 7320 = {
 	culture = hartalari
-	religion = trios
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -243,7 +243,7 @@
 ########### c_liarsmyrk - d_skull_tides ###########
 7324 = {
 	culture = hartalari
-	religion = rhllor
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -262,7 +262,7 @@
 ########### c_the_skulls - d_skull_tides ##########
 7326 = {
 	culture = hartalari
-	religion = rhllor
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -281,7 +281,7 @@
 ######### c_torturers_deep - d_skull_tides ########
 7328 = {
 	culture = hartalari
-	religion = rhllor
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -305,7 +305,7 @@
 ############ c_pyrwell - d_skull_tides ############
 7331 = {
 	culture = braavosi
-	religion = weeping_lady
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -324,7 +324,7 @@
 ########### c_denmaiden - d_the_maidens ###########
 7333 = {
 	culture = hartalari
-	religion = trios
+	religion = fots_stars
 	special_building_slot = agot_crab_fields_01
 	holding = pirate_den_holding
 	7824.1.1 = {
@@ -365,7 +365,7 @@
 ########### c_raidmaiden - d_the_maidens ##########
 7336 = {
 	culture = hartalari
-	religion = rhllor
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -384,7 +384,7 @@
 ########## c_last_refuge - d_the_maidens ##########
 7338 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -398,7 +398,7 @@
 ######### c_tigers_island - d_the_maidens #########
 7339 = {
 	culture = volantene
-	religion = rhllor
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -412,7 +412,7 @@
 ########### c_dark_den - d_saans_stones ###########
 7340 = {
 	culture = hartalari
-	religion = weeping_lady
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -446,7 +446,7 @@
 ########### c_duskrane - d_saans_stones ###########
 7345 = {
 	culture = hartalari
-	religion = trios
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {
@@ -475,7 +475,7 @@
 ########## c_shame_isle - d_saans_stones ##########
 7349 = {
 	culture = hartalari
-	religion = rhllor
+	religion = fots_stars
 	holding = pirate_den_holding
 	7824.1.1 = {
 		buildings = {

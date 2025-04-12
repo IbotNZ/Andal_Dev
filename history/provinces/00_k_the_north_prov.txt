@@ -2,7 +2,7 @@
 ########### c_winterfell - d_winterfell ###########
 77 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	special_building = winterfell_03
 	duchy_capital_building = agot_glass_gardens_03
@@ -101,7 +101,7 @@
 ########### c_dawnforest - d_winterfell ###########
 89 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -165,7 +165,7 @@
 ########### c_wolf_branch - d_winterfell ##########
 99 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -229,7 +229,7 @@
 ########### c_coldstream - d_winterfell ###########
 109 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -285,7 +285,7 @@
 ############ c_the_pitch - d_winterfell ###########
 118 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -347,7 +347,7 @@
 ########### c_cedar_peaks - d_winterfell ##########
 127 = {
 	culture = hill_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -380,7 +380,7 @@
 ########### c_brans_wood - d_winterfell ###########
 132 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 }
 ################## b_cutter_grove #################
@@ -405,7 +405,7 @@
 ########### c_last_hearth - d_last_lands ##########
 136 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_04 }
@@ -474,7 +474,7 @@
 ############ c_woodhaven - d_last_lands ###########
 147 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -522,7 +522,7 @@
 ########### c_blackmantle - d_last_lands ##########
 155 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -583,7 +583,7 @@
 ########## c_sullen_hills - d_last_lands ##########
 165 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -641,7 +641,7 @@
 ############ c_whitemore - d_last_lands ###########
 175 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -702,7 +702,7 @@
 ########### c_seal_shore - d_last_lands ###########
 185 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -761,7 +761,7 @@
 ########### c_frostguard - d_frostfields ##########
 194 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -830,7 +830,7 @@
 ########### c_long_lake - d_frostfields ###########
 205 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -894,7 +894,7 @@
 ########## c_longstreams - d_frostfields ##########
 215 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -956,7 +956,7 @@
 ########## c_lonely_hills - d_frostfields #########
 224 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1009,7 +1009,7 @@
 ########### c_last_river - d_frostfields ##########
 233 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1052,7 +1052,7 @@
 ########### c_coldenside - d_frostfields ##########
 240 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1092,7 +1092,7 @@
 ############## c_karhold - d_karhold ##############
 247 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	special_building = agot_karhold_01
 	7824.1.1 = {
@@ -1174,7 +1174,7 @@
 ############ c_groundpress - d_karhold ############
 259 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1248,7 +1248,7 @@
 ############## c_dorridge - d_karhold #############
 271 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1317,7 +1317,7 @@
 ############## c_eastmelt - d_karhold #############
 282 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1378,7 +1378,7 @@
 ############# c_sleetwood - d_karhold #############
 292 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1439,7 +1439,7 @@
 ############## c_everwood - d_karhold #############
 302 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1503,7 +1503,7 @@
 ########## c_the_grey_cliffs - d_karhold ##########
 312 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1564,7 +1564,7 @@
 ########## c_grey_cliff_point - d_karhold #########
 322 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1630,7 +1630,7 @@
 ######## c_the_dreadfort - d_the_dreadfort ########
 333 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	special_building = agot_dreadfort_01
 	7824.1.1 = {
@@ -1712,7 +1712,7 @@
 ########### c_overton - d_the_dreadfort ###########
 345 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1779,7 +1779,7 @@
 ########## c_rightwell - d_the_dreadfort ##########
 355 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -1840,7 +1840,7 @@
 ########## c_grimm_lake - d_the_dreadfort #########
 365 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1901,7 +1901,7 @@
 ########### c_the_weep - d_the_dreadfort ##########
 375 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -1959,7 +1959,7 @@
 ########## c_wraithfeld - d_the_dreadfort #########
 385 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -2012,7 +2012,7 @@
 ########### c_ethering - d_the_dreadfort ##########
 394 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2079,7 +2079,7 @@
 ########## c_matchwood - d_the_dreadfort ##########
 404 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -2140,7 +2140,7 @@
 ########### c_the_pale - d_the_dreadfort ##########
 414 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2193,7 +2193,7 @@
 ######### c_white_harbor - d_white_harbor #########
 423 = {
 	culture = harborman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	special_building = agot_new_castle_01
 	duchy_capital_building = tax_assessor_01
@@ -2344,7 +2344,7 @@
 ########### c_whetmarsh - d_white_harbor ##########
 443 = {
 	culture = harborman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2529,7 +2529,7 @@
 ########### c_woodward - d_white_harbor ###########
 471 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2593,7 +2593,7 @@
 ############ c_the_gap - d_white_harbor ###########
 481 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2649,7 +2649,7 @@
 ############# c_oldcastle - d_keystone ############
 490 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -2720,7 +2720,7 @@
 ############# c_greysward - d_keystone ############
 500 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -2787,7 +2787,7 @@
 ############ c_bites_edge - d_keystone ############
 510 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -2843,7 +2843,7 @@
 ############ c_beam_cross - d_keystone ############
 519 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -2896,7 +2896,7 @@
 ############# c_keyguard - d_keystone #############
 528 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -2937,7 +2937,7 @@
 ############# c_ramsgate - d_everstead ############
 534 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3001,7 +3001,7 @@
 ############ c_haverstock - d_everstead ###########
 544 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3054,7 +3054,7 @@
 ############ c_reamwright - d_everstead ###########
 553 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -3110,7 +3110,7 @@
 ######### c_sheepshead_hills - d_everstead ########
 562 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -3161,7 +3161,7 @@
 ########### c_branch_head - d_everstead ###########
 570 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -3220,7 +3220,7 @@
 ############# c_hornwood - d_hornwood #############
 579 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -3284,7 +3284,7 @@
 ############ c_the_cinders - d_hornwood ###########
 589 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3343,7 +3343,7 @@
 ############## c_calfton - d_hornwood #############
 598 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -3401,7 +3401,7 @@
 ########### c_velvet_grove - d_hornwood ###########
 608 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -3460,7 +3460,7 @@
 ########### c_widows_watch - d_crestview ##########
 617 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 hill_forts_04 outposts_03 }
@@ -3529,7 +3529,7 @@
 ######## c_the_broken_branch - d_crestview ########
 628 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -3583,7 +3583,7 @@
 ############ c_branchside - d_crestview ###########
 636 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3642,7 +3642,7 @@
 ############ c_tawney_bay - d_crestview ###########
 645 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -3701,7 +3701,7 @@
 ############ c_broadmend - d_crestview ############
 654 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3765,7 +3765,7 @@
 ############ c_grailheart - d_the_rills ###########
 664 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 hill_forts_02 stables_02 }
@@ -3848,7 +3848,7 @@
 ############# c_tackfeld - d_the_rills ############
 676 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3912,7 +3912,7 @@
 ######### c_greyforge_hills - d_the_rills #########
 686 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -3979,7 +3979,7 @@
 ######## c_rillwater_crossing - d_the_rills #######
 696 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -4041,7 +4041,7 @@
 ########## c_witheredheath - d_the_rills ##########
 705 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -4108,7 +4108,7 @@
 ############ c_soddenburn - d_the_rills ###########
 715 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -4177,7 +4177,7 @@
 ############ c_bottom_run - d_the_rills ###########
 726 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -4246,7 +4246,7 @@
 ############# c_atwater - d_the_rills #############
 737 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -4313,7 +4313,7 @@
 ############ c_two_rivers - d_the_rills ###########
 747 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -4379,7 +4379,7 @@
 ############ c_smallrill - d_the_rills ############
 758 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -4423,7 +4423,7 @@
 ########## c_whitecaster - d_stony_shore ##########
 764 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -4495,7 +4495,7 @@
 ########### c_hillcrest - d_stony_shore ###########
 775 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -4562,7 +4562,7 @@
 ########### c_batestone - d_stony_shore ###########
 785 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -4623,7 +4623,7 @@
 ########### c_ridgewater - d_stony_shore ##########
 795 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -4671,7 +4671,7 @@
 ########### c_far_stone - d_stony_shore ###########
 803 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -4691,7 +4691,7 @@
 ########### c_washbrook - d_stony_shore ###########
 806 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -4747,7 +4747,7 @@
 ########### c_steelwater - d_stony_shore ##########
 815 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -4790,7 +4790,7 @@
 ########### c_blue_hills - d_stony_shore ##########
 822 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -4844,7 +4844,7 @@
 ############ c_blackpool - d_grey_downs ###########
 830 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -4913,7 +4913,7 @@
 ########### c_stonebrand - d_grey_downs ###########
 841 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -4969,7 +4969,7 @@
 ############ c_the_welts - d_grey_downs ###########
 850 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -5020,7 +5020,7 @@
 ########## c_first_hollow - d_grey_downs ##########
 858 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -5079,7 +5079,7 @@
 ############ c_slowburn - d_grey_downs ############
 867 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -5140,7 +5140,7 @@
 ########### c_gravelridge - d_grey_downs ##########
 877 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -5193,7 +5193,7 @@
 ########## c_torrhens_square - d_edgewood #########
 886 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 curtain_walls_03 godswood_02 }
@@ -5257,7 +5257,7 @@
 ############ c_silverglade - d_edgewood ###########
 896 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -5321,7 +5321,7 @@
 ############ c_timberwatch - d_edgewood ###########
 906 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -5380,7 +5380,7 @@
 ############## c_denwood - d_edgewood #############
 915 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -5431,7 +5431,7 @@
 ############ c_amber_lake - d_edgewood ############
 923 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -5487,7 +5487,7 @@
 ########## c_edgewood_hills - d_edgewood ##########
 932 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -5538,7 +5538,7 @@
 ########### c_deepwood - d_the_wolfswood ##########
 940 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_04 ramparts_02 godswood_02 }
@@ -5610,7 +5610,7 @@
 ########## c_greenwood - d_the_wolfswood ##########
 951 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -5674,7 +5674,7 @@
 ########### c_mullroot - d_the_wolfswood ##########
 961 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -5738,7 +5738,7 @@
 ######### c_acorn_grove - d_the_wolfswood #########
 971 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -5802,7 +5802,7 @@
 ######### c_cloudforest - d_the_wolfswood #########
 981 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -5860,7 +5860,7 @@
 ############ c_howell - d_the_wolfswood ###########
 1018 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -5916,7 +5916,7 @@
 ########## c_ironrath - d_the_blackpines ##########
 1027 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	special_building = ironwood_01
 	7824.1.1 = {
@@ -5984,7 +5984,7 @@
 ########## c_highpoint - d_the_blackpines #########
 1037 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	special_building = depleted_ironwood_01
 	7824.1.1 = {
@@ -6052,7 +6052,7 @@
 ########### c_darsett - d_the_blackpines ##########
 1047 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -6108,7 +6108,7 @@
 ########## c_moorwood - d_the_blackpines ##########
 1056 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	special_building = ironwood_01
 	7824.1.1 = {
@@ -6160,7 +6160,7 @@
 ########### c_allpine - d_the_blackpines ##########
 1064 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -6214,7 +6214,7 @@
 ##### c_sea_dragon_point - d_sea_dragon_point #####
 993 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	special_building = agot_warg_king_01
 	7824.1.1 = {
@@ -6225,7 +6225,7 @@
 ##### c_sea_dragon_point - d_sea_dragon_point #####
 991 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 }
 ################ b_squirrels_ground ###############
 ##### c_sea_dragon_point - d_sea_dragon_point #####
@@ -6266,7 +6266,7 @@
 ######### c_stillport - d_sea_dragon_point ########
 1000 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -6331,7 +6331,7 @@
 ######### c_flatmire - d_sea_dragon_point #########
 1009 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -6384,7 +6384,7 @@
 ########## c_trenchwood - d_kings_course ##########
 1072 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -6448,7 +6448,7 @@
 ########## c_eagle_cross - d_kings_course #########
 1082 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -6512,7 +6512,7 @@
 ############ c_wynmend - d_kings_course ###########
 1092 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -6573,7 +6573,7 @@
 ############ c_thorpe - d_kings_course ############
 1102 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -6634,7 +6634,7 @@
 ########## c_sharpwater - d_kings_course ##########
 1112 = {
 	culture = wolfswood_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -6690,7 +6690,7 @@
 ######### c_barrowton - d_the_barrowlands #########
 1121 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	special_building = agot_barrow_keep_01
 	7824.1.1 = {
@@ -6768,7 +6768,7 @@
 ######### c_goldgrass - d_the_barrowlands #########
 1133 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -6835,7 +6835,7 @@
 ######## c_roastfields - d_the_barrowlands ########
 1143 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -6902,7 +6902,7 @@
 ######### c_oldbarrow - d_the_barrowlands #########
 1153 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -6966,7 +6966,7 @@
 ######### c_spearmouth - d_the_barrowlands ########
 1163 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -7033,7 +7033,7 @@
 ######### c_mundpress - d_the_barrowlands #########
 1173 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -7094,7 +7094,7 @@
 ########### c_barlow - d_the_barrowlands ##########
 1183 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -7155,7 +7155,7 @@
 ######### c_draywinds - d_the_barrowlands #########
 1193 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -7216,7 +7216,7 @@
 ######### c_heapsdown - d_the_barrowlands #########
 1203 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -7280,7 +7280,7 @@
 ########## c_drumlynn - d_the_barrowlands #########
 1213 = {
 	culture = barrowman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -7347,7 +7347,7 @@
 ###### c_holdwater - d_the_northern_mountains #####
 1223 = {
 	culture = hill_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -7413,7 +7413,7 @@
 ### c_breakstone_hill - d_the_northern_mountains ##
 1234 = {
 	culture = hill_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -7474,7 +7474,7 @@
 ###### c_arrendell - d_the_northern_mountains #####
 1244 = {
 	culture = hill_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -7530,7 +7530,7 @@
 ###### c_braidmont - d_the_northern_mountains #####
 1253 = {
 	culture = hill_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -7591,7 +7591,7 @@
 ##### c_carvestone - d_the_northern_mountains #####
 1263 = {
 	culture = hill_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -7650,7 +7650,7 @@
 ###### c_pinesend - d_the_northern_mountains ######
 1272 = {
 	culture = hill_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -7714,7 +7714,7 @@
 ###### c_stoutfast - d_the_northern_mountains #####
 1282 = {
 	culture = hill_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -7778,7 +7778,7 @@
 ##### c_trenchstone - d_the_northern_mountains ####
 1292 = {
 	culture = hill_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -7831,7 +7831,7 @@
 #### c_scar_mountain - d_the_northern_mountains ###
 1301 = {
 	culture = hill_clansman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -7887,7 +7887,7 @@
 ########## c_greywater_watch - d_the_neck #########
 1310 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	special_building = agot_greywater_watch_01
 	holding = castle_holding
 	7824.1.1 = {
@@ -7964,7 +7964,7 @@
 ############### c_cray - d_the_neck ###############
 1321 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -8028,7 +8028,7 @@
 ############# c_the_mire - d_the_neck #############
 1331 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -8087,7 +8087,7 @@
 ############# c_borremose - d_the_neck ############
 1340 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -8143,7 +8143,7 @@
 ########### c_cypressbottom - d_the_neck ##########
 1349 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -8196,7 +8196,7 @@
 ############## c_dewlock - d_the_neck #############
 1358 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -8244,7 +8244,7 @@
 ############# c_slewness - d_the_neck #############
 1366 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -8300,7 +8300,7 @@
 ############# c_churwell - d_silvereed ############
 1375 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -8369,7 +8369,7 @@
 ############ c_drenchmire - d_silvereed ###########
 1386 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -8422,7 +8422,7 @@
 ########## c_the_seastrands - d_silvereed #########
 1395 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -8478,7 +8478,7 @@
 ############# c_fennwell - d_silvereed ############
 1404 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -8534,7 +8534,7 @@
 ############ c_crannbrook - d_silvereed ###########
 1413 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -8582,7 +8582,7 @@
 ############## c_greycrann - d_fever ##############
 1421 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 }
@@ -8636,7 +8636,7 @@
 ############## c_peatlands - d_fever ##############
 1429 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -8692,7 +8692,7 @@
 ############# c_shallowseek - d_fever #############
 1438 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -8743,7 +8743,7 @@
 ################ c_fever - d_fever ################
 1446 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -8812,7 +8812,7 @@
 ######## c_flints_finger - d_flints_finger ########
 1457 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_03 common_tradeport_01 }
@@ -8884,7 +8884,7 @@
 ######## c_blazewater_bay - d_flints_finger #######
 1468 = {
 	culture = krakenman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -8953,7 +8953,7 @@
 ######### c_cape_kraken - d_flints_finger #########
 1479 = {
 	culture = krakenman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -9017,7 +9017,7 @@
 ########### c_beastyrn - d_flints_finger ##########
 1489 = {
 	culture = krakenman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -9081,7 +9081,7 @@
 ####### c_the_flint_cliffs - d_flints_finger ######
 1499 = {
 	culture = krakenman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -9142,7 +9142,7 @@
 ########### c_cannmill - d_flints_finger ##########
 1509 = {
 	culture = krakenman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -9209,7 +9209,7 @@
 ########## c_wristerley - d_flints_finger #########
 1519 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -9265,7 +9265,7 @@
 ########## c_arnscarre - d_flints_finger ##########
 1528 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -9334,7 +9334,7 @@
 ############ c_waterstone - d_lakelands ###########
 1539 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -9401,7 +9401,7 @@
 ########### c_spears_sound - d_lakelands ##########
 1549 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -9455,7 +9455,7 @@
 ############ c_morrenland - d_lakelands ###########
 1557 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -9509,7 +9509,7 @@
 ########## c_cypress_rising - d_lakelands #########
 1565 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -9578,7 +9578,7 @@
 ############# c_murkwood - d_lakelands ############
 1576 = {
 	culture = northman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -9965,7 +9965,7 @@
 ############ c_mormont - d_bear_island ############
 1636 = {
 	culture = bearman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -10023,7 +10023,7 @@
 ########### c_bearstone - d_bear_island ###########
 1644 = {
 	culture = bearman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -10064,7 +10064,7 @@
 ########## c_moat_cailin - d_moat_cailin ##########
 1650 = {
 	culture = crannogman
-	religion = old_gods_south
+	religion = old_gods_wnw
 	holding = castle_holding
 	special_building = moat_cailin_01
 	7824.1.1 = {

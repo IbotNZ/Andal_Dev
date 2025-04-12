@@ -13,7 +13,7 @@
 ################## c_lys - d_lys ##################
 7389 = {
 	culture = lyseni
-	religion = valyrian
+	religion = valyrian_pan_freehold
 	holding = castle_holding
 	duchy_capital_building = agot_lys_walls_01
 	special_building = agot_lys_02
@@ -50,7 +50,7 @@
 ################# c_pleasure_heights - d_lys #################
 7392 = {
 	culture = lyseni
-	religion = valyrian
+	religion = valyrian_pan_freehold
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -81,7 +81,7 @@
 ################# c_magisters_avenue - d_lys #################
 7395 = {
 	culture = lyseni
-	religion = valyrian
+	religion = valyrian_pan_freehold
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -106,7 +106,7 @@
 ################# c_numys - d_lys #################
 7397 = {
 	culture = lyseni
-	religion = valyrian
+	religion = valyrian_pan_freehold
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -135,7 +135,7 @@
 ################ c_lentorys - d_lys ###############
 7400 = {
 	culture = lyseni
-	religion = valyrian
+	religion = valyrian_pan_freehold
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -160,7 +160,7 @@
 ########### c_dyreno_hills - d_mangrove_shore ###########
 7402 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	buildings = {
 		castle_02
@@ -187,7 +187,7 @@
 ########## c_aercadar - d_mangrove_shore ##########
 7406 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	buildings = {
 		castle_03
@@ -231,7 +231,7 @@
 ############## c_morghos - d_mangrove_shore #############
 7411 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -293,7 +293,7 @@
 ############ c_orthas_reon - d_mangrove_shore ###########
 7418 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -350,7 +350,7 @@
 ########### c_fetted_grove - d_mangrove_shore ##########
 7424 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {

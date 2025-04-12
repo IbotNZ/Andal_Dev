@@ -2,7 +2,7 @@
 ############ c_pentos - d_pentos ###########
 7708 = {
 	culture = pentoshi
-	religion = valyrian
+	religion = valyrian_pan_freehold
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -39,7 +39,7 @@
 ########### c_artisanal_way - d_pentos ##########
 7711 = {
 	culture = pentoshi
-	religion = valyrian
+	religion = valyrian_pan_freehold
 	holding = castle_holding
 	special_building = agot_magister_harbor_01
 	7824.1.1 = {
@@ -78,7 +78,7 @@
 ########### c_princes_quarter - d_pentos ##########
 7714 = {
 	culture = pentoshi
-	religion = valyrian
+	religion = valyrian_pan_freehold
 	special_building = agot_pentos_01
 	duchy_capital_building = agot_pentos_walls_01
 	holding = castle_holding
@@ -105,7 +105,7 @@
 ######### c_sunrise_road - d_pentos ########
 7716 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -161,7 +161,7 @@
 ########## c_gravan_pastures - d_pentos #########
 7722 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################## b_gravonion #################
 ########## c_gravan_pastures - d_pentos #########
@@ -205,7 +205,7 @@
 ########## c_izulepsa - d_pentos #########
 7727 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################## b_sentilys #################
 ########## c_izulepsa - d_pentos #########
@@ -243,7 +243,7 @@
 ########### c_amenai_ridge - d_pentos ##########
 7732 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -284,7 +284,7 @@
 ########## c_shepamoti - d_pentos #########
 7736 = {
 	culture = pentoshi
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -342,7 +342,7 @@
 ########## c_olynos - d_pentos ##########
 7741 = {
 	culture = pentoshi
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -387,7 +387,7 @@
 ######### c_daarilaro_aajon - d_pentos #########
 7747 = {
 	culture = pentoshi
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -401,7 +401,7 @@
 ######## c_ozendyos - d_princes_shore #######
 7748 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -446,7 +446,7 @@
 ########### c_bedrylos - d_princes_shore ###########
 7754 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################ b_bedrygos ################
 ########### c_bedrylos - d_princes_shore ###########
@@ -489,7 +489,7 @@
 ########## c_hedyswood - d_princes_shore ##########
 7760 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################ b_jelgios ################
 ########## c_hedyswood - d_princes_shore ##########
@@ -515,7 +515,7 @@
 ############ c_astiennon - d_princes_shore ###########
 7765 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -548,7 +548,7 @@
 ######## c_doralbar_coast - d_princes_shore #######
 7770 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -581,7 +581,7 @@
 ######### c_plush_approach - d_velvet_hills #########
 7775 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################# b_kyrstor ################
 ######### c_plush_approach - d_velvet_hills #########
@@ -635,7 +635,7 @@
 ######### c_dunbarra - d_velvet_hills #########
 7782 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################# b_dunbarra ################
 ######### c_dunbarra - d_velvet_hills #########
@@ -663,7 +663,7 @@
 ######### c_evoratiam - d_velvet_hills #########
 7785 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################# b_evortiam ################
 ######### c_evoratiam - d_velvet_hills #########
@@ -718,7 +718,7 @@
 ########## c_velour - d_velvet_hills #########
 7791 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################# b_veloktion #################
 ########## c_velour - d_velvet_hills #########
@@ -744,7 +744,7 @@
 ########## c_keldios - d_velvet_hills #########
 7796 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -773,7 +773,7 @@
 ####### c_kastaeliton - d_hinozobris ######
 7800 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ############### b_emmongrozior ###############
 ####### c_kastaeliton - d_hinozobris ######
@@ -830,7 +830,7 @@
 ####### c_togez_woods - d_hinozobris ######
 7811 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ############### b_toguesin ###############
 ####### c_togez_woods - d_hinozobris ######
@@ -856,7 +856,7 @@
 ########### c_reles - d_hinozobris ###########
 7816 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################## b_tovilinion #################
 ########### c_reles - d_hinozobris ###########
@@ -877,7 +877,7 @@
 ########## c_hareqeblon - d_hinozobris ##########
 7820 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################ b_merpankion ###############
 ########## c_hareqeblon - d_hinozobris ##########
@@ -903,7 +903,7 @@
 ####### c_valdrizes_hinon - d_hinozobris ######
 7825 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	special_building = agot_valdrizes_01
 	holding = castle_holding
 	8000.1.1 = {
@@ -948,7 +948,7 @@
 ####### c_zadientor - d_the_baked_lands #######
 7831 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################ b_tistonkion ###############
 ####### c_zadientor - d_the_baked_lands #######
@@ -974,7 +974,7 @@
 ########### c_blipys - d_the_baked_lands ###########
 7836 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################# b_onhinion ################
 ########### c_blipys - d_the_baked_lands ###########
@@ -995,7 +995,7 @@
 ########## c_ejipvos - d_the_baked_lands ##########
 7840 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################# b_griapos ################
 ########## c_ejipvos - d_the_baked_lands ##########
@@ -1011,7 +1011,7 @@
 ####### c_dying_woods - d_the_baked_lands ######
 7843 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################ b_vezonun ###############
 ####### c_dying_woods - d_the_baked_lands ######
@@ -1037,7 +1037,7 @@
 ####### c_jalarios - d_the_baked_lands ######
 7848 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ############### b_tastavililion ###############
 ####### c_jalarios - d_the_baked_lands ######
@@ -1068,7 +1068,7 @@
 ############# c_ar_kon - d_konian_coast #############
 7854 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -1124,7 +1124,7 @@
 ############ c_ringolion - d_konian_coast ############
 7861 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -1159,7 +1159,7 @@
 ############# c_amenos - d_konian_coast #############
 7865 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -1193,7 +1193,7 @@
 ########### c_vejonegroz - d_konian_coast ###########
 7870 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ############### b_vejonkion ###############
 ########### c_vejonegroz - d_konian_coast ###########
@@ -1224,7 +1224,7 @@
 ########## c_nyalla - d_konian_coast ##########
 7876 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################# b_dagrozior ################
 ########## c_nyalla - d_konian_coast ##########
@@ -1245,7 +1245,7 @@
 ############ c_nontelos - d_nontelos ###########
 7880 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -1296,7 +1296,7 @@
 ######### c_viigashos - d_nontelos #########
 7886 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -1326,7 +1326,7 @@
 ########## c_gyrakos - d_nontelos #########
 7889 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -1366,7 +1366,7 @@
 ############ c_myllenios - d_nontelos ############
 7894 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -1411,7 +1411,7 @@
 ########## c_kastaraen - d_nontelos #########
 7900 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -1445,7 +1445,7 @@
 ############# c_samaalis - d_nontelos #############
 7905 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 }
 ################# b_samagues ################
 ############# c_samaalis - d_nontelos #############
@@ -1481,7 +1481,7 @@
 ########## c_nonguesin - d_nontelos #########
 7912 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {

@@ -2,7 +2,7 @@
 ############### c_tyrosh - d_tyrosh ###############
 7351 = {
 	culture = tyroshi
-	religion = valyrian
+	religion = valyrian_pan_freehold
 	holding = castle_holding
 	duchy_capital_building = agot_tyrosh_walls_01
 	special_building = agot_tyrosh_01
@@ -40,7 +40,7 @@
 ############## c_great_hue - d_tyrosh ##############
 7354 = {
 	culture = tyroshi
-	religion = valyrian
+	religion = valyrian_pan_freehold
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -66,7 +66,7 @@
 ############## c_bleeding_bay - d_tyrosh ##############
 7356 = {
 	culture = tyroshi
-	religion = valyrian
+	religion = valyrian_pan_freehold
 	holding = castle_holding
 	special_building = agot_bleeding_tower_01
 	7824.1.1 = {
@@ -104,7 +104,7 @@
 ############### c_zernosh - d_tyrosh ##############
 7359 = {
 	culture = tyroshi
-	religion = valyrian
+	religion = valyrian_pan_freehold
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -118,7 +118,7 @@
 ############## c_muricosh - d_tyrosh ##############
 7360 = {
 	culture = tyroshi
-	religion = valyrian
+	religion = valyrian_pan_freehold
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -153,7 +153,7 @@
 ############ c_uhyrosh_coast - d_quhyrys ###########
 7363 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -210,7 +210,7 @@
 ############## c_tandaynish - d_quhyrys #############
 7369 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -256,7 +256,7 @@
 ################ c_kylos - d_quhyrys ###############
 7373 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -302,7 +302,7 @@
 ############### c_adaron - d_quhyrys ##############
 7378 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
@@ -337,7 +337,7 @@
 ############## c_vilibosh - d_quhyrys ##############
 7382 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = city_holding
 	7824.1.1 = {
 		buildings = {
@@ -372,7 +372,7 @@
 ############# c_cape_basibosh - d_quhyrys #############
 7386 = {
 	culture = hartalari
-	religion = the_seven_main
+	religion = fots_stars
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = {
