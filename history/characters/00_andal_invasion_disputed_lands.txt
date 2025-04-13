@@ -401,19 +401,69 @@ Temp_Disputed_Land_AI_11 = {
 	# c_uhyrosh_coast
 
     ## Lore
+	# Last First Man ruler in Essos. United large kingdom to repulse outsiders.
+	# Surrounded and disliked. Most of his subjects aren't even followers of the Old Gods.
+	# Kingdom falls apart and the Freehold Outposts eat up his former territory.
 
 	name = Cregard
 
     ## Culture and Faith
-	religion = old_gods_south
+	religion = old_gods_wnw
 	culture = first_man
 
     ## Traits
     # Education
+	trait = education_diplomacy_4
 
     # Personality
+	trait = diligent
+	trait = forgiving
+	trait = calm
 
 	disallow_random_traits = no
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+### Storm Savages in Disputed Lands
+
+Temp_Disputed_Land_AI_12 = {
+    ### Mod Canon
+
+    ## Held Titles
+	# d_quhyrys
+	# c_uhyrosh_coast
+
+    ## Lore
+	# Raider who took land. Tyrosh makes first land incursion to stop them from raiding.
+
+	name = Euron
+
+    ## Culture and Faith
+	religion = storm_god
+	culture = storm_savage
+
+    ## Traits
+    # Education
+	trait = education_martial_3
+
+    # Personality
+	# A brave raider who's ambition and greed took him into conflict with the Freehold.
+	trait = ambitious
+	trait = greedy
+	trait = brave
+
+	disallow_random_traits = yes
 
 	6518.1.1 = {
 		birth = yes

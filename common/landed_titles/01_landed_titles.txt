@@ -24516,7 +24516,7 @@ e_the_stormlands = {
 			}
 		}
 	}
-	k_the_hook_2 = {
+	k_the_hook = {
 		color = { 115 66 161 }
 		capital = c_stonedance
 		d_the_baywater_woods = {
@@ -24964,7 +24964,7 @@ e_the_stormlands = {
 			}
 		}
 	}
-	k_tarth_2 = { # Storm isles
+	k_storm_isles = { # Storm isles
 		color = { 209 165 45 }
 		capital = c_evenfall
 		d_storm_isles = {

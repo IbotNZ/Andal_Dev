@@ -268,43 +268,43 @@ c_jalarios = {
 d_quhyrys = {
     6535.1.1 = {
 		government = feudal_government
-		holder = Temp_Disputed_Land_AI_11
+		holder = Temp_Disputed_Land_AI_12
 	}
 }
 
 c_uhyrosh_coast = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
+		holder = Temp_Disputed_Land_AI_12
 	}
 }
 
 c_tandaynish = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
+		holder = Temp_Disputed_Land_AI_12
 	}
 }
 
 c_kylos = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
+		holder = Temp_Disputed_Land_AI_12
 	}
 }
 
 c_adaron = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
+		holder = Temp_Disputed_Land_AI_12
 	}
 }
 
 c_vilibosh = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
+		holder = Temp_Disputed_Land_AI_12
 	}
 }
 
 c_cape_basibosh = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
+		holder = Temp_Disputed_Land_AI_12
 	}
 }
 
@@ -460,73 +460,61 @@ c_drelyia = {
 
 d_trade_cities = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
 	}
 }
 
 c_haehees = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
 	}
 }
 
 c_silkhead = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
 	}
 }
 
 c_timbercut = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
 	}
 }
 
 c_unmecaeros = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
 	}
 }
 
 c_triarchs_fall = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
 	}
 }
 
 d_mangrove_shore = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
 	}
 }
 
 c_morghos = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
 	}
 }
 
 c_dyreno_hills = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
 	}
 }
 
 c_aercadar = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
 	}
 }
 
 c_orthas_reon = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
 	}
 }
 
 c_fetted_grove = {
     6535.1.1 = {
-		holder = Temp_Disputed_Land_AI_11
 	}
 }
 

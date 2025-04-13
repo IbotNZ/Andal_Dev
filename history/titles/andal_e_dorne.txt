@@ -1,5 +1,49 @@
+e_dorne = {}
+
 k_dorne = {
     6535.1.1 = {
 		holder = Placeholder_Dorne
 	}
 }
+
+d_sunspear = {}
+
+d_broken_arm = {}
+
+d_ghost_hills = {}
+
+d_godsgrace = {}
+
+d_salt_shore = {}
+
+d_lemonwood = {}
+
+k_the_stone_way = {}
+
+d_the_stoneway = {}
+
+d_redmarch = {}
+
+d_yronwood = {}
+
+d_scourgehead = {}
+
+d_the_tor = {}
+
+k_the_dunes = {}
+
+d_sandstone = {}
+
+d_oldwell = {}
+
+d_brimstone = {}
+
+d_red_dunes = {}
+
+k_starfall = {}
+
+d_torrentine = {}
+
+d_blackmont = {}
+
+d_the_princes_pass = {}

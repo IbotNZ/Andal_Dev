@@ -1,0 +1,62 @@
+e_the_stormlands = {}
+
+k_the_stormlands = {}
+
+d_shipbreaker_bay = {}
+
+d_vellum_coast = {}
+
+d_nestridge = {}
+
+d_the_drench = {}
+
+d_the_rainwood = {}
+
+d_cape_wrath = {}
+
+k_the_stormwood = {}
+
+d_kingswood = {}
+
+d_dark_harrow = {}
+
+d_stackfield = {}
+
+d_valor_meadows = {}
+
+d_greatstock = {}
+
+k_the_stonemarch = {}
+
+d_blackhaven = {}
+
+d_marchfields = {}
+
+d_nightsong = {}
+
+d_whentway = {}
+
+d_grandview = {}
+
+d_the_slayne = {}
+
+d_red_watch = {}
+
+k_the_hook = {}
+
+d_the_baywater_woods = {}
+
+d_wendwater_forest = {}
+
+d_masseys_hook = {}
+
+d_sharp_point = {}
+
+k_storm_isles = {}
+
+d_tarth = {}
+
+d_estermont_isles = {}
+
+d_storm_isles = {}
+
