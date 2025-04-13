@@ -3,3 +3,7 @@ k_the_wall = {
 		holder = Placeholder_Wall
 	}
 }
+
+d_the_wall = {}
+
+d_brandons_gift = {}

@@ -4,8 +4,76 @@ k_winterfell = {
 	}
 }
 
+d_winterfell = {}
+
+d_white_harbor = {}
+
+d_edgewood = {}
+
+d_kings_course = {}
+
+d_the_barrowlands = {}
+
+
+
 k_dreadfort = {
     6535.1.1 = {
 		holder = Placeholder_Bolton
 	}
 }
+
+d_last_lands = {}
+
+d_frostfields = {}
+
+d_karhold = {}
+
+d_the_dreadfort = {}
+
+k_wolfswood = {}
+
+d_the_wolfswood = {}
+
+d_bear_island = {}
+
+d_the_blackpines = {}
+
+d_sea_dragon_point = {}
+
+d_the_northern_mountains = {}
+
+k_stony_shore = {}
+
+d_the_rills = {}
+
+d_stony_shore = {}
+
+d_grey_downs = {}
+
+k_crannogland = {}
+
+d_the_neck = {}
+
+d_silvereed = {}
+
+d_fever = {}
+
+d_flints_finger = {}
+
+d_lakelands = {}
+
+d_moat_cailin = {}
+
+k_crestview = {}
+
+d_keystone = {}
+
+d_everstead = {}
+
+d_hornwood = {}
+
+d_crestview = {}
+
+k_the_north = {}
+
+d_skagos = {}

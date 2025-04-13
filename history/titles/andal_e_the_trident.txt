@@ -1,8 +1,4 @@
-k_duskendale_2 = {
-    6535.1.1 = {
-		holder = Placeholder_Darklyn
-	}
-}
+e_the_riverlands = {}
 
 k_the_crownlands = {
     6535.1.1 = {
@@ -10,8 +6,76 @@ k_the_crownlands = {
 	}
 }
 
+d_fork_river = {}
+
+d_kings_landing = {}
+
+d_hayford = {}
+
+d_rosby = {}
+
+d_the_blackwater_rush = {}
+
+k_duskendale_2 = {
+    6535.1.1 = {
+		holder = Placeholder_Darklyn
+	}
+}
+
+d_stokeworth = {}
+
+d_duskendale = {}
+
+d_deerfield = {}
+
+k_maidenpool = {}
+
+d_tridents_mouth = {}
+
+d_maidenpool = {}
+
+d_harrenhal = {}
+
+k_rivervale = {}
+
+d_riverrun = {}
+
+d_lakehaven = {}
+
+d_atranta = {}
+
+d_knellstone = {}
+
+d_pinkmaiden = {}
+
+d_wayfarers_rest = {}
+
+k_cracklaw = {}
+
+d_rooks_rest = {}
+
+d_crackclaw_point = {}
+
 k_the_riverlands = {
     6535.1.1 = {
 		holder = Placeholder_Justman
 	}
 }
+
+d_southstone = {}
+
+d_blackwood_vale = {}
+
+d_cape_of_eagles = {}
+
+d_the_crossing = {}
+
+d_lakeleaf_highlands = {}
+
+d_willow_wood = {}
+
+d_fairmarket = {}
+
+d_three_forks = {}
+
+d_the_moonbrooks = {}

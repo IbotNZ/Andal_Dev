@@ -4,14 +4,79 @@ k_the_reach = {
 	}
 }
 
+d_highgarden = {}
+
+d_orchard_way = {}
+
+d_cockleswhent = {}
+
+d_brightwater = {}
+
+d_honeylands = {}
+
+d_darstone = {}
+
+d_darkdell = {}
+
+d_the_roseroad = {}
+
+d_manderfields = {}
+
+d_bitterbridge = {}
+
+d_fullharvest = {}
+
+d_shield_islands = {}
+
 k_oldtown_2 = {
     6535.1.1 = {
 		holder = Placeholder_Hightower
 	}
 }
 
+d_ridgeview = {}
+
+d_oldhills = {}
+
+d_garden_coast = {}
+
+d_oldtown = {}
+
+d_black_sound = {}
+
 k_the_westmarch = {
     6535.1.1 = {
 		holder = Placeholder_Tarley
 	}
 }
+
+d_palemarch = {}
+
+d_the_westmarch = {}
+
+k_goldengrove_2 = {}
+
+d_the_northmarch = {}
+
+d_red_front = {}
+
+d_goldengrove = {}
+
+d_the_ocean_road = {}
+
+k_tumbleton_2 = {}
+
+d_heartland_heights = {}
+
+d_tumbleton = {}
+
+d_sunnyvale = {}
+
+d_goldenfields = {}
+
+d_blueburn = {}
+
+k_the_arbor = {}
+
+d_the_arbor = {}
+

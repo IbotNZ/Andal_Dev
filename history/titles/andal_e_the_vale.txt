@@ -1,0 +1,46 @@
+e_the_vale = {}
+
+k_runestone_2 = {}
+
+d_gulltown = {}
+
+d_runestone = {}
+
+d_ironoaks = {}
+
+d_old_anchor = {}
+
+d_eastweald = {}
+
+k_the_vale = {}
+
+d_the_giants_lance = {}
+
+d_strongstone = {}
+
+d_wickenden = {}
+
+d_ninestars = {}
+
+k_strongsong_2 = {}
+
+d_crowncrests = {}
+
+d_hearts_home = {}
+
+d_strongsong = {}
+
+d_snakewood_forest = {}
+
+k_the_fingers_2 = {}
+
+d_the_drainlands = {}
+
+d_grimholm = {}
+
+d_northbreach = {}
+
+d_the_cut = {}
+
+d_the_sisters = {}
+

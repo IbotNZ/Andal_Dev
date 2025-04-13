@@ -1,5 +1,50 @@
+e_the_westerlands = {}
+
+k_the_westerlands = {}
+
+d_casterly_rock = {}
+
+d_denslane = {}
+
+d_rundridge = {}
+
+d_tarrich = {}
+
+d_lanns_point = {}
+
+d_fair_isle = {}
+
+k_castamere_2 = {}
+
+d_goldmarch = {}
+
+d_withermoore = {}
+
+d_the_crag = {}
+
+d_castamere = {}
+
 c_sarsfield = {
     6535.1.1 = {
 		holder = Placeholder_Lannister
 	}
 }
+
+k_crakehall = {}
+
+d_crakehall = {}
+
+d_the_fieldlands = {}
+
+d_sterling = {}
+
+d_the_gold_road = {}
+
+k_goldtooth = {}
+
+d_ashemark = {}
+
+d_hornvale = {}
+
+d_the_golden_tooth = {}
+
