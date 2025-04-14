@@ -1,0 +1,222 @@
+﻿@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+# special titles
+
+d_kingsguard = {
+	color = { 255 249 198 }
+
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+	can_create = { always = no }
+	destroy_on_succession = yes
+
+	capital = c_kings_landing
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	#destroy_if_invalid_heir = yes
+	no_automatic_claims = yes
+	de_jure_drift_disabled = yes
+}
+
+d_dummy_kingsguard = { #dummy title that allows us to change kingsguard history
+	color= { 255 249 198 }
+	landless = yes
+
+	capital = c_kings_landing
+
+	can_create = { always = no }
+}
+
+k_the_most_devout = {
+	color = { 255 249 198 }
+
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+
+	capital = c_kings_landing #this needs to be able to dynamically change to c_kings_landing during Aegon's Conquest and for later bookmarks
+	# Amanes : Landless Actually must somehow have a capital
+
+	# title = "HSEPTON"
+	# title_female = "HSEPTON_female"
+	# foa = "HSEPTON_FOA"
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	destroy_if_invalid_heir = yes
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+
+	male_names = {
+		HIGH_SEPTON_NAME
+	}
+}
+
+k_the_red_priesthood = {
+	color = { 255 249 198 }
+
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+
+	capital = c_storms_end # AGOT TODO, add ACTUAL capital once exists
+	# Amanes : Landless Actually must somehow have a capital
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	#destroy_if_invalid_heir = yes
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+}
+
+d_the_citadel = {
+	color = { 155 149 148 }
+
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+
+	capital = c_oldtown
+	# Amanes : Landless Actually must somehow have a capital
+
+	# title = "GRAND_MAESTER"
+	# title_female = "GRAND_MAESTER_female"
+	# foa = "GRAND_MAESTER_FOA"
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	destroy_if_invalid_heir = yes
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+
+}
+
+d_the_silent_sisterhood = {
+	color = { 243 237 180 }
+
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+
+	capital = c_oldtown
+
+	# title = "SILENT_MOTHER"
+	# foa = "SILENT_MOTHER_FOA"
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	#destroy_if_invalid_heir = yes
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+}
+
+d_wildling_army = { #for when wildlings breach the wall
+	color = { 94 83 70 }
+
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+
+	capital = c_castle_black
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+
+	destroy_if_invalid_heir = yes
+	no_automatic_claims = yes
+	always_follows_primary_heir = no
+	de_jure_drift_disabled = yes
+
+}
+
+d_dummy_empire = { #dummy title that allows us to change history
+	color= { 255 249 198 }
+	landless = yes
+
+	capital = c_kings_landing
+
+	can_create = { always = no }
+}
+
+d_dummy_nw_landless = { #dummy title that allows us to change history
+	color= { 255 249 198 }
+	landless = yes
+
+	capital = c_castle_black
+
+	can_create = { always = no }
+}
+
+# Historic Titular Kingdoms
+# Amanes : Made those titles to clean Error log as they're present in History
+k_the_fingers = {
+	landless = yes
+	color = { 74 188 213 }
+	capital = c_hearts_home
+	# Amanes : Landless Actually must somehow have a capital
+}
+
+k_the_bay_of_crabs = {
+	landless = yes
+	capital = c_gulltown
+	color = { 89 151 186 }
+	# Amanes : Landless Actually must somehow have a capital
+}
+
+# Independent Titular Kingdoms
+# Amanes : Made this titles to clean Error log as you can apparently declare independence with them
+k_the_sisters = {
+	landless = yes
+	capital = c_sunderland
+	color = { 151 198 255 }
+	# Amanes : Landless Actually must somehow have a capital
+}
+
+### Petty kingdoms removed for Andal Invasion
+
+e_ruins = {
+	color = { 159 122 112 }
+	capital = c_ruins
+	k_ruins = {
+		color = { 159 122 112 }
+		capital = c_ruins
+		d_ruins = {
+			color = { 159 122 112 }
+			capital = c_ruins
+			c_ruins = {
+				color = { 159 122 112 }
+				b_ruins = {
+					province = 7291
+					color = { 159 122 112 }
+				}
+				b_more_ruin = {
+					province = 7292
+					color = { 159 122 112 }
+				}
+				b_the_most_ruin = {
+					province = 7293
+					color = { 159 122 112 }
+				}
+			}
+		}
+	}
+}
