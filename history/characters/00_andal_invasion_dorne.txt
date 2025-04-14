@@ -102,7 +102,7 @@ AI_Briar_1 = {
 	## Lore
 
 	name = Ulrick
-	#dynasty = dynn_Allyrion
+	dynasty = dynn_Briar
 
 	## Culture and Faith
 	religion = old_gods_wnw
@@ -141,7 +141,7 @@ AI_Brook_1 = {
 	## Lore
 
 	name = Ulrick
-	#dynasty = dynn_Allyrion
+	dynasty = dynn_Brook
 
 	## Culture and Faith
 	religion = old_gods_wnw
@@ -179,7 +179,7 @@ AI_Brownhill_1 = {
 	## Lore
 
 	name = Ulrick
-	#dynasty = dynn_Allyrion
+	dynasty = dynn_Brownhill_Dorne
 
 	## Culture and Faith
 	religion = old_gods_wnw
@@ -216,7 +216,7 @@ AI_Holt_1 = {
 	## Lore
 
 	name = Ulrick
-	#dynasty = dynn_Allyrion
+	dynasty = dynn_Holt_Dorne
 
 	## Culture and Faith
 	religion = old_gods_wnw
@@ -252,7 +252,7 @@ AI_Lake_1 = {
 	## Lore
 
 	name = Ulrick
-	#dynasty = dynn_Allyrion
+	dynasty = dynn_Lake_Dorne
 
 	## Culture and Faith
 	religion = old_gods_wnw
@@ -288,7 +288,7 @@ AI_Shell_1 = {
 	## Lore
 
 	name = Ulrick
-	#dynasty = dynn_Allyrion
+	dynasty = dynn_Shell_Dorne
 
 	## Culture and Faith
 	religion = old_gods_wnw
@@ -324,7 +324,7 @@ AI_Wade_1 = {
 	## Lore
 
 	name = Ulrick
-	#dynasty = dynn_Allyrion
+	dynasty = dynn_Wade
 
 	## Culture and Faith
 	religion = old_gods_wnw
