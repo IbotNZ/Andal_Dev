@@ -1,19 +1,72 @@
-### Dornish Nomads
+##### Dornish Andals #####
 
-Temp_Dorne_AI_1 = {
+### HOUSE MARTELL (id = dynn_Martell)
+### Unbowed, Unbent, Unbroken
+
+AI_Martell_1 = {
 	### Mod Canon
 
 	## Held Titles
 
 	## Lore
-    # Large nomad realm. Placeholder until khan update.
+    # Progenitor of the Nymeros Martell dynasty. From before Nymeria's arrival.
+	# A vassal of house Allyrion until the High Kingdom falls and Martell takes their seat of Sandship. 
 
-	name = Qarl
+	name = Vorian
 	#dynasty = dynn_Griffin
 
 	## Culture and Faith
-	religion = old_gods_wnw
-	culture = dorne_nomad
+	religion = fots_stars
+	culture = andal
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+	6536.1.1 = {
+		employer = AI_Allyrion_1
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+### HOUSE ALLYRION (id = dynn_Allyrion)
+### No Foe May Pass
+
+AI_Allyrion_1 = {
+	### Mod Canon
+
+	## Held Titles
+	d_godsgrace
+	c_godsgrace
+	c_goldpeppers
+	c_nerandyn
+
+	## Lore
+    # House Allyrion is the first Andal house in Dorne.
+	# They maintained their independence until the High Kingdom fell.
+	# Many major Salt Dornish houses such as the Martell's started as their subject in the initial invasion.
+	# The houses seat was negotiated in a mercenary contract to explain the lack of a horder of other adventurers. Currently too far from the beginning of the invasion.
+	# Also fits in with idea of Dorne being separate from the rest of Westeros. Even the Andal settlers took a different route.
+
+	name = Ulrick
+	dynasty = dynn_Allyrion
+
+	## Culture and Faith
+	religion = fots_stars
+	culture = andal
 
 	## Traits
 	# Education
@@ -34,3 +87,266 @@ Temp_Dorne_AI_1 = {
 		}
 	}
 }
+
+##### High Dornish #####
+
+AI_Briar_1 = {
+	### Mod Canon
+
+	## Held Titles
+	d_broken_arm
+	c_torchwood
+	c_rockwell
+	c_ghost_hills
+
+	## Lore
+
+	name = Ulrick
+	#dynasty = dynn_Allyrion
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = high_dornish
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+AI_Brook_1 = {
+	### Mod Canon
+
+	## Held Titles
+	d_ghost_hills
+	c_the_faint
+	c_nymercairn
+	c_husk_flats
+	c_sevensdunes
+
+	## Lore
+
+	name = Ulrick
+	#dynasty = dynn_Allyrion
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = high_dornish
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+AI_Brownhill_1 = {
+	### Mod Canon
+
+	## Held Titles
+	d_sunspear
+	c_sunspear
+	c_plankytown
+	c_stinkwater
+
+	## Lore
+
+	name = Ulrick
+	#dynasty = dynn_Allyrion
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = high_dornish
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+AI_Holt_1 = {
+	### Mod Canon
+
+	## Held Titles
+	k_dorne
+	c_lemonwood
+	c_sweetwater
+
+	## Lore
+
+	name = Ulrick
+	#dynasty = dynn_Allyrion
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = high_dornish
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+AI_Lake_1 = {
+	### Mod Canon
+
+	## Held Titles
+	c_salt_shore
+	c_brackish
+
+	## Lore
+
+	name = Ulrick
+	#dynasty = dynn_Allyrion
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = high_dornish
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+AI_Shell_1 = {
+	### Mod Canon
+
+	## Held Titles
+	c_saltstone
+	c_white_stones
+
+	## Lore
+
+	name = Ulrick
+	#dynasty = dynn_Allyrion
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = high_dornish
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+AI_Wade_1 = {
+	### Mod Canon
+
+	## Held Titles
+	c_latebloom
+	c_orangewood
+
+	## Lore
+
+	name = Ulrick
+	#dynasty = dynn_Allyrion
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = high_dornish
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+

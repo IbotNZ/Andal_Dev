@@ -9639,7 +9639,7 @@
 ############## c_drihisesk - d_skagos #############
 1586 = {
 	culture = skagosi
-	religion = old_gods_btw
+	religion = old_gods_sas
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -9701,7 +9701,7 @@
 ############## c_sudyktig - d_skagos ##############
 1595 = {
 	culture = skagosi
-	religion = old_gods_btw
+	religion = old_gods_sas
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -9752,7 +9752,7 @@
 ############### c_molksyr - d_skagos ##############
 1603 = {
 	culture = skagosi
-	religion = old_gods_btw
+	religion = old_gods_sas
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_02 }
@@ -9813,7 +9813,7 @@
 ############ c_dreggan_arer - d_skagos ############
 1613 = {
 	culture = skagosi
-	religion = old_gods_btw
+	religion = old_gods_sas
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -9861,7 +9861,7 @@
 ############## c_veksdaenk - d_skagos #############
 1621 = {
 	culture = skagosi
-	religion = old_gods_btw
+	religion = old_gods_sas
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -9902,7 +9902,7 @@
 ############## c_rom_pursk - d_skagos #############
 1627 = {
 	culture = skagosi
-	religion = old_gods_btw
+	religion = old_gods_sas
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -9925,7 +9925,7 @@
 ################ c_skane - d_skagos ###############
 1630 = {
 	culture = skagosi
-	religion = old_gods_btw
+	religion = old_gods_sas
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }
@@ -9950,7 +9950,7 @@
 ############### c_riis_du - d_skagos ##############
 1634 = {
 	culture = skagosi
-	religion = old_gods_btw
+	religion = old_gods_sas
 	holding = castle_holding
 	7824.1.1 = {
 		buildings = { castle_01 }

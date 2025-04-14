@@ -2,21 +2,200 @@ e_dorne = {}
 
 k_dorne = {
     6535.1.1 = {
-		holder = Placeholder_Dorne
+		holder = AI_Holt_1
 	}
 }
 
-d_sunspear = {}
+d_sunspear = {
+	6535.1.1 = {
+		liege = k_dorne
+		holder = AI_Brownhill_1
+	}
+}
 
-d_broken_arm = {}
+c_sunspear = {
+	6535.1.1 = {
+		holder = AI_Brownhill_1
+	}
+}
 
-d_ghost_hills = {}
+c_plankytown = {
+	6535.1.1 = {
+		holder = AI_Brownhill_1
+	}
+}
 
-d_godsgrace = {}
+c_husk_flats = {
+	6535.1.1 = {
+		holder = AI_Brook_1
+	}
+}
 
-d_salt_shore = {}
+c_stinkwater = {
+	6535.1.1 = {
+		holder = AI_Brownhill_1
+	}
+}
 
-d_lemonwood = {}
+
+
+d_broken_arm = {
+	6535.1.1 = {
+		liege = k_dorne
+		holder = AI_Briar_1
+	}
+}
+
+c_spottswood = {
+	6535.1.1 = {
+		holder = AI_Briar_1
+	}
+}
+c_torchwood = {
+	6535.1.1 = {
+		holder = AI_Briar_1
+	}
+}
+c_rockwell = {
+	6535.1.1 = {
+		holder = AI_Briar_1
+	}
+}
+
+
+
+d_ghost_hills = {
+	6535.1.1 = {
+		liege = k_dorne
+		holder = AI_Brook_1
+	}
+}
+
+c_ghost_hills = {
+	6535.1.1 = {
+		holder = AI_Briar_1
+	}
+}
+
+c_nymercairn = {
+	6535.1.1 = {
+		holder = AI_Brook_1
+	}
+}
+
+c_the_faint = {
+	6535.1.1 = {
+		holder = AI_Brook_1
+	}
+}
+
+
+
+d_godsgrace = {
+	6535.1.1 = {
+		holder = AI_Allyrion_1
+	}
+}
+
+c_godsgrace = {
+	6535.1.1 = {
+		holder = AI_Allyrion_1
+	}
+}
+
+c_nerandyn = {
+	6535.1.1 = {
+		holder = AI_Allyrion_1
+	}
+}
+
+c_goldpeppers = {
+	6535.1.1 = {
+		holder = AI_Allyrion_1
+	}
+}
+
+c_sevensdunes = {
+	6535.1.1 = {
+		holder = AI_Brook_1
+	}
+}
+
+c_orangewood = {
+	6535.1.1 = {
+		liege = k_dorne
+		holder = AI_Wade_1
+	}
+}
+
+c_latebloom = {
+	6535.1.1 = {
+		liege = k_dorne
+		holder = AI_Wade_1
+	}
+}
+
+
+
+d_salt_shore = {
+
+}
+
+c_salt_shore = {
+	6535.1.1 = {
+		liege = k_dorne
+		holder = AI_Lake_1
+	}
+}
+
+c_brackish = {
+	6535.1.1 = {
+		liege = k_dorne
+		holder = AI_Lake_1
+	}
+}
+
+c_white_stones = {
+	6535.1.1 = {
+		liege = k_dorne
+		holder = AI_Shell_1
+	}
+}
+
+c_saltstone = {
+	6535.1.1 = {
+		liege = k_dorne
+		holder = AI_Shell_1
+	}
+}
+
+
+
+d_lemonwood = {
+
+}
+
+c_lemonwood = {
+	6535.1.1 = {
+		holder = AI_Holt_1
+	}
+}
+
+c_sweetwater = {
+	6535.1.1 = {
+		holder = AI_Holt_1
+	}
+}
+
+c_sourmarket = {
+
+}
+
+c_drillwater_islands = {
+
+}
+
+
 
 k_the_stone_way = {}
 

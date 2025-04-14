@@ -144,7 +144,7 @@ clan_government = {
 	fallback = 2
 
 	#AGOT Disabled
-	preferred_religions = { the_pact_religion }
+	preferred_religions = { the_pact_religion the_first_gods_religion }
 
 	valid_holdings = { castle_holding }
 	#AGOT Disabled
