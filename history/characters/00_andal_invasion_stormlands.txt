@@ -1,0 +1,44 @@
+### Tribal Rulers
+
+Temp_Stormlands_AI_1 = {
+	### Mod Canon
+
+	## Held Titles
+    # k_the_stormwood
+
+	## Lore
+    # The greatest tribal king who follows the first gods as of the Andal Invasion.
+    # Follows the Gods of the Sea and Wind.
+    # Adversary of the Baratheons.
+    # Expansionist with lands encroaching on the kingdoms of the Reach and Duskendale.
+
+	name = Qarl
+	#dynasty = dynn_Griffin
+
+	## Culture and Faith
+	religion = fg_pan_elenei
+	culture = dorne_nomad
+
+	## Traits
+	# Education
+    trait = education_martial_4
+
+	# Personality
+    trait = wrathful
+    trait = brave
+    trait = vengeful
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}

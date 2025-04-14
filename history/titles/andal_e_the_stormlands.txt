@@ -14,7 +14,11 @@ d_the_rainwood = {}
 
 d_cape_wrath = {}
 
-k_the_stormwood = {}
+k_the_stormwood = {
+    6535.1.1 = {
+		holder = Temp_Stormlands_AI_1
+	}
+}
 
 d_kingswood = {}
 

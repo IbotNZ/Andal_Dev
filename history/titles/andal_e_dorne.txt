@@ -26,19 +26,43 @@ d_redmarch = {}
 
 d_yronwood = {}
 
-d_scourgehead = {}
+d_scourgehead = {
+	6535.1.1 = {
+		holder = Temp_Dorne_AI_1
+	}
+}
 
-d_the_tor = {}
+d_the_tor = {
+	6535.1.1 = {
+		holder = Temp_Dorne_AI_1
+	}
+}
 
 k_the_dunes = {}
 
-d_sandstone = {}
+d_sandstone = {
+	6535.1.1 = {
+		holder = Temp_Dorne_AI_1
+	}
+}
 
-d_oldwell = {}
+d_oldwell = {
+	6535.1.1 = {
+		holder = Temp_Dorne_AI_1
+	}
+}
 
-d_brimstone = {}
+d_brimstone = {
+	6535.1.1 = {
+		holder = Temp_Dorne_AI_1
+	}
+}
 
-d_red_dunes = {}
+d_red_dunes = {
+	6535.1.1 = {
+		holder = Temp_Dorne_AI_1
+	}
+}
 
 k_starfall = {}
 
