@@ -350,3 +350,290 @@ AI_Wade_1 = {
 	}
 }
 
+##### Stoneman Dornish #####
+
+### HOUSE YRONWOOD (id = dynn_Yronwood)
+### We Guard the Way
+
+AI_Yronwood_1 = {
+	### Mod Canon
+
+	## Held Titles
+	d_yronwood
+	c_yronwood
+	c_blackvein
+	c_fangside
+
+	## Lore
+
+	name = Doran
+	dynasty = dynn_Yronwood
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = stone_way_man
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+##### Dawnman #####
+
+### HOUSE DAYNE (id = dynn_Dayne)
+### Dawn Brings Light
+
+AI_Dayne_1 = {
+	### Mod Canon
+
+	## Held Titles
+	d_torrentine
+	c_starfall
+
+	## Lore
+	# Ironic reflection of Arthur Dayne from Robert's Rebellion. Frail and unable to be the sword of the morning.
+
+	name = Arthur
+	dynasty = dynn_Dayne
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = daynish
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+##### Hill Dornish #####
+
+### HOUSE BLACKMONT (id = dynn_Blackmont)
+### What Was Taken Will Return
+
+AI_Blackmont_1 = {
+	### Mod Canon
+
+	## Held Titles
+	d_blackmont
+	c_westroost
+
+	## Lore
+	
+	name = Arthur
+	dynasty = dynn_Blackmont
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = hill_dornish
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+### HOUSE FOWLER (id = dynn_Fowler)
+### Let Me Soar
+
+AI_Fowler_1 = {
+	### Mod Canon
+
+	## Held Titles
+	c_skyreach
+	c_cadgemont
+
+	## Lore
+
+	name = Arthur
+	dynasty = dynn_Fowler
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = hill_dornish
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+### HOUSE MANWOODY (id = dynn_Manwoody)
+### The Death of Kings
+
+AI_Manwoody_1 = {
+	### Mod Canon
+
+	## Held Titles
+	c_princemarch
+	c_wide_way
+
+	## Lore
+
+	name = Arthur
+	dynasty = dynn_Manwoody
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = hill_dornish
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+##### Nomad/Proto Sand Dornish #####
+
+### HOUSE QORGYLE (id = dynn_Qorgyle)
+### This Blood Will Burn
+
+AI_Qorgyle_1 = {
+	### Mod Canon
+
+	## Held Titles
+	c_barbmane
+	c_sandhorn
+
+
+	## Lore
+	# A nomadic house that settled besides the ocean. Influenced by Arbor and other neighboring states.
+
+	name = Arthur
+	dynasty = dynn_Qorgyle
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = dorne_nomad
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+### HOUSE DRYSIDE/Dryland (id = dynn_Dryside)
+###
+
+AI_Dryland_1 = {
+	### Mod Canon
+
+	## Held Titles
+	c_brimstone
+	c_jackalrun
+
+
+	## Lore
+	# A nomadic house that settled besides the ocean. Influenced by Arbor and other neighboring states.
+
+	name = Arthur
+	dynasty = dynn_Dryland
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = dorne_nomad
+
+	## Traits
+	# Education
+
+	# Personality
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}

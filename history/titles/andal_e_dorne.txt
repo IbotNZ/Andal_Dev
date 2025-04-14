@@ -201,9 +201,31 @@ k_the_stone_way = {}
 
 d_the_stoneway = {}
 
+c_blackvein = {
+	6535.1.1 = {
+		holder = AI_Yronwood_1
+	}
+}
+
+c_fangside = {
+	6535.1.1 = {
+		holder = AI_Yronwood_1
+	}
+}
+
 d_redmarch = {}
 
-d_yronwood = {}
+d_yronwood = {
+	6535.1.1 = {
+		holder = AI_Yronwood_1
+	}
+}
+
+c_yronwood = {
+	6535.1.1 = {
+		holder = AI_Yronwood_1
+	}
+}
 
 d_scourgehead = {
 	6535.1.1 = {
@@ -245,8 +267,79 @@ d_red_dunes = {
 
 k_starfall = {}
 
-d_torrentine = {}
+d_torrentine = {
+	6535.1.1 = {
+		holder = AI_Dayne_1
+	}
+}
 
-d_blackmont = {}
+c_starfall = {
+	6535.1.1 = {
+		holder = AI_Dayne_1
+	}
+}
 
-d_the_princes_pass = {}
+d_blackmont = {
+	6535.1.1 = {
+		holder = AI_Blackmont_1
+	}
+}
+
+c_westroost = {
+	6535.1.1 = {
+		holder = AI_Blackmont_1
+	}
+}
+
+d_the_princes_pass = {
+
+}
+
+c_skyreach = {
+	6535.1.1 = {
+		holder = AI_Fowler_1
+	}
+}
+
+c_cadgemont = {
+	6535.1.1 = {
+		holder = AI_Fowler_1
+	}
+}
+
+c_princemarch = {
+	6535.1.1 = {
+		holder = AI_Manwoody_1
+	}
+}
+
+c_wide_way = {
+	6535.1.1 = {
+		holder = AI_Manwoody_1
+	}
+}
+
+c_barbmane = {
+	6535.1.1 = {
+		holder = AI_Qorgyle_1
+	}
+}
+
+c_sandhorn = {
+	6535.1.1 = {
+		holder = AI_Qorgyle_1
+	}
+}
+
+c_brimstone = {
+	6535.1.1 = {
+		holder = AI_Dryland_1
+	}
+}
+
+c_jackalrun = {
+	6535.1.1 = {
+		holder = AI_Dryland_1
+	}
+}
+
