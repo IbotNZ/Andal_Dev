@@ -1,0 +1,190 @@
+AI_Mudd_1 = {
+	### Canon
+
+	## Held Titles
+
+	## Lore
+
+	name = Durran
+	dynasty = dynn_Durrandon
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = first_stormlander
+
+	## Traits
+	# Education
+    trait = education_martial_4
+
+	# Personality
+    trait = wrathful
+    trait = brave
+    trait = vengeful
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+AI_Mallister_1 = {
+	### Canon
+
+	## Held Titles
+
+	## Lore
+
+	name = Durran
+	dynasty = dynn_Durrandon
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = first_stormlander
+
+	## Traits
+	# Education
+    trait = education_martial_4
+
+	# Personality
+    trait = wrathful
+    trait = brave
+    trait = vengeful
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+AI_Blackwood_1 = {
+	### Canon
+
+	## Held Titles
+
+	## Lore
+
+	name = Durran
+	dynasty = dynn_Durrandon
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = first_stormlander
+
+	## Traits
+	# Education
+    trait = education_martial_4
+
+	# Personality
+    trait = wrathful
+    trait = brave
+    trait = vengeful
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+AI_Bracken_1 = {
+	### Canon
+
+	## Held Titles
+
+	## Lore
+
+	name = Durran
+	dynasty = dynn_Durrandon
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = first_stormlander
+
+	## Traits
+	# Education
+    trait = education_martial_4
+
+	# Personality
+    trait = wrathful
+    trait = brave
+    trait = vengeful
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+AI_Tully_1 = {
+	### Canon
+
+	## Held Titles
+
+	## Lore
+
+	name = Durran
+	dynasty = dynn_Durrandon
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = first_stormlander
+
+	## Traits
+	# Education
+    trait = education_martial_4
+
+	# Personality
+    trait = wrathful
+    trait = brave
+    trait = vengeful
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
