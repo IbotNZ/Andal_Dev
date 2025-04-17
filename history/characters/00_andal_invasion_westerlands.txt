@@ -1,6 +1,4 @@
-AI_Lannister_1 = {
-	### Canon
-
+Lannister_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -36,9 +34,7 @@ AI_Lannister_1 = {
 	}
 }
 
-AI_Reyne_1 = {
-	### Canon
-
+Reyne_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -74,9 +70,7 @@ AI_Reyne_1 = {
 	}
 }
 
-AI_Crakehall_1 = {
-	### Canon
-
+Crakehall_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -112,9 +106,7 @@ AI_Crakehall_1 = {
 	}
 }
 
-AI_Broom_1 = {
-	### Canon
-
+Broom_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -150,9 +142,7 @@ AI_Broom_1 = {
 	}
 }
 
-AI_Foote_1 = {
-	### Canon
-
+Foote_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -188,9 +178,7 @@ AI_Foote_1 = {
 	}
 }
 
-AI_Plumm_1 = {
-	### Canon
-
+Plumm_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -226,9 +214,7 @@ AI_Plumm_1 = {
 	}
 }
 
-AI_Farman_1 = {
-	### Canon
-
+Farman_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -264,9 +250,7 @@ AI_Farman_1 = {
 	}
 }
 
-AI_Westerling_1 = {
-	### Canon
-
+Westerling_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -302,9 +286,7 @@ AI_Westerling_1 = {
 	}
 }
 
-AI_Banefort_1 = {
-	### Canon
-
+Banefort_AI_1 = {
 	## Held Titles
 
 	## Lore

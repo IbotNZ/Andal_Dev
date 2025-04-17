@@ -1,9 +1,7 @@
 e_the_riverlands = {}
 
 k_the_crownlands = {
-    6535.1.1 = {
-		holder = Placeholder_Darklyn
-	}
+
 }
 
 d_fork_river = {}
@@ -12,19 +10,40 @@ d_kings_landing = {}
 
 d_hayford = {}
 
-d_rosby = {}
+d_rosby = {
+	6535.1.1 = {
+		liege = k_duskendale_2
+		holder = Rosby_AI_1
+	}
+}
+
+c_rosby = {
+	6535.1.1 = {
+		holder = Rosby_AI_1
+	}
+}
 
 d_the_blackwater_rush = {}
 
 k_duskendale_2 = {
     6535.1.1 = {
-		holder = Placeholder_Darklyn
+		holder = Darklyn_AI_1
 	}
 }
 
 d_stokeworth = {}
 
-d_duskendale = {}
+d_duskendale = {
+	6535.1.1 = {
+		holder = Darklyn_AI_1
+	}
+}
+
+c_duskendale = {
+	6535.1.1 = {
+		holder = Darklyn_AI_1
+	}
+}
 
 d_deerfield = {}
 
@@ -39,6 +58,12 @@ d_harrenhal = {}
 k_rivervale = {}
 
 d_riverrun = {}
+
+c_riverrun = {
+	6535.1.1 = {
+		holder = Tully_AI_1
+	}
+}
 
 d_lakehaven = {}
 
@@ -56,17 +81,53 @@ d_rooks_rest = {}
 
 d_crackclaw_point = {}
 
-k_the_riverlands = {
-    6535.1.1 = {
-		holder = Placeholder_Justman
+c_strongcliffs = {
+	6535.1.1 = {
+		holder = Crabb_AI_1
 	}
 }
 
-d_southstone = {}
+k_the_riverlands = {
+    6535.1.1 = {
+		holder = Mudd_AI_1
+	}
+}
 
-d_blackwood_vale = {}
+d_southstone = {
+	6535.1.1 = {
+		holder = Bracken_AI_1
+	}
+}
 
-d_cape_of_eagles = {}
+c_stone_hedge = {
+	6535.1.1 = {
+		holder = Bracken_AI_1
+	}
+}
+
+d_blackwood_vale = {
+	6535.1.1 = {
+		holder = Blackwood_AI_1
+	}
+}
+
+c_raventree = {
+	6535.1.1 = {
+		holder = Blackwood_AI_1
+	}
+}
+
+d_cape_of_eagles = {
+	6535.1.1 = {
+		holder = Mallister_AI_1
+	}
+}
+
+c_seagard = {
+	6535.1.1 = {
+		holder = Mallister_AI_1
+	}
+}
 
 d_the_crossing = {}
 
@@ -74,7 +135,17 @@ d_lakeleaf_highlands = {}
 
 d_willow_wood = {}
 
-d_fairmarket = {}
+d_fairmarket = {
+	6535.1.1 = {
+		holder = Mudd_AI_1
+	}
+}
+
+c_ramsford = {
+	6535.1.1 = {
+		holder = Mudd_AI_1
+	}
+}
 
 d_three_forks = {}
 

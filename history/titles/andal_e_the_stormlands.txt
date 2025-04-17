@@ -1,8 +1,22 @@
 e_the_stormlands = {}
 
-k_the_stormlands = {}
+k_the_stormlands = {
+	6535.1.1 = {
+		holder = Durrandon_AI_1
+	}
+}
 
-d_shipbreaker_bay = {}
+d_shipbreaker_bay = {
+	6535.1.1 = {
+		holder = Durrandon_AI_1
+	}
+}
+
+c_storms_end = {
+	6535.1.1 = {
+		holder = Durrandon_AI_1
+	}
+}
 
 d_vellum_coast = {}
 
@@ -52,13 +66,43 @@ d_the_baywater_woods = {}
 
 d_wendwater_forest = {}
 
-d_masseys_hook = {}
+d_masseys_hook = {
+	6535.1.1 = {
+		holder = Massey_AI_1
+	}
+}
 
-d_sharp_point = {}
+c_stonedance = {
+	6535.1.1 = {
+		holder = Massey_AI_1
+	}
+}
+
+d_sharp_point = {
+	6535.1.1 = {
+		holder = Bar_Emmon_AI_1
+	}
+}
+
+c_sharp_point = {
+	6535.1.1 = {
+		holder = Bar_Emmon_AI_1
+	}
+}
 
 k_storm_isles = {}
 
-d_tarth = {}
+d_tarth = {
+	6535.1.1 = {
+		holder = Tarth_AI_1
+	}
+}
+
+c_evenfall = {
+	6535.1.1 = {
+		holder = Tarth_AI_1
+	}
+}
 
 d_estermont_isles = {}
 

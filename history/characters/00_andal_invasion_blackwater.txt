@@ -1,6 +1,4 @@
-AI_Darklyn_1 = {
-	### Canon
-
+Darklyn_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -36,9 +34,7 @@ AI_Darklyn_1 = {
 	}
 }
 
-AI_Rosby_1 = {
-	### Canon
-
+Rosby_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -74,9 +70,7 @@ AI_Rosby_1 = {
 	}
 }
 
-AI_Hollard_1 = {
-	### Canon
-
+Hollard_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -112,9 +106,7 @@ AI_Hollard_1 = {
 	}
 }
 
-AI_Massey_1 = {
-	### Canon
-
+Massey_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -150,9 +142,7 @@ AI_Massey_1 = {
 	}
 }
 
-AI_Bar_Emmon_1 = {
-	### Canon
-
+Bar_Emmon_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -188,9 +178,7 @@ AI_Bar_Emmon_1 = {
 	}
 }
 
-AI_Crabb_1 = {
-	### Canon
-
+Crabb_AI_1 = {
 	## Held Titles
 
 	## Lore

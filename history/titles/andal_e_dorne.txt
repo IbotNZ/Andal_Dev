@@ -2,38 +2,38 @@ e_dorne = {}
 
 k_dorne = {
     6535.1.1 = {
-		holder = AI_Holt_1
+		holder = Holt_AI_1
 	}
 }
 
 d_sunspear = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = AI_Brownhill_1
+		holder = Brownhill_AI_1
 	}
 }
 
 c_sunspear = {
 	6535.1.1 = {
-		holder = AI_Brownhill_1
+		holder = Brownhill_AI_1
 	}
 }
 
 c_plankytown = {
 	6535.1.1 = {
-		holder = AI_Brownhill_1
+		holder = Brownhill_AI_1
 	}
 }
 
 c_husk_flats = {
 	6535.1.1 = {
-		holder = AI_Brook_1
+		holder = Brook_AI_1
 	}
 }
 
 c_stinkwater = {
 	6535.1.1 = {
-		holder = AI_Brownhill_1
+		holder = Brownhill_AI_1
 	}
 }
 
@@ -42,23 +42,23 @@ c_stinkwater = {
 d_broken_arm = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = AI_Briar_1
+		holder = Briar_AI_1
 	}
 }
 
 c_spottswood = {
 	6535.1.1 = {
-		holder = AI_Briar_1
+		holder = Briar_AI_1
 	}
 }
 c_torchwood = {
 	6535.1.1 = {
-		holder = AI_Briar_1
+		holder = Briar_AI_1
 	}
 }
 c_rockwell = {
 	6535.1.1 = {
-		holder = AI_Briar_1
+		holder = Briar_AI_1
 	}
 }
 
@@ -67,25 +67,25 @@ c_rockwell = {
 d_ghost_hills = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = AI_Brook_1
+		holder = Brook_AI_1
 	}
 }
 
 c_ghost_hills = {
 	6535.1.1 = {
-		holder = AI_Briar_1
+		holder = Briar_AI_1
 	}
 }
 
 c_nymercairn = {
 	6535.1.1 = {
-		holder = AI_Brook_1
+		holder = Brook_AI_1
 	}
 }
 
 c_the_faint = {
 	6535.1.1 = {
-		holder = AI_Brook_1
+		holder = Brook_AI_1
 	}
 }
 
@@ -93,45 +93,45 @@ c_the_faint = {
 
 d_godsgrace = {
 	6535.1.1 = {
-		holder = AI_Allyrion_1
+		holder = Allyrion_AI_1
 	}
 }
 
 c_godsgrace = {
 	6535.1.1 = {
-		holder = AI_Allyrion_1
+		holder = Allyrion_AI_1
 	}
 }
 
 c_nerandyn = {
 	6535.1.1 = {
-		holder = AI_Allyrion_1
+		holder = Allyrion_AI_1
 	}
 }
 
 c_goldpeppers = {
 	6535.1.1 = {
-		holder = AI_Allyrion_1
+		holder = Allyrion_AI_1
 	}
 }
 
 c_sevensdunes = {
 	6535.1.1 = {
-		holder = AI_Brook_1
+		holder = Brook_AI_1
 	}
 }
 
 c_orangewood = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = AI_Wade_1
+		holder = Wade_AI_1
 	}
 }
 
 c_latebloom = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = AI_Wade_1
+		holder = Wade_AI_1
 	}
 }
 
@@ -144,28 +144,28 @@ d_salt_shore = {
 c_salt_shore = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = AI_Lake_1
+		holder = Lake_AI_1
 	}
 }
 
 c_brackish = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = AI_Lake_1
+		holder = Lake_AI_1
 	}
 }
 
 c_white_stones = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = AI_Shell_1
+		holder = Shell_AI_1
 	}
 }
 
 c_saltstone = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = AI_Shell_1
+		holder = Shell_AI_1
 	}
 }
 
@@ -177,13 +177,13 @@ d_lemonwood = {
 
 c_lemonwood = {
 	6535.1.1 = {
-		holder = AI_Holt_1
+		holder = Holt_AI_1
 	}
 }
 
 c_sweetwater = {
 	6535.1.1 = {
-		holder = AI_Holt_1
+		holder = Holt_AI_1
 	}
 }
 
@@ -203,13 +203,13 @@ d_the_stoneway = {}
 
 c_blackvein = {
 	6535.1.1 = {
-		holder = AI_Yronwood_1
+		holder = Yronwood_AI_1
 	}
 }
 
 c_fangside = {
 	6535.1.1 = {
-		holder = AI_Yronwood_1
+		holder = Yronwood_AI_1
 	}
 }
 
@@ -217,13 +217,13 @@ d_redmarch = {}
 
 d_yronwood = {
 	6535.1.1 = {
-		holder = AI_Yronwood_1
+		holder = Yronwood_AI_1
 	}
 }
 
 c_yronwood = {
 	6535.1.1 = {
-		holder = AI_Yronwood_1
+		holder = Yronwood_AI_1
 	}
 }
 
@@ -269,25 +269,25 @@ k_starfall = {}
 
 d_torrentine = {
 	6535.1.1 = {
-		holder = AI_Dayne_1
+		holder = Dayne_AI_1
 	}
 }
 
 c_starfall = {
 	6535.1.1 = {
-		holder = AI_Dayne_1
+		holder = Dayne_AI_1
 	}
 }
 
 d_blackmont = {
 	6535.1.1 = {
-		holder = AI_Blackmont_1
+		holder = Blackmont_AI_1
 	}
 }
 
 c_westroost = {
 	6535.1.1 = {
-		holder = AI_Blackmont_1
+		holder = Blackmont_AI_1
 	}
 }
 
@@ -297,49 +297,49 @@ d_the_princes_pass = {
 
 c_skyreach = {
 	6535.1.1 = {
-		holder = AI_Fowler_1
+		holder = Fowler_AI_1
 	}
 }
 
 c_cadgemont = {
 	6535.1.1 = {
-		holder = AI_Fowler_1
+		holder = Fowler_AI_1
 	}
 }
 
 c_princemarch = {
 	6535.1.1 = {
-		holder = AI_Manwoody_1
+		holder = Manwoody_AI_1
 	}
 }
 
 c_wide_way = {
 	6535.1.1 = {
-		holder = AI_Manwoody_1
+		holder = Manwoody_AI_1
 	}
 }
 
 c_barbmane = {
 	6535.1.1 = {
-		holder = AI_Qorgyle_1
+		holder = Qorgyle_AI_1
 	}
 }
 
 c_sandhorn = {
 	6535.1.1 = {
-		holder = AI_Qorgyle_1
+		holder = Qorgyle_AI_1
 	}
 }
 
 c_brimstone = {
 	6535.1.1 = {
-		holder = AI_Dryland_1
+		holder = Dryland_AI_1
 	}
 }
 
 c_jackalrun = {
 	6535.1.1 = {
-		holder = AI_Dryland_1
+		holder = Dryland_AI_1
 	}
 }
 

@@ -3,9 +3,7 @@
 ### HOUSE MARTELL (id = dynn_Martell)
 ### Unbowed, Unbent, Unbroken
 
-AI_Martell_1 = {
-	### Mod Canon
-
+Martell_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -31,7 +29,7 @@ AI_Martell_1 = {
 		add_character_flag = canon_status_canon
 	}
 	6536.1.1 = {
-		employer = AI_Allyrion_1
+		employer = Allyrion_AI_1
 	}
     6538.1.1 = { # Battle of Seven Stars start date
 	}
@@ -45,9 +43,7 @@ AI_Martell_1 = {
 ### HOUSE ALLYRION (id = dynn_Allyrion)
 ### No Foe May Pass
 
-AI_Allyrion_1 = {
-	### Mod Canon
-
+Allyrion_AI_1 = {
 	## Held Titles
 	d_godsgrace
 	c_godsgrace
@@ -90,9 +86,7 @@ AI_Allyrion_1 = {
 
 ##### High Dornish #####
 
-AI_Briar_1 = {
-	### Mod Canon
-
+Briar_AI_1 = {
 	## Held Titles
 	d_broken_arm
 	c_torchwood
@@ -128,9 +122,7 @@ AI_Briar_1 = {
 	}
 }
 
-AI_Brook_1 = {
-	### Mod Canon
-
+Brook_AI_1 = {
 	## Held Titles
 	d_ghost_hills
 	c_the_faint
@@ -167,9 +159,7 @@ AI_Brook_1 = {
 	}
 }
 
-AI_Brownhill_1 = {
-	### Mod Canon
-
+Brownhill_AI_1 = {
 	## Held Titles
 	d_sunspear
 	c_sunspear
@@ -205,9 +195,7 @@ AI_Brownhill_1 = {
 	}
 }
 
-AI_Holt_1 = {
-	### Mod Canon
-
+Holt_AI_1 = {
 	## Held Titles
 	k_dorne
 	c_lemonwood
@@ -242,9 +230,7 @@ AI_Holt_1 = {
 	}
 }
 
-AI_Lake_1 = {
-	### Mod Canon
-
+Lake_AI_1 = {
 	## Held Titles
 	c_salt_shore
 	c_brackish
@@ -278,9 +264,7 @@ AI_Lake_1 = {
 	}
 }
 
-AI_Shell_1 = {
-	### Mod Canon
-
+Shell_AI_1 = {
 	## Held Titles
 	c_saltstone
 	c_white_stones
@@ -314,9 +298,7 @@ AI_Shell_1 = {
 	}
 }
 
-AI_Wade_1 = {
-	### Mod Canon
-
+Wade_AI_1 = {
 	## Held Titles
 	c_latebloom
 	c_orangewood
@@ -355,9 +337,7 @@ AI_Wade_1 = {
 ### HOUSE YRONWOOD (id = dynn_Yronwood)
 ### We Guard the Way
 
-AI_Yronwood_1 = {
-	### Mod Canon
-
+Yronwood_AI_1 = {
 	## Held Titles
 	d_yronwood
 	c_yronwood
@@ -398,9 +378,7 @@ AI_Yronwood_1 = {
 ### HOUSE DAYNE (id = dynn_Dayne)
 ### Dawn Brings Light
 
-AI_Dayne_1 = {
-	### Mod Canon
-
+Dayne_AI_1 = {
 	## Held Titles
 	d_torrentine
 	c_starfall
@@ -440,9 +418,7 @@ AI_Dayne_1 = {
 ### HOUSE BLACKMONT (id = dynn_Blackmont)
 ### What Was Taken Will Return
 
-AI_Blackmont_1 = {
-	### Mod Canon
-
+Blackmont_AI_1 = {
 	## Held Titles
 	d_blackmont
 	c_westroost
@@ -479,9 +455,7 @@ AI_Blackmont_1 = {
 ### HOUSE FOWLER (id = dynn_Fowler)
 ### Let Me Soar
 
-AI_Fowler_1 = {
-	### Mod Canon
-
+Fowler_AI_1 = {
 	## Held Titles
 	c_skyreach
 	c_cadgemont
@@ -518,9 +492,7 @@ AI_Fowler_1 = {
 ### HOUSE MANWOODY (id = dynn_Manwoody)
 ### The Death of Kings
 
-AI_Manwoody_1 = {
-	### Mod Canon
-
+Manwoody_AI_1 = {
 	## Held Titles
 	c_princemarch
 	c_wide_way
@@ -559,9 +531,7 @@ AI_Manwoody_1 = {
 ### HOUSE QORGYLE (id = dynn_Qorgyle)
 ### This Blood Will Burn
 
-AI_Qorgyle_1 = {
-	### Mod Canon
-
+Qorgyle_AI_1 = {
 	## Held Titles
 	c_barbmane
 	c_sandhorn
@@ -600,9 +570,7 @@ AI_Qorgyle_1 = {
 ### HOUSE DRYSIDE/Dryland (id = dynn_Dryside)
 ###
 
-AI_Dryland_1 = {
-	### Mod Canon
-
+Dryland_AI_1 = {
 	## Held Titles
 	c_brimstone
 	c_jackalrun

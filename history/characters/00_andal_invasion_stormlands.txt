@@ -1,7 +1,5 @@
 ### First Man Stormlander
-AI_Durrandon_1 = {
-	### Canon
-
+Durrandon_AI_1 = {
 	## Held Titles
 	k_the_stormlands
 	d_shipbreaker_bay
@@ -41,9 +39,7 @@ AI_Durrandon_1 = {
 	}
 }
 
-AI_Tarth_1 = {
-	### Mod Canon
-
+Tarth_AI_1 = {
 	## Held Titles
 	d_tarth
 	c_evenfall
@@ -87,8 +83,6 @@ AI_Tarth_1 = {
 ### Tribal Rulers
 
 Temp_Stormlands_AI_1 = {
-	### Mod Canon
-
 	## Held Titles
     # k_the_stormwood
 

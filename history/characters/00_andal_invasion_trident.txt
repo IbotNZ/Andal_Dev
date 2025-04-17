@@ -1,6 +1,4 @@
-AI_Mudd_1 = {
-	### Canon
-
+Mudd_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -36,9 +34,7 @@ AI_Mudd_1 = {
 	}
 }
 
-AI_Mallister_1 = {
-	### Canon
-
+Mallister_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -74,9 +70,7 @@ AI_Mallister_1 = {
 	}
 }
 
-AI_Blackwood_1 = {
-	### Canon
-
+Blackwood_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -112,9 +106,7 @@ AI_Blackwood_1 = {
 	}
 }
 
-AI_Bracken_1 = {
-	### Canon
-
+Bracken_AI_1 = {
 	## Held Titles
 
 	## Lore
@@ -150,9 +142,7 @@ AI_Bracken_1 = {
 	}
 }
 
-AI_Tully_1 = {
-	### Canon
-
+Tully_AI_1 = {
 	## Held Titles
 
 	## Lore

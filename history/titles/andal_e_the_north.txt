@@ -1,10 +1,20 @@
 k_winterfell = {
     6535.1.1 = {
-		holder = Placeholder_Stark
+		holder = Stark_AI_1
 	}
 }
 
-d_winterfell = {}
+d_winterfell = {
+	6535.1.1 = {
+		holder = Stark_AI_1
+	}
+}
+
+c_winterfell = {
+	6535.1.1 = {
+		holder = Stark_AI_1
+	}
+}
 
 d_white_harbor = {}
 
@@ -12,23 +22,63 @@ d_edgewood = {}
 
 d_kings_course = {}
 
-d_the_barrowlands = {}
+d_the_barrowlands = {
+	6535.1.1 = {
+		holder = Barrow_King_AI_1
+	}
+}
+
+c_barrowton = {
+	6535.1.1 = {
+		holder = Barrow_King_AI_1
+	}
+}
 
 
 
 k_dreadfort = {
     6535.1.1 = {
-		holder = Placeholder_Bolton
+		holder = Bolton_AI_1
 	}
 }
 
-d_last_lands = {}
+d_the_dreadfort = {
+	6535.1.1 = {
+		holder = Bolton_AI_1
+	}
+}
+
+c_the_dreadfort = {
+	6535.1.1 = {
+		holder = Bolton_AI_1
+	}
+}
+
+d_last_lands = {
+	6535.1.1 = {
+		holder = Umber_AI_1
+	}
+}
+
+c_last_hearth = {
+	6535.1.1 = {
+		holder = Umber_AI_1
+	}
+}
 
 d_frostfields = {}
 
-d_karhold = {}
+d_karhold = {
+	6535.1.1 = {
+		holder = Towers_AI_1
+	}
+}
 
-d_the_dreadfort = {}
+c_karhold = {
+	6535.1.1 = {
+		holder = Towers_AI_1
+	}
+}
 
 k_wolfswood = {}
 

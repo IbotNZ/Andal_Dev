@@ -1,8 +1,28 @@
 e_the_westerlands = {}
 
-k_the_westerlands = {}
+k_the_westerlands = {
+	6535.1.1 = {
+		holder = Lannister_AI_1
+	}
+}
 
-d_casterly_rock = {}
+d_casterly_rock = {
+	6535.1.1 = {
+		holder = Lannister_AI_1
+	}
+}
+
+c_casterly_rock = {
+	6535.1.1 = {
+		holder = Lannister_AI_1
+	}
+}
+
+c_lannisport = {
+	6535.1.1 = {
+		holder = Lannister_AI_1
+	}
+}
 
 d_denslane = {}
 
@@ -10,29 +30,83 @@ d_rundridge = {}
 
 d_tarrich = {}
 
-d_lanns_point = {}
+d_lanns_point = {
+	6535.1.1 = {
+		holder = Plumm_AI_1
+	}
+}
 
-d_fair_isle = {}
+c_feastfires = {
+	6535.1.1 = {
+		holder = Plumm_AI_1
+	}
+}
+
+d_fair_isle = {
+	6535.1.1 = {
+		holder = Farman_AI_1
+	}
+}
+
+c_faircastle = {
+	6535.1.1 = {
+		holder = Farman_AI_1
+	}
+}
 
 k_castamere_2 = {}
 
 d_goldmarch = {}
 
-d_withermoore = {}
+d_withermoore = {
+	6535.1.1 = {
+		holder = Banefort_AI_1
+	}
+}
 
-d_the_crag = {}
+c_banefort = {
+	6535.1.1 = {
+		holder = Banefort_AI_1
+	}
+}
 
-d_castamere = {}
+d_the_crag = {
+	6535.1.1 = {
+		holder = Westerling_AI_1
+	}
+}
 
-c_sarsfield = {
-    6535.1.1 = {
-		holder = Placeholder_Lannister
+c_the_crag = {
+	6535.1.1 = {
+		holder = Westerling_AI_1
+	}
+}
+
+d_castamere = {
+	6535.1.1 = {
+		holder = Reyne_AI_1
+	}
+}
+
+c_castamere = {
+	6535.1.1 = {
+		holder = Reyne_AI_1
 	}
 }
 
 k_crakehall = {}
 
-d_crakehall = {}
+d_crakehall = {
+	6535.1.1 = {
+		holder = Crakehall_AI_1
+	}
+}
+
+c_crakehall = {
+	6535.1.1 = {
+		holder = Crakehall_AI_1
+	}
+}
 
 d_the_fieldlands = {}
 

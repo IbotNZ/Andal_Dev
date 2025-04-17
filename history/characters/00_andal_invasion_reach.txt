@@ -1,6 +1,4 @@
 Gardener_AI_1 = {
-	### Canon
-
 	## Held Titles
 	k_the_reach
 	d_highgarden
@@ -40,8 +38,6 @@ Gardener_AI_1 = {
 }
 
 Tyrell_AI_1 = {
-	### Canon
-
 	## Held Titles
 
 	## Lore
@@ -78,8 +74,6 @@ Tyrell_AI_1 = {
 }
 
 Florent_AI_1 = {
-	### Canon
-
 	## Held Titles
 
 	## Lore
@@ -116,8 +110,6 @@ Florent_AI_1 = {
 }
 
 Bulwer_AI_1 = {
-	### Canon
-
 	## Held Titles
 
 	## Lore
@@ -154,8 +146,6 @@ Bulwer_AI_1 = {
 }
 
 Beesbury_AI_1 = {
-	### Canon
-
 	## Held Titles
 
 	## Lore
@@ -192,8 +182,6 @@ Beesbury_AI_1 = {
 }
 
 Hightower_AI_1 = {
-	### Canon
-
 	## Held Titles
 
 	## Lore
@@ -230,8 +218,6 @@ Hightower_AI_1 = {
 }
 
 Redwyne_AI_1 = {
-	### Canon
-
 	## Held Titles
 
 	## Lore
@@ -268,8 +254,6 @@ Redwyne_AI_1 = {
 }
 
 Tarley_AI_1 = {
-	### Canon
-
 	## Held Titles
 
 	## Lore
@@ -306,8 +290,6 @@ Tarley_AI_1 = {
 }
 
 Peake_AI_1 = {
-	### Canon
-
 	## Held Titles
 
 	## Lore
@@ -344,8 +326,6 @@ Peake_AI_1 = {
 }
 
 Fossoway_AI_1 = {
-	### Canon
-
 	## Held Titles
 
 	## Lore
@@ -382,8 +362,6 @@ Fossoway_AI_1 = {
 }
 
 Ball_AI_1 = {
-	### Canon
-
 	## Held Titles
 
 	## Lore
@@ -420,8 +398,6 @@ Ball_AI_1 = {
 }
 
 Rowan_AI_1 = {
-	### Canon
-
 	## Held Titles
 
 	## Lore
@@ -458,8 +434,6 @@ Rowan_AI_1 = {
 }
 
 Crane_AI_1 = {
-	### Canon
-
 	## Held Titles
 
 	## Lore
@@ -496,8 +470,6 @@ Crane_AI_1 = {
 }
 
 Oakheart_AI_1 = {
-	### Canon
-
 	## Held Titles
 
 	## Lore
@@ -534,8 +506,6 @@ Oakheart_AI_1 = {
 }
 
 Hewett_AI_1 = {
-	### Canon
-
 	## Held Titles
 
 	## Lore
