@@ -1,4 +1,45 @@
-AI_Gardener_1 = {
+Gardener_AI_1 = {
+	### Canon
+
+	## Held Titles
+	k_the_reach
+	d_highgarden
+	c_highgarden
+
+	## Lore
+
+	name = Durran
+	dynasty = dynn_Durrandon
+
+	## Culture and Faith
+	religion = old_gods_wnw
+	culture = first_stormlander
+
+	## Traits
+	# Education
+    trait = education_martial_4
+
+	# Personality
+    trait = wrathful
+    trait = brave
+    trait = vengeful
+
+	disallow_random_traits = yes
+
+	6518.1.1 = {
+		birth = yes
+		add_character_flag = canon_status_canon
+	}
+    6538.1.1 = { # Battle of Seven Stars start date
+	}
+	6558.1.1 = {
+		death = {
+			death_reason = death_duel
+		}
+	}
+}
+
+Tyrell_AI_1 = {
 	### Canon
 
 	## Held Titles
@@ -36,7 +77,7 @@ AI_Gardener_1 = {
 	}
 }
 
-AI_Tyrell_1 = {
+Florent_AI_1 = {
 	### Canon
 
 	## Held Titles
@@ -74,7 +115,7 @@ AI_Tyrell_1 = {
 	}
 }
 
-AI_Florent_1 = {
+Bulwer_AI_1 = {
 	### Canon
 
 	## Held Titles
@@ -112,7 +153,7 @@ AI_Florent_1 = {
 	}
 }
 
-AI_Bulwer_1 = {
+Beesbury_AI_1 = {
 	### Canon
 
 	## Held Titles
@@ -150,7 +191,7 @@ AI_Bulwer_1 = {
 	}
 }
 
-AI_Beesbury_1 = {
+Hightower_AI_1 = {
 	### Canon
 
 	## Held Titles
@@ -188,7 +229,7 @@ AI_Beesbury_1 = {
 	}
 }
 
-AI_Hightower_1 = {
+Redwyne_AI_1 = {
 	### Canon
 
 	## Held Titles
@@ -226,7 +267,7 @@ AI_Hightower_1 = {
 	}
 }
 
-AI_Redwyne_1 = {
+Tarley_AI_1 = {
 	### Canon
 
 	## Held Titles
@@ -264,7 +305,7 @@ AI_Redwyne_1 = {
 	}
 }
 
-AI_Tarley_1 = {
+Peake_AI_1 = {
 	### Canon
 
 	## Held Titles
@@ -302,7 +343,7 @@ AI_Tarley_1 = {
 	}
 }
 
-AI_Peake_1 = {
+Fossoway_AI_1 = {
 	### Canon
 
 	## Held Titles
@@ -340,7 +381,7 @@ AI_Peake_1 = {
 	}
 }
 
-AI_Fossoway_1 = {
+Ball_AI_1 = {
 	### Canon
 
 	## Held Titles
@@ -378,7 +419,7 @@ AI_Fossoway_1 = {
 	}
 }
 
-AI_Ball_1 = {
+Rowan_AI_1 = {
 	### Canon
 
 	## Held Titles
@@ -416,7 +457,7 @@ AI_Ball_1 = {
 	}
 }
 
-AI_Rowan_1 = {
+Crane_AI_1 = {
 	### Canon
 
 	## Held Titles
@@ -454,7 +495,7 @@ AI_Rowan_1 = {
 	}
 }
 
-AI_Crane_1 = {
+Oakheart_AI_1 = {
 	### Canon
 
 	## Held Titles
@@ -492,45 +533,7 @@ AI_Crane_1 = {
 	}
 }
 
-AI_Oakheart_1 = {
-	### Canon
-
-	## Held Titles
-
-	## Lore
-
-	name = Durran
-	dynasty = dynn_Durrandon
-
-	## Culture and Faith
-	religion = old_gods_wnw
-	culture = first_stormlander
-
-	## Traits
-	# Education
-    trait = education_martial_4
-
-	# Personality
-    trait = wrathful
-    trait = brave
-    trait = vengeful
-
-	disallow_random_traits = yes
-
-	6518.1.1 = {
-		birth = yes
-		add_character_flag = canon_status_canon
-	}
-    6538.1.1 = { # Battle of Seven Stars start date
-	}
-	6558.1.1 = {
-		death = {
-			death_reason = death_duel
-		}
-	}
-}
-
-AI_Hewett_1 = {
+Hewett_AI_1 = {
 	### Canon
 
 	## Held Titles

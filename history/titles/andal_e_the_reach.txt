@@ -1,16 +1,59 @@
 k_the_reach = {
     6535.1.1 = {
-		holder = Placeholder_Gardener
+		holder = Gardener_AI_1
 	}
 }
 
-d_highgarden = {}
+d_highgarden = {
+	6535.1.1 = {
+		holder = Gardener_AI_1
+	}
+}
+
+c_highgarden = {
+	6535.1.1 = {
+		holder = Gardener_AI_1
+	}
+}
+
+c_manderside = {
+	6535.1.1 = {
+		liege = d_highgarden
+		holder = Tyrell_AI_1
+	}
+}
 
 d_orchard_way = {}
 
-d_cockleswhent = {}
+d_cockleswhent = {
+	6535.1.1 = {
+		holder = Fossoway_AI_1
+	}
+}
 
-d_brightwater = {}
+c_ashford = {
+	6535.1.1 = {
+		holder = Fossoway_AI_1
+	}
+}
+
+d_brightwater = {
+	6535.1.1 = {
+		holder = Florent_AI_1
+	}
+}
+
+c_brightwater = {
+	6535.1.1 = {
+		holder = Florent_AI_1
+	}
+}
+
+c_laurelridge = {
+	6535.1.1 = {
+		holder = Beesbury_AI_1
+	}
+}
 
 d_honeylands = {}
 
@@ -26,11 +69,22 @@ d_bitterbridge = {}
 
 d_fullharvest = {}
 
-d_shield_islands = {}
+d_shield_islands = {
+	6535.1.1 = {
+		liege = k_the_reach
+		holder = Hewett_AI_1
+	}
+}
+
+c_oakenshield = {
+	6535.1.1 = {
+		holder = Hewett_AI_1
+	}
+}
 
 k_oldtown_2 = {
     6535.1.1 = {
-		holder = Placeholder_Hightower
+		holder = Hightower_AI_1
 	}
 }
 
@@ -40,33 +94,109 @@ d_oldhills = {}
 
 d_garden_coast = {}
 
-d_oldtown = {}
+d_oldtown = {
+	6535.1.1 = {
+		holder = Hightower_AI_1
+	}
+}
 
-d_black_sound = {}
+c_oldtown = {
+	6535.1.1 = {
+		holder = Hightower_AI_1
+	}
+}
+
+d_black_sound = {
+	6535.1.1 = {
+		holder = Bulwer_AI_1
+	}
+}
+
+c_blackcrown = {
+	6535.1.1 = {
+		holder = Bulwer_AI_1
+	}
+}
 
 k_the_westmarch = {
     6535.1.1 = {
-		holder = Placeholder_Tarley
+		holder = Tarley_AI_1
 	}
 }
 
 d_palemarch = {}
 
-d_the_westmarch = {}
+c_starpike = {
+	6535.1.1 = {
+		holder = Peake_AI_1
+	}
+}
+
+d_the_westmarch = {
+	6535.1.1 = {
+		holder = Tarley_AI_1
+	}
+}
+
+c_horn_hill = {
+	6535.1.1 = {
+		holder = Tarley_AI_1
+	}
+}
 
 k_goldengrove_2 = {}
 
 d_the_northmarch = {}
 
-d_red_front = {}
+d_red_front = {
+	6535.1.1 = {
+		holder = Crane_AI_1
+	}
+}
 
-d_goldengrove = {}
+c_red_lake = {
+	6535.1.1 = {
+		holder = Crane_AI_1
+	}
+}
 
-d_the_ocean_road = {}
+d_goldengrove = {
+	6535.1.1 = {
+		holder = Rowan_AI_1
+	}
+}
+
+c_goldengrove = {
+	6535.1.1 = {
+		holder = Rowan_AI_1
+	}
+}
+
+d_the_ocean_road = {
+	6535.1.1 = {
+		holder = Oakheart_AI_1
+	}
+}
+
+c_oakheart = {
+	6535.1.1 = {
+		holder = Oakheart_AI_1
+	}
+}
 
 k_tumbleton_2 = {}
 
-d_heartland_heights = {}
+d_heartland_heights = {
+	6535.1.1 = {
+		holder = Ball_AI_1
+	}
+}
+
+c_wesselvare = {
+	6535.1.1 = {
+		holder = Ball_AI_1
+	}
+}
 
 d_tumbleton = {}
 
@@ -76,7 +206,20 @@ d_goldenfields = {}
 
 d_blueburn = {}
 
-k_the_arbor = {}
+k_the_arbor = {
+	6535.1.1 = {
+		holder = Redwyne_AI_1
+	}
+}
 
-d_the_arbor = {}
+d_the_arbor = {
+	6535.1.1 = {
+		holder = Redwyne_AI_1
+	}
+}
 
+c_wynegarde = {
+	6535.1.1 = {
+		holder = Redwyne_AI_1
+	}
+}
