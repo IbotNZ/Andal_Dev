@@ -4,11 +4,11 @@ Mudd_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Mudd
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = tridentman
 
 	## Traits
 	# Education
@@ -40,11 +40,11 @@ Mallister_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Mallister
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = tridentman
 
 	## Traits
 	# Education
@@ -76,11 +76,11 @@ Blackwood_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Blackwood
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = blackwoodian
 
 	## Traits
 	# Education
@@ -112,11 +112,11 @@ Bracken_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Bracken
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = tridentman
 
 	## Traits
 	# Education
@@ -148,11 +148,11 @@ Tully_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Tully
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = tridentman
 
 	## Traits
 	# Education

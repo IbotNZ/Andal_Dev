@@ -3,12 +3,12 @@ Stark_AI_1 = {
 
 	## Lore
 
-	name = Durran
-	dynasty = dynn_Durrandon
+	name = Theon
+	dynasty = dynn_Stark
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = northman
 
 	## Traits
 	# Education
@@ -40,11 +40,11 @@ Bolton_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Bolton
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = northman
 
 	## Traits
 	# Education
@@ -76,11 +76,11 @@ Reed_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Reed
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = crannogman
 
 	## Traits
 	# Education
@@ -112,11 +112,11 @@ Umber_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Umber
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = northman
 
 	## Traits
 	# Education
@@ -148,11 +148,11 @@ Glover_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Glover
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = wolfswood_clansman
 
 	## Traits
 	# Education
@@ -184,11 +184,11 @@ Greenwood_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	#dynasty = dynn_Greenwood
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = northman
 
 	## Traits
 	# Education
@@ -220,11 +220,11 @@ Ryder_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Ryder
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = northman
 
 	## Traits
 	# Education
@@ -256,11 +256,11 @@ Fisher_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Fisher
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = northman
 
 	## Traits
 	# Education
@@ -292,11 +292,11 @@ Flint_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Flint
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = northman
 
 	## Traits
 	# Education
@@ -328,11 +328,11 @@ Towers_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Towers
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = northman
 
 	## Traits
 	# Education
@@ -364,11 +364,11 @@ Amber_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Amber
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = northman
 
 	## Traits
 	# Education
@@ -400,11 +400,11 @@ Locke_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Locke
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = northman
 
 	## Traits
 	# Education
@@ -436,11 +436,11 @@ Slate_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Slate
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = northman
 
 	## Traits
 	# Education
@@ -472,11 +472,11 @@ Warg_King_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	#dynasty = dynn_Durrandon
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = wolfswood_clansman
 
 	## Traits
 	# Education
@@ -508,11 +508,11 @@ Ryswell_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Ryswell
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = barrowman
 
 	## Traits
 	# Education
@@ -544,11 +544,11 @@ Dustin_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Dustin
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = barrowman
 
 	## Traits
 	# Education
@@ -580,11 +580,11 @@ Frost_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Frost
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = northman
 
 	## Traits
 	# Education
@@ -616,11 +616,11 @@ Barrow_King_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	#dynasty = dynn_Durrandon
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = barrowman
 
 	## Traits
 	# Education

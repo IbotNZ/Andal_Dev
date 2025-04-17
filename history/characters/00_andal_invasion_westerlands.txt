@@ -4,11 +4,11 @@ Lannister_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Lannister
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = first_westerman
 
 	## Traits
 	# Education
@@ -40,11 +40,11 @@ Reyne_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Reyne
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = first_westerman
 
 	## Traits
 	# Education
@@ -76,11 +76,11 @@ Crakehall_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Crakehall
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = first_westerman
 
 	## Traits
 	# Education
@@ -112,11 +112,11 @@ Broom_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Broome
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = first_westerman
 
 	## Traits
 	# Education
@@ -148,11 +148,11 @@ Foote_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Foote
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = first_westerman
 
 	## Traits
 	# Education
@@ -184,11 +184,11 @@ Plumm_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Plumm
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = first_westerman
 
 	## Traits
 	# Education
@@ -220,11 +220,11 @@ Farman_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Farman
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = first_westerman
 
 	## Traits
 	# Education
@@ -256,11 +256,11 @@ Westerling_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Westerling
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = first_westerman
 
 	## Traits
 	# Education
@@ -292,11 +292,11 @@ Banefort_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Banefort
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = first_westerman
 
 	## Traits
 	# Education

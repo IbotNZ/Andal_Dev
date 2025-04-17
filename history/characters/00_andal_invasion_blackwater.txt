@@ -4,7 +4,7 @@ Darklyn_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Darklyn
 
 	## Culture and Faith
 	religion = old_gods_wnw
@@ -40,7 +40,7 @@ Rosby_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Rosby
 
 	## Culture and Faith
 	religion = old_gods_wnw
@@ -76,7 +76,7 @@ Hollard_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Hollard
 
 	## Culture and Faith
 	religion = old_gods_wnw
@@ -112,7 +112,7 @@ Massey_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Massey
 
 	## Culture and Faith
 	religion = old_gods_wnw
@@ -148,7 +148,7 @@ Bar_Emmon_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Bar_Emmon
 
 	## Culture and Faith
 	religion = old_gods_wnw
@@ -184,7 +184,7 @@ Crabb_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Crabb
 
 	## Culture and Faith
 	religion = old_gods_wnw

@@ -120,7 +120,7 @@ c_blackcrown = {
 
 k_the_westmarch = {
     6535.1.1 = {
-		holder = Tarley_AI_1
+		holder = Tarly_AI_1
 	}
 }
 
@@ -134,13 +134,13 @@ c_starpike = {
 
 d_the_westmarch = {
 	6535.1.1 = {
-		holder = Tarley_AI_1
+		holder = Tarly_AI_1
 	}
 }
 
 c_horn_hill = {
 	6535.1.1 = {
-		holder = Tarley_AI_1
+		holder = Tarly_AI_1
 	}
 }
 

@@ -11,7 +11,7 @@ Martell_AI_1 = {
 	# A vassal of house Allyrion until the High Kingdom falls and Martell takes their seat of Sandship. 
 
 	name = Vorian
-	#dynasty = dynn_Griffin
+	dynasty = dynn_Martell
 
 	## Culture and Faith
 	religion = fots_stars

@@ -7,11 +7,11 @@ Gardener_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Gardener
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = manderman
 
 	## Traits
 	# Education
@@ -43,11 +43,11 @@ Tyrell_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Tyrell
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = manderman
 
 	## Traits
 	# Education
@@ -79,11 +79,11 @@ Florent_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Florent
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = manderman
 
 	## Traits
 	# Education
@@ -115,11 +115,11 @@ Bulwer_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Bulwer
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = manderman
 
 	## Traits
 	# Education
@@ -151,11 +151,11 @@ Beesbury_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Beesbury
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = manderman
 
 	## Traits
 	# Education
@@ -187,11 +187,11 @@ Hightower_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Hightower
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = first_honeywiner
 
 	## Traits
 	# Education
@@ -223,11 +223,11 @@ Redwyne_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Redwyne
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = first_arborman
 
 	## Traits
 	# Education
@@ -253,17 +253,17 @@ Redwyne_AI_1 = {
 	}
 }
 
-Tarley_AI_1 = {
+Tarly_AI_1 = {
 	## Held Titles
 
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Tarly
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = first_marcher
 
 	## Traits
 	# Education
@@ -295,11 +295,11 @@ Peake_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Peake
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = first_marcher
 
 	## Traits
 	# Education
@@ -331,11 +331,11 @@ Fossoway_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Fossoway
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = manderman
 
 	## Traits
 	# Education
@@ -367,11 +367,11 @@ Ball_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Ball
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = manderman
 
 	## Traits
 	# Education
@@ -403,11 +403,11 @@ Rowan_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Rowan
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = groveman
 
 	## Traits
 	# Education
@@ -439,11 +439,11 @@ Crane_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Crane
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = groveman
 
 	## Traits
 	# Education
@@ -475,11 +475,11 @@ Oakheart_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Oakheart
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = groveman
 
 	## Traits
 	# Education
@@ -511,11 +511,11 @@ Hewett_AI_1 = {
 	## Lore
 
 	name = Durran
-	dynasty = dynn_Durrandon
+	dynasty = dynn_Hewett
 
 	## Culture and Faith
 	religion = old_gods_wnw
-	culture = first_stormlander
+	culture = iron_shieldman
 
 	## Traits
 	# Education
