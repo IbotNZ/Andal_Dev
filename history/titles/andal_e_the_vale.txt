@@ -1,32 +1,108 @@
 e_the_vale = {}
 
-k_runestone_2 = {}
+k_runestone_2 = {
+    6535.1.1 = {
+		holder = Royce_AI_61
+	}
+}
 
 d_gulltown = {}
 
-d_runestone = {}
+c_gulltown = {
+    6535.1.1 = {
+		holder = Grafton_AI_Placeholder
+	}
+}
+
+d_runestone = {
+    6535.1.1 = {
+		holder = Royce_AI_61
+	}
+}
+
+c_runestone = {
+    6535.1.1 = {
+		holder = Royce_AI_61
+	}
+}
 
 d_ironoaks = {}
 
 d_old_anchor = {}
 
-d_eastweald = {}
+d_eastweald = {
+    6535.1.1 = {
+		holder = Hunter_AI_1
+	}
+}
+
+c_longbow_hills = {
+    6535.1.1 = {
+		holder = Hunter_AI_1
+	}
+}
 
 k_the_vale = {}
 
-d_the_giants_lance = {}
+d_the_giants_lance = {
+    6535.1.1 = {
+		holder = Arryn_AI_34
+	}
+}
 
-d_strongstone = {}
+c_moongates = {
+    6535.1.1 = {
+		holder = Arryn_AI_34
+	}
+}
+
+c_the_eyrie = {
+    6535.1.1 = {
+		holder = Arryn_AI_34
+	}
+}
+
+d_strongstone = {
+    6535.1.1 = {
+		holder = Redfort_AI_32
+	}
+}
+
+c_the_redfort = {
+    6535.1.1 = {
+		holder = Redfort_AI_32
+	}
+}
 
 d_wickenden = {}
 
-d_ninestars = {}
+d_ninestars = {
+    6535.1.1 = {
+		holder = Templeton_AI_5
+	}
+}
+
+c_ninestars = {
+    6535.1.1 = {
+		holder = Templeton_AI_5
+	}
+}
 
 k_strongsong_2 = {}
 
 d_crowncrests = {}
 
-d_hearts_home = {}
+d_hearts_home = {
+    6535.1.1 = {
+		holder = Corbray_AI_Placeholder
+	}
+}
+
+c_hearts_home = {
+    6535.1.1 = {
+		holder = Corbray_AI_Placeholder
+	}
+}
 
 d_strongsong = {}
 

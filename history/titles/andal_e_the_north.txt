@@ -82,7 +82,17 @@ c_karhold = {
 
 k_wolfswood = {}
 
-d_the_wolfswood = {}
+d_the_wolfswood = {
+	6535.1.1 = {
+		holder = Glover_AI_1
+	}
+}
+
+c_deepwood = {
+	6535.1.1 = {
+		holder = Glover_AI_1
+	}
+}
 
 d_bear_island = {}
 
@@ -94,7 +104,11 @@ d_the_northern_mountains = {}
 
 k_stony_shore = {}
 
-d_the_rills = {}
+d_the_rills = {
+	6535.1.1 = {
+		holder = Ryder_AI_1
+	}
+}
 
 d_stony_shore = {}
 
@@ -116,13 +130,43 @@ d_moat_cailin = {}
 
 k_crestview = {}
 
-d_keystone = {}
+d_keystone = {
+	6535.1.1 = {
+		holder = Locke_AI_1
+	}
+}
 
-d_everstead = {}
+c_oldcastle = {
+	6535.1.1 = {
+		holder = Locke_AI_1
+	}
+}
+
+d_everstead = {
+	6535.1.1 = {
+		holder = Amber_AI_1
+	}
+}
+
+c_ramsgate = {
+	6535.1.1 = {
+		holder = Amber_AI_1
+	}
+}
 
 d_hornwood = {}
 
-d_crestview = {}
+d_crestview = {
+	6535.1.1 = {
+		holder = Flint_AI_1
+	}
+}
+
+c_widows_watch = {
+	6535.1.1 = {
+		holder = Flint_AI_1
+	}
+}
 
 k_the_north = {}
 

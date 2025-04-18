@@ -482,7 +482,7 @@ Arryn_AI_34 = {
 
 	6499.1.1 = { birth = yes }
 	6517.1.1 = { trait = knight }
-	6530.1.1 = { death = yes }
+	6550.1.1 = { death = yes }
 }
 Arryn_AI_35 = {
 	name = Roland
@@ -658,6 +658,20 @@ Corbray_AI_3 = {
 	6468.1.1 = { death = { death_reason = death_accident } }
 }
 
+Corbray_AI_Placeholder = {
+	name = Leowyn
+	dynasty = dynn_Corbray
+
+	religion = fots_stars
+	culture = andal
+
+	#father = Corbray_AI_2 # Gwayne Corbray
+
+	6500.1.1 = { birth = yes }
+	6518.1.1 = { trait = knight }
+	6553.1.1 = { death = { death_reason = death_accident } }
+}
+
 
 
 ###### HOUSE TEMPLETON (id = dynn_Templeton)
@@ -725,7 +739,7 @@ Templeton_AI_5 = {
 
 	6493.1.1 = { birth = yes }
 	6512.1.1 = { trait = knight }
-	6533.1.1 = { death = yes }
+	6553.1.1 = { death = yes }
 }
 
 
@@ -1668,7 +1682,7 @@ Royce_AI_67 = {
 	father = Royce_14
 
 	6414.1.1 = { birth = yes }
-	6438.1.1 = { death = yes }
+	6458.1.1 = { death = yes }
 }
 Royce_AI_68 = {
 	name = Lysa
@@ -2063,6 +2077,19 @@ Royce_AI_90 = {
 ############################
 ###
 ###
+
+Grafton_AI_Placeholder = {
+	name = Yorwell
+	dynasty = dynn_Grafton
+
+	religion = old_gods_mnv
+	culture = first_man
+
+	#father = Royce_16 # Yorwyck
+
+	6521.1.1 = { birth = yes }
+	6569.1.1 = { death = yes }
+}
 
 ###### HOUSE REDFORT (id = dynn_Redfort)
 ############################
@@ -2589,6 +2616,19 @@ Redfort_AI_38 = {
 ############################
 ###
 ###
+
+Hunter_AI_1 = {
+	name = Yohn
+	dynasty = dynn_Hunter
+
+	religion = old_gods_mnv
+	culture = first_man
+
+	#father = Redfort_AI_32 # Horton
+
+	6530.1.1 = { birth = yes }
+	6558.1.1 = { death = yes }
+}
 
 
 ###### HOUSE UPCLIFF (id = dynn_Upcliff)

@@ -3005,6 +3005,269 @@
 			}
 		}
 	}
+	k_skagos = {
+		color = { 185 191 188 }
+		capital = c_winterfell
+		definite_form = yes
+		can_create = {
+			NOT = { has_title = title:e_the_north }
+			custom_tooltip = {
+				text = agot_can_create_lp
+				NOT = { has_variable = pre_war_liege }
+			}
+			custom_tooltip = {
+				text = agot_cannot_create_equivalent
+				NOT = { exists = title:e_the_north.holder }
+			}
+		}
+		d_skagos = {
+			color = { 172 172 178 }
+			capital = c_drihisesk
+			can_create = {
+				trigger_if = {
+					limit = { 
+						OR = {
+							primary_title.tier >= tier_kingdom
+							AND = {
+								primary_title.tier = tier_duchy
+								is_independent_ruler = no
+							}
+						}
+					}
+					has_title = title:d_skagos.title_capital_county
+				}
+				custom_tooltip = {
+					text = agot_can_create_duchy
+					agot_can_create_duchy_title = yes
+				}
+			}
+			c_drihisesk = {
+				color = { 173 189 173 }
+				b_kingshouse = {
+					province = 1586
+					color = { 217 191 177 }
+				}
+				b_bitter_dryn = {
+					province = 1587
+					color = { 213 192 187 }
+				}
+				b_skrirdgluh = {
+					province = 1588
+					color = { 219 181 164 }
+				}
+				b_horngluh = {
+					province = 1589
+					color = { 211 180 157 }
+				}
+				b_delvestand = {
+					province = 1590
+					color = { 207 193 199 }
+				}
+				b_stonecave = {
+					province = 1591
+					color = { 221 201 181 }
+				}
+				b_cloven_valley = {
+					province = 1592
+					color = { 215 185 166 }
+				}
+				b_kaldusk = {
+					province = 1593
+					color = { 207 193 203 }
+				}
+				b_shellspear = {
+					province = 1594
+					color = { 185 165 155 }
+				}
+			}
+			c_sudyktig = {
+				color = { 177 169 196 }
+				b_deepdown = {
+					province = 1595
+					color = { 206 184 164 }
+				}
+				b_weirrocks = {
+					province = 1596
+					color = { 210 186 164 }
+				}
+				b_last_horn = {
+					province = 1597
+					color = { 211 180 160 }
+				}
+				b_caves_eye = {
+					province = 1598
+					color = { 206 182 182 }
+				}
+				b_fallentopp = {
+					province = 1599
+					color = { 167 158 155 }
+				}
+				b_tigvark = {
+					province = 1600
+					color = { 162 158 137 }
+				}
+				b_oeritaldr = {
+					province = 1601
+					color = { 221 202 182 }
+				}
+				b_hiravr = {
+					province = 1602
+					color = { 206 182 178 }
+				}
+			}
+			c_molksyr = {
+				color = { 194 178 195 }
+				b_driftwood_hall = {
+					province = 1603
+					color = { 213 190 160 }
+				}
+				b_hrunvark = {
+					province = 1604
+					color = { 219 193 155 }
+				}
+				b_skuspry = {
+					province = 1605
+					color = { 162 154 137 }
+				}
+				b_downscar = {
+					province = 1606
+					color = { 211 182 160 }
+				}
+				b_peakhome = {
+					province = 1607
+					color = { 219 196 180 }
+				}
+				b_warriors_point = {
+					province = 1608
+					color = { 157 158 134 }
+				}
+				b_molkridge = {
+					province = 1609
+					color = { 216 193 178 }
+				}
+				b_kratan_destuyn = {
+					province = 1610
+					color = { 185 175 171 }
+				}
+				b_offering_tree = {
+					province = 1611
+					color = { 176 163 124 }
+				}
+				b_felkragg = {
+					province = 1612
+					color = { 215 183 149 }
+				}
+			}
+			c_dreggan_arer = {
+				color = { 132 174 130 }
+				b_dreggangluh = {
+					province = 1613
+					color = { 167 158 156 }
+				}
+				b_arerdryn = {
+					province = 1614
+					color = { 210 186 166 }
+				}
+				b_the_lowland = {
+					province = 1615
+					color = { 207 193 198 }
+					definite_form = yes
+				}
+				b_crow_port = {
+					province = 1616
+					color = { 210 172 165 }
+				}
+				b_reckshore = {
+					province = 1617
+					color = { 216 191 177 }
+				}
+				b_greenchask = {
+					province = 1618
+					color = { 207 193 200 }
+				}
+				b_blood_bluff = {
+					province = 1619
+					color = { 211 196 179 }
+				}
+				b_kraggyk = {
+					province = 1620
+					color = { 206 182 184 }
+				}
+			}
+			c_veksdaenk = {
+				color = { 159 169 162 }
+				b_veksdaenk_gluh = {
+					province = 1621
+					color = { 206 182 187 }
+				}
+				b_cold_peaks = {
+					province = 1622
+					color = { 215 192 180 }
+				}
+				b_shadowcrest = {
+					province = 1623
+					color = { 219 202 179 }
+				}
+				b_veksvark = {
+					province = 1624
+					color = { 214 185 176 }
+				}
+				b_eoreckstone = {
+					province = 1625
+					color = { 171 171 139 }
+				}
+				b_overwater_keep = {
+					province = 1626
+					color = { 191 157 144 }
+				}
+			}
+			c_rom_pursk = {
+				color = { 140 131 157 }
+				b_burngluh = {
+					province = 1627
+					color = { 212 201 176 }
+				}
+				b_daskkaj = {
+					province = 1628
+					color = { 187 179 152 }
+				}
+				b_ber_skurt = {
+					province = 1629
+					color = { 200 179 157 }
+				}
+			}
+			c_skane = {
+				color = { 178 143 185 }
+				b_skane = {
+					province = 1630
+					color = { 175 147 123 }
+				}
+				b_lonely_hall = {
+					province = 1631
+					color = { 186 169 159 }
+				}
+				b_trytlisk = {
+					province = 1632
+					color = { 207 181 164 }
+				}
+				b_kirs_du = {
+					province = 1633
+					color = { 212 192 180 }
+				}
+			}
+			c_riis_du = {
+				color = { 175 194 201 }
+				b_riis = {
+					province = 1634
+					color = { 179 180 162 }
+				}
+				b_riisvark = {
+					province = 1635
+					color = { 225 185 162 }
+				}
+			}
+		}
+	}
 }
 e_dorne = {
 	color = { 215 128 66 }
@@ -14358,269 +14621,6 @@ e_the_north = {
 				b_deerflower = {
 					province = 663
 					color = { 223 194 151 }
-				}
-			}
-		}
-	}
-	k_the_north = {
-		color = { 185 191 188 }
-		capital = c_winterfell
-		definite_form = yes
-		can_create = {
-			NOT = { has_title = title:e_the_north }
-			custom_tooltip = {
-				text = agot_can_create_lp
-				NOT = { has_variable = pre_war_liege }
-			}
-			custom_tooltip = {
-				text = agot_cannot_create_equivalent
-				NOT = { exists = title:e_the_north.holder }
-			}
-		}
-		d_skagos = {
-			color = { 172 172 178 }
-			capital = c_drihisesk
-			can_create = {
-				trigger_if = {
-					limit = { 
-						OR = {
-							primary_title.tier >= tier_kingdom
-							AND = {
-								primary_title.tier = tier_duchy
-								is_independent_ruler = no
-							}
-						}
-					}
-					has_title = title:d_skagos.title_capital_county
-				}
-				custom_tooltip = {
-					text = agot_can_create_duchy
-					agot_can_create_duchy_title = yes
-				}
-			}
-			c_drihisesk = {
-				color = { 173 189 173 }
-				b_kingshouse = {
-					province = 1586
-					color = { 217 191 177 }
-				}
-				b_bitter_dryn = {
-					province = 1587
-					color = { 213 192 187 }
-				}
-				b_skrirdgluh = {
-					province = 1588
-					color = { 219 181 164 }
-				}
-				b_horngluh = {
-					province = 1589
-					color = { 211 180 157 }
-				}
-				b_delvestand = {
-					province = 1590
-					color = { 207 193 199 }
-				}
-				b_stonecave = {
-					province = 1591
-					color = { 221 201 181 }
-				}
-				b_cloven_valley = {
-					province = 1592
-					color = { 215 185 166 }
-				}
-				b_kaldusk = {
-					province = 1593
-					color = { 207 193 203 }
-				}
-				b_shellspear = {
-					province = 1594
-					color = { 185 165 155 }
-				}
-			}
-			c_sudyktig = {
-				color = { 177 169 196 }
-				b_deepdown = {
-					province = 1595
-					color = { 206 184 164 }
-				}
-				b_weirrocks = {
-					province = 1596
-					color = { 210 186 164 }
-				}
-				b_last_horn = {
-					province = 1597
-					color = { 211 180 160 }
-				}
-				b_caves_eye = {
-					province = 1598
-					color = { 206 182 182 }
-				}
-				b_fallentopp = {
-					province = 1599
-					color = { 167 158 155 }
-				}
-				b_tigvark = {
-					province = 1600
-					color = { 162 158 137 }
-				}
-				b_oeritaldr = {
-					province = 1601
-					color = { 221 202 182 }
-				}
-				b_hiravr = {
-					province = 1602
-					color = { 206 182 178 }
-				}
-			}
-			c_molksyr = {
-				color = { 194 178 195 }
-				b_driftwood_hall = {
-					province = 1603
-					color = { 213 190 160 }
-				}
-				b_hrunvark = {
-					province = 1604
-					color = { 219 193 155 }
-				}
-				b_skuspry = {
-					province = 1605
-					color = { 162 154 137 }
-				}
-				b_downscar = {
-					province = 1606
-					color = { 211 182 160 }
-				}
-				b_peakhome = {
-					province = 1607
-					color = { 219 196 180 }
-				}
-				b_warriors_point = {
-					province = 1608
-					color = { 157 158 134 }
-				}
-				b_molkridge = {
-					province = 1609
-					color = { 216 193 178 }
-				}
-				b_kratan_destuyn = {
-					province = 1610
-					color = { 185 175 171 }
-				}
-				b_offering_tree = {
-					province = 1611
-					color = { 176 163 124 }
-				}
-				b_felkragg = {
-					province = 1612
-					color = { 215 183 149 }
-				}
-			}
-			c_dreggan_arer = {
-				color = { 132 174 130 }
-				b_dreggangluh = {
-					province = 1613
-					color = { 167 158 156 }
-				}
-				b_arerdryn = {
-					province = 1614
-					color = { 210 186 166 }
-				}
-				b_the_lowland = {
-					province = 1615
-					color = { 207 193 198 }
-					definite_form = yes
-				}
-				b_crow_port = {
-					province = 1616
-					color = { 210 172 165 }
-				}
-				b_reckshore = {
-					province = 1617
-					color = { 216 191 177 }
-				}
-				b_greenchask = {
-					province = 1618
-					color = { 207 193 200 }
-				}
-				b_blood_bluff = {
-					province = 1619
-					color = { 211 196 179 }
-				}
-				b_kraggyk = {
-					province = 1620
-					color = { 206 182 184 }
-				}
-			}
-			c_veksdaenk = {
-				color = { 159 169 162 }
-				b_veksdaenk_gluh = {
-					province = 1621
-					color = { 206 182 187 }
-				}
-				b_cold_peaks = {
-					province = 1622
-					color = { 215 192 180 }
-				}
-				b_shadowcrest = {
-					province = 1623
-					color = { 219 202 179 }
-				}
-				b_veksvark = {
-					province = 1624
-					color = { 214 185 176 }
-				}
-				b_eoreckstone = {
-					province = 1625
-					color = { 171 171 139 }
-				}
-				b_overwater_keep = {
-					province = 1626
-					color = { 191 157 144 }
-				}
-			}
-			c_rom_pursk = {
-				color = { 140 131 157 }
-				b_burngluh = {
-					province = 1627
-					color = { 212 201 176 }
-				}
-				b_daskkaj = {
-					province = 1628
-					color = { 187 179 152 }
-				}
-				b_ber_skurt = {
-					province = 1629
-					color = { 200 179 157 }
-				}
-			}
-			c_skane = {
-				color = { 178 143 185 }
-				b_skane = {
-					province = 1630
-					color = { 175 147 123 }
-				}
-				b_lonely_hall = {
-					province = 1631
-					color = { 186 169 159 }
-				}
-				b_trytlisk = {
-					province = 1632
-					color = { 207 181 164 }
-				}
-				b_kirs_du = {
-					province = 1633
-					color = { 212 192 180 }
-				}
-			}
-			c_riis_du = {
-				color = { 175 194 201 }
-				b_riis = {
-					province = 1634
-					color = { 179 180 162 }
-				}
-				b_riisvark = {
-					province = 1635
-					color = { 225 185 162 }
 				}
 			}
 		}
