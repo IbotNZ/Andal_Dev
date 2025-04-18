@@ -1,4 +1,4 @@
-Lannister_AI_1 = {
+Lannister_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -34,7 +34,7 @@ Lannister_AI_1 = {
 	}
 }
 
-Reyne_AI_1 = {
+Reyne_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -70,7 +70,7 @@ Reyne_AI_1 = {
 	}
 }
 
-Crakehall_AI_1 = {
+Crakehall_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -106,7 +106,7 @@ Crakehall_AI_1 = {
 	}
 }
 
-Broom_AI_1 = {
+Broom_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -142,7 +142,7 @@ Broom_AI_1 = {
 	}
 }
 
-Foote_AI_1 = {
+Foote_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -178,7 +178,7 @@ Foote_AI_1 = {
 	}
 }
 
-Plumm_AI_1 = {
+Plumm_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -214,7 +214,7 @@ Plumm_AI_1 = {
 	}
 }
 
-Farman_AI_1 = {
+Farman_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -250,7 +250,7 @@ Farman_AI_1 = {
 	}
 }
 
-Westerling_AI_1 = {
+Westerling_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -286,7 +286,7 @@ Westerling_AI_1 = {
 	}
 }
 
-Banefort_AI_1 = {
+Banefort_AI_Placeholder = {
 	## Held Titles
 
 	## Lore

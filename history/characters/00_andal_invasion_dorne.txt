@@ -3,7 +3,7 @@
 ### HOUSE MARTELL (id = dynn_Martell)
 ### Unbowed, Unbent, Unbroken
 
-Martell_AI_1 = {
+Martell_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -29,7 +29,7 @@ Martell_AI_1 = {
 		add_character_flag = canon_status_canon
 	}
 	6536.1.1 = {
-		employer = Allyrion_AI_1
+		employer = Allyrion_AI_Placeholder
 	}
     6538.1.1 = { # Battle of Seven Stars start date
 	}
@@ -43,7 +43,7 @@ Martell_AI_1 = {
 ### HOUSE ALLYRION (id = dynn_Allyrion)
 ### No Foe May Pass
 
-Allyrion_AI_1 = {
+Allyrion_AI_Placeholder = {
 	## Held Titles
 	d_godsgrace
 	c_godsgrace
@@ -86,7 +86,7 @@ Allyrion_AI_1 = {
 
 ##### High Dornish #####
 
-Briar_AI_1 = {
+Briar_AI_Placeholder = {
 	## Held Titles
 	d_broken_arm
 	c_torchwood
@@ -122,7 +122,7 @@ Briar_AI_1 = {
 	}
 }
 
-Brook_AI_1 = {
+Brook_AI_Placeholder = {
 	## Held Titles
 	d_ghost_hills
 	c_the_faint
@@ -159,7 +159,7 @@ Brook_AI_1 = {
 	}
 }
 
-Brownhill_AI_1 = {
+Brownhill_AI_Placeholder = {
 	## Held Titles
 	d_sunspear
 	c_sunspear
@@ -195,7 +195,7 @@ Brownhill_AI_1 = {
 	}
 }
 
-Holt_AI_1 = {
+Holt_AI_Placeholder = {
 	## Held Titles
 	k_dorne
 	c_lemonwood
@@ -230,7 +230,7 @@ Holt_AI_1 = {
 	}
 }
 
-Lake_AI_1 = {
+Lake_AI_Placeholder = {
 	## Held Titles
 	c_salt_shore
 	c_brackish
@@ -264,7 +264,7 @@ Lake_AI_1 = {
 	}
 }
 
-Shell_AI_1 = {
+Shell_AI_Placeholder = {
 	## Held Titles
 	c_saltstone
 	c_white_stones
@@ -298,7 +298,7 @@ Shell_AI_1 = {
 	}
 }
 
-Wade_AI_1 = {
+Wade_AI_Placeholder = {
 	## Held Titles
 	c_latebloom
 	c_orangewood
@@ -337,7 +337,7 @@ Wade_AI_1 = {
 ### HOUSE YRONWOOD (id = dynn_Yronwood)
 ### We Guard the Way
 
-Yronwood_AI_1 = {
+Yronwood_AI_Placeholder = {
 	## Held Titles
 	d_yronwood
 	c_yronwood
@@ -378,7 +378,7 @@ Yronwood_AI_1 = {
 ### HOUSE DAYNE (id = dynn_Dayne)
 ### Dawn Brings Light
 
-Dayne_AI_1 = {
+Dayne_AI_Placeholder = {
 	## Held Titles
 	d_torrentine
 	c_starfall
@@ -418,7 +418,7 @@ Dayne_AI_1 = {
 ### HOUSE BLACKMONT (id = dynn_Blackmont)
 ### What Was Taken Will Return
 
-Blackmont_AI_1 = {
+Blackmont_AI_Placeholder = {
 	## Held Titles
 	d_blackmont
 	c_westroost
@@ -455,7 +455,7 @@ Blackmont_AI_1 = {
 ### HOUSE FOWLER (id = dynn_Fowler)
 ### Let Me Soar
 
-Fowler_AI_1 = {
+Fowler_AI_Placeholder = {
 	## Held Titles
 	c_skyreach
 	c_cadgemont
@@ -492,7 +492,7 @@ Fowler_AI_1 = {
 ### HOUSE MANWOODY (id = dynn_Manwoody)
 ### The Death of Kings
 
-Manwoody_AI_1 = {
+Manwoody_AI_Placeholder = {
 	## Held Titles
 	c_princemarch
 	c_wide_way
@@ -531,7 +531,7 @@ Manwoody_AI_1 = {
 ### HOUSE QORGYLE (id = dynn_Qorgyle)
 ### This Blood Will Burn
 
-Qorgyle_AI_1 = {
+Qorgyle_AI_Placeholder = {
 	## Held Titles
 	c_barbmane
 	c_sandhorn
@@ -570,7 +570,7 @@ Qorgyle_AI_1 = {
 ### HOUSE DRYSIDE/Dryland (id = dynn_Dryside)
 ###
 
-Dryland_AI_1 = {
+Dryland_AI_Placeholder = {
 	## Held Titles
 	c_brimstone
 	c_jackalrun

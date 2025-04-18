@@ -1,5 +1,5 @@
 ### First Man Stormlander
-Durrandon_AI_1 = {
+Durrandon_AI_Placeholder = {
 	## Held Titles
 	k_the_stormlands
 	d_shipbreaker_bay
@@ -39,7 +39,7 @@ Durrandon_AI_1 = {
 	}
 }
 
-Tarth_AI_1 = {
+Tarth_AI_Placeholder = {
 	## Held Titles
 	d_tarth
 	c_evenfall
@@ -82,7 +82,7 @@ Tarth_AI_1 = {
 
 ### Tribal Rulers
 
-Temp_Stormlands_AI_1 = {
+Temp_Stormlands_AI_Placeholder = {
 	## Held Titles
     # k_the_stormwood
 

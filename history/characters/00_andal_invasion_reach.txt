@@ -1,4 +1,4 @@
-Gardener_AI_1 = {
+Gardener_AI_Placeholder = {
 	## Held Titles
 	k_the_reach
 	d_highgarden
@@ -37,7 +37,7 @@ Gardener_AI_1 = {
 	}
 }
 
-Tyrell_AI_1 = {
+Tyrell_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -73,7 +73,7 @@ Tyrell_AI_1 = {
 	}
 }
 
-Florent_AI_1 = {
+Florent_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -109,7 +109,7 @@ Florent_AI_1 = {
 	}
 }
 
-Bulwer_AI_1 = {
+Bulwer_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -145,7 +145,7 @@ Bulwer_AI_1 = {
 	}
 }
 
-Beesbury_AI_1 = {
+Beesbury_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -181,7 +181,7 @@ Beesbury_AI_1 = {
 	}
 }
 
-Hightower_AI_1 = {
+Hightower_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -217,7 +217,7 @@ Hightower_AI_1 = {
 	}
 }
 
-Redwyne_AI_1 = {
+Redwyne_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -253,7 +253,7 @@ Redwyne_AI_1 = {
 	}
 }
 
-Tarly_AI_1 = {
+Tarly_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -289,7 +289,7 @@ Tarly_AI_1 = {
 	}
 }
 
-Peake_AI_1 = {
+Peake_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -325,7 +325,7 @@ Peake_AI_1 = {
 	}
 }
 
-Fossoway_AI_1 = {
+Fossoway_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -361,7 +361,7 @@ Fossoway_AI_1 = {
 	}
 }
 
-Ball_AI_1 = {
+Ball_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -397,7 +397,7 @@ Ball_AI_1 = {
 	}
 }
 
-Rowan_AI_1 = {
+Rowan_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -433,7 +433,7 @@ Rowan_AI_1 = {
 	}
 }
 
-Crane_AI_1 = {
+Crane_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -469,7 +469,7 @@ Crane_AI_1 = {
 	}
 }
 
-Oakheart_AI_1 = {
+Oakheart_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -505,7 +505,7 @@ Oakheart_AI_1 = {
 	}
 }
 
-Hewett_AI_1 = {
+Hewett_AI_Placeholder = {
 	## Held Titles
 
 	## Lore

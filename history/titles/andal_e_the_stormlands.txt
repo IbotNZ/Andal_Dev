@@ -2,19 +2,19 @@ e_the_stormlands = {}
 
 k_the_stormlands = {
 	6535.1.1 = {
-		holder = Durrandon_AI_1
+		holder = Durrandon_AI_Placeholder
 	}
 }
 
 d_shipbreaker_bay = {
 	6535.1.1 = {
-		holder = Durrandon_AI_1
+		holder = Durrandon_AI_Placeholder
 	}
 }
 
 c_storms_end = {
 	6535.1.1 = {
-		holder = Durrandon_AI_1
+		holder = Durrandon_AI_Placeholder
 	}
 }
 
@@ -30,7 +30,7 @@ d_cape_wrath = {}
 
 k_the_stormwood = {
     6535.1.1 = {
-		holder = Temp_Stormlands_AI_1
+		holder = Temp_Stormlands_AI_Placeholder
 	}
 }
 
@@ -68,25 +68,25 @@ d_wendwater_forest = {}
 
 d_masseys_hook = {
 	6535.1.1 = {
-		holder = Massey_AI_1
+		holder = Massey_AI_Placeholder
 	}
 }
 
 c_stonedance = {
 	6535.1.1 = {
-		holder = Massey_AI_1
+		holder = Massey_AI_Placeholder
 	}
 }
 
 d_sharp_point = {
 	6535.1.1 = {
-		holder = Bar_Emmon_AI_1
+		holder = Bar_Emmon_AI_Placeholder
 	}
 }
 
 c_sharp_point = {
 	6535.1.1 = {
-		holder = Bar_Emmon_AI_1
+		holder = Bar_Emmon_AI_Placeholder
 	}
 }
 
@@ -94,13 +94,13 @@ k_storm_isles = {}
 
 d_tarth = {
 	6535.1.1 = {
-		holder = Tarth_AI_1
+		holder = Tarth_AI_Placeholder
 	}
 }
 
 c_evenfall = {
 	6535.1.1 = {
-		holder = Tarth_AI_1
+		holder = Tarth_AI_Placeholder
 	}
 }
 

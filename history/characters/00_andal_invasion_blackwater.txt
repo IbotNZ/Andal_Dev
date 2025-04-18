@@ -1,4 +1,4 @@
-Darklyn_AI_1 = {
+Darklyn_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -34,7 +34,7 @@ Darklyn_AI_1 = {
 	}
 }
 
-Rosby_AI_1 = {
+Rosby_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -70,7 +70,7 @@ Rosby_AI_1 = {
 	}
 }
 
-Hollard_AI_1 = {
+Hollard_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -106,7 +106,7 @@ Hollard_AI_1 = {
 	}
 }
 
-Massey_AI_1 = {
+Massey_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -142,7 +142,7 @@ Massey_AI_1 = {
 	}
 }
 
-Bar_Emmon_AI_1 = {
+Bar_Emmon_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -178,7 +178,7 @@ Bar_Emmon_AI_1 = {
 	}
 }
 
-Crabb_AI_1 = {
+Crabb_AI_Placeholder = {
 	## Held Titles
 
 	## Lore

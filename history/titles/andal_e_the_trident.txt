@@ -13,13 +13,13 @@ d_hayford = {}
 d_rosby = {
 	6535.1.1 = {
 		liege = k_duskendale_2
-		holder = Rosby_AI_1
+		holder = Rosby_AI_Placeholder
 	}
 }
 
 c_rosby = {
 	6535.1.1 = {
-		holder = Rosby_AI_1
+		holder = Rosby_AI_Placeholder
 	}
 }
 
@@ -27,7 +27,7 @@ d_the_blackwater_rush = {}
 
 k_duskendale_2 = {
     6535.1.1 = {
-		holder = Darklyn_AI_1
+		holder = Darklyn_AI_Placeholder
 	}
 }
 
@@ -35,13 +35,13 @@ d_stokeworth = {}
 
 d_duskendale = {
 	6535.1.1 = {
-		holder = Darklyn_AI_1
+		holder = Darklyn_AI_Placeholder
 	}
 }
 
 c_duskendale = {
 	6535.1.1 = {
-		holder = Darklyn_AI_1
+		holder = Darklyn_AI_Placeholder
 	}
 }
 
@@ -61,7 +61,7 @@ d_riverrun = {}
 
 c_riverrun = {
 	6535.1.1 = {
-		holder = Tully_AI_1
+		holder = Tully_AI_Placeholder
 	}
 }
 
@@ -83,49 +83,49 @@ d_crackclaw_point = {}
 
 c_strongcliffs = {
 	6535.1.1 = {
-		holder = Crabb_AI_1
+		holder = Crabb_AI_Placeholder
 	}
 }
 
 k_the_riverlands = {
     6535.1.1 = {
-		holder = Mudd_AI_1
+		holder = Mudd_AI_Placeholder
 	}
 }
 
 d_southstone = {
 	6535.1.1 = {
-		holder = Bracken_AI_1
+		holder = Bracken_AI_Placeholder
 	}
 }
 
 c_stone_hedge = {
 	6535.1.1 = {
-		holder = Bracken_AI_1
+		holder = Bracken_AI_Placeholder
 	}
 }
 
 d_blackwood_vale = {
 	6535.1.1 = {
-		holder = Blackwood_AI_1
+		holder = Blackwood_AI_Placeholder
 	}
 }
 
 c_raventree = {
 	6535.1.1 = {
-		holder = Blackwood_AI_1
+		holder = Blackwood_AI_Placeholder
 	}
 }
 
 d_cape_of_eagles = {
 	6535.1.1 = {
-		holder = Mallister_AI_1
+		holder = Mallister_AI_Placeholder
 	}
 }
 
 c_seagard = {
 	6535.1.1 = {
-		holder = Mallister_AI_1
+		holder = Mallister_AI_Placeholder
 	}
 }
 
@@ -137,13 +137,13 @@ d_willow_wood = {}
 
 d_fairmarket = {
 	6535.1.1 = {
-		holder = Mudd_AI_1
+		holder = Mudd_AI_Placeholder
 	}
 }
 
 c_ramsford = {
 	6535.1.1 = {
-		holder = Mudd_AI_1
+		holder = Mudd_AI_Placeholder
 	}
 }
 

@@ -1,4 +1,4 @@
-Stark_AI_1 = {
+Stark_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -34,7 +34,7 @@ Stark_AI_1 = {
 	}
 }
 
-Bolton_AI_1 = {
+Bolton_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -70,7 +70,7 @@ Bolton_AI_1 = {
 	}
 }
 
-Reed_AI_1 = {
+Reed_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -106,7 +106,7 @@ Reed_AI_1 = {
 	}
 }
 
-Umber_AI_1 = {
+Umber_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -142,7 +142,7 @@ Umber_AI_1 = {
 	}
 }
 
-Glover_AI_1 = {
+Glover_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -178,7 +178,7 @@ Glover_AI_1 = {
 	}
 }
 
-Greenwood_AI_1 = {
+Greenwood_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -214,7 +214,7 @@ Greenwood_AI_1 = {
 	}
 }
 
-Ryder_AI_1 = {
+Ryder_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -250,7 +250,7 @@ Ryder_AI_1 = {
 	}
 }
 
-Fisher_AI_1 = {
+Fisher_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -286,7 +286,7 @@ Fisher_AI_1 = {
 	}
 }
 
-Flint_AI_1 = {
+Flint_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -322,7 +322,7 @@ Flint_AI_1 = {
 	}
 }
 
-Towers_AI_1 = {
+Towers_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -358,7 +358,7 @@ Towers_AI_1 = {
 	}
 }
 
-Amber_AI_1 = {
+Amber_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -394,7 +394,7 @@ Amber_AI_1 = {
 	}
 }
 
-Locke_AI_1 = {
+Locke_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -430,7 +430,7 @@ Locke_AI_1 = {
 	}
 }
 
-Slate_AI_1 = {
+Slate_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -466,7 +466,7 @@ Slate_AI_1 = {
 	}
 }
 
-Warg_King_AI_1 = {
+Warg_King_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -502,7 +502,7 @@ Warg_King_AI_1 = {
 	}
 }
 
-Ryswell_AI_1 = {
+Ryswell_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -538,7 +538,7 @@ Ryswell_AI_1 = {
 	}
 }
 
-Dustin_AI_1 = {
+Dustin_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -574,7 +574,7 @@ Dustin_AI_1 = {
 	}
 }
 
-Frost_AI_1 = {
+Frost_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -610,7 +610,7 @@ Frost_AI_1 = {
 	}
 }
 
-Barrow_King_AI_1 = {
+Barrow_King_AI_Placeholder = {
 	## Held Titles
 
 	## Lore

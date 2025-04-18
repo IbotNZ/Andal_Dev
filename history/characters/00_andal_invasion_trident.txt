@@ -1,4 +1,4 @@
-Mudd_AI_1 = {
+Mudd_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -34,7 +34,7 @@ Mudd_AI_1 = {
 	}
 }
 
-Mallister_AI_1 = {
+Mallister_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -70,7 +70,7 @@ Mallister_AI_1 = {
 	}
 }
 
-Blackwood_AI_1 = {
+Blackwood_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -106,7 +106,7 @@ Blackwood_AI_1 = {
 	}
 }
 
-Bracken_AI_1 = {
+Bracken_AI_Placeholder = {
 	## Held Titles
 
 	## Lore
@@ -142,7 +142,7 @@ Bracken_AI_1 = {
 	}
 }
 
-Tully_AI_1 = {
+Tully_AI_Placeholder = {
 	## Held Titles
 
 	## Lore

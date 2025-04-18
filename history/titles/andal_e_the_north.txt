@@ -1,18 +1,18 @@
 k_winterfell = {
     6535.1.1 = {
-		holder = Stark_AI_1
+		holder = Stark_AI_Placeholder
 	}
 }
 
 d_winterfell = {
 	6535.1.1 = {
-		holder = Stark_AI_1
+		holder = Stark_AI_Placeholder
 	}
 }
 
 c_winterfell = {
 	6535.1.1 = {
-		holder = Stark_AI_1
+		holder = Stark_AI_Placeholder
 	}
 }
 
@@ -24,13 +24,13 @@ d_kings_course = {}
 
 d_the_barrowlands = {
 	6535.1.1 = {
-		holder = Barrow_King_AI_1
+		holder = Barrow_King_AI_Placeholder
 	}
 }
 
 c_barrowton = {
 	6535.1.1 = {
-		holder = Barrow_King_AI_1
+		holder = Barrow_King_AI_Placeholder
 	}
 }
 
@@ -38,31 +38,31 @@ c_barrowton = {
 
 k_dreadfort = {
     6535.1.1 = {
-		holder = Bolton_AI_1
+		holder = Bolton_AI_Placeholder
 	}
 }
 
 d_the_dreadfort = {
 	6535.1.1 = {
-		holder = Bolton_AI_1
+		holder = Bolton_AI_Placeholder
 	}
 }
 
 c_the_dreadfort = {
 	6535.1.1 = {
-		holder = Bolton_AI_1
+		holder = Bolton_AI_Placeholder
 	}
 }
 
 d_last_lands = {
 	6535.1.1 = {
-		holder = Umber_AI_1
+		holder = Umber_AI_Placeholder
 	}
 }
 
 c_last_hearth = {
 	6535.1.1 = {
-		holder = Umber_AI_1
+		holder = Umber_AI_Placeholder
 	}
 }
 
@@ -70,13 +70,13 @@ d_frostfields = {}
 
 d_karhold = {
 	6535.1.1 = {
-		holder = Towers_AI_1
+		holder = Towers_AI_Placeholder
 	}
 }
 
 c_karhold = {
 	6535.1.1 = {
-		holder = Towers_AI_1
+		holder = Towers_AI_Placeholder
 	}
 }
 
@@ -84,13 +84,13 @@ k_wolfswood = {}
 
 d_the_wolfswood = {
 	6535.1.1 = {
-		holder = Glover_AI_1
+		holder = Glover_AI_Placeholder
 	}
 }
 
 c_deepwood = {
 	6535.1.1 = {
-		holder = Glover_AI_1
+		holder = Glover_AI_Placeholder
 	}
 }
 
@@ -106,7 +106,7 @@ k_stony_shore = {}
 
 d_the_rills = {
 	6535.1.1 = {
-		holder = Ryder_AI_1
+		holder = Ryder_AI_Placeholder
 	}
 }
 
@@ -132,25 +132,25 @@ k_crestview = {}
 
 d_keystone = {
 	6535.1.1 = {
-		holder = Locke_AI_1
+		holder = Locke_AI_Placeholder
 	}
 }
 
 c_oldcastle = {
 	6535.1.1 = {
-		holder = Locke_AI_1
+		holder = Locke_AI_Placeholder
 	}
 }
 
 d_everstead = {
 	6535.1.1 = {
-		holder = Amber_AI_1
+		holder = Amber_AI_Placeholder
 	}
 }
 
 c_ramsgate = {
 	6535.1.1 = {
-		holder = Amber_AI_1
+		holder = Amber_AI_Placeholder
 	}
 }
 
@@ -158,13 +158,13 @@ d_hornwood = {}
 
 d_crestview = {
 	6535.1.1 = {
-		holder = Flint_AI_1
+		holder = Flint_AI_Placeholder
 	}
 }
 
 c_widows_watch = {
 	6535.1.1 = {
-		holder = Flint_AI_1
+		holder = Flint_AI_Placeholder
 	}
 }
 

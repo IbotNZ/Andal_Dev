@@ -2,38 +2,38 @@ e_dorne = {}
 
 k_dorne = {
     6535.1.1 = {
-		holder = Holt_AI_1
+		holder = Holt_AI_Placeholder
 	}
 }
 
 d_sunspear = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = Brownhill_AI_1
+		holder = Brownhill_AI_Placeholder
 	}
 }
 
 c_sunspear = {
 	6535.1.1 = {
-		holder = Brownhill_AI_1
+		holder = Brownhill_AI_Placeholder
 	}
 }
 
 c_plankytown = {
 	6535.1.1 = {
-		holder = Brownhill_AI_1
+		holder = Brownhill_AI_Placeholder
 	}
 }
 
 c_husk_flats = {
 	6535.1.1 = {
-		holder = Brook_AI_1
+		holder = Brook_AI_Placeholder
 	}
 }
 
 c_stinkwater = {
 	6535.1.1 = {
-		holder = Brownhill_AI_1
+		holder = Brownhill_AI_Placeholder
 	}
 }
 
@@ -42,23 +42,23 @@ c_stinkwater = {
 d_broken_arm = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = Briar_AI_1
+		holder = Briar_AI_Placeholder
 	}
 }
 
 c_spottswood = {
 	6535.1.1 = {
-		holder = Briar_AI_1
+		holder = Briar_AI_Placeholder
 	}
 }
 c_torchwood = {
 	6535.1.1 = {
-		holder = Briar_AI_1
+		holder = Briar_AI_Placeholder
 	}
 }
 c_rockwell = {
 	6535.1.1 = {
-		holder = Briar_AI_1
+		holder = Briar_AI_Placeholder
 	}
 }
 
@@ -67,25 +67,25 @@ c_rockwell = {
 d_ghost_hills = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = Brook_AI_1
+		holder = Brook_AI_Placeholder
 	}
 }
 
 c_ghost_hills = {
 	6535.1.1 = {
-		holder = Briar_AI_1
+		holder = Briar_AI_Placeholder
 	}
 }
 
 c_nymercairn = {
 	6535.1.1 = {
-		holder = Brook_AI_1
+		holder = Brook_AI_Placeholder
 	}
 }
 
 c_the_faint = {
 	6535.1.1 = {
-		holder = Brook_AI_1
+		holder = Brook_AI_Placeholder
 	}
 }
 
@@ -93,45 +93,45 @@ c_the_faint = {
 
 d_godsgrace = {
 	6535.1.1 = {
-		holder = Allyrion_AI_1
+		holder = Allyrion_AI_Placeholder
 	}
 }
 
 c_godsgrace = {
 	6535.1.1 = {
-		holder = Allyrion_AI_1
+		holder = Allyrion_AI_Placeholder
 	}
 }
 
 c_nerandyn = {
 	6535.1.1 = {
-		holder = Allyrion_AI_1
+		holder = Allyrion_AI_Placeholder
 	}
 }
 
 c_goldpeppers = {
 	6535.1.1 = {
-		holder = Allyrion_AI_1
+		holder = Allyrion_AI_Placeholder
 	}
 }
 
 c_sevensdunes = {
 	6535.1.1 = {
-		holder = Brook_AI_1
+		holder = Brook_AI_Placeholder
 	}
 }
 
 c_orangewood = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = Wade_AI_1
+		holder = Wade_AI_Placeholder
 	}
 }
 
 c_latebloom = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = Wade_AI_1
+		holder = Wade_AI_Placeholder
 	}
 }
 
@@ -144,28 +144,28 @@ d_salt_shore = {
 c_salt_shore = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = Lake_AI_1
+		holder = Lake_AI_Placeholder
 	}
 }
 
 c_brackish = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = Lake_AI_1
+		holder = Lake_AI_Placeholder
 	}
 }
 
 c_white_stones = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = Shell_AI_1
+		holder = Shell_AI_Placeholder
 	}
 }
 
 c_saltstone = {
 	6535.1.1 = {
 		liege = k_dorne
-		holder = Shell_AI_1
+		holder = Shell_AI_Placeholder
 	}
 }
 
@@ -177,13 +177,13 @@ d_lemonwood = {
 
 c_lemonwood = {
 	6535.1.1 = {
-		holder = Holt_AI_1
+		holder = Holt_AI_Placeholder
 	}
 }
 
 c_sweetwater = {
 	6535.1.1 = {
-		holder = Holt_AI_1
+		holder = Holt_AI_Placeholder
 	}
 }
 
@@ -203,13 +203,13 @@ d_the_stoneway = {}
 
 c_blackvein = {
 	6535.1.1 = {
-		holder = Yronwood_AI_1
+		holder = Yronwood_AI_Placeholder
 	}
 }
 
 c_fangside = {
 	6535.1.1 = {
-		holder = Yronwood_AI_1
+		holder = Yronwood_AI_Placeholder
 	}
 }
 
@@ -217,25 +217,25 @@ d_redmarch = {}
 
 d_yronwood = {
 	6535.1.1 = {
-		holder = Yronwood_AI_1
+		holder = Yronwood_AI_Placeholder
 	}
 }
 
 c_yronwood = {
 	6535.1.1 = {
-		holder = Yronwood_AI_1
+		holder = Yronwood_AI_Placeholder
 	}
 }
 
 d_scourgehead = {
 	6535.1.1 = {
-		holder = Temp_Dorne_AI_1
+		holder = Temp_Dorne_AI_Placeholder
 	}
 }
 
 d_the_tor = {
 	6535.1.1 = {
-		holder = Temp_Dorne_AI_1
+		holder = Temp_Dorne_AI_Placeholder
 	}
 }
 
@@ -243,25 +243,25 @@ k_the_dunes = {}
 
 d_sandstone = {
 	6535.1.1 = {
-		holder = Temp_Dorne_AI_1
+		holder = Temp_Dorne_AI_Placeholder
 	}
 }
 
 d_oldwell = {
 	6535.1.1 = {
-		holder = Temp_Dorne_AI_1
+		holder = Temp_Dorne_AI_Placeholder
 	}
 }
 
 d_brimstone = {
 	6535.1.1 = {
-		holder = Temp_Dorne_AI_1
+		holder = Temp_Dorne_AI_Placeholder
 	}
 }
 
 d_red_dunes = {
 	6535.1.1 = {
-		holder = Temp_Dorne_AI_1
+		holder = Temp_Dorne_AI_Placeholder
 	}
 }
 
@@ -269,25 +269,25 @@ k_starfall = {}
 
 d_torrentine = {
 	6535.1.1 = {
-		holder = Dayne_AI_1
+		holder = Dayne_AI_Placeholder
 	}
 }
 
 c_starfall = {
 	6535.1.1 = {
-		holder = Dayne_AI_1
+		holder = Dayne_AI_Placeholder
 	}
 }
 
 d_blackmont = {
 	6535.1.1 = {
-		holder = Blackmont_AI_1
+		holder = Blackmont_AI_Placeholder
 	}
 }
 
 c_westroost = {
 	6535.1.1 = {
-		holder = Blackmont_AI_1
+		holder = Blackmont_AI_Placeholder
 	}
 }
 
@@ -297,49 +297,49 @@ d_the_princes_pass = {
 
 c_skyreach = {
 	6535.1.1 = {
-		holder = Fowler_AI_1
+		holder = Fowler_AI_Placeholder
 	}
 }
 
 c_cadgemont = {
 	6535.1.1 = {
-		holder = Fowler_AI_1
+		holder = Fowler_AI_Placeholder
 	}
 }
 
 c_princemarch = {
 	6535.1.1 = {
-		holder = Manwoody_AI_1
+		holder = Manwoody_AI_Placeholder
 	}
 }
 
 c_wide_way = {
 	6535.1.1 = {
-		holder = Manwoody_AI_1
+		holder = Manwoody_AI_Placeholder
 	}
 }
 
 c_barbmane = {
 	6535.1.1 = {
-		holder = Qorgyle_AI_1
+		holder = Qorgyle_AI_Placeholder
 	}
 }
 
 c_sandhorn = {
 	6535.1.1 = {
-		holder = Qorgyle_AI_1
+		holder = Qorgyle_AI_Placeholder
 	}
 }
 
 c_brimstone = {
 	6535.1.1 = {
-		holder = Dryland_AI_1
+		holder = Dryland_AI_Placeholder
 	}
 }
 
 c_jackalrun = {
 	6535.1.1 = {
-		holder = Dryland_AI_1
+		holder = Dryland_AI_Placeholder
 	}
 }
 
