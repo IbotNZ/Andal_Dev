@@ -36,7 +36,355 @@ Hugor_of_the_Hill_1 = {
 	6000.1.1 = { birth = yes }
 	6343.1.1 = { death = yes } # 7 x 7 X 7
 }
+### issue of Hugor
+Hugor_of_the_Hill_2 = {
+	name = Addam # the first son of Hugor of the Hill
+	#dynasty = dynn_of_the_hill
 
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_1 # Hugor of the Hill
+
+	trait = septon # first septon
+
+	6050.1.1 = { birth = yes }
+	6099.1.1 = { death = { death_reason = death_battle } } # placeholder
+}
+Hugor_of_the_Hill_3 = {
+	name = Lucinda # the first daughter of Hugor of the Hill
+	#dynasty = dynn_of_the_hill
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_1 # Hugor of the Hill
+
+	6052.1.1 = { birth = yes }
+	6101.1.1 = { death = { death_reason = death_battle } } # placeholder
+}
+Hugor_of_the_Hill_4 = {
+	name = Mathos # the second son of Hugor of the Hill
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_1 # Hugor of the Hill
+
+	6054.1.1 = { birth = yes }
+	6103.1.1 = { death = { death_reason = death_battle } } # placeholder
+}
+Hugor_of_the_Hill_5 = {
+	name = Ceryse # the second daughter of Hugor of the Hill
+	#dynasty = dynn_of_the_hill
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_1 # Hugor of the Hill
+
+	6056.1.1 = { birth = yes }
+	6105.1.1 = { death = { death_reason = death_battle } } # placeholder
+}
+Hugor_of_the_Hill_6 = {
+	name = Luceon # the third son of Hugor of the Hill
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_1 # Hugor of the Hill
+
+	6058.1.1 = { birth = yes }
+	6107.1.1 = { death = { death_reason = death_battle } } # placeholder
+}
+Hugor_of_the_Hill_7 = {
+	name = Maryam # the third daughter of Hugor of the Hill
+	#dynasty = dynn_of_the_hill
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_1 # Hugor of the Hill
+
+	6060.1.1 = { birth = yes }
+	6109.1.1 = { death = { death_reason = death_battle } } # placeholder
+}
+Hugor_of_the_Hill_8 = {
+	name = Gwayne # the fourth son of Hugor of the Hill
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_1 # Hugor of the Hill
+
+	6062.1.1 = { birth = yes }
+	6111.1.1 = { death = { death_reason = death_battle } } # placeholder
+}
+Hugor_of_the_Hill_9 = {
+	name = Patrice # the fourth daughter of Hugor of the Hill
+	#dynasty = dynn_of_the_hill
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_1 # Hugor of the Hill
+
+	6064.1.1 = { birth = yes }
+	6113.1.1 = { death = { death_reason = death_battle } } # placeholder
+}
+Hugor_of_the_Hill_10 = {
+	name = Eustace # the fifth son of Hugor of the Hill
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_1 # Hugor of the Hill
+
+	6066.1.1 = { birth = yes }
+	6115.1.1 = { death = { death_reason = death_battle } } # placeholder
+}
+Hugor_of_the_Hill_11 = {
+	name = Alicent # the fifth daughter of Hugor of the Hill
+	#dynasty = dynn_of_the_hill
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_1 # Hugor of the Hill
+
+	6068.1.1 = { birth = yes }
+	6117.1.1 = { death = { death_reason = death_battle } } # placeholder
+}
+Hugor_of_the_Hill_12 = {
+	name = Gerold # the sixth son of Hugor of the Hill, supposedly ancestor of the Grafton
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_1 # Hugor of the Hill
+
+	6070.1.1 = { birth = yes }
+	6119.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_13 = {
+	name = Edyth # the first daughter of Hugor of the Hill
+	#dynasty = dynn_of_the_hill
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_1 # Hugor of the Hill
+
+	6072.1.1 = { birth = yes }
+	6121.1.1 = { death = { death_reason = death_battle } } # placeholder
+}
+Hugor_of_the_Hill_14 = {
+	name = Hugor # the seventh son of Hugor of the Hill
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_1 # Hugor of the Hill
+
+	6074.1.1 = { birth = yes }
+	6123.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_15 = {
+	name = Ysabel # the first daughter of Hugor of the Hill
+	#dynasty = dynn_of_the_hill
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_1 # Hugor of the Hill
+
+	6076.1.1 = { birth = yes }
+	6125.1.1 = { death = { death_reason = death_battle } } # placeholder
+}
+
+### issue of Gerold
+Hugor_of_the_Hill_30 = {
+	name = Hugor
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_12 # Gerold of the Hill
+
+	6100.1.1 = { birth = yes }
+	6149.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_31 = {
+	name = Gerold
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_30 # Hugor of the Hill
+
+	6131.1.1 = { birth = yes }
+	6205.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_32 = {
+	name = Martyn
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_30 # Hugor of the Hill
+
+	6133.1.1 = { birth = yes }
+	6195.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_33 = {
+	name = Jaime
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_30 # Hugor of the Hill
+
+	6137.1.1 = { birth = yes }
+	6220.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_34 = {
+	name = Hugor
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_33 # Jaime of the Hill
+
+	6178.1.1 = { birth = yes }
+	6260.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_35 = {
+	name = Gerold
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_34 # Hugor of the Hill (descendant)
+
+	6210.1.1 = { birth = yes }
+	6270.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_36 = {
+	name = Hugh
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_35 # Gerold of the Hill
+
+	6245.1.1 = { birth = yes }
+	6300.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_37 = {
+	name = Martyn
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_36 # Hugh of the Hill
+
+	6280.1.1 = { birth = yes }
+	6330.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_38 = {
+	name = Luceon
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_37 # Martyn of the Hill
+
+	6315.1.1 = { birth = yes }
+	6360.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_39 = {
+	name = Hugor
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_38 # Luceon of the Hill
+
+	6350.1.1 = { birth = yes }
+	6402.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_40 = {
+	name = Lucian
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_38 # Luceon of the Hill
+
+	6355.1.1 = { birth = yes }
+	6389.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_41 = {
+	name = Jaime
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_38 # Luceon of the Hill
+
+	6361.1.1 = { birth = yes }
+	6403.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_42 = {
+	name = Martyn
+	#dynasty = dynn_of_the_hill
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_38 # Hugh of the Hill
+
+	6366.1.1 = { birth = yes }
+	6395.1.1 = { death = { death_reason = death_battle } }
+}
+Hugor_of_the_Hill_43 = {
+	name = Lucianna # wife of a distant ancestor of House Grafton
+	#dynasty = dynn_of_the_hill
+	female = yes
+
+	religion = the_seven_main
+	culture = andal
+
+	father = Hugor_of_the_Hill_42 # Martyn of the Hill
+
+	6390.1.1 = { birth = yes }
+	6439.1.1 = { death = yes }
+}
 
 
 Argos_Sevenstar_1 = {
