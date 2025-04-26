@@ -2077,13 +2077,347 @@ Royce_AI_90 = {
 ############################
 ###
 ###
+Grafton_AI_1 = {
+	name = Gerold
+	dynasty = dynn_Grafton
+
+	religion = fots_stars
+	culture = andal
+
+	6380.1.1 = { birth = yes }
+	6400.1.1 = { trait = knight }
+	6407.1.1 = { add_spouse = Hugor_of_the_Hill_43 } # Lucianna supposedly a distant ancestor of Hugor of the Hill
+	6434.1.1 = { death = yes }
+}
+### issue of Gerold (Grafton_AI_1)
+Grafton_AI_2 = {
+	name = Martyn
+	dynasty = dynn_Grafton
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_1
+	mother = Hugor_of_the_Hill_43
+
+	6408.1.1 = { birth = yes }
+	6429.1.1 = { trait = knight }
+	6459.1.1 = { death = yes }
+}
+Grafton_AI_3 = {
+	name = Ysabel
+	dynasty = dynn_Grafton
+	female = yes
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_1
+	mother = Hugor_of_the_Hill_43
+
+	6410.1.1 = { birth = yes }
+	6465.1.1 = { death = yes }
+}
+Grafton_AI_4 = {
+	name = Alerie
+	dynasty = dynn_Grafton
+	female = yes
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_1
+	mother = Hugor_of_the_Hill_43
+
+	6412.1.1 = { birth = yes }
+	6440.1.1 = { death = yes }
+}
+Grafton_AI_5 = {
+	name = Godry
+	dynasty = dynn_Grafton
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_1
+	mother = Hugor_of_the_Hill_43
+
+	6415.1.1 = { birth = yes }
+	6434.1.1 = { trait = septon }
+	6453.1.1 = { death = yes }
+}
+Grafton_AI_5 = {
+	name = Hugor
+	dynasty = dynn_Grafton
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_1
+	mother = Hugor_of_the_Hill_43
+
+	6417.1.1 = { birth = yes }
+	6435.1.1 = { trait = septon }
+	6485.1.1 = { death = yes }
+}
+### issue of Martyn (Grafton_AI_2)
+Grafton_AI_6 = {
+	name = Jeremy
+	dynasty = dynn_Grafton
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_2
+
+	6429.1.1 = { birth = yes }
+	6447.1.1 = { trait = knight }
+	6463.1.1 = { death = yes }
+}
+Grafton_AI_7 = {
+	name = Martyn
+	dynasty = dynn_Grafton
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_2
+
+	6433.1.1 = { birth = yes }
+	6451.1.1 = { trait = knight }
+	6485.1.1 = { death = yes }
+}
+Grafton_AI_8 = {
+	name = Eglantine
+	dynasty = dynn_Grafton
+	female = yes
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_2
+
+	6437.1.1 = { birth = yes }
+	6481.1.1 = { death = yes }
+}
+Grafton_AI_7 = {
+	name = Alester
+	dynasty = dynn_Grafton
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_2
+
+	6439.1.1 = { birth = yes }
+	6457.1.1 = { trait = septon }
+	6490.1.1 = { death = yes }
+}
+Grafton_AI_9 = {
+	name = Mariah
+	dynasty = dynn_Grafton
+	female = yes
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_2
+
+	6442.1.1 = { birth = yes }
+	6458.1.1 = [ trait = septon } # septa
+	6500.1.1 = { death = yes }
+}
+### issue of Jeremy (Grafton_AI_6)
+#Grafton_9 = {
+#	name = Gerold # Canon, a lord, Andal Warlord
+#	dynasty = dynn_Grafton
+
+#	martial = 7
+#	stewardship = 6
+#	intrigue = 8
+#	diplomacy = 8
+#	learning = 5
+#	prowess = 12
+
+#	religion = fots_stars
+#	culture = andal
+
+#	trait = education_stewardship_3
+#	trait = intellect_good_2
+#	trait = callous
+#	trait = ambitious
+#	trait = deceitful
+#	trait = diligent
+#	trait = bossy
+
+#	disallow_random_traits = yes
+
+#	6445.1.1 = {
+#		birth = yes
+#		add_character_flag = has_scripted_appearance
+#		add_character_flag = canon_status_canon
+#	}
+#	6461.1.1 = { trait = knight }
+#	6463.1.1 = { add_spouse = Grafton_rs_9 }
+	#6480.1.1 Gerold Grafton usurps the Shett (in the files but doesn't seem to work, probably after the mariage with Marsella)
+#	6485.1.1 = { add_spouse = Shett_11 } # Marsella Shett
+#	6506.1.1 = { death = yes }
+#}
+#Grafton_rs_9 = {
+#	name = Tyrene
+#	female = yes
+
+#	religion = fots_stars
+#	culture = andal
+
+#	6444.1.1 = { birth = yes }
+#	6480.1.1 = { death = yes }
+#}
+Grafton_AI_10 = {
+	name = Margaery
+	dynasty = dynn_Grafton
+	female = yes
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_6
+
+	6448.1.1 = { birth = yes }
+	6497.1.1 = { death = yes }
+}
+Grafton_AI_11 = {
+	name = Corrine
+	dynasty = dynn_Grafton
+	female = yes
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_6
+
+	6450.1.1 = { birth = yes }
+	6486.1.1 = { death = yes }
+}
+Grafton_AI_12 = {
+	name = Gwayne
+	dynasty = dynn_Grafton
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_6
+
+	6455.1.1 = { birth = yes }
+	6473.1.1 = { trait = knight }
+	6501.1.1 = { death = yes }
+}
+### issue of Martyn (uncle of Gerold, Grafton_AI_7)
+Grafton_AI_13 = {
+	name = Hugor
+	dynasty = dynn_Grafton
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_7
+
+	6453.1.1 = { birth = yes }
+	6474.1.1 = { trait = knight }
+	6498.1.1 = { death = yes }
+}
+Grafton_AI_14 = {
+	name = Martyn
+	dynasty = dynn_Grafton
+
+	religion = fots_stars
+	culture = andal
+
+	father = Grafton_AI_7
+
+	6457.1.1 = { birth = yes }
+	6477.1.1 = { trait = knight }
+	6511.1.1 = { death = yes }
+}
+
+
+### issue of Gerold (Grafton_9)
+#Grafton_10 = {
+#	name = Alerie # Mentioned, married Osgood III Shett
+#	dynasty = dynn_Grafton
+#	female = yes
+
+#	religion = fots_stars
+#	culture = andal
+
+#	father = Grafton_9
+#	mother = Grafton_rs_9
+
+#	6464.1.1 = {
+#		birth = yes
+#		add_character_flag = canon_status_mentioned
+#	}
+#	6523.1.1 = { death = yes }
+#}
+#Grafton_11 = {
+#	name = Ysilla # Mentioned, married Osgood Shett
+#	dynasty = dynn_Grafton
+#	female = yes
+
+#	religion = fots_stars
+#	culture = andal
+
+#	father = Grafton_9
+#	mother = Grafton_rs_9
+
+#	6466.1.1 = {
+#		birth = yes
+#		add_character_flag = canon_status_mentioned
+#	}
+#	6516.1.1 = { death = yes }
+#}
+#Grafton_12 = {
+#	name = Gerold # a lord
+#	dynasty = dynn_Grafton
+
+#	religion = fots_stars
+#	culture = andal
+
+#	trait = callous
+#	trait = intellect_good_1
+
+#	father = Grafton_9
+#	mother = Shett_11
+
+#	6487.1.1 = { birth = yes }
+#	6536.1.1 = { death = yes }
+#}
+#Grafton_13 = {
+#	name = Line_of_Gerold
+#	dynasty = dynn_Grafton
+
+#	religion = fots_stars
+#	culture = valeman
+
+#	father = Grafton_12
+
+#	trait = line_of_char
+#	disallow_random_traits = yes
+
+#	6536.1.1 = { birth = yes }
+#	7820.1.1 = { death = yes }
+#}
+
+
+
+
 
 Grafton_AI_Placeholder = {
 	name = Yorwell
 	dynasty = dynn_Grafton
 
-	religion = old_gods_mnv
-	culture = first_man
+	religion = fots_stars
+	culture = andal
 
 	#father = Royce_16 # Yorwyck
 
